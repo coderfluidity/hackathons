@@ -13,7 +13,7 @@ jobs:
       uses: actions/checkout@v2
     - name: Fetch latest data
       run: |-
-        curl https://devpost.com/api/hackathons?challenge_type[]=in-person&page=2&status[]=upcoming&status[]=open | jq . > hackathons.json
+        curl 'https://devpost.com/api/hackathons?challenge_type[]=in-person&per_page=50&status[]=upcoming&status[]=open' | jq . > hackathons.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
