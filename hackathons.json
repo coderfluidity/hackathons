@@ -30,37 +30,33 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 14741,
-      "title": "Tartanhacks 2022",
+      "id": 14721,
+      "title": "Phantom SLC Hackathon",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Carnegie Mellon University CUC"
+        "location": "Park City, UT, USA"
       },
       "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/819/066/datas/medium.png",
-      "analytics_identifier": "Tartanhacks 2022 (14741)",
-      "url": "https://tartanhacks-2022.devpost.com/",
-      "time_left_to_submission": "about 4 hours left",
-      "submission_period_dates": "Feb 04 - 06, 2022",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/817/946/datas/medium.png",
+      "analytics_identifier": "Phantom SLC Hackathon (14721)",
+      "url": "https://phantom.devpost.com/",
+      "time_left_to_submission": "4 days left",
+      "submission_period_dates": "Feb 07 - 11, 2022",
       "themes": [
         {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
+          "id": 1,
+          "name": "Blockchain"
         }
       ],
-      "prize_amount": "$<span data-currency-value>16,110</span>",
-      "registrations_count": 34,
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 3,
       "featured": false,
-      "organization_name": "ScottyLabs",
+      "organization_name": "phantom",
       "winners_announced": false,
-      "submission_gallery_url": "https://tartanhacks-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://tartanhacks-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
+      "submission_gallery_url": "https://phantom.devpost.com/project-gallery",
+      "start_a_submission_url": "https://phantom.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Phantom employees"
     },
     {
       "id": 14209,
@@ -100,43 +96,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 14355,
-      "title": "HooHacks 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "University of Virginia School Grounds"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/783/069/datas/medium.png",
-      "analytics_identifier": "HooHacks 2022 (14355)",
-      "url": "https://hoohacks-2022.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 26 - 27, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 27,
-      "featured": false,
-      "organization_name": "HooHacks",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hoohacks-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hoohacks-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 13608,
       "title": "Cue Sheet Palooza Music Hackathon - Toronto, Canada",
       "displayed_location": {
@@ -170,6 +129,43 @@
       "winners_announced": false,
       "submission_gallery_url": "https://cue-sheet-palooza.devpost.com/project-gallery",
       "start_a_submission_url": "https://cue-sheet-palooza.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14355,
+      "title": "HooHacks 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "University of Virginia School Grounds"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/783/069/datas/medium.png",
+      "analytics_identifier": "HooHacks 2022 (14355)",
+      "url": "https://hoohacks-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Mar 26 - 27, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>10,000</span>",
+      "registrations_count": 26,
+      "featured": false,
+      "organization_name": "HooHacks",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hoohacks-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hoohacks-2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -277,6 +273,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 14693,
+      "title": "Hacklytics 2022: Connecting Communities",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Atlanta, GA, USA"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/810/038/datas/medium.jpg",
+      "analytics_identifier": "Hacklytics 2022: Connecting Communities (14693)",
+      "url": "https://hacklytics-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Feb 18 - 20, 2022",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>10,000</span>",
+      "registrations_count": 8,
+      "featured": false,
+      "organization_name": "Data Science @ Georgia Tech",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hacklytics-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hacklytics-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 14470,
       "title": "VCLIC Mental Health Hackathon",
       "displayed_location": {
@@ -314,39 +347,35 @@
       "eligibility_requirement_invite_only_description": "VU or VUMC Students and Employees"
     },
     {
-      "id": 14693,
-      "title": "Hacklytics 2022: Connecting Communities",
+      "id": 14715,
+      "title": "Quackathon 2022",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Atlanta, GA, USA"
+        "location": "Germantown Friends School"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/810/038/datas/medium.jpg",
-      "analytics_identifier": "Hacklytics 2022: Connecting Communities (14693)",
-      "url": "https://hacklytics-2022.devpost.com/",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/819/649/datas/medium.png",
+      "analytics_identifier": "Quackathon 2022 (14715)",
+      "url": "https://quackathon-2022.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Feb 18 - 20, 2022",
+      "submission_period_dates": "Mar 05, 2022",
       "themes": [
         {
-          "id": 6,
-          "name": "Machine Learning/AI"
+          "id": 23,
+          "name": "Beginner Friendly"
         },
         {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
+          "id": 16,
+          "name": "Health"
         }
       ],
-      "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 6,
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 4,
       "featured": false,
-      "organization_name": "Data Science @ Georgia Tech",
+      "organization_name": "Germantown Friends School",
       "winners_announced": false,
-      "submission_gallery_url": "https://hacklytics-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hacklytics-2022.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://quackathon-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://quackathon-2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -386,35 +415,6 @@
       "start_a_submission_url": "https://foxacmw.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "George Fox students only"
-    },
-    {
-      "id": 14721,
-      "title": "Phantom SLC Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Park City, UT, USA"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/817/946/datas/medium.png",
-      "analytics_identifier": "Phantom SLC Hackathon (14721)",
-      "url": "https://phantom.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Feb 07 - 11, 2022",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 2,
-      "featured": false,
-      "organization_name": "phantom",
-      "winners_announced": false,
-      "submission_gallery_url": "https://phantom.devpost.com/project-gallery",
-      "start_a_submission_url": "https://phantom.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Phantom employees"
     },
     {
       "id": 14654,
