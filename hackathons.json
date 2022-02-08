@@ -40,7 +40,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/817/946/datas/medium.png",
       "analytics_identifier": "Phantom SLC Hackathon (14721)",
       "url": "https://phantom.devpost.com/",
-      "time_left_to_submission": "4 days left",
+      "time_left_to_submission": "3 days left",
       "submission_period_dates": "Feb 07 - 11, 2022",
       "themes": [
         {
@@ -49,7 +49,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 3,
+      "registrations_count": 8,
       "featured": false,
       "organization_name": "phantom",
       "winners_announced": false,
@@ -86,12 +86,49 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>7,500</span>",
-      "registrations_count": 33,
+      "registrations_count": 34,
       "featured": false,
       "organization_name": "XHACK Innovation & Technology Group",
       "winners_announced": false,
       "submission_gallery_url": "https://theaterhackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://theaterhackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14355,
+      "title": "HooHacks 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "University of Virginia School Grounds"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/783/069/datas/medium.png",
+      "analytics_identifier": "HooHacks 2022 (14355)",
+      "url": "https://hoohacks-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Mar 26 - 27, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>10,000</span>",
+      "registrations_count": 28,
+      "featured": false,
+      "organization_name": "HooHacks",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hoohacks-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hoohacks-2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -133,80 +170,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 14355,
-      "title": "HooHacks 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "University of Virginia School Grounds"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/783/069/datas/medium.png",
-      "analytics_identifier": "HooHacks 2022 (14355)",
-      "url": "https://hoohacks-2022.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 26 - 27, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 26,
-      "featured": false,
-      "organization_name": "HooHacks",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hoohacks-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hoohacks-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 14317,
-      "title": "Philly Codefest 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Drexel University CCI"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "Philly Codefest 2022 (14317)",
-      "url": "https://philly-codefest-2022.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 04 - 09, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 10,
-      "featured": false,
-      "organization_name": "Drexel University CCI",
-      "winners_announced": false,
-      "submission_gallery_url": "https://philly-codefest-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://philly-codefest-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 14583,
       "title": "CuseHacks 2022",
       "displayed_location": {
@@ -240,6 +203,43 @@
       "winners_announced": false,
       "submission_gallery_url": "https://cusehacks-2022.devpost.com/project-gallery",
       "start_a_submission_url": "https://cusehacks-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14317,
+      "title": "Philly Codefest 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Drexel University CCI"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "Philly Codefest 2022 (14317)",
+      "url": "https://philly-codefest-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 04 - 09, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 9,
+      "featured": false,
+      "organization_name": "Drexel University CCI",
+      "winners_announced": false,
+      "submission_gallery_url": "https://philly-codefest-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://philly-codefest-2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -417,6 +417,35 @@
       "eligibility_requirement_invite_only_description": "George Fox students only"
     },
     {
+      "id": 14772,
+      "title": "Hatathon by UW UPL",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "University of Wisconsin - CS Room 1240"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "Hatathon by UW UPL (14772)",
+      "url": "https://hatathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Feb 11 - 12, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 2,
+      "featured": false,
+      "organization_name": "UW UPL",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hatathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hatathon.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Registered for Event, UW Madison Students"
+    },
+    {
       "id": 14654,
       "title": "WiCHacks 2022 ",
       "displayed_location": {
@@ -521,7 +550,7 @@
     }
   ],
   "meta": {
-    "total_count": 15,
+    "total_count": 16,
     "per_page": 40,
     "fuzzy": false
   }
