@@ -20,7 +20,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 63,
+      "registrations_count": 67,
       "featured": false,
       "organization_name": "university of pennsylvania",
       "winners_announced": false,
@@ -40,7 +40,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/817/946/datas/medium.png",
       "analytics_identifier": "Phantom SLC Hackathon (14721)",
       "url": "https://phantom.devpost.com/",
-      "time_left_to_submission": "3 days left",
+      "time_left_to_submission": "2 days left",
       "submission_period_dates": "Feb 07 - 11, 2022",
       "themes": [
         {
@@ -49,7 +49,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 8,
+      "registrations_count": 9,
       "featured": false,
       "organization_name": "phantom",
       "winners_announced": false,
@@ -86,7 +86,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>7,500</span>",
-      "registrations_count": 34,
+      "registrations_count": 35,
       "featured": false,
       "organization_name": "XHACK Innovation & Technology Group",
       "winners_announced": false,
@@ -123,7 +123,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 28,
+      "registrations_count": 31,
       "featured": false,
       "organization_name": "HooHacks",
       "winners_announced": false,
@@ -160,12 +160,41 @@
         }
       ],
       "prize_amount": "$CAD<span data-currency-value>9,000</span>",
-      "registrations_count": 27,
+      "registrations_count": 29,
       "featured": false,
       "organization_name": "Screen Composers Guild of Canada & SOCAN",
       "winners_announced": false,
       "submission_gallery_url": "https://cue-sheet-palooza.devpost.com/project-gallery",
       "start_a_submission_url": "https://cue-sheet-palooza.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14114,
+      "title": "Cathacks VIII",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "University of Kentucky - Grehan Building"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/793/459/datas/medium.png",
+      "analytics_identifier": "Cathacks VIII (14114)",
+      "url": "https://uky-cathacks-viii.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 08 - 10, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1,650</span>",
+      "registrations_count": 10,
+      "featured": false,
+      "organization_name": "University of Kentucky",
+      "winners_announced": false,
+      "submission_gallery_url": "https://uky-cathacks-viii.devpost.com/project-gallery",
+      "start_a_submission_url": "https://uky-cathacks-viii.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -244,35 +273,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 14114,
-      "title": "Cathacks VIII",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "University of Kentucky - Grehan Building"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/793/459/datas/medium.png",
-      "analytics_identifier": "Cathacks VIII (14114)",
-      "url": "https://uky-cathacks-viii.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 08 - 10, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>1,650</span>",
-      "registrations_count": 9,
-      "featured": false,
-      "organization_name": "University of Kentucky",
-      "winners_announced": false,
-      "submission_gallery_url": "https://uky-cathacks-viii.devpost.com/project-gallery",
-      "start_a_submission_url": "https://uky-cathacks-viii.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 14693,
       "title": "Hacklytics 2022: Connecting Communities",
       "displayed_location": {
@@ -347,6 +347,72 @@
       "eligibility_requirement_invite_only_description": "VU or VUMC Students and Employees"
     },
     {
+      "id": 14772,
+      "title": "Hatathon by UW UPL",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "University of Wisconsin - CS Room 1240"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/828/237/datas/medium.png",
+      "analytics_identifier": "Hatathon by UW UPL (14772)",
+      "url": "https://hatathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Feb 11 - 12, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 5,
+      "featured": false,
+      "organization_name": "UW UPL",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hatathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hatathon.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Registered for Event, UW Madison Students"
+    },
+    {
+      "id": 14773,
+      "title": "MHS Hackathon 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Linn Hall - Miss Hall's School"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/828/045/datas/medium.png",
+      "analytics_identifier": "MHS Hackathon 2022 (14773)",
+      "url": "https://mhs-hackathon-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Feb 18 - 21, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>500</span>",
+      "registrations_count": 5,
+      "featured": false,
+      "organization_name": "Miss Hall's School Crypted001 Club",
+      "winners_announced": false,
+      "submission_gallery_url": "https://mhs-hackathon-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://mhs-hackathon-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Miss Hall's School students "
+    },
+    {
       "id": 14715,
       "title": "Quackathon 2022",
       "displayed_location": {
@@ -415,35 +481,6 @@
       "start_a_submission_url": "https://foxacmw.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "George Fox students only"
-    },
-    {
-      "id": 14772,
-      "title": "Hatathon by UW UPL",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "University of Wisconsin - CS Room 1240"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "Hatathon by UW UPL (14772)",
-      "url": "https://hatathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Feb 11 - 12, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 2,
-      "featured": false,
-      "organization_name": "UW UPL",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hatathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hatathon.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Registered for Event, UW Madison Students"
     },
     {
       "id": 14654,
@@ -550,7 +587,7 @@
     }
   ],
   "meta": {
-    "total_count": 16,
+    "total_count": 17,
     "per_page": 40,
     "fuzzy": false
   }
