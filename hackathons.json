@@ -40,7 +40,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/817/946/datas/medium.png",
       "analytics_identifier": "Phantom SLC Hackathon (14721)",
       "url": "https://phantom.devpost.com/",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "1 day left",
       "submission_period_dates": "Feb 07 - 11, 2022",
       "themes": [
         {
@@ -160,12 +160,49 @@
         }
       ],
       "prize_amount": "$CAD<span data-currency-value>9,000</span>",
-      "registrations_count": 29,
+      "registrations_count": 30,
       "featured": false,
       "organization_name": "Screen Composers Guild of Canada & SOCAN",
       "winners_announced": false,
       "submission_gallery_url": "https://cue-sheet-palooza.devpost.com/project-gallery",
       "start_a_submission_url": "https://cue-sheet-palooza.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14583,
+      "title": "CuseHacks 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Syracuse University"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/793/576/datas/medium.png",
+      "analytics_identifier": "CuseHacks 2022 (14583)",
+      "url": "https://cusehacks-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Feb 19 - 20, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 15,
+      "featured": false,
+      "organization_name": "Innovate Orange",
+      "winners_announced": false,
+      "submission_gallery_url": "https://cusehacks-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://cusehacks-2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -199,39 +236,39 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 14583,
-      "title": "CuseHacks 2022",
+      "id": 14693,
+      "title": "Hacklytics 2022: Connecting Communities",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Syracuse University"
+        "location": "Atlanta, GA, USA"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/793/576/datas/medium.png",
-      "analytics_identifier": "CuseHacks 2022 (14583)",
-      "url": "https://cusehacks-2022.devpost.com/",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/810/038/datas/medium.jpg",
+      "analytics_identifier": "Hacklytics 2022: Connecting Communities (14693)",
+      "url": "https://hacklytics-2022.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Feb 19 - 20, 2022",
+      "submission_period_dates": "Feb 18 - 20, 2022",
       "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
         {
           "id": 6,
           "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
         },
         {
           "id": 13,
           "name": "Social Good"
         }
       ],
-      "prize_amount": "$<span data-currency-value>0</span>",
+      "prize_amount": "$<span data-currency-value>10,000</span>",
       "registrations_count": 9,
       "featured": false,
-      "organization_name": "Innovate Orange",
+      "organization_name": "Data Science @ Georgia Tech",
       "winners_announced": false,
-      "submission_gallery_url": "https://cusehacks-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://cusehacks-2022.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://hacklytics-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hacklytics-2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -273,41 +310,33 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 14693,
-      "title": "Hacklytics 2022: Connecting Communities",
+      "id": 14772,
+      "title": "Hatathon by UW UPL",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Atlanta, GA, USA"
+        "location": "University of Wisconsin - CS Room 1240"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/810/038/datas/medium.jpg",
-      "analytics_identifier": "Hacklytics 2022: Connecting Communities (14693)",
-      "url": "https://hacklytics-2022.devpost.com/",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/828/237/datas/medium.png",
+      "analytics_identifier": "Hatathon by UW UPL (14772)",
+      "url": "https://hatathon.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Feb 18 - 20, 2022",
+      "submission_period_dates": "Feb 11 - 12, 2022",
       "themes": [
         {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
+          "id": 23,
+          "name": "Beginner Friendly"
         }
       ],
-      "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 8,
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 7,
       "featured": false,
-      "organization_name": "Data Science @ Georgia Tech",
+      "organization_name": "UW UPL",
       "winners_announced": false,
-      "submission_gallery_url": "https://hacklytics-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hacklytics-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
+      "submission_gallery_url": "https://hatathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hatathon.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Registered for Event, UW Madison Students"
     },
     {
       "id": 14470,
@@ -345,35 +374,6 @@
       "start_a_submission_url": "https://vclic-mental-health-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "VU or VUMC Students and Employees"
-    },
-    {
-      "id": 14772,
-      "title": "Hatathon by UW UPL",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "University of Wisconsin - CS Room 1240"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/828/237/datas/medium.png",
-      "analytics_identifier": "Hatathon by UW UPL (14772)",
-      "url": "https://hatathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Feb 11 - 12, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 5,
-      "featured": false,
-      "organization_name": "UW UPL",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hatathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hatathon.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Registered for Event, UW Madison Students"
     },
     {
       "id": 14773,
@@ -436,7 +436,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 4,
+      "registrations_count": 5,
       "featured": false,
       "organization_name": "Germantown Friends School",
       "winners_announced": false,
@@ -538,7 +538,7 @@
           "name": "Open Ended"
         }
       ],
-      "prize_amount": "$<span data-currency-value>1,200</span>",
+      "prize_amount": "$<span data-currency-value>5,625</span>",
       "registrations_count": 1,
       "featured": false,
       "organization_name": "Saint Francis High School",
