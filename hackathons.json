@@ -30,6 +30,35 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 14772,
+      "title": "Hatathon by UW UPL",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "University of Wisconsin - CS Room 1240"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/828/237/datas/medium.png",
+      "analytics_identifier": "Hatathon by UW UPL (14772)",
+      "url": "https://hatathon.devpost.com/",
+      "time_left_to_submission": "about 1 hour left",
+      "submission_period_dates": "Feb 11 - 12, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 23,
+      "featured": false,
+      "organization_name": "UW UPL",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hatathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hatathon.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Registered for Event, UW Madison Students"
+    },
+    {
       "id": 14781,
       "title": "CTE Hackathons",
       "displayed_location": {
@@ -40,7 +69,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/828/974/datas/medium.png",
       "analytics_identifier": "CTE Hackathons (14781)",
       "url": "https://cte-hackathons.devpost.com/",
-      "time_left_to_submission": "7 days left",
+      "time_left_to_submission": "6 days left",
       "submission_period_dates": "Feb 10 - 18, 2022",
       "themes": [
         {
@@ -57,7 +86,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 20,
+      "registrations_count": 21,
       "featured": false,
       "organization_name": "n/a",
       "winners_announced": false,
@@ -65,72 +94,6 @@
       "start_a_submission_url": "https://cte-hackathons.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "PCTVS Students only"
-    },
-    {
-      "id": 14721,
-      "title": "Phantom SLC Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Park City, UT, USA"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/817/946/datas/medium.png",
-      "analytics_identifier": "Phantom SLC Hackathon (14721)",
-      "url": "https://phantom.devpost.com/",
-      "time_left_to_submission": "about 2 hours left",
-      "submission_period_dates": "Feb 07 - 11, 2022",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 13,
-      "featured": false,
-      "organization_name": "phantom",
-      "winners_announced": false,
-      "submission_gallery_url": "https://phantom.devpost.com/project-gallery",
-      "start_a_submission_url": "https://phantom.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Phantom employees"
-    },
-    {
-      "id": 14749,
-      "title": "test",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "The University of Alabama - Hewson Hall"
-      },
-      "open_state": "open",
-      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "test (14749)",
-      "url": "https://test-14749.devpost.com/",
-      "time_left_to_submission": "2 days left",
-      "submission_period_dates": "Feb 10 - 13, 2022",
-      "themes": [
-        {
-          "id": 9,
-          "name": "Cybersecurity"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "UA Innovate",
-      "winners_announced": false,
-      "submission_gallery_url": "https://test-14749.devpost.com/project-gallery",
-      "start_a_submission_url": "https://test-14749.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "The University of AL MIS Staff Only"
     },
     {
       "id": 14767,
@@ -143,7 +106,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/829/499/datas/medium.png",
       "analytics_identifier": "Porticode 5.0 (14767)",
       "url": "https://porticode-5-0.devpost.com/",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 18 hours left",
       "submission_period_dates": "Feb 11 - 13, 2022",
       "themes": [
         {
@@ -152,7 +115,7 @@
         }
       ],
       "prize_amount": "£<span data-currency-value>3,000</span>",
-      "registrations_count": 1,
+      "registrations_count": 6,
       "featured": false,
       "organization_name": "University College London",
       "winners_announced": false,
@@ -263,7 +226,7 @@
         }
       ],
       "prize_amount": "$CAD<span data-currency-value>9,000</span>",
-      "registrations_count": 30,
+      "registrations_count": 31,
       "featured": false,
       "organization_name": "Screen Composers Guild of Canada & SOCAN",
       "winners_announced": false,
@@ -310,35 +273,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 14772,
-      "title": "Hatathon by UW UPL",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "University of Wisconsin - CS Room 1240"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/828/237/datas/medium.png",
-      "analytics_identifier": "Hatathon by UW UPL (14772)",
-      "url": "https://hatathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Feb 11 - 12, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 10,
-      "featured": false,
-      "organization_name": "UW UPL",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hatathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hatathon.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Registered for Event, UW Madison Students"
-    },
-    {
       "id": 14693,
       "title": "Hacklytics 2022: Connecting Communities",
       "displayed_location": {
@@ -366,7 +300,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 10,
+      "registrations_count": 13,
       "featured": false,
       "organization_name": "Data Science @ Georgia Tech",
       "winners_announced": false,
@@ -479,6 +413,72 @@
       "eligibility_requirement_invite_only_description": "VU or VUMC Students and Employees"
     },
     {
+      "id": 14715,
+      "title": "Quackathon 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Germantown Friends School"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/819/649/datas/medium.png",
+      "analytics_identifier": "Quackathon 2022 (14715)",
+      "url": "https://quackathon-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Mar 05, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 16,
+          "name": "Health"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 6,
+      "featured": false,
+      "organization_name": "Germantown Friends School",
+      "winners_announced": false,
+      "submission_gallery_url": "https://quackathon-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://quackathon-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14687,
+      "title": "AuburnHacks 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Brown-Kopel Engineering Student Center"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/828/559/datas/medium.jpg",
+      "analytics_identifier": "AuburnHacks 2022 (14687)",
+      "url": "https://auburnhacks2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Feb 12 - 13, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>9,840</span>",
+      "registrations_count": 5,
+      "featured": false,
+      "organization_name": "Auburn University ACM",
+      "winners_announced": false,
+      "submission_gallery_url": "https://auburnhacks2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://auburnhacks2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 14773,
       "title": "MHS Hackathon 2022",
       "displayed_location": {
@@ -516,39 +516,6 @@
       "eligibility_requirement_invite_only_description": "Miss Hall's School students "
     },
     {
-      "id": 14715,
-      "title": "Quackathon 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Germantown Friends School"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/819/649/datas/medium.png",
-      "analytics_identifier": "Quackathon 2022 (14715)",
-      "url": "https://quackathon-2022.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 05, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 16,
-          "name": "Health"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 5,
-      "featured": false,
-      "organization_name": "Germantown Friends School",
-      "winners_announced": false,
-      "submission_gallery_url": "https://quackathon-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://quackathon-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 14267,
       "title": "GFU Code Jam V2",
       "displayed_location": {
@@ -576,7 +543,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>500</span>",
-      "registrations_count": 4,
+      "registrations_count": 3,
       "featured": false,
       "organization_name": "ACM-W at GFU",
       "winners_announced": false,
@@ -641,7 +608,7 @@
           "name": "Open Ended"
         }
       ],
-      "prize_amount": "$<span data-currency-value>5,625</span>",
+      "prize_amount": "$<span data-currency-value>9,337</span>",
       "registrations_count": 1,
       "featured": false,
       "organization_name": "Saint Francis High School",
@@ -727,7 +694,7 @@
     }
   ],
   "meta": {
-    "total_count": 21,
+    "total_count": 20,
     "per_page": 40,
     "fuzzy": false
   }
