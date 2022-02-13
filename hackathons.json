@@ -1,6 +1,39 @@
 {
   "hackathons": [
     {
+      "id": 14687,
+      "title": "AuburnHacks 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Brown-Kopel Engineering Student Center"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/828/559/datas/medium.jpg",
+      "analytics_identifier": "AuburnHacks 2022 (14687)",
+      "url": "https://auburnhacks2022.devpost.com/",
+      "time_left_to_submission": "30 minutes left",
+      "submission_period_dates": "Feb 12 - 13, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>9,840</span>",
+      "registrations_count": 78,
+      "featured": false,
+      "organization_name": "Auburn University ACM",
+      "winners_announced": false,
+      "submission_gallery_url": "https://auburnhacks2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://auburnhacks2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 14547,
       "title": "ESE Senior Design 21-22 (Van der Spiegel/Deliwala)",
       "displayed_location": {
@@ -30,35 +63,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 14772,
-      "title": "Hatathon by UW UPL",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "University of Wisconsin - CS Room 1240"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/828/237/datas/medium.png",
-      "analytics_identifier": "Hatathon by UW UPL (14772)",
-      "url": "https://hatathon.devpost.com/",
-      "time_left_to_submission": "about 1 hour left",
-      "submission_period_dates": "Feb 11 - 12, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 23,
-      "featured": false,
-      "organization_name": "UW UPL",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hatathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hatathon.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Registered for Event, UW Madison Students"
-    },
-    {
       "id": 14781,
       "title": "CTE Hackathons",
       "displayed_location": {
@@ -69,7 +73,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/828/974/datas/medium.png",
       "analytics_identifier": "CTE Hackathons (14781)",
       "url": "https://cte-hackathons.devpost.com/",
-      "time_left_to_submission": "6 days left",
+      "time_left_to_submission": "5 days left",
       "submission_period_dates": "Feb 10 - 18, 2022",
       "themes": [
         {
@@ -86,7 +90,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 21,
+      "registrations_count": 22,
       "featured": false,
       "organization_name": "n/a",
       "winners_announced": false,
@@ -94,35 +98,6 @@
       "start_a_submission_url": "https://cte-hackathons.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "PCTVS Students only"
-    },
-    {
-      "id": 14767,
-      "title": "Porticode 5.0",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "University College London "
-      },
-      "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/829/499/datas/medium.png",
-      "analytics_identifier": "Porticode 5.0 (14767)",
-      "url": "https://porticode-5-0.devpost.com/",
-      "time_left_to_submission": "about 18 hours left",
-      "submission_period_dates": "Feb 11 - 13, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        }
-      ],
-      "prize_amount": "£<span data-currency-value>3,000</span>",
-      "registrations_count": 6,
-      "featured": false,
-      "organization_name": "University College London",
-      "winners_announced": false,
-      "submission_gallery_url": "https://porticode-5-0.devpost.com/project-gallery",
-      "start_a_submission_url": "https://porticode-5-0.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Registered participants of Porticode 5.0 (TechSoc)"
     },
     {
       "id": 14209,
@@ -152,12 +127,49 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>7,500</span>",
-      "registrations_count": 35,
+      "registrations_count": 36,
       "featured": false,
       "organization_name": "XHACK Innovation & Technology Group",
       "winners_announced": false,
       "submission_gallery_url": "https://theaterhackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://theaterhackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 13608,
+      "title": "Cue Sheet Palooza Music Hackathon - Toronto, Canada",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "TBD"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/718/522/datas/medium.png",
+      "analytics_identifier": "Cue Sheet Palooza Music Hackathon - Toronto, Canada (13608)",
+      "url": "https://cue-sheet-palooza.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 09 - 10, 2022",
+      "themes": [
+        {
+          "id": 15,
+          "name": "Music/Art"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
+        },
+        {
+          "id": 1,
+          "name": "Blockchain"
+        }
+      ],
+      "prize_amount": "$CAD<span data-currency-value>9,000</span>",
+      "registrations_count": 32,
+      "featured": false,
+      "organization_name": "Screen Composers Guild of Canada & SOCAN",
+      "winners_announced": false,
+      "submission_gallery_url": "https://cue-sheet-palooza.devpost.com/project-gallery",
+      "start_a_submission_url": "https://cue-sheet-palooza.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -199,43 +211,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 13608,
-      "title": "Cue Sheet Palooza Music Hackathon - Toronto, Canada",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "TBD"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/718/522/datas/medium.png",
-      "analytics_identifier": "Cue Sheet Palooza Music Hackathon - Toronto, Canada (13608)",
-      "url": "https://cue-sheet-palooza.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 09 - 10, 2022",
-      "themes": [
-        {
-          "id": 15,
-          "name": "Music/Art"
-        },
-        {
-          "id": 11,
-          "name": "Productivity"
-        },
-        {
-          "id": 1,
-          "name": "Blockchain"
-        }
-      ],
-      "prize_amount": "$CAD<span data-currency-value>9,000</span>",
-      "registrations_count": 31,
-      "featured": false,
-      "organization_name": "Screen Composers Guild of Canada & SOCAN",
-      "winners_announced": false,
-      "submission_gallery_url": "https://cue-sheet-palooza.devpost.com/project-gallery",
-      "start_a_submission_url": "https://cue-sheet-palooza.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 14583,
       "title": "CuseHacks 2022",
       "displayed_location": {
@@ -263,7 +238,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 23,
+      "registrations_count": 26,
       "featured": false,
       "organization_name": "Innovate Orange",
       "winners_announced": false,
@@ -436,45 +411,12 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 6,
+      "registrations_count": 7,
       "featured": false,
       "organization_name": "Germantown Friends School",
       "winners_announced": false,
       "submission_gallery_url": "https://quackathon-2022.devpost.com/project-gallery",
       "start_a_submission_url": "https://quackathon-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 14687,
-      "title": "AuburnHacks 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Brown-Kopel Engineering Student Center"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/828/559/datas/medium.jpg",
-      "analytics_identifier": "AuburnHacks 2022 (14687)",
-      "url": "https://auburnhacks2022.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Feb 12 - 13, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>9,840</span>",
-      "registrations_count": 5,
-      "featured": false,
-      "organization_name": "Auburn University ACM",
-      "winners_announced": false,
-      "submission_gallery_url": "https://auburnhacks2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://auburnhacks2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -516,6 +458,43 @@
       "eligibility_requirement_invite_only_description": "Miss Hall's School students "
     },
     {
+      "id": 14654,
+      "title": "WiCHacks 2022 ",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "RIT Magic Spells Studios"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/808/103/datas/medium.jpg",
+      "analytics_identifier": "WiCHacks 2022  (14654)",
+      "url": "https://wichacks-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Feb 26 - 27, 2022",
+      "themes": [
+        {
+          "id": 5,
+          "name": "AR/VR"
+        },
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 2,
+          "name": "DevOps"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 3,
+      "featured": false,
+      "organization_name": "others",
+      "winners_announced": false,
+      "submission_gallery_url": "https://wichacks-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://wichacks-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 14267,
       "title": "GFU Code Jam V2",
       "displayed_location": {
@@ -553,41 +532,37 @@
       "eligibility_requirement_invite_only_description": "George Fox students only"
     },
     {
-      "id": 14654,
-      "title": "WiCHacks 2022 ",
+      "id": 14659,
+      "title": "UGAHacks 7",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "RIT Magic Spells Studios"
+        "location": "UGA Miller Learning Center"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/808/103/datas/medium.jpg",
-      "analytics_identifier": "WiCHacks 2022  (14654)",
-      "url": "https://wichacks-2022.devpost.com/",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/808/429/datas/medium.png",
+      "analytics_identifier": "UGAHacks 7 (14659)",
+      "url": "https://ugahacks-7.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Feb 26 - 27, 2022",
+      "submission_period_dates": "Feb 18 - 20, 2022",
       "themes": [
-        {
-          "id": 5,
-          "name": "AR/VR"
-        },
         {
           "id": 23,
           "name": "Beginner Friendly"
         },
         {
-          "id": 2,
-          "name": "DevOps"
+          "id": 19,
+          "name": "Education"
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 2,
+      "registrations_count": 1,
       "featured": false,
-      "organization_name": "others",
+      "organization_name": "UGAHacks",
       "winners_announced": false,
-      "submission_gallery_url": "https://wichacks-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://wichacks-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
+      "submission_gallery_url": "https://ugahacks-7.devpost.com/project-gallery",
+      "start_a_submission_url": "https://ugahacks-7.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "UGAHacks attendees - check your emails!"
     },
     {
       "id": 14752,
@@ -694,7 +669,7 @@
     }
   ],
   "meta": {
-    "total_count": 20,
+    "total_count": 19,
     "per_page": 40,
     "fuzzy": false
   }
