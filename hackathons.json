@@ -40,7 +40,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/828/974/datas/medium.png",
       "analytics_identifier": "CTE Hackathons (14781)",
       "url": "https://cte-hackathons.devpost.com/",
-      "time_left_to_submission": "4 days left",
+      "time_left_to_submission": "3 days left",
       "submission_period_dates": "Feb 10 - 18, 2022",
       "themes": [
         {
@@ -65,6 +65,43 @@
       "start_a_submission_url": "https://cte-hackathons.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "PCTVS Students only"
+    },
+    {
+      "id": 14583,
+      "title": "CuseHacks 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Syracuse University"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/793/576/datas/medium.png",
+      "analytics_identifier": "CuseHacks 2022 (14583)",
+      "url": "https://cusehacks-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Feb 19 - 20, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 37,
+      "featured": false,
+      "organization_name": "Innovate Orange",
+      "winners_announced": false,
+      "submission_gallery_url": "https://cusehacks-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://cusehacks-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 14209,
@@ -94,7 +131,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>7,500</span>",
-      "registrations_count": 36,
+      "registrations_count": 37,
       "featured": false,
       "organization_name": "XHACK Innovation & Technology Group",
       "winners_announced": false,
@@ -131,7 +168,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 32,
+      "registrations_count": 33,
       "featured": false,
       "organization_name": "HooHacks",
       "winners_announced": false,
@@ -178,43 +215,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 14583,
-      "title": "CuseHacks 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Syracuse University"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/793/576/datas/medium.png",
-      "analytics_identifier": "CuseHacks 2022 (14583)",
-      "url": "https://cusehacks-2022.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Feb 19 - 20, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 27,
-      "featured": false,
-      "organization_name": "Innovate Orange",
-      "winners_announced": false,
-      "submission_gallery_url": "https://cusehacks-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://cusehacks-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 14693,
       "title": "Hacklytics 2022: Connecting Communities",
       "displayed_location": {
@@ -242,7 +242,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 13,
+      "registrations_count": 17,
       "featured": false,
       "organization_name": "Data Science @ Georgia Tech",
       "winners_announced": false,
@@ -279,7 +279,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 10,
+      "registrations_count": 11,
       "featured": false,
       "organization_name": "Drexel University CCI",
       "winners_announced": false,
@@ -316,6 +316,39 @@
       "start_a_submission_url": "https://uky-cathacks-viii.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14659,
+      "title": "UGAHacks 7",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "UGA Miller Learning Center"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/808/429/datas/medium.png",
+      "analytics_identifier": "UGAHacks 7 (14659)",
+      "url": "https://ugahacks-7.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Feb 18 - 20, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 8,
+      "featured": false,
+      "organization_name": "UGAHacks",
+      "winners_announced": false,
+      "submission_gallery_url": "https://ugahacks-7.devpost.com/project-gallery",
+      "start_a_submission_url": "https://ugahacks-7.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "UGAHacks attendees - check your emails!"
     },
     {
       "id": 14470,
@@ -462,6 +495,35 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 14809,
+      "title": "Blockathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Haymarket HQ"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/835/567/datas/medium.jpeg",
+      "analytics_identifier": "Blockathon (14809)",
+      "url": "https://blockathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Mar 18 - 20, 2022",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>10,000</span>",
+      "registrations_count": 3,
+      "featured": false,
+      "organization_name": "bitfwd",
+      "winners_announced": false,
+      "submission_gallery_url": "https://blockathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://blockathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 14267,
       "title": "GFU Code Jam V2",
       "displayed_location": {
@@ -561,68 +623,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://t9hacks-2022.devpost.com/project-gallery",
       "start_a_submission_url": "https://t9hacks-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 14659,
-      "title": "UGAHacks 7",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "UGA Miller Learning Center"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/808/429/datas/medium.png",
-      "analytics_identifier": "UGAHacks 7 (14659)",
-      "url": "https://ugahacks-7.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Feb 18 - 20, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 1,
-      "featured": false,
-      "organization_name": "UGAHacks",
-      "winners_announced": false,
-      "submission_gallery_url": "https://ugahacks-7.devpost.com/project-gallery",
-      "start_a_submission_url": "https://ugahacks-7.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "UGAHacks attendees - check your emails!"
-    },
-    {
-      "id": 14809,
-      "title": "Blockathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Haymarket HQ"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/835/567/datas/medium.jpeg",
-      "analytics_identifier": "Blockathon (14809)",
-      "url": "https://blockathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 18 - 20, 2022",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 1,
-      "featured": false,
-      "organization_name": "bitfwd",
-      "winners_announced": false,
-      "submission_gallery_url": "https://blockathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://blockathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
