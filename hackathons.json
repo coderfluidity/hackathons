@@ -40,7 +40,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/828/974/datas/medium.png",
       "analytics_identifier": "CTE Hackathons (14781)",
       "url": "https://cte-hackathons.devpost.com/",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "1 day left",
       "submission_period_dates": "Feb 10 - 18, 2022",
       "themes": [
         {
@@ -65,6 +65,76 @@
       "start_a_submission_url": "https://cte-hackathons.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "PCTVS Students only"
+    },
+    {
+      "id": 14801,
+      "title": "robotics test",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "New Cairo 1, Egypt"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/836/466/datas/medium.jpg",
+      "analytics_identifier": "robotics test (14801)",
+      "url": "https://robotics-test.devpost.com/",
+      "time_left_to_submission": "10 days left",
+      "submission_period_dates": "Feb 16 - 27, 2022",
+      "themes": [
+        {
+          "id": 10,
+          "name": "Communication"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        }
+      ],
+      "prize_amount": "£<span data-currency-value>100</span>",
+      "registrations_count": 3,
+      "featured": false,
+      "organization_name": "Google",
+      "winners_announced": false,
+      "submission_gallery_url": "https://robotics-test.devpost.com/project-gallery",
+      "start_a_submission_url": "https://robotics-test.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "AUC Students"
+    },
+    {
+      "id": 14693,
+      "title": "Hacklytics 2022: Connecting Communities",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Atlanta, GA, USA"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/810/038/datas/medium.jpg",
+      "analytics_identifier": "Hacklytics 2022: Connecting Communities (14693)",
+      "url": "https://hacklytics-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Feb 18 - 20, 2022",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>10,000</span>",
+      "registrations_count": 51,
+      "featured": false,
+      "organization_name": "Data Science @ Georgia Tech",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hacklytics-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hacklytics-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 14583,
@@ -94,7 +164,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 43,
+      "registrations_count": 46,
       "featured": false,
       "organization_name": "Innovate Orange",
       "winners_announced": false,
@@ -131,7 +201,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>7,500</span>",
-      "registrations_count": 38,
+      "registrations_count": 39,
       "featured": false,
       "organization_name": "XHACK Innovation & Technology Group",
       "winners_announced": false,
@@ -168,7 +238,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 33,
+      "registrations_count": 35,
       "featured": false,
       "organization_name": "HooHacks",
       "winners_announced": false,
@@ -205,49 +275,12 @@
         }
       ],
       "prize_amount": "$CAD<span data-currency-value>9,000</span>",
-      "registrations_count": 33,
+      "registrations_count": 34,
       "featured": false,
       "organization_name": "Screen Composers Guild of Canada & SOCAN",
       "winners_announced": false,
       "submission_gallery_url": "https://cue-sheet-palooza.devpost.com/project-gallery",
       "start_a_submission_url": "https://cue-sheet-palooza.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 14693,
-      "title": "Hacklytics 2022: Connecting Communities",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Atlanta, GA, USA"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/810/038/datas/medium.jpg",
-      "analytics_identifier": "Hacklytics 2022: Connecting Communities (14693)",
-      "url": "https://hacklytics-2022.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Feb 18 - 20, 2022",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 20,
-      "featured": false,
-      "organization_name": "Data Science @ Georgia Tech",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hacklytics-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hacklytics-2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -275,7 +308,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 13,
+      "registrations_count": 23,
       "featured": false,
       "organization_name": "UGAHacks",
       "winners_announced": false,
@@ -296,7 +329,7 @@
       "analytics_identifier": "Philly Codefest 2022 (14317)",
       "url": "https://philly-codefest-2022.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 04 - 09, 2022",
+      "submission_period_dates": "Apr 04 - 08, 2022",
       "themes": [
         {
           "id": 23,
@@ -312,7 +345,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 12,
+      "registrations_count": 14,
       "featured": false,
       "organization_name": "Drexel University CCI",
       "winners_announced": false,
@@ -341,12 +374,41 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,650</span>",
-      "registrations_count": 10,
+      "registrations_count": 11,
       "featured": false,
       "organization_name": "University of Kentucky",
       "winners_announced": false,
       "submission_gallery_url": "https://uky-cathacks-viii.devpost.com/project-gallery",
       "start_a_submission_url": "https://uky-cathacks-viii.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14818,
+      "title": "DurHack2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "County Durham, United Kingdom"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/836/432/datas/medium.png",
+      "analytics_identifier": "DurHack2022 (14818)",
+      "url": "https://durhack2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Feb 19 - 20, 2022",
+      "themes": [
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "£<span data-currency-value>500</span>",
+      "registrations_count": 7,
+      "featured": false,
+      "organization_name": "DurHack",
+      "winners_announced": false,
+      "submission_gallery_url": "https://durhack2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://durhack2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -421,35 +483,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 14818,
-      "title": "DurHack2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "County Durham, United Kingdom"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/836/432/datas/medium.png",
-      "analytics_identifier": "DurHack2022 (14818)",
-      "url": "https://durhack2022.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Feb 19 - 20, 2022",
-      "themes": [
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "£<span data-currency-value>500</span>",
-      "registrations_count": 5,
-      "featured": false,
-      "organization_name": "DurHack",
-      "winners_announced": false,
-      "submission_gallery_url": "https://durhack2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://durhack2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 14773,
       "title": "MHS Hackathon 2022",
       "displayed_location": {
@@ -485,6 +518,43 @@
       "start_a_submission_url": "https://mhs-hackathon-2022.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Miss Hall's School students "
+    },
+    {
+      "id": 14832,
+      "title": "DeveloperWeek Cloud 2022 Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Palmer Events Center"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/836/659/datas/medium.jpg",
+      "analytics_identifier": "DeveloperWeek Cloud 2022 Hackathon (14832)",
+      "url": "https://dw-cloud-2022-hackathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Aug 22 - Sep 08, 2022",
+      "themes": [
+        {
+          "id": 2,
+          "name": "DevOps"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>12,500</span>",
+      "registrations_count": 4,
+      "featured": false,
+      "organization_name": "DevNetwork",
+      "winners_announced": false,
+      "submission_gallery_url": "https://dw-cloud-2022-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://dw-cloud-2022-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 14654,
@@ -588,6 +658,80 @@
       "start_a_submission_url": "https://foxacmw.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "George Fox students only"
+    },
+    {
+      "id": 14833,
+      "title": "API World Hackathon 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "San Jose Convention Center"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "API World Hackathon 2022 (14833)",
+      "url": "https://api-world-hackathon-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 10 - 27, 2022",
+      "themes": [
+        {
+          "id": 2,
+          "name": "DevOps"
+        },
+        {
+          "id": 21,
+          "name": "Enterprise"
+        },
+        {
+          "id": 26,
+          "name": "Mobile"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>12,500</span>",
+      "registrations_count": 3,
+      "featured": false,
+      "organization_name": "DevNetwork",
+      "winners_announced": false,
+      "submission_gallery_url": "https://api-world-hackathon-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://api-world-hackathon-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14824,
+      "title": "Code Resolve x GWC x Tech Incubator Hacks",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Virtual"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/836/180/datas/medium.png",
+      "analytics_identifier": "Code Resolve x GWC x Tech Incubator Hacks (14824)",
+      "url": "https://tqic-cr-gwc-hacks.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Mar 04, 2022",
+      "themes": [
+        {
+          "id": 18,
+          "name": "Design"
+        },
+        {
+          "id": 26,
+          "name": "Mobile"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>250</span>",
+      "registrations_count": 2,
+      "featured": false,
+      "organization_name": "TIQC",
+      "winners_announced": false,
+      "submission_gallery_url": "https://tqic-cr-gwc-hacks.devpost.com/project-gallery",
+      "start_a_submission_url": "https://tqic-cr-gwc-hacks.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 14752,
@@ -765,10 +909,43 @@
       "start_a_submission_url": "https://my-hack.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14834,
+      "title": "DeveloperWeek Enterprise 2022 Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Hynes Convention Center"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "DeveloperWeek Enterprise 2022 Hackathon (14834)",
+      "url": "https://dw-enterprise-2022-hackathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 31 - Nov 17, 2022",
+      "themes": [
+        {
+          "id": 21,
+          "name": "Enterprise"
+        },
+        {
+          "id": 26,
+          "name": "Mobile"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>12,500</span>",
+      "registrations_count": 1,
+      "featured": false,
+      "organization_name": "DevNetwork",
+      "winners_announced": false,
+      "submission_gallery_url": "https://dw-enterprise-2022-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://dw-enterprise-2022-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     }
   ],
   "meta": {
-    "total_count": 22,
+    "total_count": 27,
     "per_page": 40,
     "fuzzy": false
   }
