@@ -30,6 +30,39 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 14659,
+      "title": "UGAHacks 7",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "UGA Miller Learning Center"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/808/429/datas/medium.png",
+      "analytics_identifier": "UGAHacks 7 (14659)",
+      "url": "https://ugahacks-7.devpost.com/",
+      "time_left_to_submission": "2 days left",
+      "submission_period_dates": "Feb 18 - 20, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 49,
+      "featured": false,
+      "organization_name": "UGAHacks",
+      "winners_announced": false,
+      "submission_gallery_url": "https://ugahacks-7.devpost.com/project-gallery",
+      "start_a_submission_url": "https://ugahacks-7.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "UGAHacks attendees - check your emails!"
+    },
+    {
       "id": 14781,
       "title": "CTE Hackathons",
       "displayed_location": {
@@ -40,7 +73,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/828/974/datas/medium.png",
       "analytics_identifier": "CTE Hackathons (14781)",
       "url": "https://cte-hackathons.devpost.com/",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 11 hours left",
       "submission_period_dates": "Feb 10 - 18, 2022",
       "themes": [
         {
@@ -67,6 +100,43 @@
       "eligibility_requirement_invite_only_description": "PCTVS Students only"
     },
     {
+      "id": 14773,
+      "title": "MHS Hackathon 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Linn Hall - Miss Hall's School"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/828/045/datas/medium.png",
+      "analytics_identifier": "MHS Hackathon 2022 (14773)",
+      "url": "https://mhs-hackathon-2022.devpost.com/",
+      "time_left_to_submission": "2 days left",
+      "submission_period_dates": "Feb 18 - 21, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>500</span>",
+      "registrations_count": 6,
+      "featured": false,
+      "organization_name": "Miss Hall's School Crypted001 Club",
+      "winners_announced": false,
+      "submission_gallery_url": "https://mhs-hackathon-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://mhs-hackathon-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Miss Hall's School students "
+    },
+    {
       "id": 14801,
       "title": "robotics test",
       "displayed_location": {
@@ -77,7 +147,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/836/466/datas/medium.jpg",
       "analytics_identifier": "robotics test (14801)",
       "url": "https://robotics-test.devpost.com/",
-      "time_left_to_submission": "10 days left",
+      "time_left_to_submission": "9 days left",
       "submission_period_dates": "Feb 16 - 27, 2022",
       "themes": [
         {
@@ -126,8 +196,8 @@
           "name": "Social Good"
         }
       ],
-      "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 51,
+      "prize_amount": "$<span data-currency-value>7,577</span>",
+      "registrations_count": 95,
       "featured": false,
       "organization_name": "Data Science @ Georgia Tech",
       "winners_announced": false,
@@ -164,12 +234,49 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 46,
+      "registrations_count": 48,
       "featured": false,
       "organization_name": "Innovate Orange",
       "winners_announced": false,
       "submission_gallery_url": "https://cusehacks-2022.devpost.com/project-gallery",
       "start_a_submission_url": "https://cusehacks-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14355,
+      "title": "HooHacks 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "University of Virginia School Grounds"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/783/069/datas/medium.png",
+      "analytics_identifier": "HooHacks 2022 (14355)",
+      "url": "https://hoohacks-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Mar 26 - 27, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>10,000</span>",
+      "registrations_count": 40,
+      "featured": false,
+      "organization_name": "HooHacks",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hoohacks-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hoohacks-2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -211,43 +318,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 14355,
-      "title": "HooHacks 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "University of Virginia School Grounds"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/783/069/datas/medium.png",
-      "analytics_identifier": "HooHacks 2022 (14355)",
-      "url": "https://hoohacks-2022.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 26 - 27, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 35,
-      "featured": false,
-      "organization_name": "HooHacks",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hoohacks-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hoohacks-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 13608,
       "title": "Cue Sheet Palooza Music Hackathon - Toronto, Canada",
       "displayed_location": {
@@ -285,39 +355,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 14659,
-      "title": "UGAHacks 7",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "UGA Miller Learning Center"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/808/429/datas/medium.png",
-      "analytics_identifier": "UGAHacks 7 (14659)",
-      "url": "https://ugahacks-7.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Feb 18 - 20, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 23,
-      "featured": false,
-      "organization_name": "UGAHacks",
-      "winners_announced": false,
-      "submission_gallery_url": "https://ugahacks-7.devpost.com/project-gallery",
-      "start_a_submission_url": "https://ugahacks-7.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "UGAHacks attendees - check your emails!"
-    },
-    {
       "id": 14317,
       "title": "Philly Codefest 2022",
       "displayed_location": {
@@ -345,7 +382,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 14,
+      "registrations_count": 15,
       "featured": false,
       "organization_name": "Drexel University CCI",
       "winners_announced": false,
@@ -380,6 +417,39 @@
       "winners_announced": false,
       "submission_gallery_url": "https://uky-cathacks-viii.devpost.com/project-gallery",
       "start_a_submission_url": "https://uky-cathacks-viii.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14715,
+      "title": "Quackathon 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Germantown Friends School"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/819/649/datas/medium.png",
+      "analytics_identifier": "Quackathon 2022 (14715)",
+      "url": "https://quackathon-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Mar 05, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 16,
+          "name": "Health"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 9,
+      "featured": false,
+      "organization_name": "Germantown Friends School",
+      "winners_announced": false,
+      "submission_gallery_url": "https://quackathon-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://quackathon-2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -450,74 +520,41 @@
       "eligibility_requirement_invite_only_description": "VU or VUMC Students and Employees"
     },
     {
-      "id": 14715,
-      "title": "Quackathon 2022",
+      "id": 14654,
+      "title": "WiCHacks 2022 ",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Germantown Friends School"
+        "location": "RIT Magic Spells Studios"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/819/649/datas/medium.png",
-      "analytics_identifier": "Quackathon 2022 (14715)",
-      "url": "https://quackathon-2022.devpost.com/",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/808/103/datas/medium.jpg",
+      "analytics_identifier": "WiCHacks 2022  (14654)",
+      "url": "https://wichacks-2022.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 05, 2022",
+      "submission_period_dates": "Feb 26 - 27, 2022",
       "themes": [
+        {
+          "id": 5,
+          "name": "AR/VR"
+        },
         {
           "id": 23,
           "name": "Beginner Friendly"
         },
         {
-          "id": 16,
-          "name": "Health"
+          "id": 2,
+          "name": "DevOps"
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 7,
+      "registrations_count": 4,
       "featured": false,
-      "organization_name": "Germantown Friends School",
+      "organization_name": "others",
       "winners_announced": false,
-      "submission_gallery_url": "https://quackathon-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://quackathon-2022.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://wichacks-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://wichacks-2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 14773,
-      "title": "MHS Hackathon 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Linn Hall - Miss Hall's School"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/828/045/datas/medium.png",
-      "analytics_identifier": "MHS Hackathon 2022 (14773)",
-      "url": "https://mhs-hackathon-2022.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Feb 18 - 21, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>500</span>",
-      "registrations_count": 5,
-      "featured": false,
-      "organization_name": "Miss Hall's School Crypted001 Club",
-      "winners_announced": false,
-      "submission_gallery_url": "https://mhs-hackathon-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://mhs-hackathon-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Miss Hall's School students "
     },
     {
       "id": 14832,
@@ -557,39 +594,39 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 14654,
-      "title": "WiCHacks 2022 ",
+      "id": 14824,
+      "title": "Code Resolve x GWC x Tech Incubator Hacks",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "RIT Magic Spells Studios"
+        "location": "Virtual"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/808/103/datas/medium.jpg",
-      "analytics_identifier": "WiCHacks 2022  (14654)",
-      "url": "https://wichacks-2022.devpost.com/",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/836/180/datas/medium.png",
+      "analytics_identifier": "Code Resolve x GWC x Tech Incubator Hacks (14824)",
+      "url": "https://tqic-cr-gwc-hacks.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Feb 26 - 27, 2022",
+      "submission_period_dates": "Mar 04, 2022",
       "themes": [
         {
-          "id": 5,
-          "name": "AR/VR"
+          "id": 18,
+          "name": "Design"
         },
         {
-          "id": 23,
-          "name": "Beginner Friendly"
+          "id": 26,
+          "name": "Mobile"
         },
         {
-          "id": 2,
-          "name": "DevOps"
+          "id": 25,
+          "name": "Web"
         }
       ],
-      "prize_amount": "$<span data-currency-value>0</span>",
+      "prize_amount": "$<span data-currency-value>250</span>",
       "registrations_count": 3,
       "featured": false,
-      "organization_name": "others",
+      "organization_name": "TIQC",
       "winners_announced": false,
-      "submission_gallery_url": "https://wichacks-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://wichacks-2022.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://tqic-cr-gwc-hacks.devpost.com/project-gallery",
+      "start_a_submission_url": "https://tqic-cr-gwc-hacks.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -619,6 +656,43 @@
       "winners_announced": false,
       "submission_gallery_url": "https://blockathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://blockathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14502,
+      "title": "CYHacks '22",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Central York High School"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "CYHacks '22 (14502)",
+      "url": "https://cyhacks-22.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Mar 26, 2022",
+      "themes": [
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1</span>",
+      "registrations_count": 3,
+      "featured": false,
+      "organization_name": "CYHS iTeam",
+      "winners_announced": false,
+      "submission_gallery_url": "https://cyhacks-22.devpost.com/project-gallery",
+      "start_a_submission_url": "https://cyhacks-22.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -697,39 +771,39 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 14824,
-      "title": "Code Resolve x GWC x Tech Incubator Hacks",
+      "id": 14830,
+      "title": "Hajjathon",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Virtual"
+        "location": "Saudi Arabia "
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/836/180/datas/medium.png",
-      "analytics_identifier": "Code Resolve x GWC x Tech Incubator Hacks (14824)",
-      "url": "https://tqic-cr-gwc-hacks.devpost.com/",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/836/455/datas/medium.png",
+      "analytics_identifier": "Hajjathon (14830)",
+      "url": "https://hajjathon1.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 04, 2022",
+      "submission_period_dates": "Feb 24 - 27, 2022",
       "themes": [
         {
-          "id": 18,
-          "name": "Design"
+          "id": 1,
+          "name": "Blockchain"
         },
         {
-          "id": 26,
-          "name": "Mobile"
+          "id": 7,
+          "name": "IoT"
         },
         {
-          "id": 25,
-          "name": "Web"
+          "id": 6,
+          "name": "Machine Learning/AI"
         }
       ],
-      "prize_amount": "$<span data-currency-value>250</span>",
+      "prize_amount": "$<span data-currency-value>26,600</span>",
       "registrations_count": 2,
       "featured": false,
-      "organization_name": "TIQC",
+      "organization_name": "EVC",
       "winners_announced": false,
-      "submission_gallery_url": "https://tqic-cr-gwc-hacks.devpost.com/project-gallery",
-      "start_a_submission_url": "https://tqic-cr-gwc-hacks.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://hajjathon1.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hajjathon1.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -800,39 +874,109 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 14830,
-      "title": "Hajjathon",
+      "id": 14850,
+      "title": "Winter Wonderhack 2022",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Saudi Arabia "
+        "location": "Robert Pelt, John and Opie Library"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/836/455/datas/medium.png",
-      "analytics_identifier": "Hajjathon (14830)",
-      "url": "https://hajjathon1.devpost.com/",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/837/511/datas/medium.png",
+      "analytics_identifier": "Winter Wonderhack 2022 (14850)",
+      "url": "https://winter-wonderhack-2022.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Feb 24 - 27, 2022",
+      "submission_period_dates": "Feb 18 - 20, 2022",
       "themes": [
         {
-          "id": 1,
-          "name": "Blockchain"
+          "id": 23,
+          "name": "Beginner Friendly"
         },
         {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
+          "id": 22,
+          "name": "Open Ended"
         }
       ],
-      "prize_amount": "$<span data-currency-value>26,600</span>",
+      "prize_amount": "$<span data-currency-value>240</span>",
       "registrations_count": 1,
       "featured": false,
-      "organization_name": "EVC",
+      "organization_name": "Humane Interface Design Enterprise",
       "winners_announced": false,
-      "submission_gallery_url": "https://hajjathon1.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hajjathon1.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://winter-wonderhack-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://winter-wonderhack-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14786,
+      "title": "Wacode 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Blume Conference Center"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/837/176/datas/medium.png",
+      "analytics_identifier": "Wacode 2022 (14786)",
+      "url": "https://wacode-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Feb 26 - 27, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>360</span>",
+      "registrations_count": 1,
+      "featured": false,
+      "organization_name": "Computing For Compassion",
+      "winners_announced": false,
+      "submission_gallery_url": "https://wacode-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://wacode-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14826,
+      "title": "Quackathon 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Queen Mother Building, UOD"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/836/295/datas/medium.png",
+      "analytics_identifier": "Quackathon 2022 (14826)",
+      "url": "https://2022-quackathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Mar 05 - 06, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 4,
+          "name": "Gaming"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "£<span data-currency-value>230</span>",
+      "registrations_count": 1,
+      "featured": false,
+      "organization_name": "Dundee University Computing Society",
+      "winners_announced": false,
+      "submission_gallery_url": "https://2022-quackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://2022-quackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -945,7 +1089,7 @@
     }
   ],
   "meta": {
-    "total_count": 27,
+    "total_count": 31,
     "per_page": 40,
     "fuzzy": false
   }
