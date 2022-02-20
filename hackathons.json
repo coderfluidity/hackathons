@@ -1,111 +1,33 @@
 {
   "hackathons": [
     {
-      "id": 14659,
-      "title": "UGAHacks 7",
+      "id": 14733,
+      "title": "AthenaHacks 2022",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "UGA Miller Learning Center"
+        "location": "University of Southern California (TCC)"
       },
       "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/837/870/datas/medium.png",
-      "analytics_identifier": "UGAHacks 7 (14659)",
-      "url": "https://ugahacks-7.devpost.com/",
-      "time_left_to_submission": "about 19 hours left",
-      "submission_period_dates": "Feb 18 - 20, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 197,
-      "featured": false,
-      "organization_name": "UGAHacks",
-      "winners_announced": false,
-      "submission_gallery_url": "https://ugahacks-7.devpost.com/project-gallery",
-      "start_a_submission_url": "https://ugahacks-7.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "UGAHacks attendees - check your emails!"
-    },
-    {
-      "id": 14693,
-      "title": "Hacklytics 2022: Connecting Communities",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Atlanta, GA, USA"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/810/038/datas/medium.jpg",
-      "analytics_identifier": "Hacklytics 2022: Connecting Communities (14693)",
-      "url": "https://hacklytics-2022.devpost.com/",
-      "time_left_to_submission": "about 21 hours left",
-      "submission_period_dates": "Feb 18 - 20, 2022",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>37,727</span>",
-      "registrations_count": 113,
-      "featured": false,
-      "organization_name": "Data Science @ Georgia Tech",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hacklytics-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hacklytics-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 14583,
-      "title": "CuseHacks 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Syracuse University"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/793/576/datas/medium.png",
-      "analytics_identifier": "CuseHacks 2022 (14583)",
-      "url": "https://cusehacks-2022.devpost.com/",
-      "time_left_to_submission": "about 23 hours left",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/818/609/datas/medium.png",
+      "analytics_identifier": "AthenaHacks 2022 (14733)",
+      "url": "https://athenahacks-2022.devpost.com/",
+      "time_left_to_submission": "about 3 hours left",
       "submission_period_dates": "Feb 19 - 20, 2022",
       "themes": [
         {
           "id": 23,
           "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
         }
       ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 70,
+      "prize_amount": "$<span data-currency-value>6,080</span>",
+      "registrations_count": 80,
       "featured": false,
-      "organization_name": "Innovate Orange",
+      "organization_name": "AthenaHacks",
       "winners_announced": false,
-      "submission_gallery_url": "https://cusehacks-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://cusehacks-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
+      "submission_gallery_url": "https://athenahacks-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://athenahacks-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Accepted applicants"
     },
     {
       "id": 14547,
@@ -137,62 +59,41 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 14818,
-      "title": "DurHack2022",
+      "id": 14781,
+      "title": "CTE Hackathons",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Dept. of Mathematical and Comp Sciences"
+        "location": "DCL STEM Academy"
       },
       "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/836/432/datas/medium.png",
-      "analytics_identifier": "DurHack2022 (14818)",
-      "url": "https://durhack2022.devpost.com/",
-      "time_left_to_submission": "about 18 hours left",
-      "submission_period_dates": "Feb 19 - 20, 2022",
-      "themes": [
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "£<span data-currency-value>1,700</span>",
-      "registrations_count": 26,
-      "featured": false,
-      "organization_name": "DurHack",
-      "winners_announced": false,
-      "submission_gallery_url": "https://durhack2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://durhack2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 14733,
-      "title": "AthenaHacks 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "University of Southern California (TCC)"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/818/609/datas/medium.png",
-      "analytics_identifier": "AthenaHacks 2022 (14733)",
-      "url": "https://athenahacks-2022.devpost.com/",
-      "time_left_to_submission": "1 day left",
-      "submission_period_dates": "Feb 19 - 20, 2022",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/828/974/datas/medium.png",
+      "analytics_identifier": "CTE Hackathons (14781)",
+      "url": "https://cte-hackathons.devpost.com/",
+      "time_left_to_submission": "5 days left",
+      "submission_period_dates": "Feb 10 - 25, 2022",
       "themes": [
         {
           "id": 23,
           "name": "Beginner Friendly"
+        },
+        {
+          "id": 10,
+          "name": "Communication"
+        },
+        {
+          "id": 19,
+          "name": "Education"
         }
       ],
-      "prize_amount": "$<span data-currency-value>5,230</span>",
-      "registrations_count": 8,
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 24,
       "featured": false,
-      "organization_name": "AthenaHacks",
+      "organization_name": "n/a",
       "winners_announced": false,
-      "submission_gallery_url": "https://athenahacks-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://athenahacks-2022.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://cte-hackathons.devpost.com/project-gallery",
+      "start_a_submission_url": "https://cte-hackathons.devpost.com/challenges/start_a_submission",
       "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Accepted applicants"
+      "eligibility_requirement_invite_only_description": "PCTVS Students only"
     },
     {
       "id": 14773,
@@ -205,7 +106,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/828/045/datas/medium.png",
       "analytics_identifier": "MHS Hackathon 2022 (14773)",
       "url": "https://mhs-hackathon-2022.devpost.com/",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 12 hours left",
       "submission_period_dates": "Feb 18 - 21, 2022",
       "themes": [
         {
@@ -222,7 +123,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>500</span>",
-      "registrations_count": 8,
+      "registrations_count": 9,
       "featured": false,
       "organization_name": "Miss Hall's School Crypted001 Club",
       "winners_announced": false,
@@ -230,76 +131,6 @@
       "start_a_submission_url": "https://mhs-hackathon-2022.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Miss Hall's School students "
-    },
-    {
-      "id": 14576,
-      "title": "T9Hacks 2022: Go Beyond",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "ATLAS Institute"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/808/034/datas/medium.png",
-      "analytics_identifier": "T9Hacks 2022: Go Beyond (14576)",
-      "url": "https://t9hacks-2022.devpost.com/",
-      "time_left_to_submission": "about 7 hours left",
-      "submission_period_dates": "Feb 18 - 19, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 6,
-      "featured": false,
-      "organization_name": "T9hacks",
-      "winners_announced": false,
-      "submission_gallery_url": "https://t9hacks-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://t9hacks-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 14850,
-      "title": "Winter Wonderhack 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Robert Pelt, John and Opie Library"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/837/511/datas/medium.png",
-      "analytics_identifier": "Winter Wonderhack 2022 (14850)",
-      "url": "https://winter-wonderhack-2022.devpost.com/",
-      "time_left_to_submission": "about 20 hours left",
-      "submission_period_dates": "Feb 18 - 20, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>240</span>",
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "Humane Interface Design Enterprise",
-      "winners_announced": false,
-      "submission_gallery_url": "https://winter-wonderhack-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://winter-wonderhack-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 14355,
@@ -329,7 +160,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 39,
+      "registrations_count": 40,
       "featured": false,
       "organization_name": "HooHacks",
       "winners_announced": false,
@@ -576,12 +407,78 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>26,600</span>",
-      "registrations_count": 5,
+      "registrations_count": 6,
       "featured": false,
       "organization_name": "EVC",
       "winners_announced": false,
       "submission_gallery_url": "https://hajjathon1.devpost.com/project-gallery",
       "start_a_submission_url": "https://hajjathon1.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14809,
+      "title": "Blockathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Haymarket HQ"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/835/567/datas/medium.jpeg",
+      "analytics_identifier": "Blockathon (14809)",
+      "url": "https://blockathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Mar 18 - 20, 2022",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>10,000</span>",
+      "registrations_count": 5,
+      "featured": false,
+      "organization_name": "bitfwd",
+      "winners_announced": false,
+      "submission_gallery_url": "https://blockathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://blockathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14832,
+      "title": "DeveloperWeek Cloud 2022 Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Palmer Events Center"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/836/659/datas/medium.jpg",
+      "analytics_identifier": "DeveloperWeek Cloud 2022 Hackathon (14832)",
+      "url": "https://dw-cloud-2022-hackathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Aug 22 - Sep 08, 2022",
+      "themes": [
+        {
+          "id": 2,
+          "name": "DevOps"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>12,500</span>",
+      "registrations_count": 5,
+      "featured": false,
+      "organization_name": "DevNetwork",
+      "winners_announced": false,
+      "submission_gallery_url": "https://dw-cloud-2022-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://dw-cloud-2022-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -623,72 +520,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 14809,
-      "title": "Blockathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Haymarket HQ"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/835/567/datas/medium.jpeg",
-      "analytics_identifier": "Blockathon (14809)",
-      "url": "https://blockathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 18 - 20, 2022",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 4,
-      "featured": false,
-      "organization_name": "bitfwd",
-      "winners_announced": false,
-      "submission_gallery_url": "https://blockathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://blockathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 14832,
-      "title": "DeveloperWeek Cloud 2022 Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Palmer Events Center"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/836/659/datas/medium.jpg",
-      "analytics_identifier": "DeveloperWeek Cloud 2022 Hackathon (14832)",
-      "url": "https://dw-cloud-2022-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Aug 22 - Sep 08, 2022",
-      "themes": [
-        {
-          "id": 2,
-          "name": "DevOps"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>12,500</span>",
-      "registrations_count": 4,
-      "featured": false,
-      "organization_name": "DevNetwork",
-      "winners_announced": false,
-      "submission_gallery_url": "https://dw-cloud-2022-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://dw-cloud-2022-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 14824,
       "title": "Code Resolve x GWC x Tech Incubator Hacks",
       "displayed_location": {
@@ -716,12 +547,49 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>250</span>",
-      "registrations_count": 3,
+      "registrations_count": 4,
       "featured": false,
       "organization_name": "TIQC",
       "winners_announced": false,
       "submission_gallery_url": "https://tqic-cr-gwc-hacks.devpost.com/project-gallery",
       "start_a_submission_url": "https://tqic-cr-gwc-hacks.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14833,
+      "title": "API World Hackathon 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "San Jose Convention Center"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "API World Hackathon 2022 (14833)",
+      "url": "https://api-world-hackathon-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 10 - 27, 2022",
+      "themes": [
+        {
+          "id": 2,
+          "name": "DevOps"
+        },
+        {
+          "id": 21,
+          "name": "Enterprise"
+        },
+        {
+          "id": 26,
+          "name": "Mobile"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>12,500</span>",
+      "registrations_count": 4,
+      "featured": false,
+      "organization_name": "DevNetwork",
+      "winners_announced": false,
+      "submission_gallery_url": "https://api-world-hackathon-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://api-world-hackathon-2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -798,43 +666,6 @@
       "start_a_submission_url": "https://foxacmw.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "George Fox students only"
-    },
-    {
-      "id": 14833,
-      "title": "API World Hackathon 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "San Jose Convention Center"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "API World Hackathon 2022 (14833)",
-      "url": "https://api-world-hackathon-2022.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 10 - 27, 2022",
-      "themes": [
-        {
-          "id": 2,
-          "name": "DevOps"
-        },
-        {
-          "id": 21,
-          "name": "Enterprise"
-        },
-        {
-          "id": 26,
-          "name": "Mobile"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>12,500</span>",
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "DevNetwork",
-      "winners_announced": false,
-      "submission_gallery_url": "https://api-world-hackathon-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://api-world-hackathon-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 14752,
@@ -1077,7 +908,7 @@
     }
   ],
   "meta": {
-    "total_count": 31,
+    "total_count": 26,
     "per_page": 40,
     "fuzzy": false
   }
