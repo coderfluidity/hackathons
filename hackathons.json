@@ -20,7 +20,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 69,
+      "registrations_count": 72,
       "featured": false,
       "organization_name": "university of pennsylvania",
       "winners_announced": false,
@@ -40,7 +40,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/828/974/datas/medium.png",
       "analytics_identifier": "CTE Hackathons (14781)",
       "url": "https://cte-hackathons.devpost.com/",
-      "time_left_to_submission": "4 days left",
+      "time_left_to_submission": "3 days left",
       "submission_period_dates": "Feb 10 - 25, 2022",
       "themes": [
         {
@@ -65,6 +65,117 @@
       "start_a_submission_url": "https://cte-hackathons.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "PCTVS Students only"
+    },
+    {
+      "id": 9547,
+      "title": "Hack Internal",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Los Angeles, CA, USA"
+      },
+      "open_state": "open",
+      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "Hack Internal (9547)",
+      "url": "https://hack-internal-w22.devpost.com/",
+      "time_left_to_submission": "about 23 hours left",
+      "submission_period_dates": "Feb 21 - 23, 2022",
+      "themes": [
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>11</span>",
+      "registrations_count": 5,
+      "featured": false,
+      "organization_name": "ACM Hack at UCLA",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hack-internal-w22.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hack-internal-w22.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "ACM Hack Officers/Interns"
+    },
+    {
+      "id": 14871,
+      "title": "EU-IoT Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "fortiss, Munich, Germany"
+      },
+      "open_state": "open",
+      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "EU-IoT Hackathon (14871)",
+      "url": "https://eu-iot-hackathon.devpost.com/",
+      "time_left_to_submission": "3 months left",
+      "submission_period_dates": "Feb 22 - May 15, 2022",
+      "themes": [
+        {
+          "id": 10,
+          "name": "Communication"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "€<span data-currency-value>15,300</span>",
+      "registrations_count": 3,
+      "featured": false,
+      "organization_name": "CSA EU-IoT",
+      "winners_announced": false,
+      "submission_gallery_url": "https://eu-iot-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://eu-iot-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14840,
+      "title": "HackFest '22",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "IBA City Campus"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/847/398/datas/medium.jpg",
+      "analytics_identifier": "HackFest '22 (14840)",
+      "url": "https://hackfest-22.devpost.com/",
+      "time_left_to_submission": "19 days left",
+      "submission_period_dates": "Feb 22 - Mar 13, 2022",
+      "themes": [
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 16,
+          "name": "Health"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>600</span>",
+      "registrations_count": 2,
+      "featured": false,
+      "organization_name": "Google Developer Student Clubs",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackfest-22.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackfest-22.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 14355,
@@ -94,7 +205,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 44,
+      "registrations_count": 49,
       "featured": false,
       "organization_name": "HooHacks",
       "winners_announced": false,
@@ -168,7 +279,7 @@
         }
       ],
       "prize_amount": "$CAD<span data-currency-value>9,000</span>",
-      "registrations_count": 35,
+      "registrations_count": 36,
       "featured": false,
       "organization_name": "Screen Composers Guild of Canada & SOCAN",
       "winners_announced": false,
@@ -205,7 +316,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>250</span>",
-      "registrations_count": 16,
+      "registrations_count": 28,
       "featured": false,
       "organization_name": "TIQC",
       "winners_announced": false,
@@ -271,7 +382,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,650</span>",
-      "registrations_count": 12,
+      "registrations_count": 11,
       "featured": false,
       "organization_name": "University of Kentucky",
       "winners_announced": false,
@@ -378,7 +489,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 6,
+      "registrations_count": 7,
       "featured": false,
       "organization_name": "others",
       "winners_announced": false,
@@ -407,12 +518,49 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 6,
+      "registrations_count": 7,
       "featured": false,
       "organization_name": "bitfwd",
       "winners_announced": false,
       "submission_gallery_url": "https://blockathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://blockathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14832,
+      "title": "DeveloperWeek Cloud 2022 Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Palmer Events Center"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/836/659/datas/medium.jpg",
+      "analytics_identifier": "DeveloperWeek Cloud 2022 Hackathon (14832)",
+      "url": "https://dw-cloud-2022-hackathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Aug 22 - Sep 08, 2022",
+      "themes": [
+        {
+          "id": 2,
+          "name": "DevOps"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>12,500</span>",
+      "registrations_count": 7,
+      "featured": false,
+      "organization_name": "DevNetwork",
+      "winners_announced": false,
+      "submission_gallery_url": "https://dw-cloud-2022-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://dw-cloud-2022-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -454,39 +602,68 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 14832,
-      "title": "DeveloperWeek Cloud 2022 Hackathon",
+      "id": 14852,
+      "title": "Oxford Hack 2022",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Palmer Events Center"
+        "location": "University of Oxford Maths Institute"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/836/659/datas/medium.jpg",
-      "analytics_identifier": "DeveloperWeek Cloud 2022 Hackathon (14832)",
-      "url": "https://dw-cloud-2022-hackathon.devpost.com/",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/846/712/datas/medium.png",
+      "analytics_identifier": "Oxford Hack 2022 (14852)",
+      "url": "https://oxford-hackathon-2022.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Aug 22 - Sep 08, 2022",
+      "submission_period_dates": "Feb 26, 2022",
       "themes": [
         {
-          "id": 2,
-          "name": "DevOps"
+          "id": 23,
+          "name": "Beginner Friendly"
         },
         {
-          "id": 7,
-          "name": "IoT"
+          "id": 19,
+          "name": "Education"
         },
         {
-          "id": 6,
-          "name": "Machine Learning/AI"
+          "id": 22,
+          "name": "Open Ended"
         }
       ],
-      "prize_amount": "$<span data-currency-value>12,500</span>",
-      "registrations_count": 5,
+      "prize_amount": "£<span data-currency-value>2,620</span>",
+      "registrations_count": 4,
       "featured": false,
-      "organization_name": "DevNetwork",
+      "organization_name": "Oxford University",
       "winners_announced": false,
-      "submission_gallery_url": "https://dw-cloud-2022-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://dw-cloud-2022-hackathon.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://oxford-hackathon-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://oxford-hackathon-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14837,
+      "title": "HackGSU 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Online"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/836/704/datas/medium.PNG",
+      "analytics_identifier": "HackGSU 2022 (14837)",
+      "url": "https://hackgsu-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Mar 18 - 20, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>900</span>",
+      "registrations_count": 4,
+      "featured": false,
+      "organization_name": "ACM@GSU",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackgsu-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackgsu-2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -528,60 +705,35 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 14837,
-      "title": "HackGSU 2022",
+      "id": 14834,
+      "title": "DeveloperWeek Enterprise 2022 Hackathon",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Online"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/836/704/datas/medium.PNG",
-      "analytics_identifier": "HackGSU 2022 (14837)",
-      "url": "https://hackgsu-2022.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 18 - 20, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>900</span>",
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "ACM@GSU",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackgsu-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackgsu-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 14868,
-      "title": "StarWorld Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "StarWorld Discord "
+        "location": "Hynes Convention Center"
       },
       "open_state": "upcoming",
       "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "StarWorld Hackathon (14868)",
-      "url": "https://starworld-hackathon.devpost.com/",
+      "analytics_identifier": "DeveloperWeek Enterprise 2022 Hackathon (14834)",
+      "url": "https://dw-enterprise-2022-hackathon.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 23 - 24, 2022",
+      "submission_period_dates": "Oct 31 - Nov 17, 2022",
       "themes": [
         {
-          "id": 25,
-          "name": "Web"
+          "id": 21,
+          "name": "Enterprise"
+        },
+        {
+          "id": 26,
+          "name": "Mobile"
         }
       ],
-      "prize_amount": "$<span data-currency-value>20</span>",
-      "registrations_count": 3,
+      "prize_amount": "$<span data-currency-value>12,500</span>",
+      "registrations_count": 4,
       "featured": false,
-      "organization_name": "StarKloud",
+      "organization_name": "DevNetwork",
       "winners_announced": false,
-      "submission_gallery_url": "https://starworld-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://starworld-hackathon.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://dw-enterprise-2022-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://dw-enterprise-2022-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -660,76 +812,6 @@
       "eligibility_requirement_invite_only_description": "George Fox students only"
     },
     {
-      "id": 14834,
-      "title": "DeveloperWeek Enterprise 2022 Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Hynes Convention Center"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "DeveloperWeek Enterprise 2022 Hackathon (14834)",
-      "url": "https://dw-enterprise-2022-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 31 - Nov 17, 2022",
-      "themes": [
-        {
-          "id": 21,
-          "name": "Enterprise"
-        },
-        {
-          "id": 26,
-          "name": "Mobile"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>12,500</span>",
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "DevNetwork",
-      "winners_announced": false,
-      "submission_gallery_url": "https://dw-enterprise-2022-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://dw-enterprise-2022-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 14852,
-      "title": "Oxford Hack 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "University of Oxford Maths Institute"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/846/712/datas/medium.png",
-      "analytics_identifier": "Oxford Hack 2022 (14852)",
-      "url": "https://oxford-hackathon-2022.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Feb 26, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "£<span data-currency-value>2,620</span>",
-      "registrations_count": 2,
-      "featured": false,
-      "organization_name": "Oxford University",
-      "winners_announced": false,
-      "submission_gallery_url": "https://oxford-hackathon-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://oxford-hackathon-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 14752,
       "title": "LancerHacks V",
       "displayed_location": {
@@ -755,6 +837,43 @@
       "winners_announced": false,
       "submission_gallery_url": "https://lancerhacks-sfhs.devpost.com/project-gallery",
       "start_a_submission_url": "https://lancerhacks-sfhs.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14843,
+      "title": "ProfHacks 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Rowan University Engineering Hall"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/837/229/datas/medium.png",
+      "analytics_identifier": "ProfHacks 2022 (14843)",
+      "url": "https://profhacks2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Feb 26 - 27, 2022",
+      "themes": [
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        },
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1,800</span>",
+      "registrations_count": 1,
+      "featured": false,
+      "organization_name": "Rowan IEEE Student Branch",
+      "winners_announced": false,
+      "submission_gallery_url": "https://profhacks2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://profhacks2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -899,43 +1018,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 14871,
-      "title": "EU-IoT Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "fortiss, Munich, Germany"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "EU-IoT Hackathon (14871)",
-      "url": "https://eu-iot-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Feb 22 - May 15, 2022",
-      "themes": [
-        {
-          "id": 10,
-          "name": "Communication"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "€<span data-currency-value>15,300</span>",
-      "registrations_count": 1,
-      "featured": false,
-      "organization_name": "CSA EU-IoT",
-      "winners_announced": false,
-      "submission_gallery_url": "https://eu-iot-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://eu-iot-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 14641,
       "title": "MY Hack  ",
       "displayed_location": {
@@ -974,7 +1056,7 @@
     }
   ],
   "meta": {
-    "total_count": 28,
+    "total_count": 30,
     "per_page": 40,
     "fuzzy": false
   }
