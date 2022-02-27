@@ -1,74 +1,41 @@
 {
   "hackathons": [
     {
-      "id": 14654,
-      "title": "WiCHacks 2022 ",
+      "id": 14830,
+      "title": "Hajjathon - First Phase",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "RIT Magic Spells Studios"
+        "location": "Saudi Arabia "
       },
       "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/808/103/datas/medium.jpg",
-      "analytics_identifier": "WiCHacks 2022  (14654)",
-      "url": "https://wichacks-2022.devpost.com/",
-      "time_left_to_submission": "about 23 hours left",
-      "submission_period_dates": "Feb 26 - 27, 2022",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/836/455/datas/medium.png",
+      "analytics_identifier": "Hajjathon - First Phase (14830)",
+      "url": "https://hajjathon1.devpost.com/",
+      "time_left_to_submission": "about 21 hours left",
+      "submission_period_dates": "Feb 25 - 28, 2022",
       "themes": [
         {
-          "id": 5,
-          "name": "AR/VR"
+          "id": 1,
+          "name": "Blockchain"
         },
         {
-          "id": 23,
-          "name": "Beginner Friendly"
+          "id": 7,
+          "name": "IoT"
         },
         {
-          "id": 2,
-          "name": "DevOps"
+          "id": 6,
+          "name": "Machine Learning/AI"
         }
       ],
-      "prize_amount": "$<span data-currency-value>16,916</span>",
-      "registrations_count": 104,
+      "prize_amount": "$<span data-currency-value>13,300</span>",
+      "registrations_count": 96,
       "featured": false,
-      "organization_name": "others",
+      "organization_name": "EVC",
       "winners_announced": false,
-      "submission_gallery_url": "https://wichacks-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://wichacks-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 14723,
-      "title": "HackLBS 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "London Business School - North Building"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/848/182/datas/medium.jpeg",
-      "analytics_identifier": "HackLBS 2022 (14723)",
-      "url": "https://hacklbs-2022.devpost.com/",
-      "time_left_to_submission": "about 20 hours left",
-      "submission_period_dates": "Feb 26 - 27, 2022",
-      "themes": [
-        {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        }
-      ],
-      "prize_amount": "£<span data-currency-value>3,000</span>",
-      "registrations_count": 78,
-      "featured": false,
-      "organization_name": "London Business School",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hacklbs-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hacklbs-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
+      "submission_gallery_url": "https://hajjathon1.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hajjathon1.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "accepted only"
     },
     {
       "id": 14547,
@@ -100,109 +67,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 14830,
-      "title": "Hajjathon - First Phase",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Saudi Arabia "
-      },
-      "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/836/455/datas/medium.png",
-      "analytics_identifier": "Hajjathon - First Phase (14830)",
-      "url": "https://hajjathon1.devpost.com/",
-      "time_left_to_submission": "2 days left",
-      "submission_period_dates": "Feb 25 - 28, 2022",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>13,300</span>",
-      "registrations_count": 57,
-      "featured": false,
-      "organization_name": "EVC",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hajjathon1.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hajjathon1.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "accepted only"
-    },
-    {
-      "id": 14852,
-      "title": "Oxford Hack 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "University of Oxford Maths Institute"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/846/712/datas/medium.png",
-      "analytics_identifier": "Oxford Hack 2022 (14852)",
-      "url": "https://oxford-hackathon-2022.devpost.com/",
-      "time_left_to_submission": "about 18 hours left",
-      "submission_period_dates": "Feb 26 - 27, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "£<span data-currency-value>2,620</span>",
-      "registrations_count": 48,
-      "featured": false,
-      "organization_name": "Oxford University",
-      "winners_announced": false,
-      "submission_gallery_url": "https://oxford-hackathon-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://oxford-hackathon-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 14718,
-      "title": "LSESU Data Science Weekend 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Fawcett House - LSE"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/841/884/datas/medium.png",
-      "analytics_identifier": "LSESU Data Science Weekend 2022 (14718)",
-      "url": "https://lsesu-dsw-2022.devpost.com/",
-      "time_left_to_submission": "about 21 hours left",
-      "submission_period_dates": "Feb 26 - 27, 2022",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "£<span data-currency-value>1,500</span>",
-      "registrations_count": 21,
-      "featured": false,
-      "organization_name": "LSESU Data Science Society",
-      "winners_announced": false,
-      "submission_gallery_url": "https://lsesu-dsw-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://lsesu-dsw-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 14840,
       "title": "HackFest '22",
       "displayed_location": {
@@ -213,7 +77,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/847/398/datas/medium.jpg",
       "analytics_identifier": "HackFest '22 (14840)",
       "url": "https://hackfest-22.devpost.com/",
-      "time_left_to_submission": "15 days left",
+      "time_left_to_submission": "14 days left",
       "submission_period_dates": "Feb 22 - Mar 13, 2022",
       "themes": [
         {
@@ -230,7 +94,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,000</span>",
-      "registrations_count": 21,
+      "registrations_count": 24,
       "featured": false,
       "organization_name": "Google Developer Student Clubs",
       "winners_announced": false,
@@ -238,43 +102,6 @@
       "start_a_submission_url": "https://hackfest-22.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 14470,
-      "title": "VCLIC Mental Health Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "The Wond'ry"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/784/549/datas/medium.jpg",
-      "analytics_identifier": "VCLIC Mental Health Hackathon (14470)",
-      "url": "https://vclic-mental-health-hackathon.devpost.com/",
-      "time_left_to_submission": "about 5 hours left",
-      "submission_period_dates": "Feb 25 - 26, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 16,
-          "name": "Health"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>850</span>",
-      "registrations_count": 12,
-      "featured": false,
-      "organization_name": "VCLIC",
-      "winners_announced": false,
-      "submission_gallery_url": "https://vclic-mental-health-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://vclic-mental-health-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "VU or VUMC Students and Employees"
     },
     {
       "id": 14871,
@@ -314,80 +141,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 14899,
-      "title": "HackWesTX",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Texas Tech University - Innovation Hub"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/849/336/datas/medium.png",
-      "analytics_identifier": "HackWesTX (14899)",
-      "url": "https://ttuhackwestx.devpost.com/",
-      "time_left_to_submission": "about 21 hours left",
-      "submission_period_dates": "Feb 26 - 27, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 9,
-          "name": "Cybersecurity"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 7,
-      "featured": false,
-      "organization_name": "Texas Tech Google Developer Student Club",
-      "winners_announced": false,
-      "submission_gallery_url": "https://ttuhackwestx.devpost.com/project-gallery",
-      "start_a_submission_url": "https://ttuhackwestx.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 14843,
-      "title": "ProfHacks 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Rowan University Engineering Hall"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/837/229/datas/medium.png",
-      "analytics_identifier": "ProfHacks 2022 (14843)",
-      "url": "https://profhacks2022.devpost.com/",
-      "time_left_to_submission": "about 23 hours left",
-      "submission_period_dates": "Feb 26 - 27, 2022",
-      "themes": [
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        },
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>1,800</span>",
-      "registrations_count": 5,
-      "featured": false,
-      "organization_name": "Rowan IEEE Student Branch",
-      "winners_announced": false,
-      "submission_gallery_url": "https://profhacks2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://profhacks2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 14786,
       "title": "Wacode 2022",
       "displayed_location": {
@@ -398,7 +151,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/837/176/datas/medium.png",
       "analytics_identifier": "Wacode 2022 (14786)",
       "url": "https://wacode-2022.devpost.com/",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 5 hours left",
       "submission_period_dates": "Feb 26 - 27, 2022",
       "themes": [
         {
@@ -414,8 +167,8 @@
           "name": "Social Good"
         }
       ],
-      "prize_amount": "$<span data-currency-value>360</span>",
-      "registrations_count": 3,
+      "prize_amount": "$<span data-currency-value>60</span>",
+      "registrations_count": 4,
       "featured": false,
       "organization_name": "Computing For Compassion",
       "winners_announced": false,
@@ -425,18 +178,47 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 14861,
-      "title": "AUC Solution Challenge",
+      "id": 14860,
+      "title": "TEST SERVER",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "New Cairo 1, Egypt"
+        "location": "Sheikh Zayed City, Egypt"
       },
       "open_state": "open",
       "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "AUC Solution Challenge (14861)",
+      "analytics_identifier": "TEST SERVER (14860)",
+      "url": "https://test-server323.devpost.com/",
+      "time_left_to_submission": "1 day left",
+      "submission_period_dates": "Feb 27 - 28, 2022",
+      "themes": [
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>23</span>",
+      "registrations_count": 2,
+      "featured": false,
+      "organization_name": "Google Developer Student Clubs",
+      "winners_announced": false,
+      "submission_gallery_url": "https://test-server323.devpost.com/project-gallery",
+      "start_a_submission_url": "https://test-server323.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14861,
+      "title": "....",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Sheikh Zayed City, Egypt"
+      },
+      "open_state": "open",
+      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": ".... (14861)",
       "url": "https://auc-gdsc.devpost.com/",
-      "time_left_to_submission": "29 days left",
-      "submission_period_dates": "Feb 23 - Mar 27, 2022",
+      "time_left_to_submission": "about 22 hours left",
+      "submission_period_dates": "Feb 23 - 28, 2022",
       "themes": [
         {
           "id": 13,
@@ -473,7 +255,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>900</span>",
-      "registrations_count": 78,
+      "registrations_count": 85,
       "featured": false,
       "organization_name": "ACM@GSU",
       "winners_announced": false,
@@ -510,7 +292,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 52,
+      "registrations_count": 53,
       "featured": false,
       "organization_name": "HooHacks",
       "winners_announced": false,
@@ -547,12 +329,49 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>250</span>",
-      "registrations_count": 46,
+      "registrations_count": 50,
       "featured": false,
       "organization_name": "TIQC",
       "winners_announced": false,
       "submission_gallery_url": "https://tqic-cr-gwc-hacks.devpost.com/project-gallery",
       "start_a_submission_url": "https://tqic-cr-gwc-hacks.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 13608,
+      "title": "Cue Sheet Palooza Music Hackathon - Toronto, Canada",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "TBD"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/718/522/datas/medium.png",
+      "analytics_identifier": "Cue Sheet Palooza Music Hackathon - Toronto, Canada (13608)",
+      "url": "https://cue-sheet-palooza.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 09 - 10, 2022",
+      "themes": [
+        {
+          "id": 15,
+          "name": "Music/Art"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
+        },
+        {
+          "id": 1,
+          "name": "Blockchain"
+        }
+      ],
+      "prize_amount": "$CAD<span data-currency-value>10,500</span>",
+      "registrations_count": 41,
+      "featured": false,
+      "organization_name": "Screen Composers Guild of Canada & SOCAN",
+      "winners_announced": false,
+      "submission_gallery_url": "https://cue-sheet-palooza.devpost.com/project-gallery",
+      "start_a_submission_url": "https://cue-sheet-palooza.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -590,43 +409,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://theaterhackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://theaterhackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 13608,
-      "title": "Cue Sheet Palooza Music Hackathon - Toronto, Canada",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "TBD"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/718/522/datas/medium.png",
-      "analytics_identifier": "Cue Sheet Palooza Music Hackathon - Toronto, Canada (13608)",
-      "url": "https://cue-sheet-palooza.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 09 - 10, 2022",
-      "themes": [
-        {
-          "id": 15,
-          "name": "Music/Art"
-        },
-        {
-          "id": 11,
-          "name": "Productivity"
-        },
-        {
-          "id": 1,
-          "name": "Blockchain"
-        }
-      ],
-      "prize_amount": "$CAD<span data-currency-value>13,500</span>",
-      "registrations_count": 37,
-      "featured": false,
-      "organization_name": "Screen Composers Guild of Canada & SOCAN",
-      "winners_announced": false,
-      "submission_gallery_url": "https://cue-sheet-palooza.devpost.com/project-gallery",
-      "start_a_submission_url": "https://cue-sheet-palooza.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -691,12 +473,41 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 11,
+      "registrations_count": 12,
       "featured": false,
       "organization_name": "Germantown Friends School",
       "winners_announced": false,
       "submission_gallery_url": "https://quackathon-2022.devpost.com/project-gallery",
       "start_a_submission_url": "https://quackathon-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14809,
+      "title": "Blockathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Haymarket HQ"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/835/567/datas/medium.jpeg",
+      "analytics_identifier": "Blockathon (14809)",
+      "url": "https://blockathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Mar 18 - 20, 2022",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>10,000</span>",
+      "registrations_count": 11,
+      "featured": false,
+      "organization_name": "bitfwd",
+      "winners_announced": false,
+      "submission_gallery_url": "https://blockathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://blockathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -726,35 +537,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://uky-cathacks-viii.devpost.com/project-gallery",
       "start_a_submission_url": "https://uky-cathacks-viii.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 14809,
-      "title": "Blockathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Haymarket HQ"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/835/567/datas/medium.jpeg",
-      "analytics_identifier": "Blockathon (14809)",
-      "url": "https://blockathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 18 - 20, 2022",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 10,
-      "featured": false,
-      "organization_name": "bitfwd",
-      "winners_announced": false,
-      "submission_gallery_url": "https://blockathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://blockathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -856,7 +638,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>12,500</span>",
-      "registrations_count": 6,
+      "registrations_count": 7,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -893,7 +675,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>2,426</span>",
-      "registrations_count": 3,
+      "registrations_count": 4,
       "featured": false,
       "organization_name": "Cal Poly San Luis Obispo",
       "winners_announced": false,
@@ -1043,6 +825,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 14888,
+      "title": "HackCU 8",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Jennie Smoly Caruthers Biotech Building"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/848/885/datas/medium.png",
+      "analytics_identifier": "HackCU 8 (14888)",
+      "url": "https://hackcu8.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Mar 05 - 06, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 18,
+          "name": "Design"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>3,290</span>",
+      "registrations_count": 2,
+      "featured": false,
+      "organization_name": "HackCU",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackcu8.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackcu8.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 14841,
       "title": "AI LA Open Innovation Challenge",
       "displayed_location": {
@@ -1080,39 +899,31 @@
       "eligibility_requirement_invite_only_description": "In-person only March 18-20th and April 21st."
     },
     {
-      "id": 14888,
-      "title": "HackCU 8",
+      "id": 13677,
+      "title": "Holy Hack 2022",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Jennie Smoly Caruthers Biotech Building"
+        "location": "KU Leuven"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/848/885/datas/medium.png",
-      "analytics_identifier": "HackCU 8 (14888)",
-      "url": "https://hackcu8.devpost.com/",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/665/717/datas/medium.png",
+      "analytics_identifier": "Holy Hack 2022 (13677)",
+      "url": "https://holy-hack-2022.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 05 - 06, 2022",
+      "submission_period_dates": "Mar 18 - 19, 2022",
       "themes": [
         {
           "id": 23,
           "name": "Beginner Friendly"
-        },
-        {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
         }
       ],
-      "prize_amount": "$<span data-currency-value>3,290</span>",
+      "prize_amount": "€<span data-currency-value>2,890</span>",
       "registrations_count": 1,
       "featured": false,
-      "organization_name": "HackCU",
+      "organization_name": "Academics for Technology Leuven",
       "winners_announced": false,
-      "submission_gallery_url": "https://hackcu8.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackcu8.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://holy-hack-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://holy-hack-2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -1192,7 +1003,7 @@
     }
   ],
   "meta": {
-    "total_count": 34,
+    "total_count": 29,
     "per_page": 40,
     "fuzzy": false
   }
