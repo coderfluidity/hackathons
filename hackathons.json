@@ -40,7 +40,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/847/398/datas/medium.jpg",
       "analytics_identifier": "HackFest '22 (14840)",
       "url": "https://hackfest-22.devpost.com/",
-      "time_left_to_submission": "9 days left",
+      "time_left_to_submission": "8 days left",
       "submission_period_dates": "Feb 22 - Mar 13, 2022",
       "themes": [
         {
@@ -77,7 +77,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/857/878/datas/medium.png",
       "analytics_identifier": "ProduHacks 2022 - UBC BizTech & EY's Product Management Hackathon (14922)",
       "url": "https://produhacks-2022.devpost.com/",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "1 day left",
       "submission_period_dates": "Mar 02 - 06, 2022",
       "themes": [
         {
@@ -94,7 +94,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,500</span>",
-      "registrations_count": 21,
+      "registrations_count": 45,
       "featured": false,
       "organization_name": "UBC BizTech",
       "winners_announced": false,
@@ -102,6 +102,76 @@
       "start_a_submission_url": "https://produhacks-2022.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Accepted applicants only - must have confirmed!"
+    },
+    {
+      "id": 14929,
+      "title": "STACSHack 2022 | Murder Mystery",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "St Andrews"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/858/341/datas/medium.png",
+      "analytics_identifier": "STACSHack 2022 | Murder Mystery (14929)",
+      "url": "https://stacshack-murder-mystery.devpost.com/",
+      "time_left_to_submission": "about 18 hours left",
+      "submission_period_dates": "Mar 05 - 06, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 18,
+          "name": "Design"
+        }
+      ],
+      "prize_amount": "£<span data-currency-value>925</span>",
+      "registrations_count": 34,
+      "featured": false,
+      "organization_name": "St Andrews Computing Society",
+      "winners_announced": false,
+      "submission_gallery_url": "https://stacshack-murder-mystery.devpost.com/project-gallery",
+      "start_a_submission_url": "https://stacshack-murder-mystery.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14715,
+      "title": "Quackathon 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Germantown Friends School"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/819/649/datas/medium.png",
+      "analytics_identifier": "Quackathon 2022 (14715)",
+      "url": "https://quackathon-2022.devpost.com/",
+      "time_left_to_submission": "about 5 hours left",
+      "submission_period_dates": "Mar 05, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 16,
+          "name": "Health"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>200</span>",
+      "registrations_count": 26,
+      "featured": false,
+      "organization_name": "Germantown Friends School",
+      "winners_announced": false,
+      "submission_gallery_url": "https://quackathon-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://quackathon-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 14871,
@@ -131,7 +201,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>12,300</span>",
-      "registrations_count": 16,
+      "registrations_count": 15,
       "featured": false,
       "organization_name": "CSA EU-IoT",
       "winners_announced": false,
@@ -139,6 +209,109 @@
       "start_a_submission_url": "https://eu-iot-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14752,
+      "title": "LancerHacks V",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Saint Francis High School"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/819/843/datas/medium.png",
+      "analytics_identifier": "LancerHacks V (14752)",
+      "url": "https://lancerhacks-v.devpost.com/",
+      "time_left_to_submission": "about 8 hours left",
+      "submission_period_dates": "Mar 05, 2022",
+      "themes": [
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>9,337</span>",
+      "registrations_count": 12,
+      "featured": false,
+      "organization_name": "Saint Francis High School",
+      "winners_announced": false,
+      "submission_gallery_url": "https://lancerhacks-v.devpost.com/project-gallery",
+      "start_a_submission_url": "https://lancerhacks-v.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14826,
+      "title": "Quackathon 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Queen Mother Building, UOD"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/836/295/datas/medium.png",
+      "analytics_identifier": "Quackathon 2022 (14826)",
+      "url": "https://2022-quackathon.devpost.com/",
+      "time_left_to_submission": "about 19 hours left",
+      "submission_period_dates": "Mar 05 - 06, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 4,
+          "name": "Gaming"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "£<span data-currency-value>6,630</span>",
+      "registrations_count": 7,
+      "featured": false,
+      "organization_name": "Dundee University Computing Society",
+      "winners_announced": false,
+      "submission_gallery_url": "https://2022-quackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://2022-quackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14217,
+      "title": "Camp PolyHacks 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "SLO Hot House"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/849/449/datas/medium.png",
+      "analytics_identifier": "Camp PolyHacks 2022 (14217)",
+      "url": "https://camppolyhacks2022.devpost.com/",
+      "time_left_to_submission": "1 day left",
+      "submission_period_dates": "Mar 05 - 06, 2022",
+      "themes": [
+        {
+          "id": 10,
+          "name": "Communication"
+        },
+        {
+          "id": 18,
+          "name": "Design"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>3,072</span>",
+      "registrations_count": 4,
+      "featured": false,
+      "organization_name": "Cal Poly San Luis Obispo",
+      "winners_announced": false,
+      "submission_gallery_url": "https://camppolyhacks2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://camppolyhacks2022.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Cal Poly students only"
     },
     {
       "id": 14911,
@@ -189,7 +362,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>900</span>",
-      "registrations_count": 137,
+      "registrations_count": 142,
       "featured": false,
       "organization_name": "ACM@GSU",
       "winners_announced": false,
@@ -226,49 +399,12 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 62,
+      "registrations_count": 63,
       "featured": false,
       "organization_name": "HooHacks",
       "winners_announced": false,
       "submission_gallery_url": "https://hoohacks-2022.devpost.com/project-gallery",
       "start_a_submission_url": "https://hoohacks-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 14824,
-      "title": "TIQC x Code Resolve x Girls Who Code Hacks",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Virtual"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/849/278/datas/medium.png",
-      "analytics_identifier": "TIQC x Code Resolve x Girls Who Code Hacks (14824)",
-      "url": "https://tqic-cr-gwc-hacks.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 04, 2022",
-      "themes": [
-        {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 26,
-          "name": "Mobile"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>250</span>",
-      "registrations_count": 61,
-      "featured": false,
-      "organization_name": "TIQC",
-      "winners_announced": false,
-      "submission_gallery_url": "https://tqic-cr-gwc-hacks.devpost.com/project-gallery",
-      "start_a_submission_url": "https://tqic-cr-gwc-hacks.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -347,39 +483,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 14715,
-      "title": "Quackathon 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Germantown Friends School"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/819/649/datas/medium.png",
-      "analytics_identifier": "Quackathon 2022 (14715)",
-      "url": "https://quackathon-2022.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 05, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 16,
-          "name": "Health"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>200</span>",
-      "registrations_count": 25,
-      "featured": false,
-      "organization_name": "Germantown Friends School",
-      "winners_announced": false,
-      "submission_gallery_url": "https://quackathon-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://quackathon-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 14317,
       "title": "Philly Codefest 2022",
       "displayed_location": {
@@ -407,7 +510,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 21,
+      "registrations_count": 23,
       "featured": false,
       "organization_name": "Drexel University CCI",
       "winners_announced": false,
@@ -444,7 +547,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>3,290</span>",
-      "registrations_count": 14,
+      "registrations_count": 22,
       "featured": false,
       "organization_name": "HackCU",
       "winners_announced": false,
@@ -502,7 +605,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,450</span>",
-      "registrations_count": 11,
+      "registrations_count": 12,
       "featured": false,
       "organization_name": "University of Kentucky",
       "winners_announced": false,
@@ -619,107 +722,41 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 14752,
-      "title": "LancerHacks V",
+      "id": 14884,
+      "title": "Motor City Hack on Mobility, Health and Well-being",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Saint Francis High School"
+        "location": "WSU - Student Center Building"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/819/843/datas/medium.png",
-      "analytics_identifier": "LancerHacks V (14752)",
-      "url": "https://lancerhacks-v.devpost.com/",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/848/722/datas/medium.png",
+      "analytics_identifier": "Motor City Hack on Mobility, Health and Well-being (14884)",
+      "url": "https://motor-city-hack.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 05, 2022",
+      "submission_period_dates": "Apr 07 - 08, 2022",
       "themes": [
         {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>9,337</span>",
-      "registrations_count": 6,
-      "featured": false,
-      "organization_name": "Saint Francis High School",
-      "winners_announced": false,
-      "submission_gallery_url": "https://lancerhacks-v.devpost.com/project-gallery",
-      "start_a_submission_url": "https://lancerhacks-v.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 14826,
-      "title": "Quackathon 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Queen Mother Building, UOD"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/836/295/datas/medium.png",
-      "analytics_identifier": "Quackathon 2022 (14826)",
-      "url": "https://2022-quackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 05 - 06, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
+          "id": 16,
+          "name": "Health"
         },
         {
-          "id": 4,
-          "name": "Gaming"
+          "id": 11,
+          "name": "Productivity"
         },
         {
-          "id": 22,
-          "name": "Open Ended"
+          "id": 13,
+          "name": "Social Good"
         }
       ],
-      "prize_amount": "£<span data-currency-value>230</span>",
+      "prize_amount": "$<span data-currency-value>3,000</span>",
       "registrations_count": 5,
       "featured": false,
-      "organization_name": "Dundee University Computing Society",
+      "organization_name": "Wayne State University",
       "winners_announced": false,
-      "submission_gallery_url": "https://2022-quackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://2022-quackathon.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://motor-city-hack.devpost.com/project-gallery",
+      "start_a_submission_url": "https://motor-city-hack.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 14217,
-      "title": "Camp PolyHacks 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "SLO Hot House"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/849/449/datas/medium.png",
-      "analytics_identifier": "Camp PolyHacks 2022 (14217)",
-      "url": "https://camppolyhacks2022.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 05 - 06, 2022",
-      "themes": [
-        {
-          "id": 10,
-          "name": "Communication"
-        },
-        {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>3,072</span>",
-      "registrations_count": 4,
-      "featured": false,
-      "organization_name": "Cal Poly San Luis Obispo",
-      "winners_announced": false,
-      "submission_gallery_url": "https://camppolyhacks2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://camppolyhacks2022.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Cal Poly students only"
     },
     {
       "id": 13677,
@@ -747,6 +784,43 @@
       "winners_announced": false,
       "submission_gallery_url": "https://holy-hack-2022.devpost.com/project-gallery",
       "start_a_submission_url": "https://holy-hack-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14901,
+      "title": "Hack for the World 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Dealer Inspire"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/849/593/datas/medium.png",
+      "analytics_identifier": "Hack for the World 2022 (14901)",
+      "url": "https://hackftw2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 23, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>435</span>",
+      "registrations_count": 4,
+      "featured": false,
+      "organization_name": "Naperville North Computer Science Club",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackftw2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackftw2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -862,76 +936,39 @@
       "eligibility_requirement_invite_only_description": "George Fox students only"
     },
     {
-      "id": 14901,
-      "title": "Hack for the World 2022",
+      "id": 14785,
+      "title": "(HATCH) HudsonAlpha Tech Challenge 2022",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Dealer Inspire"
+        "location": "HudsonAlpha Institute for Biotechnology"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/849/593/datas/medium.png",
-      "analytics_identifier": "Hack for the World 2022 (14901)",
-      "url": "https://hackftw2022.devpost.com/",
+      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "(HATCH) HudsonAlpha Tech Challenge 2022 (14785)",
+      "url": "https://hatch-2022.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 23, 2022",
+      "submission_period_dates": "May 07 - 08, 2022",
       "themes": [
         {
-          "id": 23,
-          "name": "Beginner Friendly"
+          "id": 5,
+          "name": "AR/VR"
         },
         {
-          "id": 22,
-          "name": "Open Ended"
+          "id": 19,
+          "name": "Education"
         },
         {
-          "id": 13,
-          "name": "Social Good"
+          "id": 16,
+          "name": "Health"
         }
       ],
-      "prize_amount": "$<span data-currency-value>435</span>",
+      "prize_amount": "$<span data-currency-value>9,800</span>",
       "registrations_count": 3,
       "featured": false,
-      "organization_name": "Naperville North Computer Science Club",
+      "organization_name": "HudsonAlpha Institute for Biotechnology",
       "winners_announced": false,
-      "submission_gallery_url": "https://hackftw2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackftw2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 14929,
-      "title": "STACSHack 2022 | Murder Mystery",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "St Andrews"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/858/341/datas/medium.png",
-      "analytics_identifier": "STACSHack 2022 | Murder Mystery (14929)",
-      "url": "https://stacshack-murder-mystery.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 05 - 06, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 18,
-          "name": "Design"
-        }
-      ],
-      "prize_amount": "£<span data-currency-value>925</span>",
-      "registrations_count": 2,
-      "featured": false,
-      "organization_name": "St Andrews Computing Society",
-      "winners_announced": false,
-      "submission_gallery_url": "https://stacshack-murder-mystery.devpost.com/project-gallery",
-      "start_a_submission_url": "https://stacshack-murder-mystery.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://hatch-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hatch-2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -1008,43 +1045,6 @@
       "start_a_submission_url": "https://open-innovation-challenge.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "In-person only March 18-20th and April 21st."
-    },
-    {
-      "id": 14785,
-      "title": "(HATCH) HudsonAlpha Tech Challenge 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "HudsonAlpha Institute for Biotechnology"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "(HATCH) HudsonAlpha Tech Challenge 2022 (14785)",
-      "url": "https://hatch-2022.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 07 - 08, 2022",
-      "themes": [
-        {
-          "id": 5,
-          "name": "AR/VR"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 16,
-          "name": "Health"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>9,800</span>",
-      "registrations_count": 2,
-      "featured": false,
-      "organization_name": "HudsonAlpha Institute for Biotechnology",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hatch-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hatch-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 14641,
