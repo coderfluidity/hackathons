@@ -40,7 +40,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/847/398/datas/medium.jpg",
       "analytics_identifier": "HackFest '22 (14840)",
       "url": "https://hackfest-22.devpost.com/",
-      "time_left_to_submission": "6 days left",
+      "time_left_to_submission": "5 days left",
       "submission_period_dates": "Feb 22 - Mar 13, 2022",
       "themes": [
         {
@@ -57,7 +57,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,000</span>",
-      "registrations_count": 63,
+      "registrations_count": 66,
       "featured": false,
       "organization_name": "Google Developer Student Clubs",
       "winners_announced": false,
@@ -94,7 +94,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>12,300</span>",
-      "registrations_count": 16,
+      "registrations_count": 17,
       "featured": false,
       "organization_name": "CSA EU-IoT",
       "winners_announced": false,
@@ -152,7 +152,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>900</span>",
-      "registrations_count": 148,
+      "registrations_count": 162,
       "featured": false,
       "organization_name": "ACM@GSU",
       "winners_announced": false,
@@ -189,7 +189,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 65,
+      "registrations_count": 71,
       "featured": false,
       "organization_name": "HooHacks",
       "winners_announced": false,
@@ -226,7 +226,7 @@
         }
       ],
       "prize_amount": "$CAD<span data-currency-value>10,500</span>",
-      "registrations_count": 45,
+      "registrations_count": 46,
       "featured": false,
       "organization_name": "Screen Composers Guild of Canada & SOCAN",
       "winners_announced": false,
@@ -300,12 +300,41 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 25,
+      "registrations_count": 28,
       "featured": false,
       "organization_name": "Drexel University CCI",
       "winners_announced": false,
       "submission_gallery_url": "https://philly-codefest-2022.devpost.com/project-gallery",
       "start_a_submission_url": "https://philly-codefest-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14114,
+      "title": "Cathacks VIII",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "University of Kentucky - Grehan Building"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/864/190/datas/medium.png",
+      "analytics_identifier": "Cathacks VIII (14114)",
+      "url": "https://uky-cathacks-viii.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 08 - 10, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1,450</span>",
+      "registrations_count": 16,
+      "featured": false,
+      "organization_name": "University of Kentucky",
+      "winners_announced": false,
+      "submission_gallery_url": "https://uky-cathacks-viii.devpost.com/project-gallery",
+      "start_a_submission_url": "https://uky-cathacks-viii.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -335,35 +364,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://blockathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://blockathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 14114,
-      "title": "Cathacks VIII",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "University of Kentucky - Grehan Building"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/793/459/datas/medium.png",
-      "analytics_identifier": "Cathacks VIII (14114)",
-      "url": "https://uky-cathacks-viii.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 08 - 10, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>1,450</span>",
-      "registrations_count": 13,
-      "featured": false,
-      "organization_name": "University of Kentucky",
-      "winners_announced": false,
-      "submission_gallery_url": "https://uky-cathacks-viii.devpost.com/project-gallery",
-      "start_a_submission_url": "https://uky-cathacks-viii.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -401,6 +401,43 @@
       "winners_announced": false,
       "submission_gallery_url": "https://dw-cloud-2022-hackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://dw-cloud-2022-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14883,
+      "title": "2022 DC FINRA-Georgetown-UDC Buildathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Georgetown University, Hariri Building "
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/848/724/datas/medium.png",
+      "analytics_identifier": "2022 DC FINRA-Georgetown-UDC Buildathon (14883)",
+      "url": "https://dc-finra-buildathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 01 - 03, 2022",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 3,
+          "name": "Fintech"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>18,000</span>",
+      "registrations_count": 9,
+      "featured": false,
+      "organization_name": "Finra",
+      "winners_announced": false,
+      "submission_gallery_url": "https://dc-finra-buildathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://dc-finra-buildathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -475,39 +512,39 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 14883,
-      "title": "2022 DC FINRA-Georgetown-UDC Buildathon",
+      "id": 14502,
+      "title": "CYHacks '22",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Georgetown University, Hariri Building "
+        "location": "Central York High School"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/848/724/datas/medium.png",
-      "analytics_identifier": "2022 DC FINRA-Georgetown-UDC Buildathon (14883)",
-      "url": "https://dc-finra-buildathon.devpost.com/",
+      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "CYHacks '22 (14502)",
+      "url": "https://cyhacks-22.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 01 - 03, 2022",
+      "submission_period_dates": "Mar 26, 2022",
       "themes": [
         {
-          "id": 1,
-          "name": "Blockchain"
+          "id": 19,
+          "name": "Education"
         },
         {
-          "id": 3,
-          "name": "Fintech"
+          "id": 22,
+          "name": "Open Ended"
         },
         {
-          "id": 6,
-          "name": "Machine Learning/AI"
+          "id": 13,
+          "name": "Social Good"
         }
       ],
-      "prize_amount": "$<span data-currency-value>18,000</span>",
+      "prize_amount": "$<span data-currency-value>1</span>",
       "registrations_count": 6,
       "featured": false,
-      "organization_name": "Finra",
+      "organization_name": "CYHS iTeam",
       "winners_announced": false,
-      "submission_gallery_url": "https://dc-finra-buildathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://dc-finra-buildathon.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://cyhacks-22.devpost.com/project-gallery",
+      "start_a_submission_url": "https://cyhacks-22.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -539,41 +576,12 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>3,000</span>",
-      "registrations_count": 5,
+      "registrations_count": 6,
       "featured": false,
       "organization_name": "Wayne State University",
       "winners_announced": false,
       "submission_gallery_url": "https://motor-city-hack.devpost.com/project-gallery",
       "start_a_submission_url": "https://motor-city-hack.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 13677,
-      "title": "Holy Hack 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "KU Leuven"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/665/717/datas/medium.png",
-      "analytics_identifier": "Holy Hack 2022 (13677)",
-      "url": "https://holy-hack-2022.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 18 - 19, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        }
-      ],
-      "prize_amount": "€<span data-currency-value>2,890</span>",
-      "registrations_count": 4,
-      "featured": false,
-      "organization_name": "Academics for Technology Leuven",
-      "winners_announced": false,
-      "submission_gallery_url": "https://holy-hack-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://holy-hack-2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -615,39 +623,68 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 14502,
-      "title": "CYHacks '22",
+      "id": 13677,
+      "title": "Holy Hack 2022",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Central York High School"
+        "location": "KU Leuven"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "CYHacks '22 (14502)",
-      "url": "https://cyhacks-22.devpost.com/",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/665/717/datas/medium.png",
+      "analytics_identifier": "Holy Hack 2022 (13677)",
+      "url": "https://holy-hack-2022.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 26, 2022",
+      "submission_period_dates": "Mar 18 - 19, 2022",
       "themes": [
         {
-          "id": 19,
-          "name": "Education"
+          "id": 23,
+          "name": "Beginner Friendly"
+        }
+      ],
+      "prize_amount": "€<span data-currency-value>2,890</span>",
+      "registrations_count": 3,
+      "featured": false,
+      "organization_name": "Academics for Technology Leuven",
+      "winners_announced": false,
+      "submission_gallery_url": "https://holy-hack-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://holy-hack-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14984,
+      "title": "Berkeley Blockchain Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Workstation West Berkeley"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/864/154/datas/medium.png",
+      "analytics_identifier": "Berkeley Blockchain Hackathon (14984)",
+      "url": "https://hackberkeley.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Mar 18 - 20, 2022",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
         },
         {
-          "id": 22,
-          "name": "Open Ended"
+          "id": 3,
+          "name": "Fintech"
         },
         {
           "id": 13,
           "name": "Social Good"
         }
       ],
-      "prize_amount": "$<span data-currency-value>1</span>",
+      "prize_amount": "$<span data-currency-value>20,000</span>",
       "registrations_count": 3,
       "featured": false,
-      "organization_name": "CYHS iTeam",
+      "organization_name": "Node Inc",
       "winners_announced": false,
-      "submission_gallery_url": "https://cyhacks-22.devpost.com/project-gallery",
-      "start_a_submission_url": "https://cyhacks-22.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://hackberkeley.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackberkeley.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -933,7 +970,7 @@
     }
   ],
   "meta": {
-    "total_count": 27,
+    "total_count": 28,
     "per_page": 40,
     "fuzzy": false
   }
