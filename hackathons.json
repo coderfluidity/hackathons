@@ -11,7 +11,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/847/398/datas/medium.jpg",
       "analytics_identifier": "HackFest '22 (14840)",
       "url": "https://hackfest-22.devpost.com/",
-      "time_left_to_submission": "3 days left",
+      "time_left_to_submission": "2 days left",
       "submission_period_dates": "Feb 22 - Mar 13, 2022",
       "themes": [
         {
@@ -28,7 +28,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,000</span>",
-      "registrations_count": 74,
+      "registrations_count": 76,
       "featured": false,
       "organization_name": "Google Developer Student Clubs",
       "winners_announced": false,
@@ -94,7 +94,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>12,300</span>",
-      "registrations_count": 22,
+      "registrations_count": 23,
       "featured": false,
       "organization_name": "CSA EU-IoT",
       "winners_announced": false,
@@ -152,7 +152,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,400</span>",
-      "registrations_count": 178,
+      "registrations_count": 187,
       "featured": false,
       "organization_name": "ACM@GSU",
       "winners_announced": false,
@@ -189,7 +189,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 73,
+      "registrations_count": 81,
       "featured": false,
       "organization_name": "HooHacks",
       "winners_announced": false,
@@ -329,7 +329,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,450</span>",
-      "registrations_count": 16,
+      "registrations_count": 17,
       "featured": false,
       "organization_name": "University of Kentucky",
       "winners_announced": false,
@@ -549,6 +549,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 14984,
+      "title": "Berkeley Blockchain Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Workstation West Berkeley"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/864/154/datas/medium.png",
+      "analytics_identifier": "Berkeley Blockchain Hackathon (14984)",
+      "url": "https://hackberkeley.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Mar 18 - 20, 2022",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 3,
+          "name": "Fintech"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>20,000</span>",
+      "registrations_count": 7,
+      "featured": false,
+      "organization_name": "Node Inc",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackberkeley.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackberkeley.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 14884,
       "title": "Motor City Hack on Mobility, Health and Well-being",
       "displayed_location": {
@@ -586,39 +623,68 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 14984,
-      "title": "Berkeley Blockchain Hackathon",
+      "id": 14717,
+      "title": "codeLinc at Morgan State University",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Workstation West Berkeley"
+        "location": "Morgan State University"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/864/154/datas/medium.png",
-      "analytics_identifier": "Berkeley Blockchain Hackathon (14984)",
-      "url": "https://hackberkeley.devpost.com/",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/817/086/datas/medium.png",
+      "analytics_identifier": "codeLinc at Morgan State University (14717)",
+      "url": "https://codelincmsu.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 18 - 20, 2022",
+      "submission_period_dates": "Apr 02 - 03, 2022",
       "themes": [
         {
-          "id": 1,
-          "name": "Blockchain"
+          "id": 23,
+          "name": "Beginner Friendly"
         },
         {
           "id": 3,
           "name": "Fintech"
         },
         {
-          "id": 13,
-          "name": "Social Good"
+          "id": 6,
+          "name": "Machine Learning/AI"
         }
       ],
-      "prize_amount": "$<span data-currency-value>20,000</span>",
-      "registrations_count": 5,
+      "prize_amount": "$<span data-currency-value>7,000</span>",
+      "registrations_count": 6,
       "featured": false,
-      "organization_name": "Node Inc",
+      "organization_name": "Lincoln Financial Group",
       "winners_announced": false,
-      "submission_gallery_url": "https://hackberkeley.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackberkeley.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://codelincmsu.devpost.com/project-gallery",
+      "start_a_submission_url": "https://codelincmsu.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Morgan State University Students Only"
+    },
+    {
+      "id": 13677,
+      "title": "Holy Hack 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "KU Leuven"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/665/717/datas/medium.png",
+      "analytics_identifier": "Holy Hack 2022 (13677)",
+      "url": "https://holy-hack-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Mar 18 - 19, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        }
+      ],
+      "prize_amount": "€<span data-currency-value>2,890</span>",
+      "registrations_count": 4,
+      "featured": false,
+      "organization_name": "Academics for Technology Leuven",
+      "winners_announced": false,
+      "submission_gallery_url": "https://holy-hack-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://holy-hack-2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -660,35 +726,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 13677,
-      "title": "Holy Hack 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "KU Leuven"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/665/717/datas/medium.png",
-      "analytics_identifier": "Holy Hack 2022 (13677)",
-      "url": "https://holy-hack-2022.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 18 - 19, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        }
-      ],
-      "prize_amount": "€<span data-currency-value>2,890</span>",
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "Academics for Technology Leuven",
-      "winners_announced": false,
-      "submission_gallery_url": "https://holy-hack-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://holy-hack-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 14267,
       "title": "GFU Code Jam V2",
       "displayed_location": {
@@ -726,43 +763,6 @@
       "eligibility_requirement_invite_only_description": "George Fox students only"
     },
     {
-      "id": 14717,
-      "title": "codeLinc at Morgan State University",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Morgan State University"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/817/086/datas/medium.png",
-      "analytics_identifier": "codeLinc at Morgan State University (14717)",
-      "url": "https://codelincmsu.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 02 - 03, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 3,
-          "name": "Fintech"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>7,000</span>",
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "Lincoln Financial Group",
-      "winners_announced": false,
-      "submission_gallery_url": "https://codelincmsu.devpost.com/project-gallery",
-      "start_a_submission_url": "https://codelincmsu.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Morgan State University Students Only"
-    },
-    {
       "id": 14785,
       "title": "(HATCH) HudsonAlpha Tech Challenge 2022",
       "displayed_location": {
@@ -796,6 +796,43 @@
       "winners_announced": false,
       "submission_gallery_url": "https://hatch-2022.devpost.com/project-gallery",
       "start_a_submission_url": "https://hatch-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14212,
+      "title": "YHack 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Tsai CITY"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/863/745/datas/medium.png",
+      "analytics_identifier": "YHack 2022 (14212)",
+      "url": "https://yhack-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 08 - 10, 2022",
+      "themes": [
+        {
+          "id": 5,
+          "name": "AR/VR"
+        },
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>3,000</span>",
+      "registrations_count": 2,
+      "featured": false,
+      "organization_name": "YHack",
+      "winners_announced": false,
+      "submission_gallery_url": "https://yhack-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://yhack-2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -901,43 +938,6 @@
       "start_a_submission_url": "https://interchain-internal-i.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Interchain Employees"
-    },
-    {
-      "id": 14212,
-      "title": "YHack 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Tsai CITY"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/863/745/datas/medium.png",
-      "analytics_identifier": "YHack 2022 (14212)",
-      "url": "https://yhack-2022.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 08 - 10, 2022",
-      "themes": [
-        {
-          "id": 5,
-          "name": "AR/VR"
-        },
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>3,000</span>",
-      "registrations_count": 1,
-      "featured": false,
-      "organization_name": "YHack",
-      "winners_announced": false,
-      "submission_gallery_url": "https://yhack-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://yhack-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 14917,
