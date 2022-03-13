@@ -11,7 +11,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/847/398/datas/medium.jpg",
       "analytics_identifier": "HackFest '22 (14840)",
       "url": "https://hackfest-22.devpost.com/",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 1 hour left",
       "submission_period_dates": "Feb 22 - Mar 13, 2022",
       "themes": [
         {
@@ -28,7 +28,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,000</span>",
-      "registrations_count": 79,
+      "registrations_count": 83,
       "featured": false,
       "organization_name": "Google Developer Student Clubs",
       "winners_announced": false,
@@ -94,7 +94,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>12,300</span>",
-      "registrations_count": 23,
+      "registrations_count": 25,
       "featured": false,
       "organization_name": "CSA EU-IoT",
       "winners_announced": false,
@@ -102,39 +102,6 @@
       "start_a_submission_url": "https://eu-iot-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 15018,
-      "title": "Horizons 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Georgia Tech - Instructional Center"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/866/696/datas/medium.png",
-      "analytics_identifier": "Horizons 2022 (15018)",
-      "url": "https://horizons-2022.devpost.com/",
-      "time_left_to_submission": "about 22 hours left",
-      "submission_period_dates": "Mar 12 - 13, 2022",
-      "themes": [
-        {
-          "id": 15,
-          "name": "Music/Art"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>825</span>",
-      "registrations_count": 6,
-      "featured": false,
-      "organization_name": "HexLabs",
-      "winners_announced": false,
-      "submission_gallery_url": "https://horizons-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://horizons-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Registered Horizons Participants"
     },
     {
       "id": 14911,
@@ -185,7 +152,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,400</span>",
-      "registrations_count": 192,
+      "registrations_count": 204,
       "featured": false,
       "organization_name": "ACM@GSU",
       "winners_announced": false,
@@ -221,7 +188,7 @@
           "name": "Social Good"
         }
       ],
-      "prize_amount": "$<span data-currency-value>10,000</span>",
+      "prize_amount": "$<span data-currency-value>5,950</span>",
       "registrations_count": 82,
       "featured": false,
       "organization_name": "HooHacks",
@@ -438,18 +405,18 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 14883,
-      "title": "2022 DC FINRA-Georgetown-UDC Buildathon",
+      "id": 14984,
+      "title": "Berkeley Blockchain Hackathon",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Georgetown University, Hariri Building "
+        "location": "Workstation West Berkeley"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/848/724/datas/medium.png",
-      "analytics_identifier": "2022 DC FINRA-Georgetown-UDC Buildathon (14883)",
-      "url": "https://dc-finra-buildathon.devpost.com/",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/864/154/datas/medium.png",
+      "analytics_identifier": "Berkeley Blockchain Hackathon (14984)",
+      "url": "https://hackberkeley.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 01 - 03, 2022",
+      "submission_period_dates": "Mar 18 - 20, 2022",
       "themes": [
         {
           "id": 1,
@@ -464,13 +431,50 @@
           "name": "Social Good"
         }
       ],
-      "prize_amount": "$<span data-currency-value>18,000</span>",
+      "prize_amount": "$<span data-currency-value>20,000</span>",
       "registrations_count": 10,
       "featured": false,
-      "organization_name": "Finra",
+      "organization_name": "Node Inc",
       "winners_announced": false,
-      "submission_gallery_url": "https://dc-finra-buildathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://dc-finra-buildathon.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://hackberkeley.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackberkeley.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14901,
+      "title": "Hack for the World 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Dealer Inspire"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/849/593/datas/medium.png",
+      "analytics_identifier": "Hack for the World 2022 (14901)",
+      "url": "https://hackftw2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 24, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>435</span>",
+      "registrations_count": 10,
+      "featured": false,
+      "organization_name": "Naperville North Computer Science Club",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackftw2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackftw2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -512,18 +516,18 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 14984,
-      "title": "Berkeley Blockchain Hackathon",
+      "id": 14883,
+      "title": "2022 DC FINRA-Georgetown-UDC Buildathon",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Workstation West Berkeley"
+        "location": "Georgetown University, Hariri Building "
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/864/154/datas/medium.png",
-      "analytics_identifier": "Berkeley Blockchain Hackathon (14984)",
-      "url": "https://hackberkeley.devpost.com/",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/848/724/datas/medium.png",
+      "analytics_identifier": "2022 DC FINRA-Georgetown-UDC Buildathon (14883)",
+      "url": "https://dc-finra-buildathon.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 18 - 20, 2022",
+      "submission_period_dates": "Apr 01 - 03, 2022",
       "themes": [
         {
           "id": 1,
@@ -538,50 +542,13 @@
           "name": "Social Good"
         }
       ],
-      "prize_amount": "$<span data-currency-value>20,000</span>",
+      "prize_amount": "$<span data-currency-value>18,000</span>",
       "registrations_count": 9,
       "featured": false,
-      "organization_name": "Node Inc",
+      "organization_name": "Finra",
       "winners_announced": false,
-      "submission_gallery_url": "https://hackberkeley.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackberkeley.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 14901,
-      "title": "Hack for the World 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Dealer Inspire"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/849/593/datas/medium.png",
-      "analytics_identifier": "Hack for the World 2022 (14901)",
-      "url": "https://hackftw2022.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 24, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>435</span>",
-      "registrations_count": 9,
-      "featured": false,
-      "organization_name": "Naperville North Computer Science Club",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackftw2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackftw2022.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://dc-finra-buildathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://dc-finra-buildathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -623,6 +590,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 14884,
+      "title": "Motor City Hack on Mobility, Health and Well-being",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "WSU - Student Center Building"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/848/722/datas/medium.png",
+      "analytics_identifier": "Motor City Hack on Mobility, Health and Well-being (14884)",
+      "url": "https://motor-city-hack.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 07 - 08, 2022",
+      "themes": [
+        {
+          "id": 16,
+          "name": "Health"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>3,000</span>",
+      "registrations_count": 8,
+      "featured": false,
+      "organization_name": "Wayne State University",
+      "winners_announced": false,
+      "submission_gallery_url": "https://motor-city-hack.devpost.com/project-gallery",
+      "start_a_submission_url": "https://motor-city-hack.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 14834,
       "title": "DeveloperWeek Enterprise 2022 Hackathon",
       "displayed_location": {
@@ -652,43 +656,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://dw-enterprise-2022-hackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://dw-enterprise-2022-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 14884,
-      "title": "Motor City Hack on Mobility, Health and Well-being",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "WSU - Student Center Building"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/848/722/datas/medium.png",
-      "analytics_identifier": "Motor City Hack on Mobility, Health and Well-being (14884)",
-      "url": "https://motor-city-hack.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 07 - 08, 2022",
-      "themes": [
-        {
-          "id": 16,
-          "name": "Health"
-        },
-        {
-          "id": 11,
-          "name": "Productivity"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>3,000</span>",
-      "registrations_count": 7,
-      "featured": false,
-      "organization_name": "Wayne State University",
-      "winners_announced": false,
-      "submission_gallery_url": "https://motor-city-hack.devpost.com/project-gallery",
-      "start_a_submission_url": "https://motor-city-hack.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -759,6 +726,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 14785,
+      "title": "(HATCH) HudsonAlpha Tech Challenge 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "HudsonAlpha Institute for Biotechnology"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "(HATCH) HudsonAlpha Tech Challenge 2022 (14785)",
+      "url": "https://hatch-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "May 07 - 08, 2022",
+      "themes": [
+        {
+          "id": 5,
+          "name": "AR/VR"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 16,
+          "name": "Health"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>9,800</span>",
+      "registrations_count": 4,
+      "featured": false,
+      "organization_name": "HudsonAlpha Institute for Biotechnology",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hatch-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hatch-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 14267,
       "title": "GFU Code Jam V2",
       "displayed_location": {
@@ -794,43 +798,6 @@
       "start_a_submission_url": "https://foxacmw.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "George Fox students only"
-    },
-    {
-      "id": 14785,
-      "title": "(HATCH) HudsonAlpha Tech Challenge 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "HudsonAlpha Institute for Biotechnology"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "(HATCH) HudsonAlpha Tech Challenge 2022 (14785)",
-      "url": "https://hatch-2022.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 07 - 08, 2022",
-      "themes": [
-        {
-          "id": 5,
-          "name": "AR/VR"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 16,
-          "name": "Health"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>9,800</span>",
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "HudsonAlpha Institute for Biotechnology",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hatch-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hatch-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 14212,
@@ -1003,7 +970,7 @@
     }
   ],
   "meta": {
-    "total_count": 29,
+    "total_count": 28,
     "per_page": 40,
     "fuzzy": false
   }
