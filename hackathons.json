@@ -57,7 +57,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>12,300</span>",
-      "registrations_count": 28,
+      "registrations_count": 31,
       "featured": false,
       "organization_name": "CSA EU-IoT",
       "winners_announced": false,
@@ -77,7 +77,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/866/483/datas/medium.png",
       "analytics_identifier": "Magic Eden API Hackathon (15007)",
       "url": "https://magic-eden-api-hackathon.devpost.com/",
-      "time_left_to_submission": "10 days left",
+      "time_left_to_submission": "9 days left",
       "submission_period_dates": "Mar 14 - 24, 2022",
       "themes": [
         {
@@ -86,7 +86,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>21,750</span>",
-      "registrations_count": 3,
+      "registrations_count": 14,
       "featured": false,
       "organization_name": "Magic Eden",
       "winners_announced": false,
@@ -106,7 +106,7 @@
       "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
       "analytics_identifier": "Hackberry Pi 2022 (15033)",
       "url": "https://hackberry-pi-2022.devpost.com/",
-      "time_left_to_submission": "6 days left",
+      "time_left_to_submission": "5 days left",
       "submission_period_dates": "Mar 14 - 20, 2022",
       "themes": [
         {
@@ -123,7 +123,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 1,
+      "registrations_count": 2,
       "featured": false,
       "organization_name": "ACM@CMU",
       "winners_announced": false,
@@ -181,7 +181,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,400</span>",
-      "registrations_count": 216,
+      "registrations_count": 230,
       "featured": false,
       "organization_name": "ACM@GSU",
       "winners_announced": false,
@@ -255,7 +255,7 @@
         }
       ],
       "prize_amount": "$CAD<span data-currency-value>10,500</span>",
-      "registrations_count": 50,
+      "registrations_count": 51,
       "featured": false,
       "organization_name": "Screen Composers Guild of Canada & SOCAN",
       "winners_announced": false,
@@ -329,70 +329,12 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 33,
+      "registrations_count": 36,
       "featured": false,
       "organization_name": "Drexel University CCI",
       "winners_announced": false,
       "submission_gallery_url": "https://philly-codefest-2022.devpost.com/project-gallery",
       "start_a_submission_url": "https://philly-codefest-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 14114,
-      "title": "Cathacks VIII",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "University of Kentucky - Grehan Building"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/864/190/datas/medium.png",
-      "analytics_identifier": "Cathacks VIII (14114)",
-      "url": "https://uky-cathacks-viii.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 08 - 10, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>1,450</span>",
-      "registrations_count": 17,
-      "featured": false,
-      "organization_name": "University of Kentucky",
-      "winners_announced": false,
-      "submission_gallery_url": "https://uky-cathacks-viii.devpost.com/project-gallery",
-      "start_a_submission_url": "https://uky-cathacks-viii.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 14809,
-      "title": "Blockathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Haymarket HQ"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/835/567/datas/medium.jpeg",
-      "analytics_identifier": "Blockathon (14809)",
-      "url": "https://blockathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 18 - 20, 2022",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 16,
-      "featured": false,
-      "organization_name": "bitfwd",
-      "winners_announced": false,
-      "submission_gallery_url": "https://blockathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://blockathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -424,12 +366,70 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>20,000</span>",
-      "registrations_count": 12,
+      "registrations_count": 22,
       "featured": false,
       "organization_name": "Node Inc",
       "winners_announced": false,
       "submission_gallery_url": "https://hackberkeley.devpost.com/project-gallery",
       "start_a_submission_url": "https://hackberkeley.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14809,
+      "title": "Blockathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Haymarket HQ"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/835/567/datas/medium.jpeg",
+      "analytics_identifier": "Blockathon (14809)",
+      "url": "https://blockathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Mar 18 - 20, 2022",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>10,000</span>",
+      "registrations_count": 19,
+      "featured": false,
+      "organization_name": "bitfwd",
+      "winners_announced": false,
+      "submission_gallery_url": "https://blockathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://blockathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14114,
+      "title": "Cathacks VIII",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "University of Kentucky - Grehan Building"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/864/190/datas/medium.png",
+      "analytics_identifier": "Cathacks VIII (14114)",
+      "url": "https://uky-cathacks-viii.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 08 - 10, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1,400</span>",
+      "registrations_count": 18,
+      "featured": false,
+      "organization_name": "University of Kentucky",
+      "winners_announced": false,
+      "submission_gallery_url": "https://uky-cathacks-viii.devpost.com/project-gallery",
+      "start_a_submission_url": "https://uky-cathacks-viii.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -471,6 +471,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 14833,
+      "title": "API World Hackathon 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "San Jose Convention Center"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/848/767/datas/medium.jpg",
+      "analytics_identifier": "API World Hackathon 2022 (14833)",
+      "url": "https://api-world-hackathon-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 10 - 27, 2022",
+      "themes": [
+        {
+          "id": 2,
+          "name": "DevOps"
+        },
+        {
+          "id": 21,
+          "name": "Enterprise"
+        },
+        {
+          "id": 26,
+          "name": "Mobile"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>12,500</span>",
+      "registrations_count": 12,
+      "featured": false,
+      "organization_name": "DevNetwork",
+      "winners_announced": false,
+      "submission_gallery_url": "https://api-world-hackathon-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://api-world-hackathon-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 14832,
       "title": "DeveloperWeek Cloud 2022 Hackathon",
       "displayed_location": {
@@ -504,43 +541,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://dw-cloud-2022-hackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://dw-cloud-2022-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 14833,
-      "title": "API World Hackathon 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "San Jose Convention Center"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/848/767/datas/medium.jpg",
-      "analytics_identifier": "API World Hackathon 2022 (14833)",
-      "url": "https://api-world-hackathon-2022.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 10 - 27, 2022",
-      "themes": [
-        {
-          "id": 2,
-          "name": "DevOps"
-        },
-        {
-          "id": 21,
-          "name": "Enterprise"
-        },
-        {
-          "id": 26,
-          "name": "Mobile"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>12,500</span>",
-      "registrations_count": 11,
-      "featured": false,
-      "organization_name": "DevNetwork",
-      "winners_announced": false,
-      "submission_gallery_url": "https://api-world-hackathon-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://api-world-hackathon-2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -609,7 +609,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>3,000</span>",
-      "registrations_count": 9,
+      "registrations_count": 10,
       "featured": false,
       "organization_name": "Wayne State University",
       "winners_announced": false,
@@ -693,7 +693,7 @@
       "title": "codeLinc at Morgan State University",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Morgan State University"
+        "location": "Morgan State University-Earl Graves Bldg"
       },
       "open_state": "upcoming",
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/817/086/datas/medium.png",
@@ -716,7 +716,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>7,000</span>",
-      "registrations_count": 6,
+      "registrations_count": 7,
       "featured": false,
       "organization_name": "Lincoln Financial Group",
       "winners_announced": false,
@@ -877,7 +877,7 @@
       "analytics_identifier": "AI LA Open Innovation Challenge (14841)",
       "url": "https://open-innovation-challenge.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 18 - Apr 21, 2022",
+      "submission_period_dates": "Mar 18 - Apr 20, 2022",
       "themes": [
         {
           "id": 18,
@@ -893,7 +893,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>15,000</span>",
-      "registrations_count": 2,
+      "registrations_count": 3,
       "featured": false,
       "organization_name": "AI LA",
       "winners_announced": false,
