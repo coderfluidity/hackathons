@@ -57,7 +57,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>12,300</span>",
-      "registrations_count": 43,
+      "registrations_count": 45,
       "featured": false,
       "organization_name": "CSA EU-IoT",
       "winners_announced": false,
@@ -77,7 +77,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/872/450/datas/medium.png",
       "analytics_identifier": "APEC App Challenge 2022 (15045)",
       "url": "https://apec-app-challenge-2022.devpost.com/",
-      "time_left_to_submission": "11 days left",
+      "time_left_to_submission": "10 days left",
       "submission_period_dates": "Mar 15 - Apr 10, 2022",
       "themes": [
         {
@@ -94,7 +94,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>9,000</span>",
-      "registrations_count": 23,
+      "registrations_count": 29,
       "featured": false,
       "organization_name": "The Asia Foundation",
       "winners_announced": false,
@@ -114,7 +114,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/848/259/datas/medium.png",
       "analytics_identifier": "AI LA Open Innovation Challenge (14841)",
       "url": "https://open-innovation-challenge.devpost.com/",
-      "time_left_to_submission": "21 days left",
+      "time_left_to_submission": "20 days left",
       "submission_period_dates": "Mar 18 - Apr 20, 2022",
       "themes": [
         {
@@ -151,7 +151,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/859/864/datas/medium.png",
       "analytics_identifier": "Inaugural Interchain Internal Hackathon (14953)",
       "url": "https://interchain-internal-i.devpost.com/",
-      "time_left_to_submission": "4 days left",
+      "time_left_to_submission": "3 days left",
       "submission_period_dates": "Mar 30 - Apr 03, 2022",
       "themes": [
         {
@@ -180,7 +180,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/886/082/datas/medium.png",
       "analytics_identifier": "Krypto-Hack Lyon (15181)",
       "url": "https://krypto-hack.devpost.com/",
-      "time_left_to_submission": "17 days left",
+      "time_left_to_submission": "16 days left",
       "submission_period_dates": "Mar 28 - Apr 16, 2022",
       "themes": [
         {
@@ -213,7 +213,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/879/300/datas/medium.png",
       "analytics_identifier": "McGill AI Society Winter 2022 MAIS 202 Bootcamp (15151)",
       "url": "https://mais202-winter2022.devpost.com/",
-      "time_left_to_submission": "8 days left",
+      "time_left_to_submission": "7 days left",
       "submission_period_dates": "Mar 28 - Apr 07, 2022",
       "themes": [
         {
@@ -288,7 +288,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 94,
+      "registrations_count": 105,
       "featured": false,
       "organization_name": "Drexel University CCI",
       "winners_announced": false,
@@ -325,12 +325,49 @@
         }
       ],
       "prize_amount": "$CAD<span data-currency-value>10,500</span>",
-      "registrations_count": 71,
+      "registrations_count": 72,
       "featured": false,
       "organization_name": "Screen Composers Guild of Canada & SOCAN",
       "winners_announced": false,
       "submission_gallery_url": "https://cue-sheet-palooza.devpost.com/project-gallery",
       "start_a_submission_url": "https://cue-sheet-palooza.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 15003,
+      "title": "Hack For Change",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Navrachana University, Vadodara"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/875/554/datas/medium.png",
+      "analytics_identifier": "Hack For Change (15003)",
+      "url": "https://hack-for-change.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 06 - 08, 2022",
+      "themes": [
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 12,
+          "name": "Lifehacks"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "₹ <span data-currency-value>0</span>",
+      "registrations_count": 59,
+      "featured": false,
+      "organization_name": "Nuv Yuva",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hack-for-change.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hack-for-change.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -362,7 +399,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 56,
+      "registrations_count": 57,
       "featured": false,
       "organization_name": "YHack",
       "winners_announced": false,
@@ -399,7 +436,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>7,000</span>",
-      "registrations_count": 50,
+      "registrations_count": 53,
       "featured": false,
       "organization_name": "Lincoln Financial Group",
       "winners_announced": false,
@@ -407,43 +444,6 @@
       "start_a_submission_url": "https://codelincmsu.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Morgan State University Students Only"
-    },
-    {
-      "id": 15003,
-      "title": "Hack For Change",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Navrachana University, Vadodara"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/875/554/datas/medium.png",
-      "analytics_identifier": "Hack For Change (15003)",
-      "url": "https://hack-for-change.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 06 - 08, 2022",
-      "themes": [
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 12,
-          "name": "Lifehacks"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "₹ <span data-currency-value>0</span>",
-      "registrations_count": 47,
-      "featured": false,
-      "organization_name": "Nuv Yuva",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hack-for-change.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hack-for-change.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 14209,
@@ -510,7 +510,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>435</span>",
-      "registrations_count": 41,
+      "registrations_count": 42,
       "featured": false,
       "organization_name": "Naperville North Computer Science Club",
       "winners_announced": false,
@@ -597,7 +597,7 @@
       "analytics_identifier": "Motor City Hack on Mobility, Health and Well-being (14884)",
       "url": "https://motor-city-hack.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 07 - 08, 2022",
+      "submission_period_dates": "May 04 - 05, 2022",
       "themes": [
         {
           "id": 16,
@@ -730,6 +730,72 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 15169,
+      "title": "UA Innovate",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "The University of Alabama - Hewson Hall"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/880/613/datas/medium.png",
+      "analytics_identifier": "UA Innovate (15169)",
+      "url": "https://ua-innovate.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 02 - 03, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 9,
+          "name": "Cybersecurity"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>9,000</span>",
+      "registrations_count": 12,
+      "featured": false,
+      "organization_name": "Walmart InfoSec",
+      "winners_announced": false,
+      "submission_gallery_url": "https://ua-innovate.devpost.com/project-gallery",
+      "start_a_submission_url": "https://ua-innovate.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "UA Innovate Registrants"
+    },
+    {
+      "id": 15106,
+      "title": "BUDSA x BostonHacks Mini-Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Math and Computer Science Building"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "BUDSA x BostonHacks Mini-Hackathon (15106)",
+      "url": "https://bu-minihacks-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 09 - 10, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 12,
+      "featured": false,
+      "organization_name": "BostonHacks",
+      "winners_announced": false,
+      "submission_gallery_url": "https://bu-minihacks-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://bu-minihacks-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 14892,
       "title": "Multimodal Hackathon Amsterdam",
       "displayed_location": {
@@ -763,43 +829,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://iata-dcsa-ams.devpost.com/project-gallery",
       "start_a_submission_url": "https://iata-dcsa-ams.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 15169,
-      "title": "UA Innovate",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "The University of Alabama - Hewson Hall"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/880/613/datas/medium.png",
-      "analytics_identifier": "UA Innovate (15169)",
-      "url": "https://ua-innovate.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 02 - 03, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 9,
-          "name": "Cybersecurity"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>9,000</span>",
-      "registrations_count": 8,
-      "featured": false,
-      "organization_name": "Walmart InfoSec",
-      "winners_announced": false,
-      "submission_gallery_url": "https://ua-innovate.devpost.com/project-gallery",
-      "start_a_submission_url": "https://ua-innovate.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -841,6 +870,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 15134,
+      "title": "SpartaHack VII",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Wells Hall, MSU"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/878/579/datas/medium.png",
+      "analytics_identifier": "SpartaHack VII (15134)",
+      "url": "https://spartahack-vii.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 08 - 10, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>5,850</span>",
+      "registrations_count": 6,
+      "featured": false,
+      "organization_name": "SpartaHack",
+      "winners_announced": false,
+      "submission_gallery_url": "https://spartahack-vii.devpost.com/project-gallery",
+      "start_a_submission_url": "https://spartahack-vii.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "All Students and Recent Alumni"
+    },
+    {
       "id": 14267,
       "title": "GFU Code Jam V2",
       "displayed_location": {
@@ -876,43 +942,6 @@
       "start_a_submission_url": "https://foxacmw.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "George Fox students only"
-    },
-    {
-      "id": 15134,
-      "title": "SpartaHack VII",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Wells Hall, MSU"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/878/579/datas/medium.png",
-      "analytics_identifier": "SpartaHack VII (15134)",
-      "url": "https://spartahack-vii.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 08 - 10, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>5,850</span>",
-      "registrations_count": 5,
-      "featured": false,
-      "organization_name": "SpartaHack",
-      "winners_announced": false,
-      "submission_gallery_url": "https://spartahack-vii.devpost.com/project-gallery",
-      "start_a_submission_url": "https://spartahack-vii.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "All Students and Recent Alumni"
     },
     {
       "id": 15015,
@@ -987,6 +1016,80 @@
       "start_a_submission_url": "https://hackku-2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14970,
+      "title": "Hacknarök VI",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Krakowski Park Technologiczny"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/863/610/datas/medium.png",
+      "analytics_identifier": "Hacknarök VI (14970)",
+      "url": "https://hacknarok-vi.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 02 - 03, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 18,
+          "name": "Design"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1,180</span>",
+      "registrations_count": 3,
+      "featured": false,
+      "organization_name": "EESTEC AGH Kraków",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hacknarok-vi.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hacknarok-vi.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Studenci"
+    },
+    {
+      "id": 15199,
+      "title": "BNFOthon 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Harris Hall"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/887/226/datas/medium.png",
+      "analytics_identifier": "BNFOthon 2022 (15199)",
+      "url": "https://bnfothon-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 02 - 03, 2022",
+      "themes": [
+        {
+          "id": 18,
+          "name": "Design"
+        },
+        {
+          "id": 16,
+          "name": "Health"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>790</span>",
+      "registrations_count": 2,
+      "featured": false,
+      "organization_name": "BGSO and USB",
+      "winners_announced": false,
+      "submission_gallery_url": "https://bnfothon-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://bnfothon-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "VCU students and recent graduates only"
     },
     {
       "id": 15150,
@@ -1100,43 +1203,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 14970,
-      "title": "Hacknarök VI",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Krakowski Park Technologiczny"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/863/610/datas/medium.png",
-      "analytics_identifier": "Hacknarök VI (14970)",
-      "url": "https://hacknarok-vi.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 02 - 03, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>1,180</span>",
-      "registrations_count": 1,
-      "featured": false,
-      "organization_name": "EESTEC AGH Kraków",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hacknarok-vi.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hacknarok-vi.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Studenci"
-    },
-    {
       "id": 15195,
       "title": "OhloneHacks 3.0",
       "displayed_location": {
@@ -1170,33 +1236,70 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 15106,
-      "title": "BUDSA x BostonHacks Mini-Hackathon",
+      "id": 15204,
+      "title": "HackRU Spring 2022",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Math and Computer Science Building"
+        "location": "College Avenue Student Center"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "BUDSA x BostonHacks Mini-Hackathon (15106)",
-      "url": "https://bu-minihacks-2022.devpost.com/",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/887/382/datas/medium.jpg",
+      "analytics_identifier": "HackRU Spring 2022 (15204)",
+      "url": "https://hackru-s22.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 09 - 10, 2022",
+      "submission_period_dates": "Apr 02 - 03, 2022",
       "themes": [
         {
           "id": 23,
           "name": "Beginner Friendly"
         }
       ],
-      "prize_amount": "$<span data-currency-value>0</span>",
+      "prize_amount": "$<span data-currency-value>3,950</span>",
       "registrations_count": 1,
       "featured": false,
-      "organization_name": "BostonHacks",
+      "organization_name": "HackRU",
       "winners_announced": false,
-      "submission_gallery_url": "https://bu-minihacks-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://bu-minihacks-2022.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://hackru-s22.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackru-s22.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 15202,
+      "title": "WEHack 22",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "UTD ECS West Building"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/887/336/datas/medium.png",
+      "analytics_identifier": "WEHack 22 (15202)",
+      "url": "https://wehack-22.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 02 - 03, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1,520</span>",
+      "registrations_count": 1,
+      "featured": false,
+      "organization_name": "WEHack",
+      "winners_announced": false,
+      "submission_gallery_url": "https://wehack-22.devpost.com/project-gallery",
+      "start_a_submission_url": "https://wehack-22.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "All Texas college students"
     },
     {
       "id": 15088,
@@ -1303,7 +1406,7 @@
     }
   ],
   "meta": {
-    "total_count": 37,
+    "total_count": 40,
     "per_page": 40,
     "fuzzy": false
   }
