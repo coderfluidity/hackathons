@@ -1,6 +1,43 @@
 {
   "hackathons": [
     {
+      "id": 14317,
+      "title": "Philly Codefest 2022, Presented by Comcast Cable",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Drexel University CCI"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/874/323/datas/medium.png",
+      "analytics_identifier": "Philly Codefest 2022, Presented by Comcast Cable (14317)",
+      "url": "https://philly-codefest-2022.devpost.com/",
+      "time_left_to_submission": "4 days left",
+      "submission_period_dates": "Apr 04 - 09, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>23,500</span>",
+      "registrations_count": 153,
+      "featured": false,
+      "organization_name": "Drexel University CCI",
+      "winners_announced": false,
+      "submission_gallery_url": "https://philly-codefest-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://philly-codefest-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 14547,
       "title": "ESE Senior Design 21-22 (Van der Spiegel/Deliwala)",
       "displayed_location": {
@@ -20,7 +57,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 81,
+      "registrations_count": 84,
       "featured": false,
       "organization_name": "university of pennsylvania",
       "winners_announced": false,
@@ -57,7 +94,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>12,300</span>",
-      "registrations_count": 51,
+      "registrations_count": 54,
       "featured": false,
       "organization_name": "CSA EU-IoT",
       "winners_announced": false,
@@ -65,35 +102,6 @@
       "start_a_submission_url": "https://eu-iot-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 15226,
-      "title": "LionHACK2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "New York, NY, USA"
-      },
-      "open_state": "open",
-      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "LionHACK2022 (15226)",
-      "url": "https://lionhack2022.devpost.com/",
-      "time_left_to_submission": "30 minutes left",
-      "submission_period_dates": "Apr 02 - 03, 2022",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>80,000</span>",
-      "registrations_count": 47,
-      "featured": false,
-      "organization_name": "Blockchain@Columbia",
-      "winners_announced": false,
-      "submission_gallery_url": "https://lionhack2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://lionhack2022.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "LionHACK participants"
     },
     {
       "id": 15045,
@@ -106,7 +114,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/872/450/datas/medium.png",
       "analytics_identifier": "APEC App Challenge 2022 (15045)",
       "url": "https://apec-app-challenge-2022.devpost.com/",
-      "time_left_to_submission": "7 days left",
+      "time_left_to_submission": "6 days left",
       "submission_period_dates": "Mar 15 - Apr 10, 2022",
       "themes": [
         {
@@ -123,7 +131,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>9,000</span>",
-      "registrations_count": 36,
+      "registrations_count": 40,
       "featured": false,
       "organization_name": "The Asia Foundation",
       "winners_announced": false,
@@ -131,43 +139,6 @@
       "start_a_submission_url": "https://apec-app-challenge-2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 14267,
-      "title": "GFU Code Jam V2",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Newberg, OR, USA"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/782/247/datas/medium.png",
-      "analytics_identifier": "GFU Code Jam V2 (14267)",
-      "url": "https://foxacmw.devpost.com/",
-      "time_left_to_submission": "32 minutes left",
-      "submission_period_dates": "Apr 01 - 03, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>500</span>",
-      "registrations_count": 21,
-      "featured": false,
-      "organization_name": "ACM-W at GFU",
-      "winners_announced": false,
-      "submission_gallery_url": "https://foxacmw.devpost.com/project-gallery",
-      "start_a_submission_url": "https://foxacmw.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "George Fox students only"
     },
     {
       "id": 14841,
@@ -180,7 +151,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/848/259/datas/medium.png",
       "analytics_identifier": "AI LA Open Innovation Challenge (14841)",
       "url": "https://open-innovation-challenge.devpost.com/",
-      "time_left_to_submission": "17 days left",
+      "time_left_to_submission": "16 days left",
       "submission_period_dates": "Mar 18 - Apr 20, 2022",
       "themes": [
         {
@@ -207,97 +178,6 @@
       "eligibility_requirement_invite_only_description": "In-person only March 18-20th and April 21st."
     },
     {
-      "id": 14953,
-      "title": "Inaugural Interchain Internal Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Berlin, Germany"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/859/864/datas/medium.png",
-      "analytics_identifier": "Inaugural Interchain Internal Hackathon (14953)",
-      "url": "https://interchain-internal-i.devpost.com/",
-      "time_left_to_submission": "about 4 hours left",
-      "submission_period_dates": "Mar 30 - Apr 03, 2022",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "interchain",
-      "winners_announced": false,
-      "submission_gallery_url": "https://interchain-internal-i.devpost.com/project-gallery",
-      "start_a_submission_url": "https://interchain-internal-i.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Interchain Employees"
-    },
-    {
-      "id": 15151,
-      "title": "McGill AI Society Winter 2022 MAIS 202 Bootcamp",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Trottier Building, 2nd floor, Mezzanine"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/879/300/datas/medium.png",
-      "analytics_identifier": "McGill AI Society Winter 2022 MAIS 202 Bootcamp (15151)",
-      "url": "https://mais202-winter2022.devpost.com/",
-      "time_left_to_submission": "4 days left",
-      "submission_period_dates": "Mar 28 - Apr 07, 2022",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "McGill AI Society",
-      "winners_announced": false,
-      "submission_gallery_url": "https://mais202-winter2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://mais202-winter2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 15181,
-      "title": "Krypto-Hack Lyon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "INSA de Lyon, Campus de la Doua"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/886/082/datas/medium.png",
-      "analytics_identifier": "Krypto-Hack Lyon (15181)",
-      "url": "https://krypto-hack.devpost.com/",
-      "time_left_to_submission": "13 days left",
-      "submission_period_dates": "Mar 28 - Apr 16, 2022",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        },
-        {
-          "id": 4,
-          "name": "Gaming"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>30,000</span>",
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "Kryptosphere ",
-      "winners_announced": false,
-      "submission_gallery_url": "https://krypto-hack.devpost.com/project-gallery",
-      "start_a_submission_url": "https://krypto-hack.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 14911,
       "title": "ESE 190, Silicon Garage, Sid Deliwala/Architechs",
       "displayed_location": {
@@ -317,7 +197,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 3,
+      "registrations_count": 8,
       "featured": false,
       "organization_name": "university of pennsylvania",
       "winners_announced": false,
@@ -327,76 +207,97 @@
       "eligibility_requirement_invite_only_description": "U of Penn students who are enrolled in ESE 190"
     },
     {
-      "id": 14317,
-      "title": "Philly Codefest 2022, Presented by Comcast Cable",
+      "id": 15218,
+      "title": "Flutter Festival",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Drexel University CCI"
+        "location": "esi Algiers-Wed el semar"
       },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/874/323/datas/medium.png",
-      "analytics_identifier": "Philly Codefest 2022, Presented by Comcast Cable (14317)",
-      "url": "https://philly-codefest-2022.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 04 - 09, 2022",
+      "open_state": "open",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/888/167/datas/medium.png",
+      "analytics_identifier": "Flutter Festival (15218)",
+      "url": "https://flutter-festival.devpost.com/",
+      "time_left_to_submission": "3 days left",
+      "submission_period_dates": "Apr 04 - 07, 2022",
       "themes": [
         {
-          "id": 23,
-          "name": "Beginner Friendly"
+          "id": 26,
+          "name": "Mobile"
         },
         {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
+          "id": 25,
+          "name": "Web"
         }
       ],
-      "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 125,
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 6,
       "featured": false,
-      "organization_name": "Drexel University CCI",
+      "organization_name": "GDG Algiers",
       "winners_announced": false,
-      "submission_gallery_url": "https://philly-codefest-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://philly-codefest-2022.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://flutter-festival.devpost.com/project-gallery",
+      "start_a_submission_url": "https://flutter-festival.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Students and professions passionate about Flutter "
+    },
+    {
+      "id": 15151,
+      "title": "McGill AI Society Winter 2022 MAIS 202 Bootcamp",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Trottier Building, 2nd floor, Mezzanine"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/879/300/datas/medium.png",
+      "analytics_identifier": "McGill AI Society Winter 2022 MAIS 202 Bootcamp (15151)",
+      "url": "https://mais202-winter2022.devpost.com/",
+      "time_left_to_submission": "3 days left",
+      "submission_period_dates": "Mar 28 - Apr 07, 2022",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 4,
+      "featured": false,
+      "organization_name": "McGill AI Society",
+      "winners_announced": false,
+      "submission_gallery_url": "https://mais202-winter2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://mais202-winter2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 13608,
-      "title": "Cue Sheet Palooza Music Hackathon - Toronto, Canada",
+      "id": 15181,
+      "title": "Krypto-Hack Lyon",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "TBD"
+        "location": "INSA de Lyon, Campus de la Doua"
       },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/718/522/datas/medium.png",
-      "analytics_identifier": "Cue Sheet Palooza Music Hackathon - Toronto, Canada (13608)",
-      "url": "https://cue-sheet-palooza.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 09 - 10, 2022",
+      "open_state": "open",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/886/082/datas/medium.png",
+      "analytics_identifier": "Krypto-Hack Lyon (15181)",
+      "url": "https://krypto-hack.devpost.com/",
+      "time_left_to_submission": "12 days left",
+      "submission_period_dates": "Mar 28 - Apr 16, 2022",
       "themes": [
-        {
-          "id": 15,
-          "name": "Music/Art"
-        },
-        {
-          "id": 11,
-          "name": "Productivity"
-        },
         {
           "id": 1,
           "name": "Blockchain"
+        },
+        {
+          "id": 4,
+          "name": "Gaming"
         }
       ],
-      "prize_amount": "$CAD<span data-currency-value>10,500</span>",
-      "registrations_count": 76,
+      "prize_amount": "$<span data-currency-value>30,000</span>",
+      "registrations_count": 3,
       "featured": false,
-      "organization_name": "Screen Composers Guild of Canada & SOCAN",
+      "organization_name": "Kryptosphere ",
       "winners_announced": false,
-      "submission_gallery_url": "https://cue-sheet-palooza.devpost.com/project-gallery",
-      "start_a_submission_url": "https://cue-sheet-palooza.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://krypto-hack.devpost.com/project-gallery",
+      "start_a_submission_url": "https://krypto-hack.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -428,12 +329,49 @@
         }
       ],
       "prize_amount": "₹ <span data-currency-value>0</span>",
-      "registrations_count": 75,
+      "registrations_count": 122,
       "featured": false,
       "organization_name": "Nuv Yuva",
       "winners_announced": false,
       "submission_gallery_url": "https://hack-for-change.devpost.com/project-gallery",
       "start_a_submission_url": "https://hack-for-change.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 13608,
+      "title": "Cue Sheet Palooza Music Hackathon - IN PERSON in Toronto, Canada",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Startwell"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/718/522/datas/medium.png",
+      "analytics_identifier": "Cue Sheet Palooza Music Hackathon - IN PERSON in Toronto, Canada (13608)",
+      "url": "https://cue-sheet-palooza.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 09 - 10, 2022",
+      "themes": [
+        {
+          "id": 15,
+          "name": "Music/Art"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
+        },
+        {
+          "id": 1,
+          "name": "Blockchain"
+        }
+      ],
+      "prize_amount": "$CAD<span data-currency-value>10,500</span>",
+      "registrations_count": 80,
+      "featured": false,
+      "organization_name": "Screen Composers Guild of Canada & SOCAN",
+      "winners_announced": false,
+      "submission_gallery_url": "https://cue-sheet-palooza.devpost.com/project-gallery",
+      "start_a_submission_url": "https://cue-sheet-palooza.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -465,12 +403,78 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 69,
+      "registrations_count": 77,
       "featured": false,
       "organization_name": "YHack",
       "winners_announced": false,
       "submission_gallery_url": "https://yhack-2022.devpost.com/project-gallery",
       "start_a_submission_url": "https://yhack-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 15106,
+      "title": "BUDSA x BostonHacks Mini-Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Math and Computer Science Building"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/892/780/datas/medium.png",
+      "analytics_identifier": "BUDSA x BostonHacks Mini-Hackathon (15106)",
+      "url": "https://bu-minihacks-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 09 - 10, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>380</span>",
+      "registrations_count": 49,
+      "featured": false,
+      "organization_name": "BostonHacks",
+      "winners_announced": false,
+      "submission_gallery_url": "https://bu-minihacks-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://bu-minihacks-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14901,
+      "title": "Hack for the World 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Dealer Inspire"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/849/593/datas/medium.png",
+      "analytics_identifier": "Hack for the World 2022 (14901)",
+      "url": "https://hackftw2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 24, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>435</span>",
+      "registrations_count": 48,
+      "featured": false,
+      "organization_name": "Naperville North Computer Science Club",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackftw2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackftw2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -512,72 +516,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 14901,
-      "title": "Hack for the World 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Dealer Inspire"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/849/593/datas/medium.png",
-      "analytics_identifier": "Hack for the World 2022 (14901)",
-      "url": "https://hackftw2022.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 24, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>435</span>",
-      "registrations_count": 44,
-      "featured": false,
-      "organization_name": "Naperville North Computer Science Club",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackftw2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackftw2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 15106,
-      "title": "BUDSA x BostonHacks Mini-Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Math and Computer Science Building"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "BUDSA x BostonHacks Mini-Hackathon (15106)",
-      "url": "https://bu-minihacks-2022.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 09 - 10, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 42,
-      "featured": false,
-      "organization_name": "BostonHacks",
-      "winners_announced": false,
-      "submission_gallery_url": "https://bu-minihacks-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://bu-minihacks-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 14114,
       "title": "Cathacks VIII",
       "displayed_location": {
@@ -597,12 +535,86 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,808</span>",
-      "registrations_count": 28,
+      "registrations_count": 32,
       "featured": false,
       "organization_name": "University of Kentucky",
       "winners_announced": false,
       "submission_gallery_url": "https://uky-cathacks-viii.devpost.com/project-gallery",
       "start_a_submission_url": "https://uky-cathacks-viii.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14892,
+      "title": "Multimodal Hackathon Amsterdam",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Startup Village - Amsterdam"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/858/793/datas/medium.png",
+      "analytics_identifier": "Multimodal Hackathon Amsterdam (14892)",
+      "url": "https://iata-dcsa-ams.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "May 20 - 22, 2022",
+      "themes": [
+        {
+          "id": 3,
+          "name": "Fintech"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>15,000</span>",
+      "registrations_count": 20,
+      "featured": false,
+      "organization_name": "iata",
+      "winners_announced": false,
+      "submission_gallery_url": "https://iata-dcsa-ams.devpost.com/project-gallery",
+      "start_a_submission_url": "https://iata-dcsa-ams.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14833,
+      "title": "API World Hackathon 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "San Jose Convention Center"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/848/767/datas/medium.jpg",
+      "analytics_identifier": "API World Hackathon 2022 (14833)",
+      "url": "https://api-world-hackathon-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 10 - 27, 2022",
+      "themes": [
+        {
+          "id": 2,
+          "name": "DevOps"
+        },
+        {
+          "id": 21,
+          "name": "Enterprise"
+        },
+        {
+          "id": 26,
+          "name": "Mobile"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>12,500</span>",
+      "registrations_count": 18,
+      "featured": false,
+      "organization_name": "DevNetwork",
+      "winners_announced": false,
+      "submission_gallery_url": "https://api-world-hackathon-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://api-world-hackathon-2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -640,80 +652,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://motor-city-hack.devpost.com/project-gallery",
       "start_a_submission_url": "https://motor-city-hack.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 14892,
-      "title": "Multimodal Hackathon Amsterdam",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Startup Village - Amsterdam"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/858/793/datas/medium.png",
-      "analytics_identifier": "Multimodal Hackathon Amsterdam (14892)",
-      "url": "https://iata-dcsa-ams.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 20 - 22, 2022",
-      "themes": [
-        {
-          "id": 3,
-          "name": "Fintech"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>15,000</span>",
-      "registrations_count": 17,
-      "featured": false,
-      "organization_name": "iata",
-      "winners_announced": false,
-      "submission_gallery_url": "https://iata-dcsa-ams.devpost.com/project-gallery",
-      "start_a_submission_url": "https://iata-dcsa-ams.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 14833,
-      "title": "API World Hackathon 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "San Jose Convention Center"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/848/767/datas/medium.jpg",
-      "analytics_identifier": "API World Hackathon 2022 (14833)",
-      "url": "https://api-world-hackathon-2022.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 10 - 27, 2022",
-      "themes": [
-        {
-          "id": 2,
-          "name": "DevOps"
-        },
-        {
-          "id": 21,
-          "name": "Enterprise"
-        },
-        {
-          "id": 26,
-          "name": "Mobile"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>12,500</span>",
-      "registrations_count": 16,
-      "featured": false,
-      "organization_name": "DevNetwork",
-      "winners_announced": false,
-      "submission_gallery_url": "https://api-world-hackathon-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://api-world-hackathon-2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -811,7 +749,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 9,
+      "registrations_count": 12,
       "featured": false,
       "organization_name": "TeFi Alpha",
       "winners_announced": false,
@@ -847,8 +785,8 @@
           "name": "Social Good"
         }
       ],
-      "prize_amount": "$<span data-currency-value>5,850</span>",
-      "registrations_count": 9,
+      "prize_amount": "$<span data-currency-value>5,950</span>",
+      "registrations_count": 12,
       "featured": false,
       "organization_name": "SpartaHack",
       "winners_announced": false,
@@ -922,7 +860,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 5,
+      "registrations_count": 6,
       "featured": false,
       "organization_name": "Hackers@UPC",
       "winners_announced": false,
@@ -967,39 +905,6 @@
       "start_a_submission_url": "https://hackku-2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 15218,
-      "title": "Flutter Festival",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "esi Algiers-Wed el semar"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/888/167/datas/medium.png",
-      "analytics_identifier": "Flutter Festival (15218)",
-      "url": "https://flutter-festival.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 04 - 07, 2022",
-      "themes": [
-        {
-          "id": 26,
-          "name": "Mobile"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "GDG Algiers",
-      "winners_announced": false,
-      "submission_gallery_url": "https://flutter-festival.devpost.com/project-gallery",
-      "start_a_submission_url": "https://flutter-festival.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Students and professions passionate about Flutter "
     },
     {
       "id": 15150,
@@ -1217,7 +1122,7 @@
     }
   ],
   "meta": {
-    "total_count": 35,
+    "total_count": 32,
     "per_page": 40,
     "fuzzy": false
   }
