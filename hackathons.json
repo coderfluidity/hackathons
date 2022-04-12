@@ -57,7 +57,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>9,000</span>",
-      "registrations_count": 70,
+      "registrations_count": 75,
       "featured": false,
       "organization_name": "The Asia Foundation",
       "winners_announced": false,
@@ -94,7 +94,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>12,300</span>",
-      "registrations_count": 65,
+      "registrations_count": 66,
       "featured": false,
       "organization_name": "CSA EU-IoT",
       "winners_announced": false,
@@ -114,7 +114,7 @@
       "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
       "analytics_identifier": "ESE 190, Silicon Garage, Sid Deliwala/Architechs (14911)",
       "url": "https://ese190s22.devpost.com/",
-      "time_left_to_submission": "29 days left",
+      "time_left_to_submission": "28 days left",
       "submission_period_dates": "Feb 28 - May 10, 2022",
       "themes": [
         {
@@ -123,7 +123,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 33,
+      "registrations_count": 37,
       "featured": false,
       "organization_name": "university of pennsylvania",
       "winners_announced": false,
@@ -143,7 +143,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/848/259/datas/medium.png",
       "analytics_identifier": "AI LA Open Innovation Challenge (14841)",
       "url": "https://open-innovation-challenge.devpost.com/",
-      "time_left_to_submission": "9 days left",
+      "time_left_to_submission": "8 days left",
       "submission_period_dates": "Mar 18 - Apr 20, 2022",
       "themes": [
         {
@@ -160,7 +160,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>15,000</span>",
-      "registrations_count": 18,
+      "registrations_count": 19,
       "featured": false,
       "organization_name": "AI LA",
       "winners_announced": false,
@@ -180,7 +180,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/886/082/datas/medium.png",
       "analytics_identifier": "Krypto-Hack Lyon (15181)",
       "url": "https://krypto-hack.devpost.com/",
-      "time_left_to_submission": "5 days left",
+      "time_left_to_submission": "4 days left",
       "submission_period_dates": "Mar 28 - Apr 16, 2022",
       "themes": [
         {
@@ -193,7 +193,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>30,000</span>",
-      "registrations_count": 5,
+      "registrations_count": 6,
       "featured": false,
       "organization_name": "Kryptosphere ",
       "winners_announced": false,
@@ -214,7 +214,7 @@
       "analytics_identifier": "Hack for the World 2022 (14901)",
       "url": "https://hackftw2022.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 24, 2022",
+      "submission_period_dates": "Apr 30, 2022",
       "themes": [
         {
           "id": 23,
@@ -304,49 +304,12 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>15,000</span>",
-      "registrations_count": 29,
+      "registrations_count": 31,
       "featured": false,
       "organization_name": "iata",
       "winners_announced": false,
       "submission_gallery_url": "https://iata-dcsa-ams.devpost.com/project-gallery",
       "start_a_submission_url": "https://iata-dcsa-ams.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 14884,
-      "title": "Motor City Hack on Mobility, Health and Well-being",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "WSU - Student Center Building"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/848/722/datas/medium.png",
-      "analytics_identifier": "Motor City Hack on Mobility, Health and Well-being (14884)",
-      "url": "https://motor-city-hack.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 04 - 05, 2022",
-      "themes": [
-        {
-          "id": 16,
-          "name": "Health"
-        },
-        {
-          "id": 11,
-          "name": "Productivity"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>3,000</span>",
-      "registrations_count": 19,
-      "featured": false,
-      "organization_name": "Wayne State University",
-      "winners_announced": false,
-      "submission_gallery_url": "https://motor-city-hack.devpost.com/project-gallery",
-      "start_a_submission_url": "https://motor-city-hack.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -378,12 +341,49 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>12,500</span>",
-      "registrations_count": 19,
+      "registrations_count": 21,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
       "submission_gallery_url": "https://api-world-hackathon-2022.devpost.com/project-gallery",
       "start_a_submission_url": "https://api-world-hackathon-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14884,
+      "title": "Motor City Hack on Mobility, Health and Well-being",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "WSU - Student Center Building"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/848/722/datas/medium.png",
+      "analytics_identifier": "Motor City Hack on Mobility, Health and Well-being (14884)",
+      "url": "https://motor-city-hack.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "May 04 - 05, 2022",
+      "themes": [
+        {
+          "id": 16,
+          "name": "Health"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>3,000</span>",
+      "registrations_count": 20,
+      "featured": false,
+      "organization_name": "Wayne State University",
+      "winners_announced": false,
+      "submission_gallery_url": "https://motor-city-hack.devpost.com/project-gallery",
+      "start_a_submission_url": "https://motor-city-hack.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -421,6 +421,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 14832,
+      "title": "DeveloperWeek Cloud 2022 Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Palmer Events Center"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/848/765/datas/medium.jpg",
+      "analytics_identifier": "DeveloperWeek Cloud 2022 Hackathon (14832)",
+      "url": "https://dw-cloud-2022-hackathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Aug 22 - Sep 08, 2022",
+      "themes": [
+        {
+          "id": 2,
+          "name": "DevOps"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>12,500</span>",
+      "registrations_count": 16,
+      "featured": false,
+      "organization_name": "DevNetwork",
+      "winners_announced": false,
+      "submission_gallery_url": "https://dw-cloud-2022-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://dw-cloud-2022-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 14653,
       "title": "TeFi Alpha Hack 1: Buenos Aires",
       "displayed_location": {
@@ -454,43 +491,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 14832,
-      "title": "DeveloperWeek Cloud 2022 Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Palmer Events Center"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/848/765/datas/medium.jpg",
-      "analytics_identifier": "DeveloperWeek Cloud 2022 Hackathon (14832)",
-      "url": "https://dw-cloud-2022-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Aug 22 - Sep 08, 2022",
-      "themes": [
-        {
-          "id": 2,
-          "name": "DevOps"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>12,500</span>",
-      "registrations_count": 15,
-      "featured": false,
-      "organization_name": "DevNetwork",
-      "winners_announced": false,
-      "submission_gallery_url": "https://dw-cloud-2022-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://dw-cloud-2022-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 15015,
       "title": "HackUPC 2022",
       "displayed_location": {
@@ -518,7 +518,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 11,
+      "registrations_count": 12,
       "featured": false,
       "organization_name": "Hackers@UPC",
       "winners_announced": false,
@@ -602,72 +602,39 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 15257,
-      "title": "hackMCST VII",
+      "id": 15256,
+      "title": "Zihack 11",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Morris County School of Technology"
+        "location": "Zitec HQ"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/895/175/datas/medium.png",
-      "analytics_identifier": "hackMCST VII (15257)",
-      "url": "https://hackmcst-vii.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 23, 2022",
-      "themes": [
-        {
-          "id": 9,
-          "name": "Cybersecurity"
-        },
-        {
-          "id": 16,
-          "name": "Health"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>290</span>",
-      "registrations_count": 4,
-      "featured": false,
-      "organization_name": "Morris County School of Technology",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackmcst-vii.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackmcst-vii.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 15240,
-      "title": "Timisoara Life&Bytes",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Magnum "
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/897/889/datas/medium.png",
-      "analytics_identifier": "Timisoara Life&Bytes (15240)",
-      "url": "https://timisoara-life-bytes.devpost.com/",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/895/108/datas/medium.png",
+      "analytics_identifier": "Zihack 11 (15256)",
+      "url": "https://zihack-11.devpost.com/",
       "time_left_to_submission": "Upcoming",
       "submission_period_dates": "Apr 15 - 16, 2022",
       "themes": [
         {
-          "id": 19,
-          "name": "Education"
+          "id": 11,
+          "name": "Productivity"
         },
         {
-          "id": 16,
-          "name": "Health"
+          "id": 13,
+          "name": "Social Good"
         },
         {
-          "id": 26,
-          "name": "Mobile"
+          "id": 25,
+          "name": "Web"
         }
       ],
-      "prize_amount": "$<span data-currency-value>1,320</span>",
-      "registrations_count": 3,
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 5,
       "featured": false,
-      "organization_name": "Asociatia One Source",
+      "organization_name": "Zitec",
       "winners_announced": false,
-      "submission_gallery_url": "https://timisoara-life-bytes.devpost.com/project-gallery",
-      "start_a_submission_url": "https://timisoara-life-bytes.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://zihack-11.devpost.com/project-gallery",
+      "start_a_submission_url": "https://zihack-11.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -690,8 +657,8 @@
           "name": "Social Good"
         }
       ],
-      "prize_amount": "$<span data-currency-value>21,520</span>",
-      "registrations_count": 3,
+      "prize_amount": "$<span data-currency-value>21,120</span>",
+      "registrations_count": 5,
       "featured": false,
       "organization_name": "HackDavis",
       "winners_announced": false,
@@ -699,6 +666,117 @@
       "start_a_submission_url": "https://hackdavis2022.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Registered HackDavis attendees only"
+    },
+    {
+      "id": 15240,
+      "title": "Timisoara Life&Bytes",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Magnum "
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "Timisoara Life&Bytes (15240)",
+      "url": "https://timisoara-life-bytes.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 15 - 16, 2022",
+      "themes": [
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 16,
+          "name": "Health"
+        },
+        {
+          "id": 26,
+          "name": "Mobile"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1,320</span>",
+      "registrations_count": 4,
+      "featured": false,
+      "organization_name": "Asociatia One Source",
+      "winners_announced": false,
+      "submission_gallery_url": "https://timisoara-life-bytes.devpost.com/project-gallery",
+      "start_a_submission_url": "https://timisoara-life-bytes.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 15257,
+      "title": "hackMCST VII",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Morris County School of Technology"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/895/175/datas/medium.png",
+      "analytics_identifier": "hackMCST VII (15257)",
+      "url": "https://hackmcst-vii.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 23, 2022",
+      "themes": [
+        {
+          "id": 9,
+          "name": "Cybersecurity"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>290</span>",
+      "registrations_count": 4,
+      "featured": false,
+      "organization_name": "Morris County School of Technology",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackmcst-vii.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackmcst-vii.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 15280,
+      "title": "HackDartmouth VII: Into The Jungle",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Dartmouth College"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/903/527/datas/medium.png",
+      "analytics_identifier": "HackDartmouth VII: Into The Jungle (15280)",
+      "url": "https://hackdartmouth-vii.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 16 - 17, 2022",
+      "themes": [
+        {
+          "id": 5,
+          "name": "AR/VR"
+        },
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>11,296</span>",
+      "registrations_count": 3,
+      "featured": false,
+      "organization_name": "Dartmouth College",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackdartmouth-vii.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackdartmouth-vii.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 15096,
@@ -804,6 +882,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 15017,
+      "title": "Calgary Maker Faire 2022 - Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "BMO Centre, Hall E, Stampede Grounds"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/866/657/datas/medium.jpg",
+      "analytics_identifier": "Calgary Maker Faire 2022 - Hackathon (15017)",
+      "url": "https://calgary-maker-faire-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "May 14 - 15, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 18,
+          "name": "Design"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>600</span>",
+      "registrations_count": 2,
+      "featured": false,
+      "organization_name": "Calgary Maker Faire",
+      "winners_announced": false,
+      "submission_gallery_url": "https://calgary-maker-faire-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://calgary-maker-faire-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 14641,
       "title": "MY Hack  ",
       "displayed_location": {
@@ -841,41 +956,41 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 15017,
-      "title": "Calgary Maker Faire 2022 - Hackathon",
+      "id": 15220,
+      "title": "HackTheCastle",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "BMO Centre, Hall E, Stampede Grounds"
+        "location": "Noble and Greenough School"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/866/657/datas/medium.jpg",
-      "analytics_identifier": "Calgary Maker Faire 2022 - Hackathon (15017)",
-      "url": "https://calgary-maker-faire-2022.devpost.com/",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/888/246/datas/medium.png",
+      "analytics_identifier": "HackTheCastle (15220)",
+      "url": "https://hackthecastle.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 14 - 15, 2022",
+      "submission_period_dates": "May 14, 2022",
       "themes": [
         {
           "id": 23,
           "name": "Beginner Friendly"
         },
         {
-          "id": 18,
-          "name": "Design"
+          "id": 22,
+          "name": "Open Ended"
         },
         {
-          "id": 19,
-          "name": "Education"
+          "id": 13,
+          "name": "Social Good"
         }
       ],
-      "prize_amount": "$<span data-currency-value>600</span>",
+      "prize_amount": "$<span data-currency-value>400</span>",
       "registrations_count": 1,
       "featured": false,
-      "organization_name": "Calgary Maker Faire",
+      "organization_name": "Noble and Greenough School",
       "winners_announced": false,
-      "submission_gallery_url": "https://calgary-maker-faire-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://calgary-maker-faire-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
+      "submission_gallery_url": "https://hackthecastle.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackthecastle.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "ISL students only"
     },
     {
       "id": 14917,
@@ -908,7 +1023,7 @@
     }
   ],
   "meta": {
-    "total_count": 26,
+    "total_count": 29,
     "per_page": 40,
     "fuzzy": false
   }
