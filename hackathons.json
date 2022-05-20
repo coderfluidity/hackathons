@@ -1,39 +1,39 @@
 {
   "hackathons": [
     {
-      "id": 15045,
-      "title": "APEC App Challenge 2022",
+      "id": 14892,
+      "title": "Multimodal Hackathon Amsterdam",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Bangkok, Thailand"
+        "location": "Startup Village - Amsterdam"
       },
       "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/872/450/datas/medium.png",
-      "analytics_identifier": "APEC App Challenge 2022 (15045)",
-      "url": "https://apec-app-challenge-2022.devpost.com/",
-      "time_left_to_submission": "about 8 hours left",
-      "submission_period_dates": "Mar 15 - May 19, 2022",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/858/793/datas/medium.png",
+      "analytics_identifier": "Multimodal Hackathon Amsterdam (14892)",
+      "url": "https://iata-dcsa-ams.devpost.com/",
+      "time_left_to_submission": "2 days left",
+      "submission_period_dates": "May 20 - 22, 2022",
       "themes": [
         {
-          "id": 20,
-          "name": "E-commerce/Retail"
+          "id": 3,
+          "name": "Fintech"
         },
         {
-          "id": 21,
-          "name": "Enterprise"
+          "id": 7,
+          "name": "IoT"
         },
         {
-          "id": 13,
-          "name": "Social Good"
+          "id": 6,
+          "name": "Machine Learning/AI"
         }
       ],
-      "prize_amount": "$<span data-currency-value>9,000</span>",
-      "registrations_count": 121,
+      "prize_amount": "$<span data-currency-value>15,000</span>",
+      "registrations_count": 134,
       "featured": false,
-      "organization_name": "The Asia Foundation",
+      "organization_name": "iata",
       "winners_announced": false,
-      "submission_gallery_url": "https://apec-app-challenge-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://apec-app-challenge-2022.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://iata-dcsa-ams.devpost.com/project-gallery",
+      "start_a_submission_url": "https://iata-dcsa-ams.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -48,7 +48,7 @@
       "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
       "analytics_identifier": "ESE516-SPRING2022 (15406)",
       "url": "https://ese516-spring2022.devpost.com/",
-      "time_left_to_submission": "4 days left",
+      "time_left_to_submission": "3 days left",
       "submission_period_dates": "Apr 30 - May 23, 2022",
       "themes": [
         {
@@ -57,7 +57,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 36,
+      "registrations_count": 38,
       "featured": false,
       "organization_name": "university of pennsylvania",
       "winners_announced": false,
@@ -77,7 +77,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/894/481/datas/medium.png",
       "analytics_identifier": "BioMedTech Hackathon (14950)",
       "url": "https://biomedtech-valley.devpost.com/",
-      "time_left_to_submission": "15 days left",
+      "time_left_to_submission": "14 days left",
       "submission_period_dates": "Apr 20 - Jun 03, 2022",
       "themes": [
         {
@@ -94,7 +94,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,500</span>",
-      "registrations_count": 34,
+      "registrations_count": 35,
       "featured": false,
       "organization_name": "ITJuana",
       "winners_announced": false,
@@ -141,6 +141,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 15337,
+      "title": "RiverHacks 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Austin Community College Highland "
+      },
+      "open_state": "open",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/918/479/datas/medium.png",
+      "analytics_identifier": "RiverHacks 2022 (15337)",
+      "url": "https://riverhacks-2022.devpost.com/",
+      "time_left_to_submission": "about 23 hours left",
+      "submission_period_dates": "May 20 - 21, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1,995</span>",
+      "registrations_count": 27,
+      "featured": false,
+      "organization_name": "ACC Computer Science Club",
+      "winners_announced": false,
+      "submission_gallery_url": "https://riverhacks-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://riverhacks-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "ACC Students Only "
+    },
+    {
       "id": 15347,
       "title": "Hack4Green",
       "displayed_location": {
@@ -151,7 +188,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/911/567/datas/medium.png",
       "analytics_identifier": "Hack4Green (15347)",
       "url": "https://hack4green-minsait.devpost.com/",
-      "time_left_to_submission": "10 days left",
+      "time_left_to_submission": "9 days left",
       "submission_period_dates": "May 04 - 29, 2022",
       "themes": [
         {
@@ -178,41 +215,37 @@
       "eligibility_requirement_invite_only_description": "Profissionais Minsait Brasil"
     },
     {
-      "id": 14892,
-      "title": "Multimodal Hackathon Amsterdam",
+      "id": 15544,
+      "title": "AcademiesHacks 2022",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Startup Village - Amsterdam"
+        "location": "Academies of Loudoun"
       },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/858/793/datas/medium.png",
-      "analytics_identifier": "Multimodal Hackathon Amsterdam (14892)",
-      "url": "https://iata-dcsa-ams.devpost.com/",
-      "time_left_to_submission": "Upcoming",
+      "open_state": "open",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/953/102/datas/medium.png",
+      "analytics_identifier": "AcademiesHacks 2022 (15544)",
+      "url": "https://aclhacks.devpost.com/",
+      "time_left_to_submission": "2 days left",
       "submission_period_dates": "May 20 - 22, 2022",
       "themes": [
         {
-          "id": 3,
-          "name": "Fintech"
+          "id": 23,
+          "name": "Beginner Friendly"
         },
         {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
+          "id": 19,
+          "name": "Education"
         }
       ],
-      "prize_amount": "$<span data-currency-value>15,000</span>",
-      "registrations_count": 131,
+      "prize_amount": "$<span data-currency-value>542</span>",
+      "registrations_count": 4,
       "featured": false,
-      "organization_name": "iata",
+      "organization_name": "Loudoun County Public Schools",
       "winners_announced": false,
-      "submission_gallery_url": "https://iata-dcsa-ams.devpost.com/project-gallery",
-      "start_a_submission_url": "https://iata-dcsa-ams.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
+      "submission_gallery_url": "https://aclhacks.devpost.com/project-gallery",
+      "start_a_submission_url": "https://aclhacks.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Any Loudoun County Public Schools students"
     },
     {
       "id": 14209,
@@ -252,6 +285,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 15311,
+      "title": "HackSmart - Crypto Battle Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "London"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/910/771/datas/medium.png",
+      "analytics_identifier": "HackSmart - Crypto Battle Hackathon (15311)",
+      "url": "https://hacksmart.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jun 24 - 26, 2022",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 3,
+          "name": "Fintech"
+        },
+        {
+          "id": 17,
+          "name": "Low/No Code"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>25,000</span>",
+      "registrations_count": 53,
+      "featured": false,
+      "organization_name": "coinriot",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hacksmart.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hacksmart.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 14653,
       "title": "TeFi Alpha Hack #1: Buenos Aires",
       "displayed_location": {
@@ -285,43 +355,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 15311,
-      "title": "HackSmart - Crypto Battle Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "London"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/910/771/datas/medium.png",
-      "analytics_identifier": "HackSmart - Crypto Battle Hackathon (15311)",
-      "url": "https://hacksmart.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 24 - 26, 2022",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        },
-        {
-          "id": 3,
-          "name": "Fintech"
-        },
-        {
-          "id": 17,
-          "name": "Low/No Code"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>25,000</span>",
-      "registrations_count": 48,
-      "featured": false,
-      "organization_name": "coinriot",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hacksmart.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hacksmart.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 14833,
       "title": "API World Hackathon 2022",
       "displayed_location": {
@@ -349,7 +382,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>12,500</span>",
-      "registrations_count": 46,
+      "registrations_count": 47,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -396,41 +429,41 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 15337,
-      "title": "RiverHacks 2022",
+      "id": 15530,
+      "title": "MontyHacks V",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Austin Community College Highland "
+        "location": "Montgomery High School"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/918/479/datas/medium.png",
-      "analytics_identifier": "RiverHacks 2022 (15337)",
-      "url": "https://riverhacks-2022.devpost.com/",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/954/685/datas/medium.png",
+      "analytics_identifier": "MontyHacks V (15530)",
+      "url": "https://montyhacks-v.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 20 - 21, 2022",
+      "submission_period_dates": "Jun 11, 2022",
       "themes": [
         {
           "id": 23,
           "name": "Beginner Friendly"
         },
         {
-          "id": 22,
-          "name": "Open Ended"
+          "id": 6,
+          "name": "Machine Learning/AI"
         },
         {
-          "id": 19,
-          "name": "Education"
+          "id": 13,
+          "name": "Social Good"
         }
       ],
-      "prize_amount": "$<span data-currency-value>2,040</span>",
-      "registrations_count": 25,
+      "prize_amount": "$<span data-currency-value>21,550</span>",
+      "registrations_count": 24,
       "featured": false,
-      "organization_name": "ACC Computer Science Club",
+      "organization_name": "Montgomery High School",
       "winners_announced": false,
-      "submission_gallery_url": "https://riverhacks-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://riverhacks-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "ACC Students Only "
+      "submission_gallery_url": "https://montyhacks-v.devpost.com/project-gallery",
+      "start_a_submission_url": "https://montyhacks-v.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 14834,
@@ -462,43 +495,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://dw-enterprise-2022-hackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://dw-enterprise-2022-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 15530,
-      "title": "MontyHacks V",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Montgomery High School"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/954/685/datas/medium.png",
-      "analytics_identifier": "MontyHacks V (15530)",
-      "url": "https://montyhacks-v.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 11, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>21,550</span>",
-      "registrations_count": 17,
-      "featured": false,
-      "organization_name": "Montgomery High School",
-      "winners_announced": false,
-      "submission_gallery_url": "https://montyhacks-v.devpost.com/project-gallery",
-      "start_a_submission_url": "https://montyhacks-v.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -772,7 +768,7 @@
           "name": "Social Good"
         }
       ],
-      "prize_amount": "$<span data-currency-value>100</span>",
+      "prize_amount": "$<span data-currency-value>2,120</span>",
       "registrations_count": 2,
       "featured": false,
       "organization_name": "UCSD",
