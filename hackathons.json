@@ -1,43 +1,6 @@
 {
   "hackathons": [
     {
-      "id": 14892,
-      "title": "Multimodal Hackathon Amsterdam",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Startup Village - Amsterdam"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/858/793/datas/medium.png",
-      "analytics_identifier": "Multimodal Hackathon Amsterdam (14892)",
-      "url": "https://iata-dcsa-ams.devpost.com/",
-      "time_left_to_submission": "about 19 hours left",
-      "submission_period_dates": "May 20 - 22, 2022",
-      "themes": [
-        {
-          "id": 3,
-          "name": "Fintech"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>15,000</span>",
-      "registrations_count": 137,
-      "featured": false,
-      "organization_name": "iata",
-      "winners_announced": false,
-      "submission_gallery_url": "https://iata-dcsa-ams.devpost.com/project-gallery",
-      "start_a_submission_url": "https://iata-dcsa-ams.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 15544,
       "title": "AcademiesHacks 2022",
       "displayed_location": {
@@ -48,7 +11,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/953/102/datas/medium.png",
       "analytics_identifier": "AcademiesHacks 2022 (15544)",
       "url": "https://aclhacks.devpost.com/",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "26 minutes left",
       "submission_period_dates": "May 20 - 22, 2022",
       "themes": [
         {
@@ -61,7 +24,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>542</span>",
-      "registrations_count": 59,
+      "registrations_count": 127,
       "featured": false,
       "organization_name": "Loudoun County Public Schools",
       "winners_announced": false,
@@ -81,7 +44,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/911/567/datas/medium.png",
       "analytics_identifier": "Hack4Green (15347)",
       "url": "https://hack4green-minsait.devpost.com/",
-      "time_left_to_submission": "8 days left",
+      "time_left_to_submission": "7 days left",
       "submission_period_dates": "May 04 - 29, 2022",
       "themes": [
         {
@@ -98,7 +61,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>11,250</span>",
-      "registrations_count": 42,
+      "registrations_count": 43,
       "featured": false,
       "organization_name": "Minsait Brasil",
       "winners_announced": false,
@@ -106,72 +69,6 @@
       "start_a_submission_url": "https://hack4green-minsait.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Profissionais Minsait Brasil"
-    },
-    {
-      "id": 15406,
-      "title": "ESE516-SPRING2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Ketterer Lab"
-      },
-      "open_state": "open",
-      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "ESE516-SPRING2022 (15406)",
-      "url": "https://ese516-spring2022.devpost.com/",
-      "time_left_to_submission": "2 days left",
-      "submission_period_dates": "Apr 30 - May 23, 2022",
-      "themes": [
-        {
-          "id": 7,
-          "name": "IoT"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 40,
-      "featured": false,
-      "organization_name": "university of pennsylvania",
-      "winners_announced": false,
-      "submission_gallery_url": "https://ese516-spring2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://ese516-spring2022.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "ESE516 Students"
-    },
-    {
-      "id": 15372,
-      "title": "HackSB 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "South Brunswick High School"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/914/602/datas/medium.png",
-      "analytics_identifier": "HackSB 2022 (15372)",
-      "url": "https://hacksb-2022.devpost.com/",
-      "time_left_to_submission": "about 6 hours left",
-      "submission_period_dates": "May 21, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>500</span>",
-      "registrations_count": 40,
-      "featured": false,
-      "organization_name": "SBHS Computer Science Club",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hacksb-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hacksb-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "South Brunswick High Students"
     },
     {
       "id": 14950,
@@ -184,7 +81,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/894/481/datas/medium.png",
       "analytics_identifier": "BioMedTech Hackathon (14950)",
       "url": "https://biomedtech-valley.devpost.com/",
-      "time_left_to_submission": "13 days left",
+      "time_left_to_submission": "12 days left",
       "submission_period_dates": "Apr 20 - Jun 03, 2022",
       "themes": [
         {
@@ -258,8 +155,8 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/919/118/datas/medium.jpg",
       "analytics_identifier": "Goma VR-Month Hackathon (15386)",
       "url": "https://goma-vr-month-hackathon.devpost.com/",
-      "time_left_to_submission": "about 14 hours left",
-      "submission_period_dates": "May 21 - 22, 2022",
+      "time_left_to_submission": "about 15 hours left",
+      "submission_period_dates": "May 21 - 23, 2022",
       "themes": [
         {
           "id": 5,
@@ -275,12 +172,86 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 17,
+      "registrations_count": 21,
       "featured": false,
       "organization_name": "Insitute France ",
       "winners_announced": false,
       "submission_gallery_url": "https://goma-vr-month-hackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://goma-vr-month-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14736,
+      "title": "TritonHacks 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Computer Science & Engineering Building"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/927/665/datas/medium.png",
+      "analytics_identifier": "TritonHacks 2022 (14736)",
+      "url": "https://tritonhacks22.devpost.com/",
+      "time_left_to_submission": "about 4 hours left",
+      "submission_period_dates": "May 21 - 22, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>2,120</span>",
+      "registrations_count": 15,
+      "featured": false,
+      "organization_name": "UCSD",
+      "winners_announced": false,
+      "submission_gallery_url": "https://tritonhacks22.devpost.com/project-gallery",
+      "start_a_submission_url": "https://tritonhacks22.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "High School Students"
+    },
+    {
+      "id": 15489,
+      "title": "2022 WHS GWC x Robotics Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Washington High School "
+      },
+      "open_state": "open",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/928/001/datas/medium.png",
+      "analytics_identifier": "2022 WHS GWC x Robotics Hackathon (15489)",
+      "url": "https://2022-hackathon.devpost.com/",
+      "time_left_to_submission": "about 4 hours left",
+      "submission_period_dates": "May 22, 2022",
+      "themes": [
+        {
+          "id": 14,
+          "name": "COVID-19"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 10,
+      "featured": false,
+      "organization_name": "Washington High School",
+      "winners_announced": false,
+      "submission_gallery_url": "https://2022-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://2022-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -493,7 +464,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>21,550</span>",
-      "registrations_count": 27,
+      "registrations_count": 29,
       "featured": false,
       "organization_name": "Montgomery High School",
       "winners_announced": false,
@@ -563,7 +534,7 @@
         }
       ],
       "prize_amount": "₹ <span data-currency-value>1,600,000</span>",
-      "registrations_count": 17,
+      "registrations_count": 18,
       "featured": false,
       "organization_name": "Amal Jyothi College of Engineering",
       "winners_announced": false,
@@ -600,7 +571,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>1,800</span>",
-      "registrations_count": 11,
+      "registrations_count": 12,
       "featured": false,
       "organization_name": "SFI Research Centre for Data Analitics",
       "winners_announced": false,
@@ -682,80 +653,6 @@
       "start_a_submission_url": "https://my-hack.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 15489,
-      "title": "2022 WHS GWC x Robotics Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Washington High School "
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/928/001/datas/medium.png",
-      "analytics_identifier": "2022 WHS GWC x Robotics Hackathon (15489)",
-      "url": "https://2022-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 22, 2022",
-      "themes": [
-        {
-          "id": 14,
-          "name": "COVID-19"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 5,
-      "featured": false,
-      "organization_name": "Washington High School",
-      "winners_announced": false,
-      "submission_gallery_url": "https://2022-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://2022-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 14736,
-      "title": "TritonHacks 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Computer Science & Engineering Building"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/927/665/datas/medium.png",
-      "analytics_identifier": "TritonHacks 2022 (14736)",
-      "url": "https://tritonhacks22.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 21 - 22, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>2,120</span>",
-      "registrations_count": 5,
-      "featured": false,
-      "organization_name": "UCSD",
-      "winners_announced": false,
-      "submission_gallery_url": "https://tritonhacks22.devpost.com/project-gallery",
-      "start_a_submission_url": "https://tritonhacks22.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "High School Students"
     },
     {
       "id": 15525,
@@ -891,7 +788,7 @@
     }
   ],
   "meta": {
-    "total_count": 25,
+    "total_count": 22,
     "per_page": 40,
     "fuzzy": false
   }
