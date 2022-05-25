@@ -11,7 +11,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/911/567/datas/medium.png",
       "analytics_identifier": "Hack4Green (15347)",
       "url": "https://hack4green-minsait.devpost.com/",
-      "time_left_to_submission": "5 days left",
+      "time_left_to_submission": "4 days left",
       "submission_period_dates": "May 04 - 29, 2022",
       "themes": [
         {
@@ -48,7 +48,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/894/481/datas/medium.png",
       "analytics_identifier": "BioMedTech Hackathon (14950)",
       "url": "https://biomedtech-valley.devpost.com/",
-      "time_left_to_submission": "10 days left",
+      "time_left_to_submission": "9 days left",
       "submission_period_dates": "Apr 20 - Jun 03, 2022",
       "themes": [
         {
@@ -112,6 +112,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 15542,
+      "title": "CompuMar",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "CompuMar"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/947/917/datas/medium.png",
+      "analytics_identifier": "CompuMar (15542)",
+      "url": "https://compumar.devpost.com/",
+      "time_left_to_submission": "4 months left",
+      "submission_period_dates": "May 25 - Sep 27, 2022",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 14,
+          "name": "COVID-19"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 2,
+      "featured": false,
+      "organization_name": "blockchain",
+      "winners_announced": false,
+      "submission_gallery_url": "https://compumar.devpost.com/project-gallery",
+      "start_a_submission_url": "https://compumar.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 15311,
       "title": "HackSmart - Crypto Battle Hackathon",
       "displayed_location": {
@@ -139,7 +176,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>25,000</span>",
-      "registrations_count": 59,
+      "registrations_count": 60,
       "featured": false,
       "organization_name": "coinriot",
       "winners_announced": false,
@@ -246,7 +283,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>12,500</span>",
-      "registrations_count": 48,
+      "registrations_count": 49,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -283,7 +320,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>21,550</span>",
-      "registrations_count": 36,
+      "registrations_count": 39,
       "featured": false,
       "organization_name": "Montgomery High School",
       "winners_announced": false,
@@ -464,7 +501,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 9,
+      "registrations_count": 10,
       "featured": false,
       "organization_name": "NeoHacks",
       "winners_announced": false,
@@ -569,43 +606,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 15542,
-      "title": "CompuMar",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "CompuMar"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/947/917/datas/medium.png",
-      "analytics_identifier": "CompuMar (15542)",
-      "url": "https://compumar.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 25 - Sep 27, 2022",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        },
-        {
-          "id": 14,
-          "name": "COVID-19"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 2,
-      "featured": false,
-      "organization_name": "blockchain",
-      "winners_announced": false,
-      "submission_gallery_url": "https://compumar.devpost.com/project-gallery",
-      "start_a_submission_url": "https://compumar.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 15420,
       "title": "Hoya Hacks 2023",
       "displayed_location": {
@@ -641,10 +641,47 @@
       "start_a_submission_url": "https://hoya-hacks-2023.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 15461,
+      "title": "WildHacks 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Northwestern University – Norris Center"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/929/960/datas/medium.png",
+      "analytics_identifier": "WildHacks 2022 (15461)",
+      "url": "https://wildhacks2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "May 28 - 29, 2022",
+      "themes": [
+        {
+          "id": 16,
+          "name": "Health"
+        },
+        {
+          "id": 12,
+          "name": "Lifehacks"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1,680</span>",
+      "registrations_count": 1,
+      "featured": false,
+      "organization_name": "Northwestern",
+      "winners_announced": false,
+      "submission_gallery_url": "https://wildhacks2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://wildhacks2022.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Northwestern Students Only"
     }
   ],
   "meta": {
-    "total_count": 18,
+    "total_count": 19,
     "per_page": 40,
     "fuzzy": false
   }
