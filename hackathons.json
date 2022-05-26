@@ -11,7 +11,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/911/567/datas/medium.png",
       "analytics_identifier": "Hack4Green (15347)",
       "url": "https://hack4green-minsait.devpost.com/",
-      "time_left_to_submission": "4 days left",
+      "time_left_to_submission": "3 days left",
       "submission_period_dates": "May 04 - 29, 2022",
       "themes": [
         {
@@ -48,7 +48,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/894/481/datas/medium.png",
       "analytics_identifier": "BioMedTech Hackathon (14950)",
       "url": "https://biomedtech-valley.devpost.com/",
-      "time_left_to_submission": "9 days left",
+      "time_left_to_submission": "8 days left",
       "submission_period_dates": "Apr 20 - Jun 03, 2022",
       "themes": [
         {
@@ -102,7 +102,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>3,000</span>",
-      "registrations_count": 31,
+      "registrations_count": 32,
       "featured": false,
       "organization_name": "Wayne State University",
       "winners_announced": false,
@@ -139,7 +139,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 2,
+      "registrations_count": 3,
       "featured": false,
       "organization_name": "blockchain",
       "winners_announced": false,
@@ -176,7 +176,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>25,000</span>",
-      "registrations_count": 60,
+      "registrations_count": 63,
       "featured": false,
       "organization_name": "coinriot",
       "winners_announced": false,
@@ -320,7 +320,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>21,550</span>",
-      "registrations_count": 39,
+      "registrations_count": 40,
       "featured": false,
       "organization_name": "Montgomery High School",
       "winners_announced": false,
@@ -464,7 +464,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>1,800</span>",
-      "registrations_count": 13,
+      "registrations_count": 14,
       "featured": false,
       "organization_name": "SFI Research Centre for Data Analitics",
       "winners_announced": false,
@@ -606,6 +606,64 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 15574,
+      "title": "UXcamp",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "esi Algiers-Wed el semar"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/990/010/datas/medium.png",
+      "analytics_identifier": "UXcamp (15574)",
+      "url": "https://uxcamp.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "May 27 - 28, 2022",
+      "themes": [
+        {
+          "id": 18,
+          "name": "Design"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1,000</span>",
+      "registrations_count": 2,
+      "featured": false,
+      "organization_name": "WTM Algiers ",
+      "winners_announced": false,
+      "submission_gallery_url": "https://uxcamp.devpost.com/project-gallery",
+      "start_a_submission_url": "https://uxcamp.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Pepole passionate about UX UI design"
+    },
+    {
+      "id": 15585,
+      "title": "TestHelloTest",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Alexandria"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "TestHelloTest (15585)",
+      "url": "https://testhellotest.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "May 31 - Jun 01, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        }
+      ],
+      "prize_amount": "£<span data-currency-value>0</span>",
+      "registrations_count": 2,
+      "featured": false,
+      "organization_name": "Webalo",
+      "winners_announced": false,
+      "submission_gallery_url": "https://testhellotest.devpost.com/project-gallery",
+      "start_a_submission_url": "https://testhellotest.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 15420,
       "title": "Hoya Hacks 2023",
       "displayed_location": {
@@ -681,7 +739,7 @@
     }
   ],
   "meta": {
-    "total_count": 19,
+    "total_count": 21,
     "per_page": 40,
     "fuzzy": false
   }
