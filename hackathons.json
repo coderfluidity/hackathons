@@ -11,7 +11,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/993/177/datas/medium.png",
       "analytics_identifier": "Metaverse Blockathon (15590)",
       "url": "https://metaverse-blockathon.devpost.com/",
-      "time_left_to_submission": "3 days left",
+      "time_left_to_submission": "2 days left",
       "submission_period_dates": "May 29 - Jun 08, 2022",
       "themes": [
         {
@@ -28,7 +28,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>5,000</span>",
-      "registrations_count": 35,
+      "registrations_count": 36,
       "featured": false,
       "organization_name": "BlockathonDAO",
       "winners_announced": false,
@@ -122,7 +122,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/998/854/datas/medium.jpg",
       "analytics_identifier": "Hacking cfts challenge (15630)",
       "url": "https://hacking-cfts-challenge.devpost.com/",
-      "time_left_to_submission": "9 days left",
+      "time_left_to_submission": "8 days left",
       "submission_period_dates": "Jun 04 - 14, 2022",
       "themes": [
         {
@@ -139,7 +139,7 @@
         }
       ],
       "prize_amount": "£<span data-currency-value>110</span>",
-      "registrations_count": 5,
+      "registrations_count": 7,
       "featured": false,
       "organization_name": "cyberhacks",
       "winners_announced": false,
@@ -149,48 +149,11 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 15639,
-      "title": "Ardsley Hacks",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Ardsley High School"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/999/447/datas/medium.jpg",
-      "analytics_identifier": "Ardsley Hacks (15639)",
-      "url": "https://ardsley-hacks-15639.devpost.com/",
-      "time_left_to_submission": "about 4 hours left",
-      "submission_period_dates": "Jun 04 - 05, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 16,
-          "name": "Health"
-        },
-        {
-          "id": 26,
-          "name": "Mobile"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 4,
-      "featured": false,
-      "organization_name": "Ardsley High School",
-      "winners_announced": false,
-      "submission_gallery_url": "https://ardsley-hacks-15639.devpost.com/project-gallery",
-      "start_a_submission_url": "https://ardsley-hacks-15639.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 15311,
       "title": "HackSmart - Crypto Battle Hackathon",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "London"
+        "location": "Black Swan Studio"
       },
       "open_state": "upcoming",
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/910/771/datas/medium.png",
@@ -213,7 +176,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>31,600</span>",
-      "registrations_count": 83,
+      "registrations_count": 88,
       "featured": false,
       "organization_name": "coinriot",
       "winners_announced": false,
@@ -250,7 +213,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>23,142</span>",
-      "registrations_count": 72,
+      "registrations_count": 75,
       "featured": false,
       "organization_name": "Montgomery High School",
       "winners_announced": false,
@@ -324,7 +287,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>12,500</span>",
-      "registrations_count": 56,
+      "registrations_count": 58,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -371,6 +334,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 15498,
+      "title": "IoT WEEK 2022 Hackfest",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "IoT WEEK - Croke Park Conference Centre"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/928/636/datas/medium.png",
+      "analytics_identifier": "IoT WEEK 2022 Hackfest (15498)",
+      "url": "https://iot-week-2022-hackfest.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jun 22 - 23, 2022",
+      "themes": [
+        {
+          "id": 18,
+          "name": "Design"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "€<span data-currency-value>1,800</span>",
+      "registrations_count": 26,
+      "featured": false,
+      "organization_name": "SFI Research Centre for Data Analitics",
+      "winners_announced": false,
+      "submission_gallery_url": "https://iot-week-2022-hackfest.devpost.com/project-gallery",
+      "start_a_submission_url": "https://iot-week-2022-hackfest.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 14834,
       "title": "DeveloperWeek Enterprise 2022 Hackathon",
       "displayed_location": {
@@ -404,43 +404,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 15498,
-      "title": "IoT WEEK 2022 Hackfest",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "IoT WEEK - Croke Park Conference Centre"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/928/636/datas/medium.png",
-      "analytics_identifier": "IoT WEEK 2022 Hackfest (15498)",
-      "url": "https://iot-week-2022-hackfest.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 22 - 23, 2022",
-      "themes": [
-        {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "€<span data-currency-value>1,800</span>",
-      "registrations_count": 25,
-      "featured": false,
-      "organization_name": "SFI Research Centre for Data Analitics",
-      "winners_announced": false,
-      "submission_gallery_url": "https://iot-week-2022-hackfest.devpost.com/project-gallery",
-      "start_a_submission_url": "https://iot-week-2022-hackfest.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 14641,
       "title": "MY Hack  ",
       "displayed_location": {
@@ -468,7 +431,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>500</span>",
-      "registrations_count": 11,
+      "registrations_count": 13,
       "featured": false,
       "organization_name": "Mafiq Foundation",
       "winners_announced": false,
@@ -581,35 +544,6 @@
       "eligibility_requirement_invite_only_description": "University of Cambridge students only"
     },
     {
-      "id": 14917,
-      "title": "RoyalCbd",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Montello, WI, USA"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "RoyalCbd (14917)",
-      "url": "https://royalcbd-14917.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 03 - May 08, 2026",
-      "themes": [
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "RoyalCBD",
-      "winners_announced": false,
-      "submission_gallery_url": "https://royalcbd-14917.devpost.com/project-gallery",
-      "start_a_submission_url": "https://royalcbd-14917.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 15628,
       "title": "Accelathon 3.0",
       "displayed_location": {
@@ -637,12 +571,41 @@
         }
       ],
       "prize_amount": "₹ <span data-currency-value>85,000</span>",
-      "registrations_count": 2,
+      "registrations_count": 3,
       "featured": false,
       "organization_name": "BCIC",
       "winners_announced": false,
       "submission_gallery_url": "https://accelathon3.devpost.com/project-gallery",
       "start_a_submission_url": "https://accelathon3.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14917,
+      "title": "RoyalCbd",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Montello, WI, USA"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "RoyalCbd (14917)",
+      "url": "https://royalcbd-14917.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 03 - May 08, 2026",
+      "themes": [
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 3,
+      "featured": false,
+      "organization_name": "RoyalCBD",
+      "winners_announced": false,
+      "submission_gallery_url": "https://royalcbd-14917.devpost.com/project-gallery",
+      "start_a_submission_url": "https://royalcbd-14917.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -685,7 +648,7 @@
     }
   ],
   "meta": {
-    "total_count": 19,
+    "total_count": 18,
     "per_page": 40,
     "fuzzy": false
   }
