@@ -1,6 +1,43 @@
 {
   "hackathons": [
     {
+      "id": 15663,
+      "title": "ETHPrague 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Paralelni Polis & La Fabrika "
+      },
+      "open_state": "open",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/002/866/datas/medium.jpg",
+      "analytics_identifier": "ETHPrague 2022 (15663)",
+      "url": "https://ethprague-2022.devpost.com/",
+      "time_left_to_submission": "1 day left",
+      "submission_period_dates": "Jun 10 - 12, 2022",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 12,
+          "name": "Lifehacks"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>15,000</span>",
+      "registrations_count": 55,
+      "featured": false,
+      "organization_name": "Paralelni Polis",
+      "winners_announced": false,
+      "submission_gallery_url": "https://ethprague-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://ethprague-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Students of various backgrounds, devs & hackers"
+    },
+    {
       "id": 14884,
       "title": "Motor City Hack on Mobility, Health and Well-being",
       "displayed_location": {
@@ -34,6 +71,43 @@
       "winners_announced": false,
       "submission_gallery_url": "https://motor-city-hack.devpost.com/project-gallery",
       "start_a_submission_url": "https://motor-city-hack.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 15630,
+      "title": "Hacking cfts challenge",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "53 apt suite, London 5348 Mills road"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/998/854/datas/medium.jpg",
+      "analytics_identifier": "Hacking cfts challenge (15630)",
+      "url": "https://hacking-cfts-challenge.devpost.com/",
+      "time_left_to_submission": "4 days left",
+      "submission_period_dates": "Jun 04 - 14, 2022",
+      "themes": [
+        {
+          "id": 9,
+          "name": "Cybersecurity"
+        },
+        {
+          "id": 18,
+          "name": "Design"
+        },
+        {
+          "id": 26,
+          "name": "Mobile"
+        }
+      ],
+      "prize_amount": "£<span data-currency-value>110</span>",
+      "registrations_count": 10,
+      "featured": false,
+      "organization_name": "cyberhacks",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hacking-cfts-challenge.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hacking-cfts-challenge.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -75,41 +149,33 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 15630,
-      "title": "Hacking cfts challenge",
+      "id": 15620,
+      "title": "Billie Hack Day",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "53 apt suite, London 5348 Mills road"
+        "location": "Billie GmbH"
       },
       "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/998/854/datas/medium.jpg",
-      "analytics_identifier": "Hacking cfts challenge (15630)",
-      "url": "https://hacking-cfts-challenge.devpost.com/",
-      "time_left_to_submission": "5 days left",
-      "submission_period_dates": "Jun 04 - 14, 2022",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/998/503/datas/medium.jpg",
+      "analytics_identifier": "Billie Hack Day (15620)",
+      "url": "https://billie-hackday.devpost.com/",
+      "time_left_to_submission": "14 days left",
+      "submission_period_dates": "Jun 10 - 24, 2022",
       "themes": [
         {
-          "id": 9,
-          "name": "Cybersecurity"
-        },
-        {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 26,
-          "name": "Mobile"
+          "id": 3,
+          "name": "Fintech"
         }
       ],
-      "prize_amount": "£<span data-currency-value>110</span>",
-      "registrations_count": 8,
+      "prize_amount": "€<span data-currency-value>175</span>",
+      "registrations_count": 4,
       "featured": false,
-      "organization_name": "cyberhacks",
+      "organization_name": "Billie GmbH",
       "winners_announced": false,
-      "submission_gallery_url": "https://hacking-cfts-challenge.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hacking-cfts-challenge.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
+      "submission_gallery_url": "https://billie-hackday.devpost.com/project-gallery",
+      "start_a_submission_url": "https://billie-hackday.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Billie employees"
     },
     {
       "id": 15530,
@@ -139,7 +205,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>23,242</span>",
-      "registrations_count": 97,
+      "registrations_count": 103,
       "featured": false,
       "organization_name": "Montgomery High School",
       "winners_announced": false,
@@ -176,7 +242,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>31,600</span>",
-      "registrations_count": 97,
+      "registrations_count": 99,
       "featured": false,
       "organization_name": "coinriot",
       "winners_announced": false,
@@ -212,8 +278,8 @@
           "name": "Mobile"
         }
       ],
-      "prize_amount": "$<span data-currency-value>12,500</span>",
-      "registrations_count": 60,
+      "prize_amount": "$<span data-currency-value>14,000</span>",
+      "registrations_count": 63,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -286,8 +352,8 @@
           "name": "Machine Learning/AI"
         }
       ],
-      "prize_amount": "$<span data-currency-value>12,500</span>",
-      "registrations_count": 42,
+      "prize_amount": "$<span data-currency-value>14,000</span>",
+      "registrations_count": 43,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -356,8 +422,8 @@
           "name": "Mobile"
         }
       ],
-      "prize_amount": "$<span data-currency-value>12,500</span>",
-      "registrations_count": 26,
+      "prize_amount": "$<span data-currency-value>14,000</span>",
+      "registrations_count": 27,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -394,7 +460,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>500</span>",
-      "registrations_count": 14,
+      "registrations_count": 15,
       "featured": false,
       "organization_name": "Mafiq Foundation",
       "winners_announced": false,
@@ -497,7 +563,7 @@
         }
       ],
       "prize_amount": "₹ <span data-currency-value>85,000</span>",
-      "registrations_count": 7,
+      "registrations_count": 8,
       "featured": false,
       "organization_name": "BCIC",
       "winners_announced": false,
@@ -534,7 +600,7 @@
         }
       ],
       "prize_amount": "£<span data-currency-value>122</span>",
-      "registrations_count": 6,
+      "registrations_count": 7,
       "featured": false,
       "organization_name": "BockBockHack",
       "winners_announced": false,
@@ -542,35 +608,6 @@
       "start_a_submission_url": "https://bockbockhack.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "University of Cambridge students only"
-    },
-    {
-      "id": 15620,
-      "title": "Billie Hack Day",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Billie GmbH"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/998/503/datas/medium.jpg",
-      "analytics_identifier": "Billie Hack Day (15620)",
-      "url": "https://billie-hackday.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 10 - 24, 2022",
-      "themes": [
-        {
-          "id": 3,
-          "name": "Fintech"
-        }
-      ],
-      "prize_amount": "€<span data-currency-value>175</span>",
-      "registrations_count": 4,
-      "featured": false,
-      "organization_name": "Billie GmbH",
-      "winners_announced": false,
-      "submission_gallery_url": "https://billie-hackday.devpost.com/project-gallery",
-      "start_a_submission_url": "https://billie-hackday.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Billie employees"
     },
     {
       "id": 14917,
@@ -714,7 +751,7 @@
     }
   ],
   "meta": {
-    "total_count": 20,
+    "total_count": 21,
     "per_page": 40,
     "fuzzy": false
   }
