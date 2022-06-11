@@ -1,6 +1,43 @@
 {
   "hackathons": [
     {
+      "id": 15530,
+      "title": "MontyHacks V",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Montgomery High School"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/954/685/datas/medium.png",
+      "analytics_identifier": "MontyHacks V (15530)",
+      "url": "https://montyhacks-v.devpost.com/",
+      "time_left_to_submission": "about 5 hours left",
+      "submission_period_dates": "Jun 11, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>23,242</span>",
+      "registrations_count": 127,
+      "featured": false,
+      "organization_name": "Montgomery High School",
+      "winners_announced": false,
+      "submission_gallery_url": "https://montyhacks-v.devpost.com/project-gallery",
+      "start_a_submission_url": "https://montyhacks-v.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 15663,
       "title": "ETHPrague 2022",
       "displayed_location": {
@@ -11,7 +48,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/002/866/datas/medium.jpg",
       "analytics_identifier": "ETHPrague 2022 (15663)",
       "url": "https://ethprague-2022.devpost.com/",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 17 hours left",
       "submission_period_dates": "Jun 10 - 12, 2022",
       "themes": [
         {
@@ -28,7 +65,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>15,000</span>",
-      "registrations_count": 55,
+      "registrations_count": 73,
       "featured": false,
       "organization_name": "Paralelni Polis",
       "winners_announced": false,
@@ -65,7 +102,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>3,000</span>",
-      "registrations_count": 33,
+      "registrations_count": 34,
       "featured": false,
       "organization_name": "Wayne State University",
       "winners_announced": false,
@@ -85,7 +122,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/998/854/datas/medium.jpg",
       "analytics_identifier": "Hacking cfts challenge (15630)",
       "url": "https://hacking-cfts-challenge.devpost.com/",
-      "time_left_to_submission": "4 days left",
+      "time_left_to_submission": "3 days left",
       "submission_period_dates": "Jun 04 - 14, 2022",
       "themes": [
         {
@@ -102,7 +139,7 @@
         }
       ],
       "prize_amount": "£<span data-currency-value>110</span>",
-      "registrations_count": 10,
+      "registrations_count": 11,
       "featured": false,
       "organization_name": "cyberhacks",
       "winners_announced": false,
@@ -159,7 +196,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/998/503/datas/medium.jpg",
       "analytics_identifier": "Billie Hack Day (15620)",
       "url": "https://billie-hackday.devpost.com/",
-      "time_left_to_submission": "14 days left",
+      "time_left_to_submission": "13 days left",
       "submission_period_dates": "Jun 10 - 24, 2022",
       "themes": [
         {
@@ -176,43 +213,6 @@
       "start_a_submission_url": "https://billie-hackday.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Billie employees"
-    },
-    {
-      "id": 15530,
-      "title": "MontyHacks V",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Montgomery High School"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/954/685/datas/medium.png",
-      "analytics_identifier": "MontyHacks V (15530)",
-      "url": "https://montyhacks-v.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 11, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>23,242</span>",
-      "registrations_count": 103,
-      "featured": false,
-      "organization_name": "Montgomery High School",
-      "winners_announced": false,
-      "submission_gallery_url": "https://montyhacks-v.devpost.com/project-gallery",
-      "start_a_submission_url": "https://montyhacks-v.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 15311,
@@ -390,7 +390,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>1,800</span>",
-      "registrations_count": 27,
+      "registrations_count": 28,
       "featured": false,
       "organization_name": "SFI Research Centre for Data Analitics",
       "winners_announced": false,
@@ -423,7 +423,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>14,000</span>",
-      "registrations_count": 27,
+      "registrations_count": 28,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -599,7 +599,7 @@
           "name": "Open Ended"
         }
       ],
-      "prize_amount": "£<span data-currency-value>122</span>",
+      "prize_amount": "£<span data-currency-value>142</span>",
       "registrations_count": 7,
       "featured": false,
       "organization_name": "BockBockHack",
@@ -608,6 +608,43 @@
       "start_a_submission_url": "https://bockbockhack.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "University of Cambridge students only"
+    },
+    {
+      "id": 15420,
+      "title": "Hoya Hacks 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Georgetown University"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/922/914/datas/medium.png",
+      "analytics_identifier": "Hoya Hacks 2023 (15420)",
+      "url": "https://hoya-hacks-2023.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jan 27 - 29, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1,500</span>",
+      "registrations_count": 3,
+      "featured": false,
+      "organization_name": "Hoya Hacks",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hoya-hacks-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hoya-hacks-2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 14917,
@@ -674,43 +711,6 @@
       "start_a_submission_url": "https://iia-hackthon-2.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Graduates/students in their final year of study"
-    },
-    {
-      "id": 15420,
-      "title": "Hoya Hacks 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Georgetown University"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/922/914/datas/medium.png",
-      "analytics_identifier": "Hoya Hacks 2023 (15420)",
-      "url": "https://hoya-hacks-2023.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jan 27 - 29, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>1,500</span>",
-      "registrations_count": 2,
-      "featured": false,
-      "organization_name": "Hoya Hacks",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hoya-hacks-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hoya-hacks-2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 15646,
