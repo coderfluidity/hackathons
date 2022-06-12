@@ -1,80 +1,6 @@
 {
   "hackathons": [
     {
-      "id": 15530,
-      "title": "MontyHacks V",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Montgomery High School"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/954/685/datas/medium.png",
-      "analytics_identifier": "MontyHacks V (15530)",
-      "url": "https://montyhacks-v.devpost.com/",
-      "time_left_to_submission": "about 5 hours left",
-      "submission_period_dates": "Jun 11, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>23,242</span>",
-      "registrations_count": 127,
-      "featured": false,
-      "organization_name": "Montgomery High School",
-      "winners_announced": false,
-      "submission_gallery_url": "https://montyhacks-v.devpost.com/project-gallery",
-      "start_a_submission_url": "https://montyhacks-v.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 15663,
-      "title": "ETHPrague 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Paralelni Polis & La Fabrika "
-      },
-      "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/002/866/datas/medium.jpg",
-      "analytics_identifier": "ETHPrague 2022 (15663)",
-      "url": "https://ethprague-2022.devpost.com/",
-      "time_left_to_submission": "about 17 hours left",
-      "submission_period_dates": "Jun 10 - 12, 2022",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        },
-        {
-          "id": 12,
-          "name": "Lifehacks"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>15,000</span>",
-      "registrations_count": 73,
-      "featured": false,
-      "organization_name": "Paralelni Polis",
-      "winners_announced": false,
-      "submission_gallery_url": "https://ethprague-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://ethprague-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Students of various backgrounds, devs & hackers"
-    },
-    {
       "id": 14884,
       "title": "Motor City Hack on Mobility, Health and Well-being",
       "displayed_location": {
@@ -122,7 +48,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/998/854/datas/medium.jpg",
       "analytics_identifier": "Hacking cfts challenge (15630)",
       "url": "https://hacking-cfts-challenge.devpost.com/",
-      "time_left_to_submission": "3 days left",
+      "time_left_to_submission": "2 days left",
       "submission_period_dates": "Jun 04 - 14, 2022",
       "themes": [
         {
@@ -139,7 +65,7 @@
         }
       ],
       "prize_amount": "£<span data-currency-value>110</span>",
-      "registrations_count": 11,
+      "registrations_count": 12,
       "featured": false,
       "organization_name": "cyberhacks",
       "winners_announced": false,
@@ -196,7 +122,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/998/503/datas/medium.jpg",
       "analytics_identifier": "Billie Hack Day (15620)",
       "url": "https://billie-hackday.devpost.com/",
-      "time_left_to_submission": "13 days left",
+      "time_left_to_submission": "12 days left",
       "submission_period_dates": "Jun 10 - 24, 2022",
       "themes": [
         {
@@ -242,7 +168,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>31,600</span>",
-      "registrations_count": 99,
+      "registrations_count": 100,
       "featured": false,
       "organization_name": "coinriot",
       "winners_announced": false,
@@ -316,7 +242,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>7,500</span>",
-      "registrations_count": 58,
+      "registrations_count": 59,
       "featured": false,
       "organization_name": "XHACK Innovation & Technology Group",
       "winners_announced": false,
@@ -353,7 +279,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>14,000</span>",
-      "registrations_count": 43,
+      "registrations_count": 45,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -390,7 +316,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>1,800</span>",
-      "registrations_count": 28,
+      "registrations_count": 29,
       "featured": false,
       "organization_name": "SFI Research Centre for Data Analitics",
       "winners_announced": false,
@@ -460,7 +386,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>500</span>",
-      "registrations_count": 15,
+      "registrations_count": 16,
       "featured": false,
       "organization_name": "Mafiq Foundation",
       "winners_announced": false,
@@ -751,7 +677,7 @@
     }
   ],
   "meta": {
-    "total_count": 21,
+    "total_count": 19,
     "per_page": 40,
     "fuzzy": false
   }
