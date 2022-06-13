@@ -48,7 +48,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/998/854/datas/medium.jpg",
       "analytics_identifier": "Hacking cfts challenge (15630)",
       "url": "https://hacking-cfts-challenge.devpost.com/",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "1 day left",
       "submission_period_dates": "Jun 04 - 14, 2022",
       "themes": [
         {
@@ -65,7 +65,7 @@
         }
       ],
       "prize_amount": "£<span data-currency-value>110</span>",
-      "registrations_count": 12,
+      "registrations_count": 14,
       "featured": false,
       "organization_name": "cyberhacks",
       "winners_announced": false,
@@ -102,7 +102,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 10,
+      "registrations_count": 12,
       "featured": false,
       "organization_name": "blockchain",
       "winners_announced": false,
@@ -122,7 +122,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/998/503/datas/medium.jpg",
       "analytics_identifier": "Billie Hack Day (15620)",
       "url": "https://billie-hackday.devpost.com/",
-      "time_left_to_submission": "12 days left",
+      "time_left_to_submission": "11 days left",
       "submission_period_dates": "Jun 10 - 24, 2022",
       "themes": [
         {
@@ -131,7 +131,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>175</span>",
-      "registrations_count": 4,
+      "registrations_count": 10,
       "featured": false,
       "organization_name": "Billie GmbH",
       "winners_announced": false,
@@ -139,6 +139,43 @@
       "start_a_submission_url": "https://billie-hackday.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Billie employees"
+    },
+    {
+      "id": 15634,
+      "title": "BockBockHack",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "University of Cambridge - Jesus College"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/999/115/datas/medium.jpg",
+      "analytics_identifier": "BockBockHack (15634)",
+      "url": "https://bockbockhack.devpost.com/",
+      "time_left_to_submission": "about 22 hours left",
+      "submission_period_dates": "Jun 13 - 14, 2022",
+      "themes": [
+        {
+          "id": 12,
+          "name": "Lifehacks"
+        },
+        {
+          "id": 17,
+          "name": "Low/No Code"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "£<span data-currency-value>142</span>",
+      "registrations_count": 7,
+      "featured": false,
+      "organization_name": "BockBockHack",
+      "winners_announced": false,
+      "submission_gallery_url": "https://bockbockhack.devpost.com/project-gallery",
+      "start_a_submission_url": "https://bockbockhack.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "University of Cambridge students only"
     },
     {
       "id": 15311,
@@ -168,7 +205,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>31,600</span>",
-      "registrations_count": 100,
+      "registrations_count": 102,
       "featured": false,
       "organization_name": "coinriot",
       "winners_announced": false,
@@ -205,7 +242,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>14,000</span>",
-      "registrations_count": 63,
+      "registrations_count": 64,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -316,7 +353,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>1,800</span>",
-      "registrations_count": 29,
+      "registrations_count": 34,
       "featured": false,
       "organization_name": "SFI Research Centre for Data Analitics",
       "winners_announced": false,
@@ -386,7 +423,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>500</span>",
-      "registrations_count": 16,
+      "registrations_count": 18,
       "featured": false,
       "organization_name": "Mafiq Foundation",
       "winners_announced": false,
@@ -497,43 +534,6 @@
       "start_a_submission_url": "https://accelathon3.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 15634,
-      "title": "BockBockHack",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "University of Cambridge - Jesus College"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/999/115/datas/medium.jpg",
-      "analytics_identifier": "BockBockHack (15634)",
-      "url": "https://bockbockhack.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 13 - 14, 2022",
-      "themes": [
-        {
-          "id": 12,
-          "name": "Lifehacks"
-        },
-        {
-          "id": 17,
-          "name": "Low/No Code"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "£<span data-currency-value>142</span>",
-      "registrations_count": 7,
-      "featured": false,
-      "organization_name": "BockBockHack",
-      "winners_announced": false,
-      "submission_gallery_url": "https://bockbockhack.devpost.com/project-gallery",
-      "start_a_submission_url": "https://bockbockhack.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "University of Cambridge students only"
     },
     {
       "id": 15420,
@@ -674,10 +674,47 @@
       "start_a_submission_url": "https://hbap-pitch-2022.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "HBAP Pitch Competition Finalists"
+    },
+    {
+      "id": 15592,
+      "title": "Slash Hackathon 2022 - hosted at CODE",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Factory Berlin Görlitzer Park"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/993/894/datas/medium.jpeg",
+      "analytics_identifier": "Slash Hackathon 2022 - hosted at CODE (15592)",
+      "url": "https://slash-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Sep 17 - 18, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "€<span data-currency-value>3,900</span>",
+      "registrations_count": 1,
+      "featured": false,
+      "organization_name": "Slash",
+      "winners_announced": false,
+      "submission_gallery_url": "https://slash-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://slash-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "with tickets bought on the website linked below"
     }
   ],
   "meta": {
-    "total_count": 19,
+    "total_count": 20,
     "per_page": 40,
     "fuzzy": false
   }
