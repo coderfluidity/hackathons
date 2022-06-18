@@ -1,6 +1,43 @@
 {
   "hackathons": [
     {
+      "id": 15699,
+      "title": "CodeX 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Riga Technical University"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/007/156/datas/medium.png",
+      "analytics_identifier": "CodeX 2022 (15699)",
+      "url": "https://codex-2022.devpost.com/",
+      "time_left_to_submission": "about 4 hours left",
+      "submission_period_dates": "Jun 16 - 18, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 2,
+          "name": "DevOps"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "€<span data-currency-value>14,500</span>",
+      "registrations_count": 141,
+      "featured": false,
+      "organization_name": "Helve",
+      "winners_announced": false,
+      "submission_gallery_url": "https://codex-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://codex-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 14884,
       "title": "Motor City Hack on Mobility, Health and Well-being",
       "displayed_location": {
@@ -48,7 +85,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/998/503/datas/medium.jpg",
       "analytics_identifier": "Billie Hack Day (15620)",
       "url": "https://billie-hackday.devpost.com/",
-      "time_left_to_submission": "7 days left",
+      "time_left_to_submission": "6 days left",
       "submission_period_dates": "Jun 10 - 24, 2022",
       "themes": [
         {
@@ -104,39 +141,68 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 15699,
-      "title": "CodeX 2022",
+      "id": 15703,
+      "title": "HackIIIT",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Riga Technical University"
+        "location": "IIIT Hyderabad"
       },
       "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/007/156/datas/medium.png",
-      "analytics_identifier": "CodeX 2022 (15699)",
-      "url": "https://codex-2022.devpost.com/",
-      "time_left_to_submission": "1 day left",
-      "submission_period_dates": "Jun 16 - 18, 2022",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/008/462/datas/medium.png",
+      "analytics_identifier": "HackIIIT (15703)",
+      "url": "https://hackiiit.devpost.com/",
+      "time_left_to_submission": "about 19 hours left",
+      "submission_period_dates": "Jun 18 - 19, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        }
+      ],
+      "prize_amount": "₹ <span data-currency-value>0</span>",
+      "registrations_count": 4,
+      "featured": false,
+      "organization_name": "OSDG@IIITH",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackiiit.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackiiit.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "IIIT Hyderabad"
+    },
+    {
+      "id": 15616,
+      "title": "Miami for Everyone ",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Miami-Dade College - Chapman Center"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/008/593/datas/medium.png",
+      "analytics_identifier": "Miami for Everyone  (15616)",
+      "url": "https://m4e.devpost.com/",
+      "time_left_to_submission": "about 10 hours left",
+      "submission_period_dates": "Jun 18, 2022",
       "themes": [
         {
           "id": 23,
           "name": "Beginner Friendly"
         },
         {
-          "id": 2,
-          "name": "DevOps"
+          "id": 1,
+          "name": "Blockchain"
         },
         {
           "id": 13,
           "name": "Social Good"
         }
       ],
-      "prize_amount": "€<span data-currency-value>5,000</span>",
-      "registrations_count": 4,
+      "prize_amount": "$<span data-currency-value>23,000</span>",
+      "registrations_count": 2,
       "featured": false,
-      "organization_name": "Helve",
+      "organization_name": "Venture Miami",
       "winners_announced": false,
-      "submission_gallery_url": "https://codex-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://codex-2022.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://m4e.devpost.com/project-gallery",
+      "start_a_submission_url": "https://m4e.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -279,7 +345,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>1,800</span>",
-      "registrations_count": 34,
+      "registrations_count": 35,
       "featured": false,
       "organization_name": "SFI Research Centre for Data Analitics",
       "winners_announced": false,
@@ -677,7 +743,7 @@
     }
   ],
   "meta": {
-    "total_count": 19,
+    "total_count": 21,
     "per_page": 40,
     "fuzzy": false
   }
