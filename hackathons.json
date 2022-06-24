@@ -28,7 +28,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>3,000</span>",
-      "registrations_count": 36,
+      "registrations_count": 37,
       "featured": false,
       "organization_name": "Wayne State University",
       "winners_announced": false,
@@ -42,13 +42,13 @@
       "title": "Billie Hack Day",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Billie GmbH"
+        "location": "Berlin, Germany"
       },
       "open_state": "open",
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/998/503/datas/medium.jpg",
       "analytics_identifier": "Billie Hack Day (15620)",
       "url": "https://billie-hackday.devpost.com/",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 4 hours left",
       "submission_period_dates": "Jun 10 - 24, 2022",
       "themes": [
         {
@@ -57,7 +57,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>175</span>",
-      "registrations_count": 23,
+      "registrations_count": 26,
       "featured": false,
       "organization_name": "Billie GmbH",
       "winners_announced": false,
@@ -104,6 +104,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 15628,
+      "title": "Accelathon 3.0",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Bangalore"
+      },
+      "open_state": "open",
+      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "Accelathon 3.0 (15628)",
+      "url": "https://accelathon3.devpost.com/",
+      "time_left_to_submission": "about 18 hours left",
+      "submission_period_dates": "Jun 24 - 25, 2022",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "₹ <span data-currency-value>85,000</span>",
+      "registrations_count": 14,
+      "featured": false,
+      "organization_name": "BCIC",
+      "winners_announced": false,
+      "submission_gallery_url": "https://accelathon3.devpost.com/project-gallery",
+      "start_a_submission_url": "https://accelathon3.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 14833,
       "title": "API World Hackathon 2022",
       "displayed_location": {
@@ -130,7 +167,7 @@
           "name": "Mobile"
         }
       ],
-      "prize_amount": "$<span data-currency-value>14,000</span>",
+      "prize_amount": "$<span data-currency-value>15,500</span>",
       "registrations_count": 86,
       "featured": false,
       "organization_name": "DevNetwork",
@@ -205,7 +242,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>14,000</span>",
-      "registrations_count": 56,
+      "registrations_count": 57,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -281,43 +318,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://my-hack.devpost.com/project-gallery",
       "start_a_submission_url": "https://my-hack.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 15628,
-      "title": "Accelathon 3.0",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Bangalore"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "Accelathon 3.0 (15628)",
-      "url": "https://accelathon3.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 24 - 25, 2022",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "₹ <span data-currency-value>85,000</span>",
-      "registrations_count": 12,
-      "featured": false,
-      "organization_name": "BCIC",
-      "winners_announced": false,
-      "submission_gallery_url": "https://accelathon3.devpost.com/project-gallery",
-      "start_a_submission_url": "https://accelathon3.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -415,7 +415,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 7,
+      "registrations_count": 8,
       "featured": false,
       "organization_name": "Invest in Africa",
       "winners_announced": false,
@@ -452,7 +452,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>0</span>",
-      "registrations_count": 4,
+      "registrations_count": 5,
       "featured": false,
       "organization_name": "OGL",
       "winners_announced": false,
@@ -497,6 +497,43 @@
       "start_a_submission_url": "https://hoya-hacks-2023.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 15755,
+      "title": "Esri's Weekend of Innovation 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Esri HQ"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "Esri's Weekend of Innovation 2022 (15755)",
+      "url": "https://weekend-of-innovation-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jul 22 - 24, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>2,000</span>",
+      "registrations_count": 3,
+      "featured": false,
+      "organization_name": "ESRI",
+      "winners_announced": false,
+      "submission_gallery_url": "https://weekend-of-innovation-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://weekend-of-innovation-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Esri interns who have registered"
     },
     {
       "id": 14917,
@@ -566,7 +603,7 @@
     }
   ],
   "meta": {
-    "total_count": 16,
+    "total_count": 17,
     "per_page": 40,
     "fuzzy": false
   }
