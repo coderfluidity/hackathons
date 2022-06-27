@@ -101,8 +101,8 @@
           "name": "Mobile"
         }
       ],
-      "prize_amount": "$<span data-currency-value>15,500</span>",
-      "registrations_count": 87,
+      "prize_amount": "$<span data-currency-value>14,000</span>",
+      "registrations_count": 91,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -139,7 +139,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>7,500</span>",
-      "registrations_count": 60,
+      "registrations_count": 62,
       "featured": false,
       "organization_name": "XHACK Innovation & Technology Group",
       "winners_announced": false,
@@ -246,7 +246,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 13,
+      "registrations_count": 14,
       "featured": false,
       "organization_name": "NeoHacks",
       "winners_announced": false,
@@ -275,7 +275,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 12,
+      "registrations_count": 13,
       "featured": false,
       "organization_name": "Dystopia Labs",
       "winners_announced": false,
@@ -283,6 +283,43 @@
       "start_a_submission_url": "https://eth-seoul.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 15755,
+      "title": "Esri's Weekend of Innovation 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Esri HQ"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "Esri's Weekend of Innovation 2022 (15755)",
+      "url": "https://weekend-of-innovation-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jul 22 - 24, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>2,000</span>",
+      "registrations_count": 10,
+      "featured": false,
+      "organization_name": "ESRI",
+      "winners_announced": false,
+      "submission_gallery_url": "https://weekend-of-innovation-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://weekend-of-innovation-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Esri interns who have registered"
     },
     {
       "id": 15108,
@@ -320,43 +357,6 @@
       "start_a_submission_url": "https://iia-hackthon-2.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Graduates/students in their final year of study"
-    },
-    {
-      "id": 15755,
-      "title": "Esri's Weekend of Innovation 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Esri HQ"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "Esri's Weekend of Innovation 2022 (15755)",
-      "url": "https://weekend-of-innovation-2022.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jul 22 - 24, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>2,000</span>",
-      "registrations_count": 8,
-      "featured": false,
-      "organization_name": "ESRI",
-      "winners_announced": false,
-      "submission_gallery_url": "https://weekend-of-innovation-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://weekend-of-innovation-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Esri interns who have registered"
     },
     {
       "id": 15482,
@@ -497,10 +497,43 @@
       "start_a_submission_url": "https://royalcbd-14917.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 15659,
+      "title": "RDV Hacks",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "New York, NY, USA"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/007/136/datas/medium.png",
+      "analytics_identifier": "RDV Hacks (15659)",
+      "url": "https://rdvhacks.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Aug 06 - 07, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>2,960</span>",
+      "registrations_count": 1,
+      "featured": false,
+      "organization_name": "Rough Draft Ventures",
+      "winners_announced": false,
+      "submission_gallery_url": "https://rdvhacks.devpost.com/project-gallery",
+      "start_a_submission_url": "https://rdvhacks.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     }
   ],
   "meta": {
-    "total_count": 14,
+    "total_count": 15,
     "per_page": 40,
     "fuzzy": false
   }
