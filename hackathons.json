@@ -28,7 +28,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>3,000</span>",
-      "registrations_count": 37,
+      "registrations_count": 38,
       "featured": false,
       "organization_name": "Wayne State University",
       "winners_announced": false,
@@ -48,7 +48,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/998/503/datas/medium.jpg",
       "analytics_identifier": "Billie Hack Day (15620)",
       "url": "https://billie-hackday.devpost.com/",
-      "time_left_to_submission": "5 days left",
+      "time_left_to_submission": "4 days left",
       "submission_period_dates": "Jun 10 - Jul 05, 2022",
       "themes": [
         {
@@ -114,7 +114,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/001/703/datas/medium.png",
       "analytics_identifier": "2nd IIA Technology Hackathon Challenge - Innovations to Empower SMEs (15108)",
       "url": "https://iia-hackthon-2.devpost.com/",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 15 hours left",
       "submission_period_dates": "Jun 30 - Jul 02, 2022",
       "themes": [
         {
@@ -131,7 +131,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 13,
+      "registrations_count": 14,
       "featured": false,
       "organization_name": "Invest in Africa",
       "winners_announced": false,
@@ -139,6 +139,43 @@
       "start_a_submission_url": "https://iia-hackthon-2.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Graduates/students in their final year of study"
+    },
+    {
+      "id": 15765,
+      "title": "BIOMED & TECH HACKATHON",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "BIT Center"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/015/470/datas/medium.png",
+      "analytics_identifier": "BIOMED & TECH HACKATHON (15765)",
+      "url": "https://biomed-tech-hackathon.devpost.com/",
+      "time_left_to_submission": "2 months left",
+      "submission_period_dates": "Jul 01 - Sep 11, 2022",
+      "themes": [
+        {
+          "id": 16,
+          "name": "Health"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>8,600</span>",
+      "registrations_count": 7,
+      "featured": false,
+      "organization_name": "ITJ",
+      "winners_announced": false,
+      "submission_gallery_url": "https://biomed-tech-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://biomed-tech-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Software Engineers, Tech Communities or Students"
     },
     {
       "id": 14833,
@@ -168,12 +205,49 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>14,000</span>",
-      "registrations_count": 94,
+      "registrations_count": 95,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
       "submission_gallery_url": "https://api-world-hackathon-2022.devpost.com/project-gallery",
       "start_a_submission_url": "https://api-world-hackathon-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14832,
+      "title": "DeveloperWeek Cloud 2022 Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Palmer Events Center"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/848/765/datas/medium.jpg",
+      "analytics_identifier": "DeveloperWeek Cloud 2022 Hackathon (14832)",
+      "url": "https://dw-cloud-2022-hackathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Aug 22 - Sep 08, 2022",
+      "themes": [
+        {
+          "id": 2,
+          "name": "DevOps"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>14,000</span>",
+      "registrations_count": 65,
+      "featured": false,
+      "organization_name": "DevNetwork",
+      "winners_announced": false,
+      "submission_gallery_url": "https://dw-cloud-2022-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://dw-cloud-2022-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -211,43 +285,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://theaterhackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://theaterhackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 14832,
-      "title": "DeveloperWeek Cloud 2022 Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Palmer Events Center"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/848/765/datas/medium.jpg",
-      "analytics_identifier": "DeveloperWeek Cloud 2022 Hackathon (14832)",
-      "url": "https://dw-cloud-2022-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Aug 22 - Sep 08, 2022",
-      "themes": [
-        {
-          "id": 2,
-          "name": "DevOps"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>14,000</span>",
-      "registrations_count": 61,
-      "featured": false,
-      "organization_name": "DevNetwork",
-      "winners_announced": false,
-      "submission_gallery_url": "https://dw-cloud-2022-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://dw-cloud-2022-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -322,6 +359,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 15755,
+      "title": "Esri's Weekend of Innovation 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Esri HQ"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "Esri's Weekend of Innovation 2022 (15755)",
+      "url": "https://weekend-of-innovation-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jul 22 - 24, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>2,000</span>",
+      "registrations_count": 15,
+      "featured": false,
+      "organization_name": "ESRI",
+      "winners_announced": false,
+      "submission_gallery_url": "https://weekend-of-innovation-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://weekend-of-innovation-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Esri interns who have registered"
+    },
+    {
       "id": 15525,
       "title": "ETH Seoul",
       "displayed_location": {
@@ -351,78 +425,37 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 15755,
-      "title": "Esri's Weekend of Innovation 2022",
+      "id": 15754,
+      "title": "NRW 4.0 Makeathon",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Esri HQ"
+        "location": "Carthage Thalasso Resort"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "Esri's Weekend of Innovation 2022 (15755)",
-      "url": "https://weekend-of-innovation-2022.devpost.com/",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/015/055/datas/medium.jpg",
+      "analytics_identifier": "NRW 4.0 Makeathon (15754)",
+      "url": "https://nrw-makeathon-2022.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jul 22 - 24, 2022",
+      "submission_period_dates": "Jul 01 - 03, 2022",
       "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>2,000</span>",
-      "registrations_count": 12,
-      "featured": false,
-      "organization_name": "ESRI",
-      "winners_announced": false,
-      "submission_gallery_url": "https://weekend-of-innovation-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://weekend-of-innovation-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Esri interns who have registered"
-    },
-    {
-      "id": 15765,
-      "title": "BIOMED & TECH HACKATHON",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "BIT Center"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/015/470/datas/medium.png",
-      "analytics_identifier": "BIOMED & TECH HACKATHON (15765)",
-      "url": "https://biomed-tech-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jul 01 - Sep 11, 2022",
-      "themes": [
-        {
-          "id": 16,
-          "name": "Health"
-        },
         {
           "id": 7,
           "name": "IoT"
         },
         {
-          "id": 13,
-          "name": "Social Good"
+          "id": 6,
+          "name": "Machine Learning/AI"
         }
       ],
-      "prize_amount": "$<span data-currency-value>8,600</span>",
-      "registrations_count": 7,
+      "prize_amount": "$<span data-currency-value>5,000</span>",
+      "registrations_count": 5,
       "featured": false,
-      "organization_name": "ITJ",
+      "organization_name": "IEEE RAS INSAT Students Branch",
       "winners_announced": false,
-      "submission_gallery_url": "https://biomed-tech-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://biomed-tech-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Software Engineers, Tech Communities or Students"
+      "submission_gallery_url": "https://nrw-makeathon-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://nrw-makeathon-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 15482,
@@ -543,7 +576,7 @@
       "analytics_identifier": "Slash Hackathon 2022 - hosted at CODE (15592)",
       "url": "https://slash-2022.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Sep 17 - 18, 2022",
+      "submission_period_dates": "Sep 24 - 25, 2022",
       "themes": [
         {
           "id": 23,
@@ -633,10 +666,47 @@
       "start_a_submission_url": "https://cde22-data-sciences-art.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 15750,
+      "title": "Hack Brunel V2",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Wilfred Brown Building"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/014/647/datas/medium.png",
+      "analytics_identifier": "Hack Brunel V2 (15750)",
+      "url": "https://hack-brunel-v2.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Nov 19 - 20, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "£<span data-currency-value>250</span>",
+      "registrations_count": 2,
+      "featured": false,
+      "organization_name": "Brunel Tech Society",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hack-brunel-v2.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hack-brunel-v2.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     }
   ],
   "meta": {
-    "total_count": 18,
+    "total_count": 20,
     "per_page": 40,
     "fuzzy": false
   }
