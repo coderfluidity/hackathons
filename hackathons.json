@@ -11,7 +11,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/848/722/datas/medium.png",
       "analytics_identifier": "Motor City Hack on Mobility, Health and Well-being (14884)",
       "url": "https://motor-city-hack.devpost.com/",
-      "time_left_to_submission": "6 months left",
+      "time_left_to_submission": "5 months left",
       "submission_period_dates": "May 04 - Dec 15, 2022",
       "themes": [
         {
@@ -48,7 +48,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/998/503/datas/medium.jpg",
       "analytics_identifier": "Billie Hack Day (15620)",
       "url": "https://billie-hackday.devpost.com/",
-      "time_left_to_submission": "3 days left",
+      "time_left_to_submission": "2 days left",
       "submission_period_dates": "Jun 10 - Jul 05, 2022",
       "themes": [
         {
@@ -114,7 +114,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/001/703/datas/medium.png",
       "analytics_identifier": "2nd IIA Technology Hackathon Challenge - Innovations to Empower SMEs (15108)",
       "url": "https://iia-hackthon-2.devpost.com/",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "about 21 hours left",
       "submission_period_dates": "Jun 30 - Jul 04, 2022",
       "themes": [
         {
@@ -131,7 +131,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 15,
+      "registrations_count": 16,
       "featured": false,
       "organization_name": "Invest in Africa",
       "winners_announced": false,
@@ -168,7 +168,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>8,600</span>",
-      "registrations_count": 12,
+      "registrations_count": 13,
       "featured": false,
       "organization_name": "ITJ",
       "winners_announced": false,
@@ -176,39 +176,6 @@
       "start_a_submission_url": "https://biomed-tech-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Software Engineers, Tech Communities or Students"
-    },
-    {
-      "id": 15754,
-      "title": "NRW 4.0 Makeathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Carthage Thalasso Resort"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/015/055/datas/medium.jpg",
-      "analytics_identifier": "NRW 4.0 Makeathon (15754)",
-      "url": "https://nrw-makeathon-2022.devpost.com/",
-      "time_left_to_submission": "about 15 hours left",
-      "submission_period_dates": "Jul 01 - 03, 2022",
-      "themes": [
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>5,000</span>",
-      "registrations_count": 8,
-      "featured": false,
-      "organization_name": "IEEE RAS INSAT Students Branch",
-      "winners_announced": false,
-      "submission_gallery_url": "https://nrw-makeathon-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://nrw-makeathon-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 14833,
@@ -275,7 +242,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>14,000</span>",
-      "registrations_count": 66,
+      "registrations_count": 69,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -458,6 +425,39 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 15659,
+      "title": "RDV Hacks",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "New York, NY, USA"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/007/136/datas/medium.png",
+      "analytics_identifier": "RDV Hacks (15659)",
+      "url": "https://rdvhacks.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Aug 06 - 07, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>2,960</span>",
+      "registrations_count": 6,
+      "featured": false,
+      "organization_name": "Rough Draft Ventures",
+      "winners_announced": false,
+      "submission_gallery_url": "https://rdvhacks.devpost.com/project-gallery",
+      "start_a_submission_url": "https://rdvhacks.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 15420,
       "title": "Hoya Hacks 2023",
       "displayed_location": {
@@ -491,39 +491,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://hoya-hacks-2023.devpost.com/project-gallery",
       "start_a_submission_url": "https://hoya-hacks-2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 15659,
-      "title": "RDV Hacks",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "New York, NY, USA"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/007/136/datas/medium.png",
-      "analytics_identifier": "RDV Hacks (15659)",
-      "url": "https://rdvhacks.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Aug 06 - 07, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>2,960</span>",
-      "registrations_count": 5,
-      "featured": false,
-      "organization_name": "Rough Draft Ventures",
-      "winners_announced": false,
-      "submission_gallery_url": "https://rdvhacks.devpost.com/project-gallery",
-      "start_a_submission_url": "https://rdvhacks.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -706,7 +673,7 @@
     }
   ],
   "meta": {
-    "total_count": 20,
+    "total_count": 19,
     "per_page": 40,
     "fuzzy": false
   }
