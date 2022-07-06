@@ -28,7 +28,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>3,000</span>",
-      "registrations_count": 37,
+      "registrations_count": 38,
       "featured": false,
       "organization_name": "Wayne State University",
       "winners_announced": false,
@@ -176,7 +176,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>14,000</span>",
-      "registrations_count": 70,
+      "registrations_count": 73,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -246,7 +246,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>14,000</span>",
-      "registrations_count": 32,
+      "registrations_count": 33,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -283,7 +283,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>2,000</span>",
-      "registrations_count": 16,
+      "registrations_count": 18,
       "featured": false,
       "organization_name": "ESRI",
       "winners_announced": false,
@@ -378,7 +378,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,200</span>",
-      "registrations_count": 7,
+      "registrations_count": 11,
       "featured": false,
       "organization_name": "Garuda HQ",
       "winners_announced": false,
@@ -421,6 +421,43 @@
       "winners_announced": false,
       "submission_gallery_url": "https://hoya-hacks-2023.devpost.com/project-gallery",
       "start_a_submission_url": "https://hoya-hacks-2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 15753,
+      "title": "#CDE22 Bridging data sciences and the public with art",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "University of Birmingham, Y3 Eng."
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/021/573/datas/medium.png",
+      "analytics_identifier": "#CDE22 Bridging data sciences and the public with art (15753)",
+      "url": "https://cde22-data-sciences-art.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jul 10 - 12, 2022",
+      "themes": [
+        {
+          "id": 5,
+          "name": "AR/VR"
+        },
+        {
+          "id": 10,
+          "name": "Communication"
+        },
+        {
+          "id": 15,
+          "name": "Music/Art"
+        }
+      ],
+      "prize_amount": "£<span data-currency-value>5,000</span>",
+      "registrations_count": 6,
+      "featured": false,
+      "organization_name": "Birmingham University",
+      "winners_announced": false,
+      "submission_gallery_url": "https://cde22-data-sciences-art.devpost.com/project-gallery",
+      "start_a_submission_url": "https://cde22-data-sciences-art.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -495,6 +532,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 15686,
+      "title": "ODYSSEY | A 3 Day CleanTech Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Gore Meadows Community Centre & Library"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/006/227/datas/medium.png",
+      "analytics_identifier": "ODYSSEY | A 3 Day CleanTech Hackathon (15686)",
+      "url": "https://odyssey2030.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jul 29 - 31, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 18,
+          "name": "Design"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>10,000</span>",
+      "registrations_count": 4,
+      "featured": false,
+      "organization_name": "Our Wave Hub",
+      "winners_announced": false,
+      "submission_gallery_url": "https://odyssey2030.devpost.com/project-gallery",
+      "start_a_submission_url": "https://odyssey2030.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 15750,
       "title": "Hack Brunel V2",
       "displayed_location": {
@@ -528,43 +602,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://hack-brunel-v2.devpost.com/project-gallery",
       "start_a_submission_url": "https://hack-brunel-v2.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 15753,
-      "title": "#CDE22 Bridging data sciences and the public with art",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "University of Birmingham, Y3 Eng."
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/021/573/datas/medium.png",
-      "analytics_identifier": "#CDE22 Bridging data sciences and the public with art (15753)",
-      "url": "https://cde22-data-sciences-art.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jul 10 - 12, 2022",
-      "themes": [
-        {
-          "id": 5,
-          "name": "AR/VR"
-        },
-        {
-          "id": 10,
-          "name": "Communication"
-        },
-        {
-          "id": 15,
-          "name": "Music/Art"
-        }
-      ],
-      "prize_amount": "£<span data-currency-value>5,000</span>",
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "Birmingham University",
-      "winners_announced": false,
-      "submission_gallery_url": "https://cde22-data-sciences-art.devpost.com/project-gallery",
-      "start_a_submission_url": "https://cde22-data-sciences-art.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -631,43 +668,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://royalcbd-14917.devpost.com/project-gallery",
       "start_a_submission_url": "https://royalcbd-14917.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 15686,
-      "title": "ODYSSEY | A 3 Day CleanTech Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Gore Meadows Community Centre & Library"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/006/227/datas/medium.png",
-      "analytics_identifier": "ODYSSEY | A 3 Day CleanTech Hackathon (15686)",
-      "url": "https://odyssey2030.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jul 29 - 31, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 1,
-      "featured": false,
-      "organization_name": "Our Wave Hub",
-      "winners_announced": false,
-      "submission_gallery_url": "https://odyssey2030.devpost.com/project-gallery",
-      "start_a_submission_url": "https://odyssey2030.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     }
