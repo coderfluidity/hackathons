@@ -38,43 +38,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 15542,
-      "title": "CompuMar",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "CompuMar"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/947/917/datas/medium.png",
-      "analytics_identifier": "CompuMar (15542)",
-      "url": "https://compumar.devpost.com/",
-      "time_left_to_submission": "3 months left",
-      "submission_period_dates": "May 25 - Sep 27, 2022",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        },
-        {
-          "id": 14,
-          "name": "COVID-19"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 19,
-      "featured": false,
-      "organization_name": "blockchain",
-      "winners_announced": false,
-      "submission_gallery_url": "https://compumar.devpost.com/project-gallery",
-      "start_a_submission_url": "https://compumar.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 15765,
       "title": "BIOMED & TECH HACKATHON",
       "displayed_location": {
@@ -102,7 +65,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>8,600</span>",
-      "registrations_count": 16,
+      "registrations_count": 21,
       "featured": false,
       "organization_name": "ITJ",
       "winners_announced": false,
@@ -110,6 +73,43 @@
       "start_a_submission_url": "https://biomed-tech-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Software Engineers, Tech Communities or Students"
+    },
+    {
+      "id": 15542,
+      "title": "CompuMar",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "CompuMar"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/947/917/datas/medium.png",
+      "analytics_identifier": "CompuMar (15542)",
+      "url": "https://compumar.devpost.com/",
+      "time_left_to_submission": "3 months left",
+      "submission_period_dates": "May 25 - Sep 27, 2022",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 14,
+          "name": "COVID-19"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 20,
+      "featured": false,
+      "organization_name": "blockchain",
+      "winners_announced": false,
+      "submission_gallery_url": "https://compumar.devpost.com/project-gallery",
+      "start_a_submission_url": "https://compumar.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 14833,
@@ -139,7 +139,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>14,000</span>",
-      "registrations_count": 96,
+      "registrations_count": 97,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -176,7 +176,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>14,000</span>",
-      "registrations_count": 73,
+      "registrations_count": 75,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -283,7 +283,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>2,000</span>",
-      "registrations_count": 18,
+      "registrations_count": 19,
       "featured": false,
       "organization_name": "ESRI",
       "winners_announced": false,
@@ -297,7 +297,7 @@
       "title": "NeoHacks 2.0",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Seattle Area"
+        "location": "Online"
       },
       "open_state": "upcoming",
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/857/907/datas/medium.png",
@@ -349,7 +349,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 15,
+      "registrations_count": 16,
       "featured": false,
       "organization_name": "Dystopia Labs",
       "winners_announced": false,
@@ -388,6 +388,39 @@
       "eligibility_requirement_invite_only_description": "Indonesian Middle/High School Students"
     },
     {
+      "id": 15659,
+      "title": "RDV Hacks",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "New York, NY, USA"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/007/136/datas/medium.png",
+      "analytics_identifier": "RDV Hacks (15659)",
+      "url": "https://rdvhacks.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Aug 06 - 07, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>2,960</span>",
+      "registrations_count": 11,
+      "featured": false,
+      "organization_name": "Rough Draft Ventures",
+      "winners_announced": false,
+      "submission_gallery_url": "https://rdvhacks.devpost.com/project-gallery",
+      "start_a_submission_url": "https://rdvhacks.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 15420,
       "title": "Hoya Hacks 2023",
       "displayed_location": {
@@ -415,7 +448,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,500</span>",
-      "registrations_count": 7,
+      "registrations_count": 8,
       "featured": false,
       "organization_name": "Hoya Hacks",
       "winners_announced": false,
@@ -425,15 +458,52 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 15686,
+      "title": "ODYSSEY | A 3 Day CleanTech Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Gore Meadows Community Centre & Library"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/006/227/datas/medium.png",
+      "analytics_identifier": "ODYSSEY | A 3 Day CleanTech Hackathon (15686)",
+      "url": "https://odyssey2030.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jul 29 - 31, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 18,
+          "name": "Design"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>10,000</span>",
+      "registrations_count": 6,
+      "featured": false,
+      "organization_name": "Our Wave Hub",
+      "winners_announced": false,
+      "submission_gallery_url": "https://odyssey2030.devpost.com/project-gallery",
+      "start_a_submission_url": "https://odyssey2030.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 15753,
-      "title": "#CDE22 Bridging data sciences and the public with art",
+      "title": "#CDE22 Bridging data sciences and the public with art (hybrid)",
       "displayed_location": {
         "icon": "map-marker-alt",
         "location": "University of Birmingham, Y3 Eng."
       },
       "open_state": "upcoming",
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/021/573/datas/medium.png",
-      "analytics_identifier": "#CDE22 Bridging data sciences and the public with art (15753)",
+      "analytics_identifier": "#CDE22 Bridging data sciences and the public with art (hybrid) (15753)",
       "url": "https://cde22-data-sciences-art.devpost.com/",
       "time_left_to_submission": "Upcoming",
       "submission_period_dates": "Jul 10 - 12, 2022",
@@ -452,45 +522,12 @@
         }
       ],
       "prize_amount": "£<span data-currency-value>5,000</span>",
-      "registrations_count": 6,
+      "registrations_count": 5,
       "featured": false,
       "organization_name": "Birmingham University",
       "winners_announced": false,
       "submission_gallery_url": "https://cde22-data-sciences-art.devpost.com/project-gallery",
       "start_a_submission_url": "https://cde22-data-sciences-art.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 15659,
-      "title": "RDV Hacks",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "New York, NY, USA"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/007/136/datas/medium.png",
-      "analytics_identifier": "RDV Hacks (15659)",
-      "url": "https://rdvhacks.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Aug 06 - 07, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>2,960</span>",
-      "registrations_count": 6,
-      "featured": false,
-      "organization_name": "Rough Draft Ventures",
-      "winners_announced": false,
-      "submission_gallery_url": "https://rdvhacks.devpost.com/project-gallery",
-      "start_a_submission_url": "https://rdvhacks.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -532,43 +569,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 15686,
-      "title": "ODYSSEY | A 3 Day CleanTech Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Gore Meadows Community Centre & Library"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/006/227/datas/medium.png",
-      "analytics_identifier": "ODYSSEY | A 3 Day CleanTech Hackathon (15686)",
-      "url": "https://odyssey2030.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jul 29 - 31, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 4,
-      "featured": false,
-      "organization_name": "Our Wave Hub",
-      "winners_announced": false,
-      "submission_gallery_url": "https://odyssey2030.devpost.com/project-gallery",
-      "start_a_submission_url": "https://odyssey2030.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 15750,
       "title": "Hack Brunel V2",
       "displayed_location": {
@@ -596,7 +596,7 @@
         }
       ],
       "prize_amount": "£<span data-currency-value>250</span>",
-      "registrations_count": 4,
+      "registrations_count": 5,
       "featured": false,
       "organization_name": "Brunel Tech Society",
       "winners_announced": false,
