@@ -65,7 +65,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>8,600</span>",
-      "registrations_count": 27,
+      "registrations_count": 29,
       "featured": false,
       "organization_name": "ITJ",
       "winners_announced": false,
@@ -122,7 +122,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/028/299/datas/medium.jpg",
       "analytics_identifier": "Hackforfreedom (15863)",
       "url": "https://hackforfreedom.devpost.com/",
-      "time_left_to_submission": "19 days left",
+      "time_left_to_submission": "18 days left",
       "submission_period_dates": "Jul 10 - 31, 2022",
       "themes": [
         {
@@ -135,7 +135,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>200</span>",
-      "registrations_count": 2,
+      "registrations_count": 3,
       "featured": false,
       "organization_name": "ExpeditionHacks",
       "winners_announced": false,
@@ -172,7 +172,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>14,000</span>",
-      "registrations_count": 100,
+      "registrations_count": 102,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -209,7 +209,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>14,000</span>",
-      "registrations_count": 78,
+      "registrations_count": 79,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -246,7 +246,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>7,500</span>",
-      "registrations_count": 65,
+      "registrations_count": 66,
       "featured": false,
       "organization_name": "XHACK Innovation & Technology Group",
       "winners_announced": false,
@@ -407,7 +407,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>2,960</span>",
-      "registrations_count": 18,
+      "registrations_count": 19,
       "featured": false,
       "organization_name": "Rough Draft Ventures",
       "winners_announced": false,
@@ -565,6 +565,39 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 15872,
+      "title": "HackSimBuild",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "The Plant"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/030/392/datas/medium.png",
+      "analytics_identifier": "HackSimBuild (15872)",
+      "url": "https://hacksimbuild.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Sep 16 - 17, 2022",
+      "themes": [
+        {
+          "id": 18,
+          "name": "Design"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>500</span>",
+      "registrations_count": 5,
+      "featured": false,
+      "organization_name": "IBPSA-USA",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hacksimbuild.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hacksimbuild.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 15750,
       "title": "Hack Brunel V2",
       "displayed_location": {
@@ -598,39 +631,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://hack-brunel-v2.devpost.com/project-gallery",
       "start_a_submission_url": "https://hack-brunel-v2.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 15872,
-      "title": "HackSimBuild",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "The Plant"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/030/392/datas/medium.png",
-      "analytics_identifier": "HackSimBuild (15872)",
-      "url": "https://hacksimbuild.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Sep 16 - 17, 2022",
-      "themes": [
-        {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>500</span>",
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "IBPSA-USA",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hacksimbuild.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hacksimbuild.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
