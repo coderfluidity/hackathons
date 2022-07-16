@@ -65,7 +65,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>8,600</span>",
-      "registrations_count": 31,
+      "registrations_count": 32,
       "featured": false,
       "organization_name": "ITJ",
       "winners_announced": false,
@@ -73,6 +73,39 @@
       "start_a_submission_url": "https://biomed-tech-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Software Engineers, Tech Communities or Students"
+    },
+    {
+      "id": 15855,
+      "title": "Luna Hacks",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Skills Development Center"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/026/657/datas/medium.png",
+      "analytics_identifier": "Luna Hacks (15855)",
+      "url": "https://luna-hacks.devpost.com/",
+      "time_left_to_submission": "about 10 hours left",
+      "submission_period_dates": "Jul 16, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>2,800</span>",
+      "registrations_count": 24,
+      "featured": false,
+      "organization_name": "Google Developer Students Club - Moi Uni",
+      "winners_announced": false,
+      "submission_gallery_url": "https://luna-hacks.devpost.com/project-gallery",
+      "start_a_submission_url": "https://luna-hacks.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 15542,
@@ -122,7 +155,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/028/299/datas/medium.jpg",
       "analytics_identifier": "Hackforfreedom (15863)",
       "url": "https://hackforfreedom.devpost.com/",
-      "time_left_to_submission": "16 days left",
+      "time_left_to_submission": "15 days left",
       "submission_period_dates": "Jul 10 - 31, 2022",
       "themes": [
         {
@@ -135,7 +168,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>200</span>",
-      "registrations_count": 5,
+      "registrations_count": 6,
       "featured": false,
       "organization_name": "ExpeditionHacks",
       "winners_announced": false,
@@ -172,7 +205,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>14,000</span>",
-      "registrations_count": 104,
+      "registrations_count": 105,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -279,7 +312,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>14,000</span>",
-      "registrations_count": 33,
+      "registrations_count": 34,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -316,7 +349,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>2,000</span>",
-      "registrations_count": 24,
+      "registrations_count": 25,
       "featured": false,
       "organization_name": "ESRI",
       "winners_announced": false,
@@ -345,7 +378,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 24,
+      "registrations_count": 25,
       "featured": false,
       "organization_name": "Dystopia Labs",
       "winners_announced": false,
@@ -378,7 +411,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>2,960</span>",
-      "registrations_count": 22,
+      "registrations_count": 23,
       "featured": false,
       "organization_name": "Rough Draft Ventures",
       "winners_announced": false,
@@ -481,7 +514,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,500</span>",
-      "registrations_count": 10,
+      "registrations_count": 11,
       "featured": false,
       "organization_name": "Hoya Hacks",
       "winners_announced": false,
@@ -598,6 +631,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 15592,
+      "title": "Slash Hackathon 2022 - hosted at CODE",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Factory Berlin Görlitzer Park"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/993/894/datas/medium.jpeg",
+      "analytics_identifier": "Slash Hackathon 2022 - hosted at CODE (15592)",
+      "url": "https://slash-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Sep 24 - 25, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "€<span data-currency-value>3,900</span>",
+      "registrations_count": 5,
+      "featured": false,
+      "organization_name": "Slash",
+      "winners_announced": false,
+      "submission_gallery_url": "https://slash-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://slash-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "with tickets bought on slash.berlin (link below)"
+    },
+    {
       "id": 15750,
       "title": "Hack Brunel V2",
       "displayed_location": {
@@ -633,43 +703,6 @@
       "start_a_submission_url": "https://hack-brunel-v2.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 15592,
-      "title": "Slash Hackathon 2022 - hosted at CODE",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Factory Berlin Görlitzer Park"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/993/894/datas/medium.jpeg",
-      "analytics_identifier": "Slash Hackathon 2022 - hosted at CODE (15592)",
-      "url": "https://slash-2022.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Sep 24 - 25, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "€<span data-currency-value>3,900</span>",
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "Slash",
-      "winners_announced": false,
-      "submission_gallery_url": "https://slash-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://slash-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "with tickets bought on slash.berlin (link below)"
     },
     {
       "id": 14917,
@@ -728,7 +761,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 1,
+      "registrations_count": 2,
       "featured": false,
       "organization_name": "iata",
       "winners_announced": false,
@@ -736,10 +769,47 @@
       "start_a_submission_url": "https://onerecord-yyz.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 15904,
+      "title": "Zk Circuit",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Paris, France"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/033/531/datas/medium.png",
+      "analytics_identifier": "Zk Circuit (15904)",
+      "url": "https://zk-circuit.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jul 19 - 25, 2022",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 4,
+          "name": "Gaming"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>5,000</span>",
+      "registrations_count": 1,
+      "featured": false,
+      "organization_name": "ETHGlobal",
+      "winners_announced": false,
+      "submission_gallery_url": "https://zk-circuit.devpost.com/project-gallery",
+      "start_a_submission_url": "https://zk-circuit.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Developers interesting in building web3 Apps."
     }
   ],
   "meta": {
-    "total_count": 21,
+    "total_count": 23,
     "per_page": 40,
     "fuzzy": false
   }
