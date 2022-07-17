@@ -75,39 +75,6 @@
       "eligibility_requirement_invite_only_description": "Software Engineers, Tech Communities or Students"
     },
     {
-      "id": 15855,
-      "title": "Luna Hacks",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Skills Development Center"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/026/657/datas/medium.png",
-      "analytics_identifier": "Luna Hacks (15855)",
-      "url": "https://luna-hacks.devpost.com/",
-      "time_left_to_submission": "about 10 hours left",
-      "submission_period_dates": "Jul 16, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>2,800</span>",
-      "registrations_count": 24,
-      "featured": false,
-      "organization_name": "Google Developer Students Club - Moi Uni",
-      "winners_announced": false,
-      "submission_gallery_url": "https://luna-hacks.devpost.com/project-gallery",
-      "start_a_submission_url": "https://luna-hacks.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 15542,
       "title": "CompuMar",
       "displayed_location": {
@@ -155,7 +122,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/028/299/datas/medium.jpg",
       "analytics_identifier": "Hackforfreedom (15863)",
       "url": "https://hackforfreedom.devpost.com/",
-      "time_left_to_submission": "15 days left",
+      "time_left_to_submission": "14 days left",
       "submission_period_dates": "Jul 10 - 31, 2022",
       "themes": [
         {
@@ -242,7 +209,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>14,000</span>",
-      "registrations_count": 81,
+      "registrations_count": 83,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -421,35 +388,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 15817,
-      "title": "Komodo Hacks 1.0",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Jakarta"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/024/343/datas/medium.png",
-      "analytics_identifier": "Komodo Hacks 1.0 (15817)",
-      "url": "https://komodo-hacks.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jul 22 - 25, 2022",
-      "themes": [
-        {
-          "id": 19,
-          "name": "Education"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>1,200</span>",
-      "registrations_count": 19,
-      "featured": false,
-      "organization_name": "Garuda HQ",
-      "winners_announced": false,
-      "submission_gallery_url": "https://komodo-hacks.devpost.com/project-gallery",
-      "start_a_submission_url": "https://komodo-hacks.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Indonesian Middle/High School Students"
-    },
-    {
       "id": 14925,
       "title": "NeoHacks 2.0",
       "displayed_location": {
@@ -477,7 +415,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 19,
+      "registrations_count": 20,
       "featured": false,
       "organization_name": "NeoHacks",
       "winners_announced": false,
@@ -485,6 +423,35 @@
       "start_a_submission_url": "https://neohacks-2-0.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 15817,
+      "title": "Komodo Hacks 1.0",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Jakarta"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/024/343/datas/medium.png",
+      "analytics_identifier": "Komodo Hacks 1.0 (15817)",
+      "url": "https://komodo-hacks.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jul 22 - 25, 2022",
+      "themes": [
+        {
+          "id": 19,
+          "name": "Education"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1,200</span>",
+      "registrations_count": 19,
+      "featured": false,
+      "organization_name": "Garuda HQ",
+      "winners_announced": false,
+      "submission_gallery_url": "https://komodo-hacks.devpost.com/project-gallery",
+      "start_a_submission_url": "https://komodo-hacks.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Indonesian Middle/High School Students"
     },
     {
       "id": 15420,
@@ -695,78 +662,12 @@
         }
       ],
       "prize_amount": "£<span data-currency-value>250</span>",
-      "registrations_count": 4,
+      "registrations_count": 5,
       "featured": false,
       "organization_name": "Brunel Tech Society",
       "winners_announced": false,
       "submission_gallery_url": "https://hack-brunel-v2.devpost.com/project-gallery",
       "start_a_submission_url": "https://hack-brunel-v2.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 14917,
-      "title": "RoyalCbd",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Montello, WI, USA"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "RoyalCbd (14917)",
-      "url": "https://royalcbd-14917.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 03 - May 08, 2026",
-      "themes": [
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "RoyalCBD",
-      "winners_announced": false,
-      "submission_gallery_url": "https://royalcbd-14917.devpost.com/project-gallery",
-      "start_a_submission_url": "https://royalcbd-14917.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 15005,
-      "title": "ONE Record YYZ Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Air Canada Cargo"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/866/286/datas/medium.png",
-      "analytics_identifier": "ONE Record YYZ Hackathon (15005)",
-      "url": "https://onerecord-yyz.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 21 - 23, 2022",
-      "themes": [
-        {
-          "id": 3,
-          "name": "Fintech"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 2,
-      "featured": false,
-      "organization_name": "iata",
-      "winners_announced": false,
-      "submission_gallery_url": "https://onerecord-yyz.devpost.com/project-gallery",
-      "start_a_submission_url": "https://onerecord-yyz.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -798,7 +699,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>5,000</span>",
-      "registrations_count": 1,
+      "registrations_count": 4,
       "featured": false,
       "organization_name": "ETHGlobal",
       "winners_announced": false,
@@ -806,10 +707,76 @@
       "start_a_submission_url": "https://zk-circuit.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Developers interesting in building web3 Apps."
+    },
+    {
+      "id": 15005,
+      "title": "ONE Record YYZ Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Air Canada Cargo"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/866/286/datas/medium.png",
+      "analytics_identifier": "ONE Record YYZ Hackathon (15005)",
+      "url": "https://onerecord-yyz.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 21 - 23, 2022",
+      "themes": [
+        {
+          "id": 3,
+          "name": "Fintech"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>10,000</span>",
+      "registrations_count": 3,
+      "featured": false,
+      "organization_name": "iata",
+      "winners_announced": false,
+      "submission_gallery_url": "https://onerecord-yyz.devpost.com/project-gallery",
+      "start_a_submission_url": "https://onerecord-yyz.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 14917,
+      "title": "RoyalCbd",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Montello, WI, USA"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "RoyalCbd (14917)",
+      "url": "https://royalcbd-14917.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 03 - May 08, 2026",
+      "themes": [
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 3,
+      "featured": false,
+      "organization_name": "RoyalCBD",
+      "winners_announced": false,
+      "submission_gallery_url": "https://royalcbd-14917.devpost.com/project-gallery",
+      "start_a_submission_url": "https://royalcbd-14917.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     }
   ],
   "meta": {
-    "total_count": 23,
+    "total_count": 22,
     "per_page": 40,
     "fuzzy": false
   }
