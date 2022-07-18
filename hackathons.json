@@ -65,7 +65,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>8,600</span>",
-      "registrations_count": 32,
+      "registrations_count": 33,
       "featured": false,
       "organization_name": "ITJ",
       "winners_announced": false,
@@ -122,7 +122,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/028/299/datas/medium.jpg",
       "analytics_identifier": "Hackforfreedom (15863)",
       "url": "https://hackforfreedom.devpost.com/",
-      "time_left_to_submission": "14 days left",
+      "time_left_to_submission": "13 days left",
       "submission_period_dates": "Jul 10 - 31, 2022",
       "themes": [
         {
@@ -246,7 +246,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>7,500</span>",
-      "registrations_count": 66,
+      "registrations_count": 67,
       "featured": false,
       "organization_name": "XHACK Innovation & Technology Group",
       "winners_announced": false,
@@ -316,7 +316,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>2,000</span>",
-      "registrations_count": 25,
+      "registrations_count": 27,
       "featured": false,
       "organization_name": "ESRI",
       "winners_announced": false,
@@ -378,7 +378,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>2,960</span>",
-      "registrations_count": 23,
+      "registrations_count": 24,
       "featured": false,
       "organization_name": "Rough Draft Ventures",
       "winners_announced": false,
@@ -518,7 +518,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 7,
+      "registrations_count": 8,
       "featured": false,
       "organization_name": "Our Wave Hub",
       "winners_announced": false,
@@ -635,6 +635,43 @@
       "eligibility_requirement_invite_only_description": "with tickets bought on slash.berlin (link below)"
     },
     {
+      "id": 15005,
+      "title": "ONE Record YYZ Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Air Canada Cargo"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/866/286/datas/medium.png",
+      "analytics_identifier": "ONE Record YYZ Hackathon (15005)",
+      "url": "https://onerecord-yyz.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 21 - 23, 2022",
+      "themes": [
+        {
+          "id": 3,
+          "name": "Fintech"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>10,000</span>",
+      "registrations_count": 5,
+      "featured": false,
+      "organization_name": "iata",
+      "winners_announced": false,
+      "submission_gallery_url": "https://onerecord-yyz.devpost.com/project-gallery",
+      "start_a_submission_url": "https://onerecord-yyz.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 15750,
       "title": "Hack Brunel V2",
       "displayed_location": {
@@ -707,43 +744,6 @@
       "start_a_submission_url": "https://zk-circuit.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Developers interesting in building web3 Apps."
-    },
-    {
-      "id": 15005,
-      "title": "ONE Record YYZ Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Air Canada Cargo"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/866/286/datas/medium.png",
-      "analytics_identifier": "ONE Record YYZ Hackathon (15005)",
-      "url": "https://onerecord-yyz.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 21 - 23, 2022",
-      "themes": [
-        {
-          "id": 3,
-          "name": "Fintech"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "iata",
-      "winners_announced": false,
-      "submission_gallery_url": "https://onerecord-yyz.devpost.com/project-gallery",
-      "start_a_submission_url": "https://onerecord-yyz.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 14917,
