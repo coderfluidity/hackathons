@@ -28,7 +28,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>8,600</span>",
-      "registrations_count": 37,
+      "registrations_count": 38,
       "featured": false,
       "organization_name": "ITJ",
       "winners_announced": false,
@@ -65,7 +65,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>3,000</span>",
-      "registrations_count": 37,
+      "registrations_count": 38,
       "featured": false,
       "organization_name": "Wayne State University",
       "winners_announced": false,
@@ -122,7 +122,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/028/299/datas/medium.jpg",
       "analytics_identifier": "Hackforfreedom (15863)",
       "url": "https://hackforfreedom.devpost.com/",
-      "time_left_to_submission": "12 days left",
+      "time_left_to_submission": "11 days left",
       "submission_period_dates": "Jul 10 - 31, 2022",
       "themes": [
         {
@@ -135,7 +135,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>200</span>",
-      "registrations_count": 6,
+      "registrations_count": 7,
       "featured": false,
       "organization_name": "ExpeditionHacks",
       "winners_announced": false,
@@ -155,7 +155,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/033/531/datas/medium.png",
       "analytics_identifier": "Zk Circuit (15904)",
       "url": "https://zk-circuit.devpost.com/",
-      "time_left_to_submission": "6 days left",
+      "time_left_to_submission": "5 days left",
       "submission_period_dates": "Jul 19 - 25, 2022",
       "themes": [
         {
@@ -172,7 +172,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>5,000</span>",
-      "registrations_count": 5,
+      "registrations_count": 6,
       "featured": false,
       "organization_name": "ETHGlobal",
       "winners_announced": false,
@@ -209,7 +209,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>14,000</span>",
-      "registrations_count": 105,
+      "registrations_count": 107,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -246,7 +246,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>14,000</span>",
-      "registrations_count": 83,
+      "registrations_count": 86,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -320,7 +320,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>2,000</span>",
-      "registrations_count": 35,
+      "registrations_count": 40,
       "featured": false,
       "organization_name": "ESRI",
       "winners_announced": false,
@@ -353,7 +353,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>14,000</span>",
-      "registrations_count": 34,
+      "registrations_count": 35,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -386,7 +386,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>2,960</span>",
-      "registrations_count": 28,
+      "registrations_count": 32,
       "featured": false,
       "organization_name": "Rough Draft Ventures",
       "winners_announced": false,
@@ -528,6 +528,39 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 15872,
+      "title": "HackSimBuild",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "The Plant"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/030/392/datas/medium.png",
+      "analytics_identifier": "HackSimBuild (15872)",
+      "url": "https://hacksimbuild.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Sep 16 - 17, 2022",
+      "themes": [
+        {
+          "id": 18,
+          "name": "Design"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>500</span>",
+      "registrations_count": 9,
+      "featured": false,
+      "organization_name": "IBPSA-USA",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hacksimbuild.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hacksimbuild.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 15686,
       "title": "ODYSSEY | A 3 Day In-Person CleanTech Hackathon",
       "displayed_location": {
@@ -555,7 +588,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 8,
+      "registrations_count": 7,
       "featured": false,
       "organization_name": "Our Wave Hub",
       "winners_announced": false,
@@ -565,35 +598,76 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 15872,
-      "title": "HackSimBuild",
+      "id": 15920,
+      "title": "health{hacks} 2022",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "The Plant"
+        "location": "The Hub at Stanford Research Park"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/030/392/datas/medium.png",
-      "analytics_identifier": "HackSimBuild (15872)",
-      "url": "https://hacksimbuild.devpost.com/",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/036/299/datas/medium.png",
+      "analytics_identifier": "health{hacks} 2022 (15920)",
+      "url": "https://health-hacks-2022.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Sep 16 - 17, 2022",
+      "submission_period_dates": "Aug 05 - 07, 2022",
       "themes": [
         {
-          "id": 18,
-          "name": "Design"
+          "id": 23,
+          "name": "Beginner Friendly"
         },
         {
-          "id": 13,
-          "name": "Social Good"
+          "id": 16,
+          "name": "Health"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
         }
       ],
-      "prize_amount": "$<span data-currency-value>500</span>",
-      "registrations_count": 8,
+      "prize_amount": "$<span data-currency-value>2,550</span>",
+      "registrations_count": 7,
       "featured": false,
-      "organization_name": "IBPSA-USA",
+      "organization_name": "health{hacks}",
       "winners_announced": false,
-      "submission_gallery_url": "https://hacksimbuild.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hacksimbuild.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://health-hacks-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://health-hacks-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 15005,
+      "title": "ONE Record YYZ Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Air Canada Cargo"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/866/286/datas/medium.png",
+      "analytics_identifier": "ONE Record YYZ Hackathon (15005)",
+      "url": "https://onerecord-yyz.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 21 - 23, 2022",
+      "themes": [
+        {
+          "id": 3,
+          "name": "Fintech"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>10,000</span>",
+      "registrations_count": 6,
+      "featured": false,
+      "organization_name": "iata",
+      "winners_announced": false,
+      "submission_gallery_url": "https://onerecord-yyz.devpost.com/project-gallery",
+      "start_a_submission_url": "https://onerecord-yyz.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -672,43 +746,6 @@
       "eligibility_requirement_invite_only_description": "with tickets bought on slash.berlin (link below)"
     },
     {
-      "id": 15005,
-      "title": "ONE Record YYZ Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Air Canada Cargo"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/866/286/datas/medium.png",
-      "analytics_identifier": "ONE Record YYZ Hackathon (15005)",
-      "url": "https://onerecord-yyz.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 21 - 23, 2022",
-      "themes": [
-        {
-          "id": 3,
-          "name": "Fintech"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 5,
-      "featured": false,
-      "organization_name": "iata",
-      "winners_announced": false,
-      "submission_gallery_url": "https://onerecord-yyz.devpost.com/project-gallery",
-      "start_a_submission_url": "https://onerecord-yyz.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 15750,
       "title": "Hack Brunel V2",
       "displayed_location": {
@@ -746,6 +783,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 15881,
+      "title": "BlockChamps 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Virtual / Ethlas Office"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/036/596/datas/medium.png",
+      "analytics_identifier": "BlockChamps 2022 (15881)",
+      "url": "https://blockchamps.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Aug 13 - 24, 2022",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 4,
+          "name": "Gaming"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>3,180</span>",
+      "registrations_count": 4,
+      "featured": false,
+      "organization_name": "Ethlas",
+      "winners_announced": false,
+      "submission_gallery_url": "https://blockchamps.devpost.com/project-gallery",
+      "start_a_submission_url": "https://blockchamps.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Students & fresh grads from tertiary institutions"
+    },
+    {
       "id": 14917,
       "title": "RoyalCbd",
       "displayed_location": {
@@ -776,7 +850,7 @@
     }
   ],
   "meta": {
-    "total_count": 22,
+    "total_count": 24,
     "per_page": 40,
     "fuzzy": false
   }
