@@ -1,6 +1,39 @@
 {
   "hackathons": [
     {
+      "id": 15659,
+      "title": "RDV Hacks",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "New York, NY, USA"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/007/136/datas/medium.png",
+      "analytics_identifier": "RDV Hacks (15659)",
+      "url": "https://rdvhacks.devpost.com/",
+      "time_left_to_submission": "1 day left",
+      "submission_period_dates": "Aug 06 - 07, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>2,960</span>",
+      "registrations_count": 108,
+      "featured": false,
+      "organization_name": "Rough Draft Ventures",
+      "winners_announced": false,
+      "submission_gallery_url": "https://rdvhacks.devpost.com/project-gallery",
+      "start_a_submission_url": "https://rdvhacks.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 15765,
       "title": "BIOMED & TECH HACKATHON",
       "displayed_location": {
@@ -28,7 +61,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>8,600</span>",
-      "registrations_count": 70,
+      "registrations_count": 73,
       "featured": false,
       "organization_name": "ITJ",
       "winners_announced": false,
@@ -36,6 +69,35 @@
       "start_a_submission_url": "https://biomed-tech-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Software Engineers, Tech Communities or Students"
+    },
+    {
+      "id": 15525,
+      "title": "ETH Seoul",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Maru 180 & 360"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/955/336/datas/medium.png",
+      "analytics_identifier": "ETH Seoul (15525)",
+      "url": "https://eth-seoul.devpost.com/",
+      "time_left_to_submission": "6 days left",
+      "submission_period_dates": "Aug 06 - 12, 2022",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 59,
+      "featured": false,
+      "organization_name": "Dystopia Labs",
+      "winners_announced": false,
+      "submission_gallery_url": "https://eth-seoul.devpost.com/project-gallery",
+      "start_a_submission_url": "https://eth-seoul.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 14884,
@@ -71,6 +133,43 @@
       "winners_announced": false,
       "submission_gallery_url": "https://motor-city-hack.devpost.com/project-gallery",
       "start_a_submission_url": "https://motor-city-hack.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 15920,
+      "title": "health{hacks} 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "The Hub at Stanford Research Park"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/036/299/datas/medium.png",
+      "analytics_identifier": "health{hacks} 2022 (15920)",
+      "url": "https://health-hacks-2022.devpost.com/",
+      "time_left_to_submission": "1 day left",
+      "submission_period_dates": "Aug 05 - 07, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 16,
+          "name": "Health"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>17,940</span>",
+      "registrations_count": 31,
+      "featured": false,
+      "organization_name": "health{hacks}",
+      "winners_announced": false,
+      "submission_gallery_url": "https://health-hacks-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://health-hacks-2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -122,7 +221,7 @@
       "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/044/291/datas/medium.png",
       "analytics_identifier": "Safety & Dev Solutions Hackathon 2022 (15968)",
       "url": "https://tbilisi-hackathon-2022.devpost.com/",
-      "time_left_to_submission": "12 days left",
+      "time_left_to_submission": "11 days left",
       "submission_period_dates": "Aug 05 - 18, 2022",
       "themes": [
         {
@@ -131,7 +230,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>5,500</span>",
-      "registrations_count": 1,
+      "registrations_count": 2,
       "featured": false,
       "organization_name": "SD Solutions",
       "winners_announced": false,
@@ -168,7 +267,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>15,500</span>",
-      "registrations_count": 120,
+      "registrations_count": 123,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -205,74 +304,12 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>15,500</span>",
-      "registrations_count": 106,
+      "registrations_count": 107,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
       "submission_gallery_url": "https://dw-cloud-2022-hackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://dw-cloud-2022-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 15659,
-      "title": "RDV Hacks",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "New York, NY, USA"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/007/136/datas/medium.png",
-      "analytics_identifier": "RDV Hacks (15659)",
-      "url": "https://rdvhacks.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Aug 06 - 07, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>2,960</span>",
-      "registrations_count": 90,
-      "featured": false,
-      "organization_name": "Rough Draft Ventures",
-      "winners_announced": false,
-      "submission_gallery_url": "https://rdvhacks.devpost.com/project-gallery",
-      "start_a_submission_url": "https://rdvhacks.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 15525,
-      "title": "ETH Seoul",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Maru 180 & 360"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/001/955/336/datas/medium.png",
-      "analytics_identifier": "ETH Seoul (15525)",
-      "url": "https://eth-seoul.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Aug 06 - 12, 2022",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 59,
-      "featured": false,
-      "organization_name": "Dystopia Labs",
-      "winners_announced": false,
-      "submission_gallery_url": "https://eth-seoul.devpost.com/project-gallery",
-      "start_a_submission_url": "https://eth-seoul.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -304,7 +341,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>3,180</span>",
-      "registrations_count": 50,
+      "registrations_count": 58,
       "featured": false,
       "organization_name": "Ethlas",
       "winners_announced": false,
@@ -341,7 +378,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>80</span>",
-      "registrations_count": 42,
+      "registrations_count": 48,
       "featured": false,
       "organization_name": "NeoHacks",
       "winners_announced": false,
@@ -374,49 +411,12 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>14,000</span>",
-      "registrations_count": 42,
+      "registrations_count": 43,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
       "submission_gallery_url": "https://dw-enterprise-2022-hackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://dw-enterprise-2022-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 15920,
-      "title": "health{hacks} 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "The Hub at Stanford Research Park"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/036/299/datas/medium.png",
-      "analytics_identifier": "health{hacks} 2022 (15920)",
-      "url": "https://health-hacks-2022.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Aug 05 - 07, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 16,
-          "name": "Health"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>17,940</span>",
-      "registrations_count": 27,
-      "featured": false,
-      "organization_name": "health{hacks}",
-      "winners_announced": false,
-      "submission_gallery_url": "https://health-hacks-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://health-hacks-2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -555,12 +555,49 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>15,000</span>",
-      "registrations_count": 8,
+      "registrations_count": 9,
       "featured": false,
       "organization_name": "Engine-4",
       "winners_announced": false,
       "submission_gallery_url": "https://web3hackathonpr.devpost.com/project-gallery",
       "start_a_submission_url": "https://web3hackathonpr.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 15846,
+      "title": "Bring Down Counterfeiting 2022: Policy Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "TBD"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/025/879/datas/medium.png",
+      "analytics_identifier": "Bring Down Counterfeiting 2022: Policy Hackathon (15846)",
+      "url": "https://bring-down-counterfeiting-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Aug 27 - Oct 13, 2022",
+      "themes": [
+        {
+          "id": 20,
+          "name": "E-commerce/Retail"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>22,000</span>",
+      "registrations_count": 7,
+      "featured": false,
+      "organization_name": "ExpeditionHacks",
+      "winners_announced": false,
+      "submission_gallery_url": "https://bring-down-counterfeiting-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://bring-down-counterfeiting-2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -676,43 +713,6 @@
       "eligibility_requirement_invite_only_description": "with tickets bought on slash.berlin (link below)"
     },
     {
-      "id": 15846,
-      "title": "Bring Down Counterfeiting 2022: Policy Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "TBD"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_thumbnails/002/025/879/datas/medium.png",
-      "analytics_identifier": "Bring Down Counterfeiting 2022: Policy Hackathon (15846)",
-      "url": "https://bring-down-counterfeiting-2022.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Aug 27 - Oct 13, 2022",
-      "themes": [
-        {
-          "id": 20,
-          "name": "E-commerce/Retail"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>22,000</span>",
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "ExpeditionHacks",
-      "winners_announced": false,
-      "submission_gallery_url": "https://bring-down-counterfeiting-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://bring-down-counterfeiting-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 14917,
       "title": "RoyalCbd",
       "displayed_location": {
@@ -769,7 +769,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>9,999</span>",
-      "registrations_count": 1,
+      "registrations_count": 2,
       "featured": false,
       "organization_name": "Ágil Centros",
       "winners_announced": false,
@@ -777,10 +777,47 @@
       "start_a_submission_url": "https://8xbet.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 15963,
+      "title": "Fitch 2022 Codeathon for Education",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Fitch Chicago HQ"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://devpost-challengepost.netdna-ssl.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "Fitch 2022 Codeathon for Education (15963)",
+      "url": "https://fitch.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Dec 09 - 10, 2022",
+      "themes": [
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 26,
+          "name": "Mobile"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>4,000</span>",
+      "registrations_count": 2,
+      "featured": false,
+      "organization_name": "Fitch",
+      "winners_announced": false,
+      "submission_gallery_url": "https://fitch.devpost.com/project-gallery",
+      "start_a_submission_url": "https://fitch.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     }
   ],
   "meta": {
-    "total_count": 22,
+    "total_count": 23,
     "per_page": 40,
     "fuzzy": false
   }
