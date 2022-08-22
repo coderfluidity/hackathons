@@ -1,6 +1,43 @@
 {
   "hackathons": [
     {
+      "id": 14832,
+      "title": "DeveloperWeek Cloud 2022 Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Palmer Events Center"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/001/848/765/datas/medium.jpg",
+      "analytics_identifier": "DeveloperWeek Cloud 2022 Hackathon (14832)",
+      "url": "https://dw-cloud-2022-hackathon.devpost.com/",
+      "time_left_to_submission": "17 days left",
+      "submission_period_dates": "Aug 22 - Sep 08, 2022",
+      "themes": [
+        {
+          "id": 2,
+          "name": "DevOps"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>32,800</span>",
+      "registrations_count": 127,
+      "featured": false,
+      "organization_name": "DevNetwork",
+      "winners_announced": false,
+      "submission_gallery_url": "https://dw-cloud-2022-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://dw-cloud-2022-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 15881,
       "title": "BlockChamps 2022",
       "displayed_location": {
@@ -11,7 +48,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/036/596/datas/medium.png",
       "analytics_identifier": "BlockChamps 2022 (15881)",
       "url": "https://blockchamps.devpost.com/",
-      "time_left_to_submission": "3 days left",
+      "time_left_to_submission": "1 day left",
       "submission_period_dates": "Aug 13 - 24, 2022",
       "themes": [
         {
@@ -48,7 +85,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/015/470/datas/medium.png",
       "analytics_identifier": "BioMedTech Baja Hackathon (15765)",
       "url": "https://biomed-tech-hackathon.devpost.com/",
-      "time_left_to_submission": "15 days left",
+      "time_left_to_submission": "14 days left",
       "submission_period_dates": "Jul 01 - Sep 05, 2022",
       "themes": [
         {
@@ -65,7 +102,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>8,600</span>",
-      "registrations_count": 103,
+      "registrations_count": 106,
       "featured": false,
       "organization_name": "ITJ",
       "winners_announced": false,
@@ -139,7 +176,7 @@
         }
       ],
       "prize_amount": "₹ <span data-currency-value>850,000</span>",
-      "registrations_count": 33,
+      "registrations_count": 35,
       "featured": false,
       "organization_name": "SUVIK TECHNOLOGIES FZE",
       "winners_announced": false,
@@ -213,7 +250,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>145,000</span>",
-      "registrations_count": 95,
+      "registrations_count": 103,
       "featured": true,
       "organization_name": "NEAR",
       "winners_announced": false,
@@ -250,49 +287,12 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>15,500</span>",
-      "registrations_count": 131,
+      "registrations_count": 134,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
       "submission_gallery_url": "https://api-world-hackathon-2022.devpost.com/project-gallery",
       "start_a_submission_url": "https://api-world-hackathon-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 14832,
-      "title": "DeveloperWeek Cloud 2022 Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Palmer Events Center"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/001/848/765/datas/medium.jpg",
-      "analytics_identifier": "DeveloperWeek Cloud 2022 Hackathon (14832)",
-      "url": "https://dw-cloud-2022-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Aug 22 - Sep 08, 2022",
-      "themes": [
-        {
-          "id": 2,
-          "name": "DevOps"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>32,800</span>",
-      "registrations_count": 124,
-      "featured": false,
-      "organization_name": "DevNetwork",
-      "winners_announced": false,
-      "submission_gallery_url": "https://dw-cloud-2022-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://dw-cloud-2022-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -357,7 +357,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>22,000</span>",
-      "registrations_count": 35,
+      "registrations_count": 37,
       "featured": false,
       "organization_name": "ExpeditionHacks",
       "winners_announced": false,
@@ -374,7 +374,7 @@
         "location": "Engine-4"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/036/749/datas/medium.png",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/196/131/datas/medium.png",
       "analytics_identifier": "Web3 Hackathon Puerto Rico (15875)",
       "url": "https://web3hackathonpr.devpost.com/",
       "time_left_to_submission": "Upcoming",
@@ -468,7 +468,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 23,
+      "registrations_count": 24,
       "featured": false,
       "organization_name": "Girls Who Code UVA",
       "winners_announced": false,
@@ -505,7 +505,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 18,
+      "registrations_count": 20,
       "featured": false,
       "organization_name": "Banyan Collective",
       "winners_announced": false,
@@ -612,7 +612,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>13,500</span>",
-      "registrations_count": 15,
+      "registrations_count": 16,
       "featured": false,
       "organization_name": "CodeUp Technologies",
       "winners_announced": false,
@@ -644,8 +644,8 @@
           "name": "Social Good"
         }
       ],
-      "prize_amount": "$CAD<span data-currency-value>14,080</span>",
-      "registrations_count": 12,
+      "prize_amount": "$CAD<span data-currency-value>14,400</span>",
+      "registrations_count": 13,
       "featured": false,
       "organization_name": "TechNova",
       "winners_announced": false,
@@ -752,7 +752,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,300</span>",
-      "registrations_count": 6,
+      "registrations_count": 7,
       "featured": false,
       "organization_name": "CISSA",
       "winners_announced": false,
@@ -1048,10 +1048,80 @@
       "start_a_submission_url": "https://hackuta2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 16051,
+      "title": "Hack the Valley",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "University of Toronto Scarborough - IC"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/172/724/datas/medium.png",
+      "analytics_identifier": "Hack the Valley (16051)",
+      "url": "https://hack-the-valley-7.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 14 - 16, 2022",
+      "themes": [
+        {
+          "id": 5,
+          "name": "AR/VR"
+        },
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>440</span>",
+      "registrations_count": 1,
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hack-the-valley-7.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hack-the-valley-7.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 15979,
+      "title": "MakeUC",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "University of Cincinnati- Rhodes Hall"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/069/050/datas/medium.png",
+      "analytics_identifier": "MakeUC (15979)",
+      "url": "https://makeuc-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 22 - 23, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>13,125</span>",
+      "registrations_count": 1,
+      "featured": false,
+      "organization_name": "IEEE@UC",
+      "winners_announced": false,
+      "submission_gallery_url": "https://makeuc-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://makeuc-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     }
   ],
   "meta": {
-    "total_count": 29,
+    "total_count": 31,
     "per_page": 40,
     "fuzzy": false
   }
