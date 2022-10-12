@@ -1,35 +1,6 @@
 {
   "hackathons": [
     {
-      "id": 16200,
-      "title": "FutureHack",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Dubai World Trade Centre"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/218/632/datas/medium.png",
-      "analytics_identifier": "FutureHack (16200)",
-      "url": "https://futurehack.devpost.com/",
-      "time_left_to_submission": "about 18 hours left",
-      "submission_period_dates": "Oct 05 - 12, 2022",
-      "themes": [
-        {
-          "id": 3,
-          "name": "Fintech"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>18,000</span>",
-      "registrations_count": 128,
-      "featured": true,
-      "organization_name": "Global DevSlam",
-      "winners_announced": false,
-      "submission_gallery_url": "https://futurehack.devpost.com/project-gallery",
-      "start_a_submission_url": "https://futurehack.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 14833,
       "title": "API World Hackathon 2022",
       "displayed_location": {
@@ -40,7 +11,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/001/848/767/datas/medium.jpg",
       "analytics_identifier": "API World Hackathon 2022 (14833)",
       "url": "https://api-world-hackathon-2022.devpost.com/",
-      "time_left_to_submission": "16 days left",
+      "time_left_to_submission": "15 days left",
       "submission_period_dates": "Oct 10 - 27, 2022",
       "themes": [
         {
@@ -57,7 +28,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>55,000</span>",
-      "registrations_count": 275,
+      "registrations_count": 285,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -65,43 +36,6 @@
       "start_a_submission_url": "https://api-world-hackathon-2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 15765,
-      "title": "BioMedTech Baja Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "BIT Center"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/015/470/datas/medium.png",
-      "analytics_identifier": "BioMedTech Baja Hackathon (15765)",
-      "url": "https://biomed-tech-hackathon.devpost.com/",
-      "time_left_to_submission": "about 13 hours left",
-      "submission_period_dates": "Jul 01 - Oct 12, 2022",
-      "themes": [
-        {
-          "id": 16,
-          "name": "Health"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>8,600</span>",
-      "registrations_count": 209,
-      "featured": false,
-      "organization_name": "ITJ",
-      "winners_announced": false,
-      "submission_gallery_url": "https://biomed-tech-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://biomed-tech-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Software Engineers, Tech Communities or Students"
     },
     {
       "id": 15846,
@@ -114,7 +48,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/025/879/datas/medium.png",
       "analytics_identifier": "Bring Down Counterfeiting 2022: Policy Hackathon (15846)",
       "url": "https://bring-down-counterfeiting-2022.devpost.com/",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "1 day left",
       "submission_period_dates": "Aug 27 - Oct 13, 2022",
       "themes": [
         {
@@ -131,7 +65,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>52,000</span>",
-      "registrations_count": 206,
+      "registrations_count": 207,
       "featured": false,
       "organization_name": "ExpeditionHacks",
       "winners_announced": false,
@@ -151,7 +85,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/230/798/datas/medium.png",
       "analytics_identifier": "HackHarvard 2022: Control, Alt, Create (16256)",
       "url": "https://hackharvard2022.devpost.com/",
-      "time_left_to_submission": "5 days left",
+      "time_left_to_submission": "4 days left",
       "submission_period_dates": "Oct 08 - 16, 2022",
       "themes": [
         {
@@ -164,49 +98,12 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>13,540</span>",
-      "registrations_count": 109,
+      "registrations_count": 155,
       "featured": false,
       "organization_name": "HackHarvard",
       "winners_announced": false,
       "submission_gallery_url": "https://hackharvard2022.devpost.com/project-gallery",
       "start_a_submission_url": "https://hackharvard2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 16485,
-      "title": "Campus Hack",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Lovely Professional University"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/244/801/datas/medium.png",
-      "analytics_identifier": "Campus Hack (16485)",
-      "url": "https://campushack1.devpost.com/",
-      "time_left_to_submission": "about 24 hours left",
-      "submission_period_dates": "Oct 11 - 12, 2022",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 26,
-          "name": "Mobile"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "₹ <span data-currency-value>30,000</span>",
-      "registrations_count": 106,
-      "featured": false,
-      "organization_name": "Campus Code",
-      "winners_announced": false,
-      "submission_gallery_url": "https://campushack1.devpost.com/project-gallery",
-      "start_a_submission_url": "https://campushack1.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -221,7 +118,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/231/481/datas/medium.png",
       "analytics_identifier": "The Civicode (16366)",
       "url": "https://thecivicode.devpost.com/",
-      "time_left_to_submission": "20 days left",
+      "time_left_to_submission": "19 days left",
       "submission_period_dates": "Sep 25 - Oct 31, 2022",
       "themes": [
         {
@@ -238,7 +135,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>7,500</span>",
-      "registrations_count": 73,
+      "registrations_count": 74,
       "featured": false,
       "organization_name": "Tech Tree Root",
       "winners_announced": false,
@@ -295,7 +192,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/208/244/datas/medium.jpg",
       "analytics_identifier": "Outsourcing Accounting Services (16198)",
       "url": "https://outsourcing-accounting.devpost.com/",
-      "time_left_to_submission": "10 days left",
+      "time_left_to_submission": "9 days left",
       "submission_period_dates": "Sep 02 - Oct 21, 2022",
       "themes": [
         {
@@ -345,7 +242,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,200</span>",
-      "registrations_count": 5,
+      "registrations_count": 7,
       "featured": false,
       "organization_name": "Tanjong Pagar Community Club DMIG",
       "winners_announced": false,
@@ -382,7 +279,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>14,114</span>",
-      "registrations_count": 169,
+      "registrations_count": 191,
       "featured": false,
       "organization_name": "Girls Who Code UVA",
       "winners_announced": false,
@@ -419,7 +316,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 119,
+      "registrations_count": 124,
       "featured": false,
       "organization_name": "iata",
       "winners_announced": false,
@@ -427,6 +324,43 @@
       "start_a_submission_url": "https://onerecord-yyz.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 16051,
+      "title": "Hack the Valley 7",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "University of Toronto Scarborough"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/172/724/datas/medium.png",
+      "analytics_identifier": "Hack the Valley 7 (16051)",
+      "url": "https://hack-the-valley-7.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 14 - 16, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 9,
+          "name": "Cybersecurity"
+        },
+        {
+          "id": 16,
+          "name": "Health"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>2,801</span>",
+      "registrations_count": 103,
+      "featured": false,
+      "organization_name": "Major League Hacking",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hack-the-valley-7.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hack-the-valley-7.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Hack the Valley 7 Accepted Only"
     },
     {
       "id": 14834,
@@ -489,7 +423,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>4,500</span>",
-      "registrations_count": 74,
+      "registrations_count": 78,
       "featured": false,
       "organization_name": "Girls in Tech SF",
       "winners_announced": false,
@@ -497,43 +431,6 @@
       "start_a_submission_url": "https://girlsintech2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 16051,
-      "title": "Hack the Valley 7",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "University of Toronto Scarborough"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/172/724/datas/medium.png",
-      "analytics_identifier": "Hack the Valley 7 (16051)",
-      "url": "https://hack-the-valley-7.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 14 - 16, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 9,
-          "name": "Cybersecurity"
-        },
-        {
-          "id": 16,
-          "name": "Health"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>2,801</span>",
-      "registrations_count": 71,
-      "featured": false,
-      "organization_name": "Major League Hacking",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hack-the-valley-7.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hack-the-valley-7.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Hack the Valley 7 Accepted Only"
     },
     {
       "id": 15733,
@@ -562,8 +459,8 @@
           "name": "Open Ended"
         }
       ],
-      "prize_amount": "$<span data-currency-value>15,132</span>",
-      "registrations_count": 65,
+      "prize_amount": "$<span data-currency-value>18,782</span>",
+      "registrations_count": 73,
       "featured": false,
       "organization_name": "University of Maryland, College Park",
       "winners_announced": false,
@@ -637,7 +534,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,500</span>",
-      "registrations_count": 49,
+      "registrations_count": 50,
       "featured": false,
       "organization_name": "Hoya Hacks",
       "winners_announced": false,
@@ -673,8 +570,8 @@
           "name": "Web"
         }
       ],
-      "prize_amount": "$<span data-currency-value>23,870</span>",
-      "registrations_count": 46,
+      "prize_amount": "$<span data-currency-value>25,370</span>",
+      "registrations_count": 48,
       "featured": false,
       "organization_name": "UI Hydroinformatics Lab",
       "winners_announced": false,
@@ -711,7 +608,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>3,000</span>",
-      "registrations_count": 32,
+      "registrations_count": 34,
       "featured": false,
       "organization_name": "Girls in Tech",
       "winners_announced": false,
@@ -748,7 +645,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>26,572</span>",
-      "registrations_count": 29,
+      "registrations_count": 30,
       "featured": false,
       "organization_name": "CYFS&CodeDAO",
       "winners_announced": false,
@@ -785,7 +682,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>2,000</span>",
-      "registrations_count": 23,
+      "registrations_count": 25,
       "featured": false,
       "organization_name": "IFRAD",
       "winners_announced": false,
@@ -822,7 +719,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>40,920</span>",
-      "registrations_count": 21,
+      "registrations_count": 23,
       "featured": false,
       "organization_name": "Freetail Hackers",
       "winners_announced": false,
@@ -869,6 +766,39 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 16237,
+      "title": "Kent Hack Enough 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Design Innovation Hub"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/213/091/datas/medium.png",
+      "analytics_identifier": "Kent Hack Enough 2022 (16237)",
+      "url": "https://kent-hack-enough-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 15 - 16, 2022",
+      "themes": [
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>3,750</span>",
+      "registrations_count": 15,
+      "featured": false,
+      "organization_name": "HacKSU",
+      "winners_announced": false,
+      "submission_gallery_url": "https://kent-hack-enough-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://kent-hack-enough-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 16250,
       "title": "YCP Hacks 2022",
       "displayed_location": {
@@ -906,37 +836,41 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 16237,
-      "title": "Kent Hack Enough 2022",
+      "id": 13095,
+      "title": "Hack WashU",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Design Innovation Hub"
+        "location": "Lopata Hall"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/213/091/datas/medium.png",
-      "analytics_identifier": "Kent Hack Enough 2022 (16237)",
-      "url": "https://kent-hack-enough-2022.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/235/647/datas/medium.png",
+      "analytics_identifier": "Hack WashU (13095)",
+      "url": "https://hackwashu.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 15 - 16, 2022",
+      "submission_period_dates": "Oct 14 - 16, 2022",
       "themes": [
         {
-          "id": 19,
-          "name": "Education"
+          "id": 21,
+          "name": "Enterprise"
         },
         {
-          "id": 22,
-          "name": "Open Ended"
+          "id": 5,
+          "name": "AR/VR"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
         }
       ],
-      "prize_amount": "$<span data-currency-value>3,750</span>",
+      "prize_amount": "$<span data-currency-value>11,200</span>",
       "registrations_count": 12,
       "featured": false,
-      "organization_name": "HacKSU",
+      "organization_name": "Hack WashU",
       "winners_announced": false,
-      "submission_gallery_url": "https://kent-hack-enough-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://kent-hack-enough-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
+      "submission_gallery_url": "https://hackwashu.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackwashu.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Apply on our website"
     },
     {
       "id": 15750,
@@ -976,41 +910,41 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 13095,
-      "title": "Hack WashU",
+      "id": 16009,
+      "title": "CSI Hackathon",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Lopata Hall"
+        "location": "College of Staten Island, 1N 111"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/235/647/datas/medium.png",
-      "analytics_identifier": "Hack WashU (13095)",
-      "url": "https://hackwashu.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/189/152/datas/medium.png",
+      "analytics_identifier": "CSI Hackathon (16009)",
+      "url": "https://csi-hackathon-2022.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 14 - 16, 2022",
+      "submission_period_dates": "Oct 21 - 23, 2022",
       "themes": [
         {
-          "id": 21,
-          "name": "Enterprise"
+          "id": 3,
+          "name": "Fintech"
         },
         {
-          "id": 5,
-          "name": "AR/VR"
+          "id": 22,
+          "name": "Open Ended"
         },
         {
-          "id": 13,
-          "name": "Social Good"
+          "id": 25,
+          "name": "Web"
         }
       ],
-      "prize_amount": "$<span data-currency-value>11,200</span>",
+      "prize_amount": "$<span data-currency-value>235</span>",
       "registrations_count": 11,
       "featured": false,
-      "organization_name": "Hack WashU",
+      "organization_name": "Hack-A-Project",
       "winners_announced": false,
-      "submission_gallery_url": "https://hackwashu.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackwashu.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://csi-hackathon-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://csi-hackathon-2022.devpost.com/challenges/start_a_submission",
       "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Apply on our website"
+      "eligibility_requirement_invite_only_description": "College of Staten Island students only"
     },
     {
       "id": 16464,
@@ -1044,6 +978,43 @@
       "start_a_submission_url": "https://techtogether-boston-2023.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 15963,
+      "title": "Fitch 2022 Codeathon for Education",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Fitch Chicago HQ"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/189/072/datas/medium.png",
+      "analytics_identifier": "Fitch 2022 Codeathon for Education (15963)",
+      "url": "https://fitch.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Dec 13, 2022",
+      "themes": [
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 26,
+          "name": "Mobile"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>4,000</span>",
+      "registrations_count": 11,
+      "featured": false,
+      "organization_name": "Fitch",
+      "winners_announced": false,
+      "submission_gallery_url": "https://fitch.devpost.com/project-gallery",
+      "start_a_submission_url": "https://fitch.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "UIC \"Break Through Tech\" Program Participants"
     },
     {
       "id": 16307,
@@ -1083,80 +1054,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 15963,
-      "title": "Fitch 2022 Codeathon for Education",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Fitch Chicago HQ"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/189/072/datas/medium.png",
-      "analytics_identifier": "Fitch 2022 Codeathon for Education (15963)",
-      "url": "https://fitch.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Dec 08 - 10, 2022",
-      "themes": [
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 26,
-          "name": "Mobile"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>4,000</span>",
-      "registrations_count": 10,
-      "featured": false,
-      "organization_name": "Fitch",
-      "winners_announced": false,
-      "submission_gallery_url": "https://fitch.devpost.com/project-gallery",
-      "start_a_submission_url": "https://fitch.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 16009,
-      "title": "CSI Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "College of Staten Island, 1N 111"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/189/152/datas/medium.png",
-      "analytics_identifier": "CSI Hackathon (16009)",
-      "url": "https://csi-hackathon-2022.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 21 - 23, 2022",
-      "themes": [
-        {
-          "id": 3,
-          "name": "Fintech"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>235</span>",
-      "registrations_count": 9,
-      "featured": false,
-      "organization_name": "Hack-A-Project",
-      "winners_announced": false,
-      "submission_gallery_url": "https://csi-hackathon-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://csi-hackathon-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "College of Staten Island students only"
-    },
-    {
       "id": 16491,
       "title": "TechTogether New York 2023",
       "displayed_location": {
@@ -1190,6 +1087,113 @@
       "winners_announced": false,
       "submission_gallery_url": "https://techtogether-new-york-2023.devpost.com/project-gallery",
       "start_a_submission_url": "https://techtogether-new-york-2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 16296,
+      "title": "NEXT CREATE-A-THON",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Bradley Convergence Center"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/243/609/datas/medium.png",
+      "analytics_identifier": "NEXT CREATE-A-THON (16296)",
+      "url": "https://next-hackathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 21 - 23, 2022",
+      "themes": [
+        {
+          "id": 16,
+          "name": "Health"
+        },
+        {
+          "id": 17,
+          "name": "Low/No Code"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>2,000</span>",
+      "registrations_count": 8,
+      "featured": false,
+      "organization_name": "VirtuSense Technologies",
+      "winners_announced": false,
+      "submission_gallery_url": "https://next-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://next-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 16471,
+      "title": "HackDuke: Code for Good 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Duke University - CIEMAS"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/244/070/datas/medium.png",
+      "analytics_identifier": "HackDuke: Code for Good 2022 (16471)",
+      "url": "https://hackduke-code-for-good-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 22 - 23, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>2,400</span>",
+      "registrations_count": 8,
+      "featured": false,
+      "organization_name": "HackDuke",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackduke-code-for-good-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackduke-code-for-good-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 16245,
+      "title": "Lopes Giving Back Hack 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "PHOENIX"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/213/818/datas/medium.png",
+      "analytics_identifier": "Lopes Giving Back Hack 2022 (16245)",
+      "url": "https://lopes-giving-back-hack-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Nov 05 - 06, 2022",
+      "themes": [
+        {
+          "id": 13,
+          "name": "Social Good"
+        },
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>16,000</span>",
+      "registrations_count": 8,
+      "featured": false,
+      "organization_name": "Grand Canyon University",
+      "winners_announced": false,
+      "submission_gallery_url": "https://lopes-giving-back-hack-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://lopes-giving-back-hack-2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -1248,43 +1252,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://hackthehub.devpost.com/project-gallery",
       "start_a_submission_url": "https://hackthehub.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 16296,
-      "title": "NEXT CREATE-A-THON",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Bradley Convergence Center"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/243/609/datas/medium.png",
-      "analytics_identifier": "NEXT CREATE-A-THON (16296)",
-      "url": "https://next-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 21 - 23, 2022",
-      "themes": [
-        {
-          "id": 16,
-          "name": "Health"
-        },
-        {
-          "id": 17,
-          "name": "Low/No Code"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>2,000</span>",
-      "registrations_count": 7,
-      "featured": false,
-      "organization_name": "VirtuSense Technologies",
-      "winners_announced": false,
-      "submission_gallery_url": "https://next-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://next-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -1435,10 +1402,47 @@
       "start_a_submission_url": "https://new-futures-hackathon-aip.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 16389,
+      "title": "Social Justice Hackathon Philadelphia",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Drexel University School of Law"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/236/612/datas/medium.png",
+      "analytics_identifier": "Social Justice Hackathon Philadelphia (16389)",
+      "url": "https://sjhphl.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 28 - 30, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 5,
+      "featured": false,
+      "organization_name": "Drexel University School of Law",
+      "winners_announced": false,
+      "submission_gallery_url": "https://sjhphl.devpost.com/project-gallery",
+      "start_a_submission_url": "https://sjhphl.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Register to attend: https://bit.ly/sjhphl2022"
     }
   ],
   "meta": {
-    "total_count": 56,
+    "total_count": 54,
     "per_page": 40,
     "fuzzy": false
   }
