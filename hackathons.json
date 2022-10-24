@@ -1,43 +1,6 @@
 {
   "hackathons": [
     {
-      "id": 16562,
-      "title": "DubHacks '22",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "University of Washington - HUB"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/261/073/datas/medium.png",
-      "analytics_identifier": "DubHacks '22 (16562)",
-      "url": "https://dubhacks-22.devpost.com/",
-      "time_left_to_submission": "31 minutes left",
-      "submission_period_dates": "Oct 22 - 23, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>14,900</span>",
-      "registrations_count": 437,
-      "featured": false,
-      "organization_name": "DubHacks",
-      "winners_announced": false,
-      "submission_gallery_url": "https://dubhacks-22.devpost.com/project-gallery",
-      "start_a_submission_url": "https://dubhacks-22.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 14833,
       "title": "API World Hackathon 2022",
       "displayed_location": {
@@ -48,7 +11,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/001/848/767/datas/medium.jpg",
       "analytics_identifier": "API World Hackathon 2022 (14833)",
       "url": "https://api-world-hackathon-2022.devpost.com/",
-      "time_left_to_submission": "4 days left",
+      "time_left_to_submission": "3 days left",
       "submission_period_dates": "Oct 10 - 27, 2022",
       "themes": [
         {
@@ -65,7 +28,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>55,000</span>",
-      "registrations_count": 381,
+      "registrations_count": 390,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -85,7 +48,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/231/481/datas/medium.png",
       "analytics_identifier": "The Civicode (16366)",
       "url": "https://thecivicode.devpost.com/",
-      "time_left_to_submission": "8 days left",
+      "time_left_to_submission": "7 days left",
       "submission_period_dates": "Sep 25 - Oct 31, 2022",
       "themes": [
         {
@@ -102,49 +65,12 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>7,500</span>",
-      "registrations_count": 152,
+      "registrations_count": 158,
       "featured": false,
       "organization_name": "Tech Tree Root",
       "winners_announced": false,
       "submission_gallery_url": "https://thecivicode.devpost.com/project-gallery",
       "start_a_submission_url": "https://thecivicode.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 15005,
-      "title": "ONE Record Hackathon Toronto - Hosted by Air Canada Cargo & IBM",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Air Canada Cargo - IBM"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/001/866/286/datas/medium.png",
-      "analytics_identifier": "ONE Record Hackathon Toronto - Hosted by Air Canada Cargo & IBM (15005)",
-      "url": "https://onerecord-yyz.devpost.com/",
-      "time_left_to_submission": "16 minutes left",
-      "submission_period_dates": "Oct 21 - 23, 2022",
-      "themes": [
-        {
-          "id": 3,
-          "name": "Fintech"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 138,
-      "featured": false,
-      "organization_name": "iata",
-      "winners_announced": false,
-      "submission_gallery_url": "https://onerecord-yyz.devpost.com/project-gallery",
-      "start_a_submission_url": "https://onerecord-yyz.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -159,7 +85,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/238/073/datas/medium.png",
       "analytics_identifier": "Code Green (16032)",
       "url": "https://code-green.devpost.com/",
-      "time_left_to_submission": "19 days left",
+      "time_left_to_submission": "18 days left",
       "submission_period_dates": "Oct 13 - Nov 11, 2022",
       "themes": [
         {
@@ -176,7 +102,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,600</span>",
-      "registrations_count": 57,
+      "registrations_count": 59,
       "featured": false,
       "organization_name": "Spartan Hackers",
       "winners_announced": false,
@@ -213,7 +139,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 44,
+      "registrations_count": 45,
       "featured": false,
       "organization_name": "Wayne State University",
       "winners_announced": false,
@@ -221,43 +147,6 @@
       "start_a_submission_url": "https://motor-city-hack.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Wayne State University - Students only"
-    },
-    {
-      "id": 16009,
-      "title": "CSI Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "College of Staten Island, 1N 111"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/189/152/datas/medium.png",
-      "analytics_identifier": "CSI Hackathon (16009)",
-      "url": "https://csi-hackathon-2022.devpost.com/",
-      "time_left_to_submission": "about 8 hours left",
-      "submission_period_dates": "Oct 21 - 23, 2022",
-      "themes": [
-        {
-          "id": 3,
-          "name": "Fintech"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>570</span>",
-      "registrations_count": 29,
-      "featured": false,
-      "organization_name": "Hack-A-Project",
-      "winners_announced": false,
-      "submission_gallery_url": "https://csi-hackathon-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://csi-hackathon-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "College of Staten Island students only"
     },
     {
       "id": 15985,
@@ -270,7 +159,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/222/147/datas/medium.jpeg",
       "analytics_identifier": "TPCC DMIG: The Green Micro:bit Challenge (15985)",
       "url": "https://dmig-green-microbit-challenge.devpost.com/",
-      "time_left_to_submission": "27 days left",
+      "time_left_to_submission": "26 days left",
       "submission_period_dates": "Oct 09 - Nov 19, 2022",
       "themes": [
         {
@@ -287,7 +176,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,200</span>",
-      "registrations_count": 23,
+      "registrations_count": 27,
       "featured": false,
       "organization_name": "Tanjong Pagar Community Club DMIG",
       "winners_announced": false,
@@ -307,7 +196,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/263/085/datas/medium.jpeg",
       "analytics_identifier": "Haryana Steelers Hackathon (16546)",
       "url": "https://haryanasteelers.devpost.com/",
-      "time_left_to_submission": "8 days left",
+      "time_left_to_submission": "7 days left",
       "submission_period_dates": "Oct 20 - 31, 2022",
       "themes": [
         {
@@ -324,7 +213,7 @@
         }
       ],
       "prize_amount": "₹ <span data-currency-value>50,000</span>",
-      "registrations_count": 11,
+      "registrations_count": 12,
       "featured": false,
       "organization_name": "SportsKPI",
       "winners_announced": false,
@@ -357,7 +246,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>16,100</span>",
-      "registrations_count": 91,
+      "registrations_count": 92,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -394,7 +283,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,500</span>",
-      "registrations_count": 70,
+      "registrations_count": 72,
       "featured": false,
       "organization_name": "Hoya Hacks",
       "winners_announced": false,
@@ -431,7 +320,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>2,000</span>",
-      "registrations_count": 57,
+      "registrations_count": 59,
       "featured": false,
       "organization_name": "IFRAD",
       "winners_announced": false,
@@ -468,7 +357,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>16,000</span>",
-      "registrations_count": 45,
+      "registrations_count": 49,
       "featured": false,
       "organization_name": "Grand Canyon University",
       "winners_announced": false,
@@ -505,7 +394,7 @@
         }
       ],
       "prize_amount": "$CAD<span data-currency-value>400</span>",
-      "registrations_count": 31,
+      "registrations_count": 36,
       "featured": false,
       "organization_name": "Bitcoin Bay",
       "winners_announced": false,
@@ -542,45 +431,12 @@
         }
       ],
       "prize_amount": "$CAD<span data-currency-value>15,000</span>",
-      "registrations_count": 23,
+      "registrations_count": 24,
       "featured": false,
       "organization_name": "Code the Change YYC",
       "winners_announced": false,
       "submission_gallery_url": "https://hack-the-change-2022.devpost.com/project-gallery",
       "start_a_submission_url": "https://hack-the-change-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 16464,
-      "title": "TechTogether Boston 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "George Sherman Union"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/243/602/datas/medium.png",
-      "analytics_identifier": "TechTogether Boston 2023 (16464)",
-      "url": "https://techtogether-boston-2023.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 29 - 30, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>820</span>",
-      "registrations_count": 16,
-      "featured": false,
-      "organization_name": "TechTogether",
-      "winners_announced": false,
-      "submission_gallery_url": "https://techtogether-boston-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://techtogether-boston-2023.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -612,12 +468,45 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>4,350</span>",
-      "registrations_count": 15,
+      "registrations_count": 17,
       "featured": false,
       "organization_name": "CAPATEC",
       "winners_announced": false,
       "submission_gallery_url": "https://eth-panama-hackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://eth-panama-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 16464,
+      "title": "TechTogether Boston 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "George Sherman Union"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/243/602/datas/medium.png",
+      "analytics_identifier": "TechTogether Boston 2023 (16464)",
+      "url": "https://techtogether-boston-2023.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 29 - 30, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>820</span>",
+      "registrations_count": 17,
+      "featured": false,
+      "organization_name": "TechTogether",
+      "winners_announced": false,
+      "submission_gallery_url": "https://techtogether-boston-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://techtogether-boston-2023.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -649,7 +538,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>3,550</span>",
-      "registrations_count": 15,
+      "registrations_count": 16,
       "featured": false,
       "organization_name": "YCP Hacks",
       "winners_announced": false,
@@ -686,7 +575,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>720</span>",
-      "registrations_count": 13,
+      "registrations_count": 15,
       "featured": false,
       "organization_name": "TechTogether",
       "winners_announced": false,
@@ -719,12 +608,86 @@
         }
       ],
       "prize_amount": "₹ <span data-currency-value>50,000</span>",
-      "registrations_count": 12,
+      "registrations_count": 15,
       "featured": false,
       "organization_name": "IITM Research Park & Incubation Cell",
       "winners_announced": false,
       "submission_gallery_url": "https://student-hackiitmrp.devpost.com/project-gallery",
       "start_a_submission_url": "https://student-hackiitmrp.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 16379,
+      "title": "TigerHacks 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "University of Missouri - Lafferre Hall"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/261/444/datas/medium.png",
+      "analytics_identifier": "TigerHacks 2022 (16379)",
+      "url": "https://th22.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Nov 04 - 06, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 18,
+          "name": "Design"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>9,596</span>",
+      "registrations_count": 13,
+      "featured": false,
+      "organization_name": "Mizzou Computing Association",
+      "winners_announced": false,
+      "submission_gallery_url": "https://th22.devpost.com/project-gallery",
+      "start_a_submission_url": "https://th22.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 16542,
+      "title": "NewHacks 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Bahen Centre for Information Technology"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/251/878/datas/medium.png",
+      "analytics_identifier": "NewHacks 2022 (16542)",
+      "url": "https://newhacks-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Nov 05 - 06, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 16,
+          "name": "Health"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
+        }
+      ],
+      "prize_amount": "$CAD<span data-currency-value>1,850</span>",
+      "registrations_count": 12,
+      "featured": false,
+      "organization_name": "ieee uoft",
+      "winners_announced": false,
+      "submission_gallery_url": "https://newhacks-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://newhacks-2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -764,43 +727,6 @@
       "start_a_submission_url": "https://hack-brunel-v2.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 15963,
-      "title": "Fitch 2022 Codeathon for Education",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Fitch Chicago HQ"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/189/072/datas/medium.png",
-      "analytics_identifier": "Fitch 2022 Codeathon for Education (15963)",
-      "url": "https://fitch.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Dec 13, 2022",
-      "themes": [
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 26,
-          "name": "Mobile"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>4,000</span>",
-      "registrations_count": 11,
-      "featured": false,
-      "organization_name": "Fitch",
-      "winners_announced": false,
-      "submission_gallery_url": "https://fitch.devpost.com/project-gallery",
-      "start_a_submission_url": "https://fitch.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "UIC \"Break Through Tech\" Program Participants"
     },
     {
       "id": 16519,
@@ -873,33 +799,41 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 14917,
-      "title": "RoyalCbd",
+      "id": 15963,
+      "title": "Fitch 2022 Codeathon for Education",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Montello, WI, USA"
+        "location": "Fitch Chicago HQ"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "RoyalCbd (14917)",
-      "url": "https://royalcbd-14917.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/189/072/datas/medium.png",
+      "analytics_identifier": "Fitch 2022 Codeathon for Education (15963)",
+      "url": "https://fitch.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 03 - May 08, 2026",
+      "submission_period_dates": "Dec 13, 2022",
       "themes": [
         {
-          "id": 25,
-          "name": "Web"
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 26,
+          "name": "Mobile"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
         }
       ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 8,
+      "prize_amount": "$<span data-currency-value>4,000</span>",
+      "registrations_count": 10,
       "featured": false,
-      "organization_name": "RoyalCBD",
+      "organization_name": "Fitch",
       "winners_announced": false,
-      "submission_gallery_url": "https://royalcbd-14917.devpost.com/project-gallery",
-      "start_a_submission_url": "https://royalcbd-14917.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
+      "submission_gallery_url": "https://fitch.devpost.com/project-gallery",
+      "start_a_submission_url": "https://fitch.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "UIC \"Break Through Tech\" Program Participants"
     },
     {
       "id": 16389,
@@ -929,14 +863,43 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 7,
+      "registrations_count": 9,
       "featured": false,
       "organization_name": "Drexel University School of Law",
       "winners_announced": false,
       "submission_gallery_url": "https://sjhphl.devpost.com/project-gallery",
       "start_a_submission_url": "https://sjhphl.devpost.com/challenges/start_a_submission",
       "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Register to attend: https://bit.ly/sjhphl2022"
+      "eligibility_requirement_invite_only_description": "Your contact info can be shared for tool access"
+    },
+    {
+      "id": 14917,
+      "title": "RoyalCbd",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Montello, WI, USA"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "RoyalCbd (14917)",
+      "url": "https://royalcbd-14917.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 03 - May 08, 2026",
+      "themes": [
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 8,
+      "featured": false,
+      "organization_name": "RoyalCBD",
+      "winners_announced": false,
+      "submission_gallery_url": "https://royalcbd-14917.devpost.com/project-gallery",
+      "start_a_submission_url": "https://royalcbd-14917.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 16068,
@@ -1190,39 +1153,76 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 16542,
-      "title": "NewHacks 2022",
+      "id": 16551,
+      "title": "Metaverse Hackathon",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Bahen Centre for Information Technology"
+        "location": "theuplift.world"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/251/878/datas/medium.png",
-      "analytics_identifier": "NewHacks 2022 (16542)",
-      "url": "https://newhacks-2022.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/258/137/datas/medium.png",
+      "analytics_identifier": "Metaverse Hackathon (16551)",
+      "url": "https://uplift-hackaverse.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 05 - 06, 2022",
+      "submission_period_dates": "Nov 06, 2022",
+      "themes": [
+        {
+          "id": 4,
+          "name": "Gaming"
+        },
+        {
+          "id": 17,
+          "name": "Low/No Code"
+        },
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>25</span>",
+      "registrations_count": 4,
+      "featured": false,
+      "organization_name": "Trekk & 3D",
+      "winners_announced": false,
+      "submission_gallery_url": "https://uplift-hackaverse.devpost.com/project-gallery",
+      "start_a_submission_url": "https://uplift-hackaverse.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 16618,
+      "title": "iCUBE_2.0",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Sriperambudur (Outskirts of Chennai)"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/269/912/datas/medium.PNG",
+      "analytics_identifier": "iCUBE_2.0 (16618)",
+      "url": "https://icube.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Nov 01 - 07, 2022",
       "themes": [
         {
           "id": 23,
           "name": "Beginner Friendly"
         },
         {
-          "id": 16,
-          "name": "Health"
+          "id": 7,
+          "name": "IoT"
         },
         {
-          "id": 11,
-          "name": "Productivity"
+          "id": 6,
+          "name": "Machine Learning/AI"
         }
       ],
-      "prize_amount": "$CAD<span data-currency-value>1,850</span>",
-      "registrations_count": 5,
+      "prize_amount": "₹ <span data-currency-value>50,000</span>",
+      "registrations_count": 4,
       "featured": false,
-      "organization_name": "ieee uoft",
+      "organization_name": "SVCE Science Club",
       "winners_announced": false,
-      "submission_gallery_url": "https://newhacks-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://newhacks-2022.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://icube.devpost.com/project-gallery",
+      "start_a_submission_url": "https://icube.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -1297,39 +1297,39 @@
       "eligibility_requirement_invite_only_description": "ISL students only"
     },
     {
-      "id": 16551,
-      "title": "Metaverse Hackathon",
+      "id": 16609,
+      "title": "Rice Datathon 2023",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "theuplift.world"
+        "location": "Duncan Hall"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/258/137/datas/medium.png",
-      "analytics_identifier": "Metaverse Hackathon (16551)",
-      "url": "https://uplift-hackaverse.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/264/440/datas/medium.png",
+      "analytics_identifier": "Rice Datathon 2023 (16609)",
+      "url": "https://rice-datathon-2023.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 06, 2022",
+      "submission_period_dates": "Jan 27 - 29, 2023",
       "themes": [
-        {
-          "id": 4,
-          "name": "Gaming"
-        },
-        {
-          "id": 17,
-          "name": "Low/No Code"
-        },
         {
           "id": 23,
           "name": "Beginner Friendly"
+        },
+        {
+          "id": 10,
+          "name": "Communication"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
         }
       ],
-      "prize_amount": "$<span data-currency-value>25</span>",
+      "prize_amount": "$<span data-currency-value>75</span>",
       "registrations_count": 3,
       "featured": false,
-      "organization_name": "Trekk & 3D",
+      "organization_name": "Rice University",
       "winners_announced": false,
-      "submission_gallery_url": "https://uplift-hackaverse.devpost.com/project-gallery",
-      "start_a_submission_url": "https://uplift-hackaverse.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://rice-datathon-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://rice-datathon-2023.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -1361,7 +1361,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>3,000</span>",
-      "registrations_count": 2,
+      "registrations_count": 3,
       "featured": false,
       "organization_name": "CCAD",
       "winners_announced": false,
@@ -1369,47 +1369,10 @@
       "start_a_submission_url": "https://hackdavidson.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 16609,
-      "title": "Rice Datathon 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Duncan Hall"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/264/440/datas/medium.png",
-      "analytics_identifier": "Rice Datathon 2023 (16609)",
-      "url": "https://rice-datathon-2023.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jan 27 - 29, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 10,
-          "name": "Communication"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>75</span>",
-      "registrations_count": 1,
-      "featured": false,
-      "organization_name": "Rice University",
-      "winners_announced": false,
-      "submission_gallery_url": "https://rice-datathon-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://rice-datathon-2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
     }
   ],
   "meta": {
-    "total_count": 39,
+    "total_count": 38,
     "per_page": 40,
     "fuzzy": false
   }
