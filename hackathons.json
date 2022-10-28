@@ -11,8 +11,8 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/231/481/datas/medium.png",
       "analytics_identifier": "The Civicode (16366)",
       "url": "https://thecivicode.devpost.com/",
-      "time_left_to_submission": "4 days left",
-      "submission_period_dates": "Sep 25 - Oct 31, 2022",
+      "time_left_to_submission": "10 days left",
+      "submission_period_dates": "Sep 25 - Nov 07, 2022",
       "themes": [
         {
           "id": 18,
@@ -28,12 +28,49 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>7,500</span>",
-      "registrations_count": 173,
+      "registrations_count": 176,
       "featured": false,
       "organization_name": "Tech Tree Root",
       "winners_announced": false,
       "submission_gallery_url": "https://thecivicode.devpost.com/project-gallery",
       "start_a_submission_url": "https://thecivicode.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 16334,
+      "title": "Oxfam/IFRAD Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Makerere Innovation & Incubation Center"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/244/762/datas/medium.jpeg",
+      "analytics_identifier": "Oxfam/IFRAD Hackathon (16334)",
+      "url": "https://oxfam-ifrad-hackathon.devpost.com/",
+      "time_left_to_submission": "about 19 hours left",
+      "submission_period_dates": "Oct 28 - 29, 2022",
+      "themes": [
+        {
+          "id": 16,
+          "name": "Health"
+        },
+        {
+          "id": 26,
+          "name": "Mobile"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>2,000</span>",
+      "registrations_count": 95,
+      "featured": false,
+      "organization_name": "IFRAD",
+      "winners_announced": false,
+      "submission_gallery_url": "https://oxfam-ifrad-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://oxfam-ifrad-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -48,7 +85,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/238/073/datas/medium.png",
       "analytics_identifier": "Code Green (16032)",
       "url": "https://code-green.devpost.com/",
-      "time_left_to_submission": "15 days left",
+      "time_left_to_submission": "14 days left",
       "submission_period_dates": "Oct 13 - Nov 11, 2022",
       "themes": [
         {
@@ -65,7 +102,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,600</span>",
-      "registrations_count": 62,
+      "registrations_count": 63,
       "featured": false,
       "organization_name": "Spartan Hackers",
       "winners_announced": false,
@@ -102,7 +139,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 45,
+      "registrations_count": 46,
       "featured": false,
       "organization_name": "Wayne State University",
       "winners_announced": false,
@@ -110,6 +147,43 @@
       "start_a_submission_url": "https://motor-city-hack.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Wayne State University - Students only"
+    },
+    {
+      "id": 16433,
+      "title": "ETH Panama Hackathon 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Innova109 at Ciudad del Saber"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/238/530/datas/medium.png",
+      "analytics_identifier": "ETH Panama Hackathon 2022 (16433)",
+      "url": "https://eth-panama-hackathon.devpost.com/",
+      "time_left_to_submission": "1 day left",
+      "submission_period_dates": "Oct 28 - 29, 2022",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 3,
+          "name": "Fintech"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>4,600</span>",
+      "registrations_count": 32,
+      "featured": false,
+      "organization_name": "CAPATEC",
+      "winners_announced": false,
+      "submission_gallery_url": "https://eth-panama-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://eth-panama-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 15985,
@@ -122,7 +196,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/222/147/datas/medium.jpeg",
       "analytics_identifier": "TPCC DMIG: The Green Micro:bit Challenge (15985)",
       "url": "https://dmig-green-microbit-challenge.devpost.com/",
-      "time_left_to_submission": "23 days left",
+      "time_left_to_submission": "22 days left",
       "submission_period_dates": "Oct 09 - Nov 19, 2022",
       "themes": [
         {
@@ -139,7 +213,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,200</span>",
-      "registrations_count": 30,
+      "registrations_count": 31,
       "featured": false,
       "organization_name": "Tanjong Pagar Community Club DMIG",
       "winners_announced": false,
@@ -159,7 +233,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/263/085/datas/medium.jpeg",
       "analytics_identifier": "Haryana Steelers Hackathon (16546)",
       "url": "https://haryanasteelers.devpost.com/",
-      "time_left_to_submission": "4 days left",
+      "time_left_to_submission": "3 days left",
       "submission_period_dates": "Oct 20 - 31, 2022",
       "themes": [
         {
@@ -176,7 +250,7 @@
         }
       ],
       "prize_amount": "₹ <span data-currency-value>50,000</span>",
-      "registrations_count": 24,
+      "registrations_count": 30,
       "featured": false,
       "organization_name": "SportsKPI",
       "winners_announced": false,
@@ -184,6 +258,43 @@
       "start_a_submission_url": "https://haryanasteelers.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 16344,
+      "title": "HackQC 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Québec"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/252/307/datas/medium.png",
+      "analytics_identifier": "HackQC 2022 (16344)",
+      "url": "https://hackqc-2022.devpost.com/",
+      "time_left_to_submission": "8 days left",
+      "submission_period_dates": "Oct 28 - Nov 06, 2022",
+      "themes": [
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 16,
+          "name": "Health"
+        },
+        {
+          "id": 12,
+          "name": "Lifehacks"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>20,000</span>",
+      "registrations_count": 17,
+      "featured": false,
+      "organization_name": "HackQC",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackqc-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackqc-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Toute personne intéressée par la programmation."
     },
     {
       "id": 16619,
@@ -196,7 +307,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/270/450/datas/medium.png",
       "analytics_identifier": "Polkastarter NFT HACKATHON, powered by Blokness (16619)",
       "url": "https://polkastarter-nft-hackathon.devpost.com/",
-      "time_left_to_submission": "11 days left",
+      "time_left_to_submission": "10 days left",
       "submission_period_dates": "Oct 25 - Nov 07, 2022",
       "themes": [
         {
@@ -213,12 +324,49 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 9,
+      "registrations_count": 11,
       "featured": false,
       "organization_name": "Polkastarter",
       "winners_announced": false,
       "submission_gallery_url": "https://polkastarter-nft-hackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://polkastarter-nft-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 16579,
+      "title": "Go Blue Innovate",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Close the Gap"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/271/434/datas/medium.png",
+      "analytics_identifier": "Go Blue Innovate (16579)",
+      "url": "https://hack-the-blue-hackathon.devpost.com/",
+      "time_left_to_submission": "23 days left",
+      "submission_period_dates": "Oct 28 - Nov 20, 2022",
+      "themes": [
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 21,
+          "name": "Enterprise"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>7,425</span>",
+      "registrations_count": 7,
+      "featured": false,
+      "organization_name": "Blue Economy",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hack-the-blue-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hack-the-blue-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -246,12 +394,82 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>16,100</span>",
-      "registrations_count": 98,
+      "registrations_count": 104,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
       "submission_gallery_url": "https://dw-enterprise-2022-hackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://dw-enterprise-2022-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 16534,
+      "title": "BlockHack Global FE 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Sheldon & Tracy Levy SLC"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/252/343/datas/medium.png",
+      "analytics_identifier": "BlockHack Global FE 2022 (16534)",
+      "url": "https://blockhack-global-fe-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Nov 04 - 06, 2022",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 3,
+          "name": "Fintech"
+        }
+      ],
+      "prize_amount": "$CAD<span data-currency-value>1,900</span>",
+      "registrations_count": 94,
+      "featured": false,
+      "organization_name": "Bitcoin Bay",
+      "winners_announced": false,
+      "submission_gallery_url": "https://blockhack-global-fe-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://blockhack-global-fe-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 16564,
+      "title": "IIT Madras RP & IC's Student Hackathon - November 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "IIT Madras Research Park"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/261/268/datas/medium.jpg",
+      "analytics_identifier": "IIT Madras RP & IC's Student Hackathon - November 2022 (16564)",
+      "url": "https://student-hackiitmrp.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Nov 13 - 14, 2022",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
+        }
+      ],
+      "prize_amount": "₹ <span data-currency-value>50,000</span>",
+      "registrations_count": 78,
+      "featured": false,
+      "organization_name": "IITM Research Park & Incubation Cell",
+      "winners_announced": false,
+      "submission_gallery_url": "https://student-hackiitmrp.devpost.com/project-gallery",
+      "start_a_submission_url": "https://student-hackiitmrp.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -293,52 +511,15 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 16334,
-      "title": "Oxfam/IFRAD Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Makerere Innovation & Incubation Center"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/244/762/datas/medium.jpeg",
-      "analytics_identifier": "Oxfam/IFRAD Hackathon (16334)",
-      "url": "https://oxfam-ifrad-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 28 - 29, 2022",
-      "themes": [
-        {
-          "id": 16,
-          "name": "Health"
-        },
-        {
-          "id": 26,
-          "name": "Mobile"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>2,000</span>",
-      "registrations_count": 68,
-      "featured": false,
-      "organization_name": "IFRAD",
-      "winners_announced": false,
-      "submission_gallery_url": "https://oxfam-ifrad-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://oxfam-ifrad-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 16245,
-      "title": "Lopes Giving Back Hack 2022",
+      "title": "POSTPONED! -- Lopes Giving Back Hack 2022",
       "displayed_location": {
         "icon": "map-marker-alt",
         "location": "PHOENIX"
       },
       "open_state": "upcoming",
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/213/818/datas/medium.png",
-      "analytics_identifier": "Lopes Giving Back Hack 2022 (16245)",
+      "analytics_identifier": "POSTPONED! -- Lopes Giving Back Hack 2022 (16245)",
       "url": "https://lopes-giving-back-hack-2022.devpost.com/",
       "time_left_to_submission": "Upcoming",
       "submission_period_dates": "Nov 05 - 06, 2022",
@@ -367,72 +548,35 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 16534,
-      "title": "BlockHack Global FE 2022",
+      "id": 16519,
+      "title": "Datathon FME 2022",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Sheldon & Tracy Levy SLC"
+        "location": "Facultat de Matemàtiques i Estadística"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/252/343/datas/medium.png",
-      "analytics_identifier": "BlockHack Global FE 2022 (16534)",
-      "url": "https://blockhack-global-fe-2022.devpost.com/",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "Datathon FME 2022 (16519)",
+      "url": "https://datathon-fme.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 04 - 06, 2022",
+      "submission_period_dates": "Nov 12 - 13, 2022",
       "themes": [
         {
-          "id": 1,
-          "name": "Blockchain"
+          "id": 28,
+          "name": "Databases"
         },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 3,
-          "name": "Fintech"
-        }
-      ],
-      "prize_amount": "$CAD<span data-currency-value>1,900</span>",
-      "registrations_count": 55,
-      "featured": false,
-      "organization_name": "Bitcoin Bay",
-      "winners_announced": false,
-      "submission_gallery_url": "https://blockhack-global-fe-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://blockhack-global-fe-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 16564,
-      "title": "IIT Madras RP & IC's Student Hackathon - November 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "IIT Madras Research Park"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/261/268/datas/medium.jpg",
-      "analytics_identifier": "IIT Madras RP & IC's Student Hackathon - November 2022 (16564)",
-      "url": "https://student-hackiitmrp.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 13 - 14, 2022",
-      "themes": [
         {
           "id": 6,
           "name": "Machine Learning/AI"
-        },
-        {
-          "id": 11,
-          "name": "Productivity"
         }
       ],
-      "prize_amount": "₹ <span data-currency-value>50,000</span>",
-      "registrations_count": 44,
+      "prize_amount": "€<span data-currency-value>2,000</span>",
+      "registrations_count": 60,
       "featured": false,
-      "organization_name": "IITM Research Park & Incubation Cell",
+      "organization_name": "Associació d'Estudiants de Dades",
       "winners_announced": false,
-      "submission_gallery_url": "https://student-hackiitmrp.devpost.com/project-gallery",
-      "start_a_submission_url": "https://student-hackiitmrp.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://datathon-fme.devpost.com/project-gallery",
+      "start_a_submission_url": "https://datathon-fme.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -464,7 +608,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 34,
+      "registrations_count": 38,
       "featured": false,
       "organization_name": "Drexel University School of Law",
       "winners_announced": false,
@@ -501,7 +645,7 @@
         }
       ],
       "prize_amount": "$CAD<span data-currency-value>15,000</span>",
-      "registrations_count": 33,
+      "registrations_count": 36,
       "featured": false,
       "organization_name": "Code the Change YYC",
       "winners_announced": false,
@@ -533,83 +677,13 @@
           "name": "Social Good"
         }
       ],
-      "prize_amount": "$<span data-currency-value>820</span>",
-      "registrations_count": 28,
+      "prize_amount": "$<span data-currency-value>1,070</span>",
+      "registrations_count": 34,
       "featured": false,
       "organization_name": "TechTogether",
       "winners_announced": false,
       "submission_gallery_url": "https://techtogether-boston-2023.devpost.com/project-gallery",
       "start_a_submission_url": "https://techtogether-boston-2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 16519,
-      "title": "Datathon FME 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Facultat de Matemàtiques i Estadística"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "Datathon FME 2022 (16519)",
-      "url": "https://datathon-fme.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 12 - 13, 2022",
-      "themes": [
-        {
-          "id": 28,
-          "name": "Databases"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "€<span data-currency-value>2,000</span>",
-      "registrations_count": 28,
-      "featured": false,
-      "organization_name": "Associació d'Estudiants de Dades",
-      "winners_announced": false,
-      "submission_gallery_url": "https://datathon-fme.devpost.com/project-gallery",
-      "start_a_submission_url": "https://datathon-fme.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 16433,
-      "title": "ETH Panama Hackathon 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Innova109 at Ciudad del Saber"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/238/530/datas/medium.png",
-      "analytics_identifier": "ETH Panama Hackathon 2022 (16433)",
-      "url": "https://eth-panama-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 28 - 29, 2022",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        },
-        {
-          "id": 3,
-          "name": "Fintech"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>4,350</span>",
-      "registrations_count": 27,
-      "featured": false,
-      "organization_name": "CAPATEC",
-      "winners_announced": false,
-      "submission_gallery_url": "https://eth-panama-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://eth-panama-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -641,12 +715,49 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>9,596</span>",
-      "registrations_count": 23,
+      "registrations_count": 26,
       "featured": false,
       "organization_name": "Mizzou Computing Association",
       "winners_announced": false,
       "submission_gallery_url": "https://th22.devpost.com/project-gallery",
       "start_a_submission_url": "https://th22.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 16542,
+      "title": "NewHacks 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Bahen Centre for Information Technology"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/251/878/datas/medium.png",
+      "analytics_identifier": "NewHacks 2022 (16542)",
+      "url": "https://newhacks-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Nov 05 - 06, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 16,
+          "name": "Health"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
+        }
+      ],
+      "prize_amount": "$CAD<span data-currency-value>1,850</span>",
+      "registrations_count": 22,
+      "featured": false,
+      "organization_name": "ieee uoft",
+      "winners_announced": false,
+      "submission_gallery_url": "https://newhacks-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://newhacks-2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -688,43 +799,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 16542,
-      "title": "NewHacks 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Bahen Centre for Information Technology"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/251/878/datas/medium.png",
-      "analytics_identifier": "NewHacks 2022 (16542)",
-      "url": "https://newhacks-2022.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 05 - 06, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 16,
-          "name": "Health"
-        },
-        {
-          "id": 11,
-          "name": "Productivity"
-        }
-      ],
-      "prize_amount": "$CAD<span data-currency-value>1,850</span>",
-      "registrations_count": 18,
-      "featured": false,
-      "organization_name": "ieee uoft",
-      "winners_announced": false,
-      "submission_gallery_url": "https://newhacks-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://newhacks-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 16250,
       "title": "YCP Hacks 2022",
       "displayed_location": {
@@ -758,6 +832,43 @@
       "winners_announced": false,
       "submission_gallery_url": "https://ycp-hacks-2022.devpost.com/project-gallery",
       "start_a_submission_url": "https://ycp-hacks-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 16068,
+      "title": "QDS Hacks 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "BCIT Burnaby Campus, SE02 Great Hall"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/237/549/datas/medium.jpg",
+      "analytics_identifier": "QDS Hacks 2023 (16068)",
+      "url": "https://qds-hacks-2023.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jan 06 - 08, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 28,
+          "name": "Databases"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
+        }
+      ],
+      "prize_amount": "$CAD<span data-currency-value>3,500</span>",
+      "registrations_count": 12,
+      "featured": false,
+      "organization_name": "BCITSA",
+      "winners_announced": false,
+      "submission_gallery_url": "https://qds-hacks-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://qds-hacks-2023.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -873,80 +984,6 @@
       "eligibility_requirement_invite_only_description": "UIC \"Break Through Tech\" Program Participants"
     },
     {
-      "id": 16068,
-      "title": "QDS Hacks 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "BCIT Burnaby Campus, SE02 Great Hall"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/237/549/datas/medium.jpg",
-      "analytics_identifier": "QDS Hacks 2023 (16068)",
-      "url": "https://qds-hacks-2023.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jan 06 - 08, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 28,
-          "name": "Databases"
-        },
-        {
-          "id": 11,
-          "name": "Productivity"
-        }
-      ],
-      "prize_amount": "$CAD<span data-currency-value>3,500</span>",
-      "registrations_count": 11,
-      "featured": false,
-      "organization_name": "BCITSA",
-      "winners_announced": false,
-      "submission_gallery_url": "https://qds-hacks-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://qds-hacks-2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 16344,
-      "title": "HackQC 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Québec"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/252/307/datas/medium.png",
-      "analytics_identifier": "HackQC 2022 (16344)",
-      "url": "https://hackqc-2022.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 28 - Nov 06, 2022",
-      "themes": [
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 16,
-          "name": "Health"
-        },
-        {
-          "id": 12,
-          "name": "Lifehacks"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>20,000</span>",
-      "registrations_count": 10,
-      "featured": false,
-      "organization_name": "HackQC",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackqc-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackqc-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Toute personne intéressée par la programmation."
-    },
-    {
       "id": 16527,
       "title": "(HATCH) HudsonAlpha Tech Challenge 2023",
       "displayed_location": {
@@ -1009,6 +1046,109 @@
       "winners_announced": false,
       "submission_gallery_url": "https://royalcbd-14917.devpost.com/project-gallery",
       "start_a_submission_url": "https://royalcbd-14917.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 16506,
+      "title": "HackOnChain",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Station Berlin (Next Block Expo)"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/251/067/datas/medium.png",
+      "analytics_identifier": "HackOnChain (16506)",
+      "url": "https://hackonchain.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Nov 23 - 24, 2022",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>35,300</span>",
+      "registrations_count": 7,
+      "featured": false,
+      "organization_name": "Web3 Devs Poland",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackonchain.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackonchain.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 16392,
+      "title": "Open Web House",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Joint Coworking Hotel"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/262/665/datas/medium.png",
+      "analytics_identifier": "Open Web House (16392)",
+      "url": "https://open-web-house.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Nov 25 - 26, 2022",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 2,
+          "name": "DevOps"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1,500</span>",
+      "registrations_count": 7,
+      "featured": false,
+      "organization_name": "Open Web Academy",
+      "winners_announced": false,
+      "submission_gallery_url": "https://open-web-house.devpost.com/project-gallery",
+      "start_a_submission_url": "https://open-web-house.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "People who made a previous register in a G-forms."
+    },
+    {
+      "id": 16247,
+      "title": "Hack@Davidson",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "The Hurt Hub"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "Hack@Davidson (16247)",
+      "url": "https://hackdavidson.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Feb 10 - 12, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 18,
+          "name": "Design"
+        },
+        {
+          "id": 15,
+          "name": "Music/Art"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>3,000</span>",
+      "registrations_count": 7,
+      "featured": false,
+      "organization_name": "CCAD",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackdavidson.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackdavidson.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -1124,72 +1264,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 16506,
-      "title": "HackOnChain",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Station Berlin (Next Block Expo)"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/251/067/datas/medium.png",
-      "analytics_identifier": "HackOnChain (16506)",
-      "url": "https://hackonchain.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 23 - 24, 2022",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>35,300</span>",
-      "registrations_count": 6,
-      "featured": false,
-      "organization_name": "Web3 Devs Poland",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackonchain.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackonchain.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 16392,
-      "title": "Open Web House",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Joint Coworking Hotel"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/262/665/datas/medium.png",
-      "analytics_identifier": "Open Web House (16392)",
-      "url": "https://open-web-house.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 25 - 26, 2022",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        },
-        {
-          "id": 2,
-          "name": "DevOps"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>1,500</span>",
-      "registrations_count": 6,
-      "featured": false,
-      "organization_name": "Open Web Academy",
-      "winners_announced": false,
-      "submission_gallery_url": "https://open-web-house.devpost.com/project-gallery",
-      "start_a_submission_url": "https://open-web-house.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "People who made a previous register in a G-forms."
-    },
-    {
       "id": 15658,
       "title": "2022 December INTERalliance Hackathon",
       "displayed_location": {
@@ -1223,6 +1297,43 @@
       "winners_announced": false,
       "submission_gallery_url": "https://interalliance-hackathon-2022.devpost.com/project-gallery",
       "start_a_submission_url": "https://interalliance-hackathon-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 16551,
+      "title": "Metaverse Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "theuplift.world"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/258/137/datas/medium.png",
+      "analytics_identifier": "Metaverse Hackathon (16551)",
+      "url": "https://uplift-hackaverse.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Nov 06, 2022",
+      "themes": [
+        {
+          "id": 4,
+          "name": "Gaming"
+        },
+        {
+          "id": 17,
+          "name": "Low/No Code"
+        },
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>25</span>",
+      "registrations_count": 5,
+      "featured": false,
+      "organization_name": "Trekk & 3D",
+      "winners_announced": false,
+      "submission_gallery_url": "https://uplift-hackaverse.devpost.com/project-gallery",
+      "start_a_submission_url": "https://uplift-hackaverse.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -1301,113 +1412,6 @@
       "eligibility_requirement_invite_only_description": "HackTheCastle in-person attendees"
     },
     {
-      "id": 16551,
-      "title": "Metaverse Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "theuplift.world"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/258/137/datas/medium.png",
-      "analytics_identifier": "Metaverse Hackathon (16551)",
-      "url": "https://uplift-hackaverse.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 06, 2022",
-      "themes": [
-        {
-          "id": 4,
-          "name": "Gaming"
-        },
-        {
-          "id": 17,
-          "name": "Low/No Code"
-        },
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>25</span>",
-      "registrations_count": 4,
-      "featured": false,
-      "organization_name": "Trekk & 3D",
-      "winners_announced": false,
-      "submission_gallery_url": "https://uplift-hackaverse.devpost.com/project-gallery",
-      "start_a_submission_url": "https://uplift-hackaverse.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 16247,
-      "title": "Hack@Davidson",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "The Hurt Hub"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "Hack@Davidson (16247)",
-      "url": "https://hackdavidson.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Feb 10 - 12, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 15,
-          "name": "Music/Art"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>3,000</span>",
-      "registrations_count": 4,
-      "featured": false,
-      "organization_name": "CCAD",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackdavidson.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackdavidson.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 16157,
-      "title": "hackTAMS 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "University of North Texas—Willis Library"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "hackTAMS 2023 (16157)",
-      "url": "https://hacktams-2023.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Feb 18 - 19, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 4,
-      "featured": false,
-      "organization_name": "TAMS Computer Science Organization",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hacktams-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hacktams-2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 16487,
       "title": "2022 HUSKIE HACK",
       "displayed_location": {
@@ -1435,7 +1439,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>6,000</span>",
-      "registrations_count": 3,
+      "registrations_count": 4,
       "featured": false,
       "organization_name": "Northern Illinois University",
       "winners_announced": false,
@@ -1446,7 +1450,7 @@
     }
   ],
   "meta": {
-    "total_count": 44,
+    "total_count": 47,
     "per_page": 40,
     "fuzzy": false
   }
