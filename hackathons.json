@@ -1,6 +1,76 @@
 {
   "hackathons": [
     {
+      "id": 16469,
+      "title": "ML4Earth Hackathon 2022 (online)",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "online there will be no on-site location"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/249/459/datas/medium.png",
+      "analytics_identifier": "ML4Earth Hackathon 2022 (online) (16469)",
+      "url": "https://ml4earth.devpost.com/",
+      "time_left_to_submission": "2 days left",
+      "submission_period_dates": "Nov 25 - 27, 2022",
+      "themes": [
+        {
+          "id": 28,
+          "name": "Databases"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "€<span data-currency-value>14,500</span>",
+      "registrations_count": 106,
+      "featured": false,
+      "organization_name": "TUM",
+      "winners_announced": false,
+      "submission_gallery_url": "https://ml4earth.devpost.com/project-gallery",
+      "start_a_submission_url": "https://ml4earth.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 16392,
+      "title": "Open Web House",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Joint Coworking Hotel"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/262/665/datas/medium.png",
+      "analytics_identifier": "Open Web House (16392)",
+      "url": "https://open-web-house.devpost.com/",
+      "time_left_to_submission": "1 day left",
+      "submission_period_dates": "Nov 25 - 26, 2022",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 2,
+          "name": "DevOps"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>2,500</span>",
+      "registrations_count": 54,
+      "featured": false,
+      "organization_name": "Open Web Academy",
+      "winners_announced": false,
+      "submission_gallery_url": "https://open-web-house.devpost.com/project-gallery",
+      "start_a_submission_url": "https://open-web-house.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Personas que realizaron el pre-registro en G-Forms"
+    },
+    {
       "id": 14884,
       "title": "Motor City Hack on Mobility, Health and Well-being",
       "displayed_location": {
@@ -11,7 +81,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/001/848/722/datas/medium.png",
       "analytics_identifier": "Motor City Hack on Mobility, Health and Well-being (14884)",
       "url": "https://motor-city-hack.devpost.com/",
-      "time_left_to_submission": "21 days left",
+      "time_left_to_submission": "20 days left",
       "submission_period_dates": "May 04 - Dec 15, 2022",
       "themes": [
         {
@@ -38,6 +108,43 @@
       "eligibility_requirement_invite_only_description": "Wayne State University - Students only"
     },
     {
+      "id": 16811,
+      "title": "AR/VR Africa 2022 Metathon | Ethiopia",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Guzo Technologies HQ"
+      },
+      "open_state": "open",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "AR/VR Africa 2022 Metathon | Ethiopia (16811)",
+      "url": "https://ar-vr-africa-metathon-ethiopia.devpost.com/",
+      "time_left_to_submission": "8 days left",
+      "submission_period_dates": "Nov 23 - Dec 03, 2022",
+      "themes": [
+        {
+          "id": 5,
+          "name": "AR/VR"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 16,
+          "name": "Health"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>3,000</span>",
+      "registrations_count": 34,
+      "featured": false,
+      "organization_name": "Guzo Technologies ",
+      "winners_announced": false,
+      "submission_gallery_url": "https://ar-vr-africa-metathon-ethiopia.devpost.com/project-gallery",
+      "start_a_submission_url": "https://ar-vr-africa-metathon-ethiopia.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 16407,
       "title": "Web3 Hackathon Puerto Rico 2.0",
       "displayed_location": {
@@ -48,7 +155,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/287/438/datas/medium.png",
       "analytics_identifier": "Web3 Hackathon Puerto Rico 2.0 (16407)",
       "url": "https://web3-hackathon-pr-2-0.devpost.com/",
-      "time_left_to_submission": "10 days left",
+      "time_left_to_submission": "9 days left",
       "submission_period_dates": "Nov 11 - Dec 04, 2022",
       "themes": [
         {
@@ -85,7 +192,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/297/742/datas/medium.png",
       "analytics_identifier": "IH Entrepreneurship Project 2022 (16780)",
       "url": "https://ih-entrepreneurship-project.devpost.com/",
-      "time_left_to_submission": "15 days left",
+      "time_left_to_submission": "14 days left",
       "submission_period_dates": "Nov 14 - Dec 09, 2022",
       "themes": [
         {
@@ -94,7 +201,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10</span>",
-      "registrations_count": 24,
+      "registrations_count": 25,
       "featured": false,
       "organization_name": "Kunal Ranjan",
       "winners_announced": false,
@@ -114,7 +221,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/309/270/datas/medium.png",
       "analytics_identifier": "Devfest Ikot-Ekpene 2022 (16652)",
       "url": "https://devfest-ikot-ekpene-2022.devpost.com/",
-      "time_left_to_submission": "9 days left",
+      "time_left_to_submission": "8 days left",
       "submission_period_dates": "Nov 22 - Dec 03, 2022",
       "themes": [
         {
@@ -131,49 +238,12 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>500</span>",
-      "registrations_count": 22,
+      "registrations_count": 24,
       "featured": false,
       "organization_name": "GDG Ikot-Ekpene",
       "winners_announced": false,
       "submission_gallery_url": "https://devfest-ikot-ekpene-2022.devpost.com/project-gallery",
       "start_a_submission_url": "https://devfest-ikot-ekpene-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 16811,
-      "title": "AR/VR Africa 2022 Metathon | Ethiopia",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Guzo Technologies HQ"
-      },
-      "open_state": "open",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "AR/VR Africa 2022 Metathon | Ethiopia (16811)",
-      "url": "https://ar-vr-africa-metathon-ethiopia.devpost.com/",
-      "time_left_to_submission": "9 days left",
-      "submission_period_dates": "Nov 23 - Dec 03, 2022",
-      "themes": [
-        {
-          "id": 5,
-          "name": "AR/VR"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 16,
-          "name": "Health"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>3,000</span>",
-      "registrations_count": 15,
-      "featured": false,
-      "organization_name": "Guzo Technologies ",
-      "winners_announced": false,
-      "submission_gallery_url": "https://ar-vr-africa-metathon-ethiopia.devpost.com/project-gallery",
-      "start_a_submission_url": "https://ar-vr-africa-metathon-ethiopia.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -188,7 +258,7 @@
       "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
       "analytics_identifier": "Guzo (16702)",
       "url": "https://guzo.devpost.com/",
-      "time_left_to_submission": "4 days left",
+      "time_left_to_submission": "3 days left",
       "submission_period_dates": "Nov 24 - 28, 2022",
       "themes": [
         {
@@ -244,39 +314,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 16469,
-      "title": "ML4Earth Hackathon 2022 (online)",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "online there will be no on-site location"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/249/459/datas/medium.png",
-      "analytics_identifier": "ML4Earth Hackathon 2022 (online) (16469)",
-      "url": "https://ml4earth.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 25 - 27, 2022",
-      "themes": [
-        {
-          "id": 28,
-          "name": "Databases"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "€<span data-currency-value>14,500</span>",
-      "registrations_count": 94,
-      "featured": false,
-      "organization_name": "TUM",
-      "winners_announced": false,
-      "submission_gallery_url": "https://ml4earth.devpost.com/project-gallery",
-      "start_a_submission_url": "https://ml4earth.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 16750,
       "title": "Innovasia 2022 ",
       "displayed_location": {
@@ -304,12 +341,49 @@
         }
       ],
       "prize_amount": "₹ <span data-currency-value>60,000</span>",
-      "registrations_count": 92,
+      "registrations_count": 103,
       "featured": false,
       "organization_name": "Vasavi College of Engineering",
       "winners_announced": false,
       "submission_gallery_url": "https://innovasia-vce.devpost.com/project-gallery",
       "start_a_submission_url": "https://innovasia-vce.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 16068,
+      "title": "QDS Hacks 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "BCIT Burnaby Campus, SE02 Great Hall"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/237/549/datas/medium.jpg",
+      "analytics_identifier": "QDS Hacks 2023 (16068)",
+      "url": "https://qds-hacks-2023.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jan 06 - 08, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 28,
+          "name": "Databases"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
+        }
+      ],
+      "prize_amount": "$CAD<span data-currency-value>3,500</span>",
+      "registrations_count": 70,
+      "featured": false,
+      "organization_name": "BCITSA",
+      "winners_announced": false,
+      "submission_gallery_url": "https://qds-hacks-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://qds-hacks-2023.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -351,43 +425,6 @@
       "eligibility_requirement_invite_only_description": "UIC \"Break Through Tech\" Program Participants"
     },
     {
-      "id": 16068,
-      "title": "QDS Hacks 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "BCIT Burnaby Campus, SE02 Great Hall"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/237/549/datas/medium.jpg",
-      "analytics_identifier": "QDS Hacks 2023 (16068)",
-      "url": "https://qds-hacks-2023.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jan 06 - 08, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 28,
-          "name": "Databases"
-        },
-        {
-          "id": 11,
-          "name": "Productivity"
-        }
-      ],
-      "prize_amount": "$CAD<span data-currency-value>3,500</span>",
-      "registrations_count": 65,
-      "featured": false,
-      "organization_name": "BCITSA",
-      "winners_announced": false,
-      "submission_gallery_url": "https://qds-hacks-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://qds-hacks-2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 16680,
       "title": "Hack The League Chapter 2",
       "displayed_location": {
@@ -423,43 +460,6 @@
       "start_a_submission_url": "https://hack-the-league-chapter-2.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 16392,
-      "title": "Open Web House",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Joint Coworking Hotel"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/262/665/datas/medium.png",
-      "analytics_identifier": "Open Web House (16392)",
-      "url": "https://open-web-house.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 25 - 26, 2022",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        },
-        {
-          "id": 2,
-          "name": "DevOps"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>2,500</span>",
-      "registrations_count": 46,
-      "featured": false,
-      "organization_name": "Open Web Academy",
-      "winners_announced": false,
-      "submission_gallery_url": "https://open-web-house.devpost.com/project-gallery",
-      "start_a_submission_url": "https://open-web-house.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Personas que realizaron el pre-registro en G-Forms"
     },
     {
       "id": 16527,
@@ -674,7 +674,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>3,000</span>",
-      "registrations_count": 12,
+      "registrations_count": 13,
       "featured": false,
       "organization_name": "CCAD",
       "winners_announced": false,
@@ -781,6 +781,35 @@
       "start_a_submission_url": "https://royalcbd-14917.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 16798,
+      "title": "AR/VR Africa Hackathon - in DRC",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Goma - RDC"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/300/444/datas/medium.jpg",
+      "analytics_identifier": "AR/VR Africa Hackathon - in DRC (16798)",
+      "url": "https://arvrafrica-drc.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Dec 01 - 03, 2022",
+      "themes": [
+        {
+          "id": 5,
+          "name": "AR/VR"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>3,000</span>",
+      "registrations_count": 8,
+      "featured": false,
+      "organization_name": "Wito XR Studio",
+      "winners_announced": false,
+      "submission_gallery_url": "https://arvrafrica-drc.devpost.com/project-gallery",
+      "start_a_submission_url": "https://arvrafrica-drc.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "For AR/VR Africa Metathon 2022 registrants, in DRC"
     },
     {
       "id": 16609,
@@ -923,35 +952,6 @@
       "eligibility_requirement_invite_only_description": "Check description for eligiblity."
     },
     {
-      "id": 16798,
-      "title": "AR/VR Africa Hackathon - in DRC",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Goma - RDC"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/300/444/datas/medium.jpg",
-      "analytics_identifier": "AR/VR Africa Hackathon - in DRC (16798)",
-      "url": "https://arvrafrica-drc.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Dec 01 - 03, 2022",
-      "themes": [
-        {
-          "id": 5,
-          "name": "AR/VR"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>3,000</span>",
-      "registrations_count": 5,
-      "featured": false,
-      "organization_name": "Wito XR Studio",
-      "winners_announced": false,
-      "submission_gallery_url": "https://arvrafrica-drc.devpost.com/project-gallery",
-      "start_a_submission_url": "https://arvrafrica-drc.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "For AR/VR Africa Metathon 2022 registrants, in DRC"
-    },
-    {
       "id": 16486,
       "title": "GFS Quackathon 2023",
       "displayed_location": {
@@ -1049,12 +1049,49 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>2,000</span>",
-      "registrations_count": 2,
+      "registrations_count": 3,
       "featured": false,
       "organization_name": "Brearley",
       "winners_announced": false,
       "submission_gallery_url": "https://bevhacks2023.devpost.com/project-gallery",
       "start_a_submission_url": "https://bevhacks2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 16839,
+      "title": "TechEden 2.0",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Vellore Institute of Technology - AP"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/312/468/datas/medium.png",
+      "analytics_identifier": "TechEden 2.0 (16839)",
+      "url": "https://techeden-2-0.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Dec 10 - 11, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "₹ <span data-currency-value>205,500</span>",
+      "registrations_count": 2,
+      "featured": false,
+      "organization_name": "Open Source Community: VIT-AP",
+      "winners_announced": false,
+      "submission_gallery_url": "https://techeden-2-0.devpost.com/project-gallery",
+      "start_a_submission_url": "https://techeden-2-0.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -1085,7 +1122,7 @@
           "name": "Social Good"
         }
       ],
-      "prize_amount": "$<span data-currency-value>74,550</span>",
+      "prize_amount": "$<span data-currency-value>73,275</span>",
       "registrations_count": 2,
       "featured": false,
       "organization_name": "Saratoga High MSET",
@@ -1134,7 +1171,7 @@
     }
   ],
   "meta": {
-    "total_count": 32,
+    "total_count": 33,
     "per_page": 40,
     "fuzzy": false
   }
