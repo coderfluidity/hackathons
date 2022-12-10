@@ -1,43 +1,6 @@
 {
   "hackathons": [
     {
-      "id": 16750,
-      "title": "Innovasia 2022 ",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Hyderabad"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/288/487/datas/medium.png",
-      "analytics_identifier": "Innovasia 2022  (16750)",
-      "url": "https://innovasia-vce.devpost.com/",
-      "time_left_to_submission": "about 18 hours left",
-      "submission_period_dates": "Dec 02 - 10, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        },
-        {
-          "id": 10,
-          "name": "Communication"
-        }
-      ],
-      "prize_amount": "₹ <span data-currency-value>152,000</span>",
-      "registrations_count": 260,
-      "featured": false,
-      "organization_name": "Vasavi College of Engineering",
-      "winners_announced": false,
-      "submission_gallery_url": "https://innovasia-vce.devpost.com/project-gallery",
-      "start_a_submission_url": "https://innovasia-vce.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 16813,
       "title": "Clarity Holiday Hackathon",
       "displayed_location": {
@@ -48,7 +11,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/315/312/datas/medium.jpg",
       "analytics_identifier": "Clarity Holiday Hackathon (16813)",
       "url": "https://clarity-holiday-hackathon.devpost.com/",
-      "time_left_to_submission": "10 days left",
+      "time_left_to_submission": "9 days left",
       "submission_period_dates": "Dec 05 - 19, 2022",
       "themes": [
         {
@@ -57,7 +20,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,750</span>",
-      "registrations_count": 45,
+      "registrations_count": 46,
       "featured": true,
       "organization_name": "Stacks Foundation",
       "winners_announced": false,
@@ -77,7 +40,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/189/072/datas/medium.png",
       "analytics_identifier": "Fitch 2022 Codeathon for Education (15963)",
       "url": "https://fitch.devpost.com/",
-      "time_left_to_submission": "4 days left",
+      "time_left_to_submission": "3 days left",
       "submission_period_dates": "Nov 30 - Dec 13, 2022",
       "themes": [
         {
@@ -94,7 +57,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>4,000</span>",
-      "registrations_count": 74,
+      "registrations_count": 75,
       "featured": false,
       "organization_name": "Fitch",
       "winners_announced": false,
@@ -114,7 +77,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/001/848/722/datas/medium.png",
       "analytics_identifier": "Motor City Hack on Mobility, Health and Well-being (14884)",
       "url": "https://motor-city-hack.devpost.com/",
-      "time_left_to_submission": "6 days left",
+      "time_left_to_submission": "5 days left",
       "submission_period_dates": "May 04 - Dec 15, 2022",
       "themes": [
         {
@@ -131,7 +94,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 52,
+      "registrations_count": 53,
       "featured": false,
       "organization_name": "Wayne State University",
       "winners_announced": false,
@@ -139,6 +102,43 @@
       "start_a_submission_url": "https://motor-city-hack.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Wayne State University - Students only"
+    },
+    {
+      "id": 16839,
+      "title": "TechEden 2.0",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Vellore Institute of Technology - AP"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/312/468/datas/medium.png",
+      "analytics_identifier": "TechEden 2.0 (16839)",
+      "url": "https://techeden-2-0.devpost.com/",
+      "time_left_to_submission": "about 13 hours left",
+      "submission_period_dates": "Dec 10 - 11, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "₹ <span data-currency-value>215,500</span>",
+      "registrations_count": 41,
+      "featured": false,
+      "organization_name": "Open Source Community: VIT-AP",
+      "winners_announced": false,
+      "submission_gallery_url": "https://techeden-2-0.devpost.com/project-gallery",
+      "start_a_submission_url": "https://techeden-2-0.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 16596,
@@ -151,7 +151,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/270/548/datas/medium.png",
       "analytics_identifier": "HACK-O-TOPIA 2022 (16596)",
       "url": "https://hack-o-topia-2022.devpost.com/",
-      "time_left_to_submission": "29 days left",
+      "time_left_to_submission": "28 days left",
       "submission_period_dates": "Nov 12, 2022 - Jan 07, 2023",
       "themes": [
         {
@@ -178,35 +178,6 @@
       "eligibility_requirement_invite_only_description": "Students and residents of Suriname"
     },
     {
-      "id": 16780,
-      "title": "IH Entrepreneurship Project 2022",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Cincinnati"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/297/742/datas/medium.png",
-      "analytics_identifier": "IH Entrepreneurship Project 2022 (16780)",
-      "url": "https://ih-entrepreneurship-project.devpost.com/",
-      "time_left_to_submission": "about 11 hours left",
-      "submission_period_dates": "Nov 14 - Dec 09, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>10</span>",
-      "registrations_count": 27,
-      "featured": false,
-      "organization_name": "Kunal Ranjan",
-      "winners_announced": false,
-      "submission_gallery_url": "https://ih-entrepreneurship-project.devpost.com/project-gallery",
-      "start_a_submission_url": "https://ih-entrepreneurship-project.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Indian Hill High School - Intro To Business"
-    },
-    {
       "id": 16883,
       "title": "yeswewill",
       "displayed_location": {
@@ -217,7 +188,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/315/728/datas/medium.png",
       "analytics_identifier": "yeswewill (16883)",
       "url": "https://yeswewill.devpost.com/",
-      "time_left_to_submission": "10 days left",
+      "time_left_to_submission": "9 days left",
       "submission_period_dates": "Dec 02 - 19, 2022",
       "themes": [
         {
@@ -250,7 +221,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/320/413/datas/medium.png",
       "analytics_identifier": "SWC Hacks (16914)",
       "url": "https://swc-hacks.devpost.com/",
-      "time_left_to_submission": "3 days left",
+      "time_left_to_submission": "2 days left",
       "submission_period_dates": "Dec 08 - 12, 2022",
       "themes": [
         {
@@ -267,7 +238,7 @@
         }
       ],
       "prize_amount": "$CAD<span data-currency-value>890</span>",
-      "registrations_count": 7,
+      "registrations_count": 8,
       "featured": false,
       "organization_name": "other",
       "winners_announced": false,
@@ -287,7 +258,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/316/698/datas/medium.png",
       "analytics_identifier": "NUS Fintech Month 2023 - Test Platform (16890)",
       "url": "https://nus-fintech-month.devpost.com/",
-      "time_left_to_submission": "14 days left",
+      "time_left_to_submission": "13 days left",
       "submission_period_dates": "Dec 05 - 23, 2022",
       "themes": [
         {
@@ -333,7 +304,7 @@
         }
       ],
       "prize_amount": "₹ <span data-currency-value>145,000</span>",
-      "registrations_count": 228,
+      "registrations_count": 240,
       "featured": false,
       "organization_name": "Hack The League",
       "winners_announced": false,
@@ -370,7 +341,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,500</span>",
-      "registrations_count": 148,
+      "registrations_count": 149,
       "featured": false,
       "organization_name": "Hoya Hacks",
       "winners_announced": false,
@@ -407,49 +378,12 @@
         }
       ],
       "prize_amount": "$CAD<span data-currency-value>3,500</span>",
-      "registrations_count": 82,
+      "registrations_count": 83,
       "featured": false,
       "organization_name": "BCITSA",
       "winners_announced": false,
       "submission_gallery_url": "https://qds-hacks-2023.devpost.com/project-gallery",
       "start_a_submission_url": "https://qds-hacks-2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 16839,
-      "title": "TechEden 2.0",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Vellore Institute of Technology - AP"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/312/468/datas/medium.png",
-      "analytics_identifier": "TechEden 2.0 (16839)",
-      "url": "https://techeden-2-0.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Dec 10 - 11, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "₹ <span data-currency-value>215,500</span>",
-      "registrations_count": 29,
-      "featured": false,
-      "organization_name": "Open Source Community: VIT-AP",
-      "winners_announced": false,
-      "submission_gallery_url": "https://techeden-2-0.devpost.com/project-gallery",
-      "start_a_submission_url": "https://techeden-2-0.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -481,7 +415,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>4,500</span>",
-      "registrations_count": 26,
+      "registrations_count": 27,
       "featured": false,
       "organization_name": "HudsonAlpha Institute for Biotechnology",
       "winners_announced": false,
@@ -518,7 +452,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>16,500</span>",
-      "registrations_count": 25,
+      "registrations_count": 26,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -639,43 +573,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 16535,
-      "title": "Royal Hackaway v6",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Royal Holloway, University of London"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/287/838/datas/medium.png",
-      "analytics_identifier": "Royal Hackaway v6 (16535)",
-      "url": "https://royal-hackaway-v6.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Feb 04 - 05, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "£<span data-currency-value>1,000</span>",
-      "registrations_count": 15,
-      "featured": false,
-      "organization_name": "Royal Holloway Computing Society",
-      "winners_announced": false,
-      "submission_gallery_url": "https://royal-hackaway-v6.devpost.com/project-gallery",
-      "start_a_submission_url": "https://royal-hackaway-v6.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 16609,
       "title": "Rice Datathon 2023",
       "displayed_location": {
@@ -703,7 +600,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>75</span>",
-      "registrations_count": 13,
+      "registrations_count": 15,
       "featured": false,
       "organization_name": "Rice University",
       "winners_announced": false,
@@ -740,12 +637,49 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>81,915</span>",
-      "registrations_count": 13,
+      "registrations_count": 15,
       "featured": false,
       "organization_name": "Saratoga High MSET",
       "winners_announced": false,
       "submission_gallery_url": "https://mhh.devpost.com/project-gallery",
       "start_a_submission_url": "https://mhh.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 16535,
+      "title": "Royal Hackaway v6",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Royal Holloway, University of London"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/287/838/datas/medium.png",
+      "analytics_identifier": "Royal Hackaway v6 (16535)",
+      "url": "https://royal-hackaway-v6.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Feb 04 - 05, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "£<span data-currency-value>1,000</span>",
+      "registrations_count": 15,
+      "featured": false,
+      "organization_name": "Royal Holloway Computing Society",
+      "winners_announced": false,
+      "submission_gallery_url": "https://royal-hackaway-v6.devpost.com/project-gallery",
+      "start_a_submission_url": "https://royal-hackaway-v6.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -872,7 +806,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>2,000</span>",
-      "registrations_count": 8,
+      "registrations_count": 9,
       "featured": false,
       "organization_name": "Brearley",
       "winners_announced": false,
@@ -982,7 +916,7 @@
     }
   ],
   "meta": {
-    "total_count": 28,
+    "total_count": 26,
     "per_page": 40,
     "fuzzy": false
   }
