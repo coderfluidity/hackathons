@@ -1,35 +1,6 @@
 {
   "hackathons": [
     {
-      "id": 16813,
-      "title": "Clarity Holiday Hackathon",
-      "displayed_location": {
-        "icon": "globe",
-        "location": "Online"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/315/312/datas/medium.jpg",
-      "analytics_identifier": "Clarity Holiday Hackathon (16813)",
-      "url": "https://clarity-holiday-hackathon.devpost.com/",
-      "time_left_to_submission": "8 days left",
-      "submission_period_dates": "Dec 05 - 19, 2022",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>1,750</span>",
-      "registrations_count": 50,
-      "featured": true,
-      "organization_name": "Stacks Foundation",
-      "winners_announced": false,
-      "submission_gallery_url": "https://clarity-holiday-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://clarity-holiday-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 15963,
       "title": "Fitch 2022 Codeathon for Education",
       "displayed_location": {
@@ -40,7 +11,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/189/072/datas/medium.png",
       "analytics_identifier": "Fitch 2022 Codeathon for Education (15963)",
       "url": "https://fitch.devpost.com/",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "about 22 hours left",
       "submission_period_dates": "Nov 30 - Dec 13, 2022",
       "themes": [
         {
@@ -67,6 +38,35 @@
       "eligibility_requirement_invite_only_description": "UIC \"Break Through Tech\" Program Participants"
     },
     {
+      "id": 16813,
+      "title": "Clarity Holiday Hackathon",
+      "displayed_location": {
+        "icon": "globe",
+        "location": "Online"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/315/312/datas/medium.jpg",
+      "analytics_identifier": "Clarity Holiday Hackathon (16813)",
+      "url": "https://clarity-holiday-hackathon.devpost.com/",
+      "time_left_to_submission": "7 days left",
+      "submission_period_dates": "Dec 05 - 19, 2022",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1,750</span>",
+      "registrations_count": 55,
+      "featured": false,
+      "organization_name": "Stacks Foundation",
+      "winners_announced": false,
+      "submission_gallery_url": "https://clarity-holiday-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://clarity-holiday-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 14884,
       "title": "Motor City Hack on Mobility, Health and Well-being",
       "displayed_location": {
@@ -77,7 +77,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/001/848/722/datas/medium.png",
       "analytics_identifier": "Motor City Hack on Mobility, Health and Well-being (14884)",
       "url": "https://motor-city-hack.devpost.com/",
-      "time_left_to_submission": "4 days left",
+      "time_left_to_submission": "3 days left",
       "submission_period_dates": "May 04 - Dec 15, 2022",
       "themes": [
         {
@@ -114,7 +114,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/270/548/datas/medium.png",
       "analytics_identifier": "HACK-O-TOPIA 2022 (16596)",
       "url": "https://hack-o-topia-2022.devpost.com/",
-      "time_left_to_submission": "27 days left",
+      "time_left_to_submission": "26 days left",
       "submission_period_dates": "Nov 12, 2022 - Jan 07, 2023",
       "themes": [
         {
@@ -151,7 +151,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/315/728/datas/medium.png",
       "analytics_identifier": "yeswewill (16883)",
       "url": "https://yeswewill.devpost.com/",
-      "time_left_to_submission": "8 days left",
+      "time_left_to_submission": "7 days left",
       "submission_period_dates": "Dec 02 - 19, 2022",
       "themes": [
         {
@@ -164,7 +164,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 14,
+      "registrations_count": 15,
       "featured": false,
       "organization_name": "yeSWEcan",
       "winners_announced": false,
@@ -184,7 +184,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/320/413/datas/medium.png",
       "analytics_identifier": "SWC Hacks (16914)",
       "url": "https://swc-hacks.devpost.com/",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 7 hours left",
       "submission_period_dates": "Dec 08 - 12, 2022",
       "themes": [
         {
@@ -201,7 +201,7 @@
         }
       ],
       "prize_amount": "$CAD<span data-currency-value>890</span>",
-      "registrations_count": 8,
+      "registrations_count": 11,
       "featured": false,
       "organization_name": "other",
       "winners_announced": false,
@@ -211,31 +211,39 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 16951,
-      "title": "TEST FTM",
+      "id": 16941,
+      "title": "NUS Fintech Month Hackathon 2023 (Round 1:Ideation)",
       "displayed_location": {
         "icon": "map-marker-alt",
         "location": "Singapore"
       },
       "open_state": "open",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "TEST FTM (16951)",
-      "url": "https://test-ftm.devpost.com/",
-      "time_left_to_submission": "1 day left",
-      "submission_period_dates": "Dec 11 - 12, 2022",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/323/260/datas/medium.jpeg",
+      "analytics_identifier": "NUS Fintech Month Hackathon 2023 (Round 1:Ideation) (16941)",
+      "url": "https://nus-ftm-ideation-hackathon.devpost.com/",
+      "time_left_to_submission": "27 days left",
+      "submission_period_dates": "Dec 11, 2022 - Jan 08, 2023",
       "themes": [
         {
-          "id": 28,
-          "name": "Databases"
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 3,
+          "name": "Fintech"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
         }
       ],
-      "prize_amount": "€<span data-currency-value>0</span>",
-      "registrations_count": 1,
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 2,
       "featured": false,
-      "organization_name": "Break Through Tech DC",
+      "organization_name": "National University of Singapore",
       "winners_announced": false,
-      "submission_gallery_url": "https://test-ftm.devpost.com/project-gallery",
-      "start_a_submission_url": "https://test-ftm.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://nus-ftm-ideation-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://nus-ftm-ideation-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -267,7 +275,7 @@
         }
       ],
       "prize_amount": "₹ <span data-currency-value>145,000</span>",
-      "registrations_count": 273,
+      "registrations_count": 294,
       "featured": false,
       "organization_name": "Hack The League",
       "winners_announced": false,
@@ -304,7 +312,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,500</span>",
-      "registrations_count": 150,
+      "registrations_count": 151,
       "featured": false,
       "organization_name": "Hoya Hacks",
       "winners_announced": false,
@@ -341,7 +349,7 @@
         }
       ],
       "prize_amount": "$CAD<span data-currency-value>3,500</span>",
-      "registrations_count": 83,
+      "registrations_count": 85,
       "featured": false,
       "organization_name": "BCITSA",
       "winners_announced": false,
@@ -415,7 +423,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>16,500</span>",
-      "registrations_count": 26,
+      "registrations_count": 27,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -489,7 +497,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>15,000</span>",
-      "registrations_count": 19,
+      "registrations_count": 21,
       "featured": false,
       "organization_name": "iata",
       "winners_announced": false,
@@ -536,43 +544,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 16535,
-      "title": "Royal Hackaway v6",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Royal Holloway, University of London"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/287/838/datas/medium.png",
-      "analytics_identifier": "Royal Hackaway v6 (16535)",
-      "url": "https://royal-hackaway-v6.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Feb 04 - 05, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "£<span data-currency-value>1,000</span>",
-      "registrations_count": 16,
-      "featured": false,
-      "organization_name": "Royal Holloway Computing Society",
-      "winners_announced": false,
-      "submission_gallery_url": "https://royal-hackaway-v6.devpost.com/project-gallery",
-      "start_a_submission_url": "https://royal-hackaway-v6.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 16609,
       "title": "Rice Datathon 2023",
       "displayed_location": {
@@ -600,7 +571,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>75</span>",
-      "registrations_count": 15,
+      "registrations_count": 17,
       "featured": false,
       "organization_name": "Rice University",
       "winners_announced": false,
@@ -637,12 +608,49 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>81,915</span>",
-      "registrations_count": 15,
+      "registrations_count": 16,
       "featured": false,
       "organization_name": "Saratoga High MSET",
       "winners_announced": false,
       "submission_gallery_url": "https://mhh.devpost.com/project-gallery",
       "start_a_submission_url": "https://mhh.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 16535,
+      "title": "Royal Hackaway v6",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Royal Holloway, University of London"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/287/838/datas/medium.png",
+      "analytics_identifier": "Royal Hackaway v6 (16535)",
+      "url": "https://royal-hackaway-v6.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Feb 04 - 05, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "£<span data-currency-value>1,000</span>",
+      "registrations_count": 16,
+      "featured": false,
+      "organization_name": "Royal Holloway Computing Society",
+      "winners_announced": false,
+      "submission_gallery_url": "https://royal-hackaway-v6.devpost.com/project-gallery",
+      "start_a_submission_url": "https://royal-hackaway-v6.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -682,6 +690,39 @@
       "start_a_submission_url": "https://bevhacks2023.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 16486,
+      "title": "GFS Quackathon 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Germantown Friends School - Hargroves"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/279/008/datas/medium.png",
+      "analytics_identifier": "GFS Quackathon 2023 (16486)",
+      "url": "https://gfs-quackathon-2023.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Mar 11, 2023",
+      "themes": [
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>300</span>",
+      "registrations_count": 11,
+      "featured": false,
+      "organization_name": "Germantown Friends School",
+      "winners_announced": false,
+      "submission_gallery_url": "https://gfs-quackathon-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://gfs-quackathon-2023.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Schools in the Philadelphia Area"
     },
     {
       "id": 14917,
@@ -746,37 +787,41 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 16486,
-      "title": "GFS Quackathon 2023",
+      "id": 16785,
+      "title": "hack::peel 2022",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Germantown Friends School - Hargroves"
+        "location": "The Woodlands Secondary School"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/279/008/datas/medium.png",
-      "analytics_identifier": "GFS Quackathon 2023 (16486)",
-      "url": "https://gfs-quackathon-2023.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/298/378/datas/medium.png",
+      "analytics_identifier": "hack::peel 2022 (16785)",
+      "url": "https://hackpeel22.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 11, 2023",
+      "submission_period_dates": "Dec 16 - 17, 2022",
       "themes": [
-        {
-          "id": 19,
-          "name": "Education"
-        },
         {
           "id": 23,
           "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
         }
       ],
-      "prize_amount": "$<span data-currency-value>300</span>",
-      "registrations_count": 10,
+      "prize_amount": "$CAD<span data-currency-value>7,351</span>",
+      "registrations_count": 9,
       "featured": false,
-      "organization_name": "Germantown Friends School",
+      "organization_name": "hack::peel",
       "winners_announced": false,
-      "submission_gallery_url": "https://gfs-quackathon-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://gfs-quackathon-2023.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Schools in the Philadelphia Area"
+      "submission_gallery_url": "https://hackpeel22.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackpeel22.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 16790,
@@ -916,7 +961,7 @@
     }
   ],
   "meta": {
-    "total_count": 26,
+    "total_count": 27,
     "per_page": 40,
     "fuzzy": false
   }
