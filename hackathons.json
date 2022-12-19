@@ -1,6 +1,43 @@
 {
   "hackathons": [
     {
+      "id": 16998,
+      "title": "What The Hack 2022",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "SUTD Campus"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/329/855/datas/medium.png",
+      "analytics_identifier": "What The Hack 2022 (16998)",
+      "url": "https://wth-2022.devpost.com/",
+      "time_left_to_submission": "about 16 hours left",
+      "submission_period_dates": "Dec 19 - 20, 2022",
+      "themes": [
+        {
+          "id": 16,
+          "name": "Health"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>4,800</span>",
+      "registrations_count": 132,
+      "featured": false,
+      "organization_name": "What The Hack",
+      "winners_announced": false,
+      "submission_gallery_url": "https://wth-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://wth-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 16813,
       "title": "Clarity Holiday Hackathon",
       "displayed_location": {
@@ -11,7 +48,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/315/312/datas/medium.jpg",
       "analytics_identifier": "Clarity Holiday Hackathon (16813)",
       "url": "https://clarity-holiday-hackathon.devpost.com/",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 11 hours left",
       "submission_period_dates": "Dec 05 - 19, 2022",
       "themes": [
         {
@@ -20,7 +57,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,750</span>",
-      "registrations_count": 99,
+      "registrations_count": 100,
       "featured": false,
       "organization_name": "Stacks Foundation",
       "winners_announced": false,
@@ -28,39 +65,6 @@
       "start_a_submission_url": "https://clarity-holiday-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 16883,
-      "title": "yeswewill",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Berkeley, CA, USA"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/315/728/datas/medium.png",
-      "analytics_identifier": "yeswewill (16883)",
-      "url": "https://yeswewill.devpost.com/",
-      "time_left_to_submission": "about 14 hours left",
-      "submission_period_dates": "Dec 02 - 19, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 43,
-      "featured": false,
-      "organization_name": "yeSWEcan",
-      "winners_announced": false,
-      "submission_gallery_url": "https://yeswewill.devpost.com/project-gallery",
-      "start_a_submission_url": "https://yeswewill.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Students enrolled in the yeSWEcan DeCal."
     },
     {
       "id": 16596,
@@ -73,7 +77,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/270/548/datas/medium.png",
       "analytics_identifier": "HACK-O-TOPIA 2022 (16596)",
       "url": "https://hack-o-topia-2022.devpost.com/",
-      "time_left_to_submission": "20 days left",
+      "time_left_to_submission": "19 days left",
       "submission_period_dates": "Nov 12, 2022 - Jan 07, 2023",
       "themes": [
         {
@@ -110,7 +114,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/323/260/datas/medium.jpeg",
       "analytics_identifier": "NUS Fintech Month Hackathon 2023 (Round 1:Ideation) (16941)",
       "url": "https://nus-ftm-ideation-hackathon.devpost.com/",
-      "time_left_to_submission": "21 days left",
+      "time_left_to_submission": "20 days left",
       "submission_period_dates": "Dec 11, 2022 - Jan 08, 2023",
       "themes": [
         {
@@ -127,41 +131,12 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 20,
+      "registrations_count": 21,
       "featured": false,
       "organization_name": "National University of Singapore",
       "winners_announced": false,
       "submission_gallery_url": "https://nus-ftm-ideation-hackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://nus-ftm-ideation-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 16997,
-      "title": "AI Hack Week",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Alamo Square"
-      },
-      "open_state": "open",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "AI Hack Week (16997)",
-      "url": "https://aihackweek.devpost.com/",
-      "time_left_to_submission": "about 3 hours left",
-      "submission_period_dates": "Dec 18, 2022",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 13,
-      "featured": false,
-      "organization_name": "HF0",
-      "winners_announced": false,
-      "submission_gallery_url": "https://aihackweek.devpost.com/project-gallery",
-      "start_a_submission_url": "https://aihackweek.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -193,7 +168,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 1,
+      "registrations_count": 2,
       "featured": false,
       "organization_name": "Travis CSNHS",
       "winners_announced": false,
@@ -230,7 +205,7 @@
         }
       ],
       "prize_amount": "₹ <span data-currency-value>145,000</span>",
-      "registrations_count": 379,
+      "registrations_count": 401,
       "featured": false,
       "organization_name": "Hack The League",
       "winners_announced": false,
@@ -267,7 +242,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,500</span>",
-      "registrations_count": 166,
+      "registrations_count": 168,
       "featured": false,
       "organization_name": "Hoya Hacks",
       "winners_announced": false,
@@ -341,7 +316,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>16,500</span>",
-      "registrations_count": 41,
+      "registrations_count": 42,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -452,7 +427,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>15,000</span>",
-      "registrations_count": 25,
+      "registrations_count": 26,
       "featured": false,
       "organization_name": "iata",
       "winners_announced": false,
@@ -526,7 +501,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>3,000</span>",
-      "registrations_count": 20,
+      "registrations_count": 21,
       "featured": false,
       "organization_name": "CCAD",
       "winners_announced": false,
@@ -610,6 +585,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 16854,
+      "title": "WEHack 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "University of Texas at Dallas - ECSW"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/314/073/datas/medium.png",
+      "analytics_identifier": "WEHack 2023 (16854)",
+      "url": "https://wehack-2023.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Feb 11 - 12, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 26,
+          "name": "Mobile"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>300</span>",
+      "registrations_count": 18,
+      "featured": false,
+      "organization_name": "WEHack",
+      "winners_announced": false,
+      "submission_gallery_url": "https://wehack-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://wehack-2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 16664,
       "title": "MSET health hackathon",
       "displayed_location": {
@@ -647,43 +659,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 16854,
-      "title": "WEHack 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "University of Texas at Dallas - ECSW"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/314/073/datas/medium.png",
-      "analytics_identifier": "WEHack 2023 (16854)",
-      "url": "https://wehack-2023.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Feb 11 - 12, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 26,
-          "name": "Mobile"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>300</span>",
-      "registrations_count": 13,
-      "featured": false,
-      "organization_name": "WEHack",
-      "winners_announced": false,
-      "submission_gallery_url": "https://wehack-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://wehack-2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 16486,
       "title": "GFS Quackathon 2023",
       "displayed_location": {
@@ -707,7 +682,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>300</span>",
-      "registrations_count": 11,
+      "registrations_count": 12,
       "featured": false,
       "organization_name": "Germantown Friends School",
       "winners_announced": false,
@@ -814,12 +789,49 @@
         }
       ],
       "prize_amount": "$CAD<span data-currency-value>10,500</span>",
-      "registrations_count": 4,
+      "registrations_count": 5,
       "featured": false,
       "organization_name": "Hack Your Learning X Schulich",
       "winners_announced": false,
       "submission_gallery_url": "https://hyl-schulichhacks-2023.devpost.com/project-gallery",
       "start_a_submission_url": "https://hyl-schulichhacks-2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 16996,
+      "title": "OSHHACK 11 [2022-2023] ",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Ohel Shem"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/328/159/datas/medium.jpg",
+      "analytics_identifier": "OSHHACK 11 [2022-2023]  (16996)",
+      "url": "https://oshhack11.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Dec 24 - 25, 2022",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 9,
+          "name": "Cybersecurity"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 3,
+      "featured": false,
+      "organization_name": "OSHack",
+      "winners_announced": false,
+      "submission_gallery_url": "https://oshhack11.devpost.com/project-gallery",
+      "start_a_submission_url": "https://oshhack11.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -851,47 +863,10 @@
       "start_a_submission_url": "https://hacking-for-humanity-2023.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Teams who qualify for the finals."
-    },
-    {
-      "id": 16996,
-      "title": "OSHHACK 11 [2022-2023] ",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Ohel Shem"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/328/159/datas/medium.jpg",
-      "analytics_identifier": "OSHHACK 11 [2022-2023]  (16996)",
-      "url": "https://oshhack11.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Dec 24 - 25, 2022",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 9,
-          "name": "Cybersecurity"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 2,
-      "featured": false,
-      "organization_name": "OSHack",
-      "winners_announced": false,
-      "submission_gallery_url": "https://oshhack11.devpost.com/project-gallery",
-      "start_a_submission_url": "https://oshhack11.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
     }
   ],
   "meta": {
-    "total_count": 25,
+    "total_count": 24,
     "per_page": 40,
     "fuzzy": false
   }
