@@ -1,17 +1,17 @@
 {
   "hackathons": [
     {
-      "id": 16962,
-      "title": "HooHacks 2023",
+      "id": 17937,
+      "title": "HackaBull 2023",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "University of Virginia School Grounds"
+        "location": "USF - Engineering II"
       },
       "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/325/911/datas/medium_square.png",
-      "analytics_identifier": "HooHacks 2023 (16962)",
-      "url": "https://hoohacks-2023.devpost.com/",
-      "time_left_to_submission": "about 23 hours left",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/426/668/datas/medium_square.png",
+      "analytics_identifier": "HackaBull 2023 (17937)",
+      "url": "https://hackabull-2023.devpost.com/",
+      "time_left_to_submission": "6 minutes left",
       "submission_period_dates": "Mar 25 - 26, 2023",
       "themes": [
         {
@@ -19,23 +19,56 @@
           "name": "Beginner Friendly"
         },
         {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
+          "id": 22,
+          "name": "Open Ended"
         }
       ],
-      "prize_amount": "$<span data-currency-value>16,526</span>",
-      "registrations_count": 157,
-      "featured": true,
-      "organization_name": "HooHacks",
+      "prize_amount": "$<span data-currency-value>7,720</span>",
+      "registrations_count": 215,
+      "featured": false,
+      "organization_name": "University of South Florida",
       "winners_announced": false,
-      "submission_gallery_url": "https://hoohacks-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hoohacks-2023.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://hackabull-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackabull-2023.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 17852,
+      "title": "Bee Hacks",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Ananthapur"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/420/957/datas/medium_square.png",
+      "analytics_identifier": "Bee Hacks (17852)",
+      "url": "https://beehacks.devpost.com/",
+      "time_left_to_submission": "about 19 hours left",
+      "submission_period_dates": "Mar 25 - 27, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        }
+      ],
+      "prize_amount": "₹ <span data-currency-value>4,000</span>",
+      "registrations_count": 30,
+      "featured": true,
+      "organization_name": "Pixel",
+      "winners_announced": false,
+      "submission_gallery_url": "https://beehacks.devpost.com/project-gallery",
+      "start_a_submission_url": "https://beehacks.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Participate Registered for Pixel 2023"
     },
     {
       "id": 17686,
@@ -48,7 +81,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/418/613/datas/medium_square.png",
       "analytics_identifier": "LLMs for Brain Health (17686)",
       "url": "https://llms-for-brain-health.devpost.com/",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 13 hours left",
       "submission_period_dates": "Mar 24 - 27, 2023",
       "themes": [
         {
@@ -65,7 +98,7 @@
         }
       ],
       "prize_amount": "$CAD<span data-currency-value>1,750</span>",
-      "registrations_count": 27,
+      "registrations_count": 29,
       "featured": true,
       "organization_name": "UBC Centre for Brain Health",
       "winners_announced": false,
@@ -73,80 +106,6 @@
       "start_a_submission_url": "https://llms-for-brain-health.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "UBC, SFU, UVic, and UW students/researchers"
-    },
-    {
-      "id": 17852,
-      "title": "Bee Hacks",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Ananthapur"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/420/957/datas/medium_square.png",
-      "analytics_identifier": "Bee Hacks (17852)",
-      "url": "https://beehacks.devpost.com/",
-      "time_left_to_submission": "1 day left",
-      "submission_period_dates": "Mar 25 - 26, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 1,
-          "name": "Blockchain"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        }
-      ],
-      "prize_amount": "₹ <span data-currency-value>4,000</span>",
-      "registrations_count": 9,
-      "featured": true,
-      "organization_name": "Pixel",
-      "winners_announced": false,
-      "submission_gallery_url": "https://beehacks.devpost.com/project-gallery",
-      "start_a_submission_url": "https://beehacks.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Participate Registered for Pixel 2023"
-    },
-    {
-      "id": 17429,
-      "title": "Blue Collar To The Blockchain: Power Hour For The Tech Curious Miami 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Florida Memorial University "
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/367/821/datas/medium_square.png",
-      "analytics_identifier": "Blue Collar To The Blockchain: Power Hour For The Tech Curious Miami 2023 (17429)",
-      "url": "https://bc2bcmiami2023.devpost.com/",
-      "time_left_to_submission": "about 23 hours left",
-      "submission_period_dates": "Mar 25 - 26, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 17,
-          "name": "Low/No Code"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>2,000</span>",
-      "registrations_count": 3,
-      "featured": true,
-      "organization_name": "Blue Collar To The Blockchain ",
-      "winners_announced": false,
-      "submission_gallery_url": "https://bc2bcmiami2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://bc2bcmiami2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 17405,
@@ -159,7 +118,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/366/562/datas/medium_square.png",
       "analytics_identifier": " Hot Brains 2023 (17405)",
       "url": "https://skacas-hot-brains-2023.devpost.com/",
-      "time_left_to_submission": "7 days left",
+      "time_left_to_submission": "6 days left",
       "submission_period_dates": "Feb 22 - Apr 01, 2023",
       "themes": [
         {
@@ -176,7 +135,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 80,
+      "registrations_count": 82,
       "featured": false,
       "organization_name": "Facebook",
       "winners_announced": false,
@@ -186,109 +145,39 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 17840,
-      "title": "Cybersprint",
+      "id": 17941,
+      "title": "Hack7Days TIxGTBIT",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "IIT Roorkee"
+        "location": "GTBIT New Delhi"
       },
       "open_state": "open",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "Cybersprint (17840)",
-      "url": "https://cybersprint.devpost.com/",
-      "time_left_to_submission": "about 20 hours left",
-      "submission_period_dates": "Mar 24 - 26, 2023",
-      "themes": [
-        {
-          "id": 2,
-          "name": "DevOps"
-        },
-        {
-          "id": 3,
-          "name": "Fintech"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "₹ <span data-currency-value>170,000</span>",
-      "registrations_count": 64,
-      "featured": false,
-      "organization_name": "Cognizance",
-      "winners_announced": false,
-      "submission_gallery_url": "https://cybersprint.devpost.com/project-gallery",
-      "start_a_submission_url": "https://cybersprint.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 17937,
-      "title": "HackaBull 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "USF - Engineering II"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/426/668/datas/medium_square.png",
-      "analytics_identifier": "HackaBull 2023 (17937)",
-      "url": "https://hackabull-2023.devpost.com/",
-      "time_left_to_submission": "about 24 hours left",
-      "submission_period_dates": "Mar 25 - 26, 2023",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/426/931/datas/medium_square.jpg",
+      "analytics_identifier": "Hack7Days TIxGTBIT (17941)",
+      "url": "https://hack7days-tixgtbit.devpost.com/",
+      "time_left_to_submission": "2 days left",
+      "submission_period_dates": "Mar 25 - 28, 2023",
       "themes": [
         {
           "id": 23,
           "name": "Beginner Friendly"
         },
         {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>5,640</span>",
-      "registrations_count": 56,
-      "featured": false,
-      "organization_name": "University of South Florida",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackabull-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackabull-2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 17858,
-      "title": "PharmaHacks 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "MILA - Quebec AI Institute"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/423/167/datas/medium_square.png",
-      "analytics_identifier": "PharmaHacks 2023 (17858)",
-      "url": "https://pharmahacks-2023.devpost.com/",
-      "time_left_to_submission": "about 23 hours left",
-      "submission_period_dates": "Mar 25 - 26, 2023",
-      "themes": [
-        {
-          "id": 19,
-          "name": "Education"
+          "id": 1,
+          "name": "Blockchain"
         },
         {
-          "id": 16,
-          "name": "Health"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
+          "id": 25,
+          "name": "Web"
         }
       ],
-      "prize_amount": "$CAD<span data-currency-value>7,200</span>",
-      "registrations_count": 47,
+      "prize_amount": "₹ <span data-currency-value>25,000</span>",
+      "registrations_count": 41,
       "featured": false,
-      "organization_name": "PharmaHacks",
+      "organization_name": "Tezos India",
       "winners_announced": false,
-      "submission_gallery_url": "https://pharmahacks-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://pharmahacks-2023.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://hack7days-tixgtbit.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hack7days-tixgtbit.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -320,12 +209,49 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,800</span>",
-      "registrations_count": 31,
+      "registrations_count": 32,
       "featured": false,
       "organization_name": "Pan-African Associates ",
       "winners_announced": false,
       "submission_gallery_url": "https://mboa-code.devpost.com/project-gallery",
       "start_a_submission_url": "https://mboa-code.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 17948,
+      "title": "AI For Good",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Shack15"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/428/604/datas/medium_square.jpeg",
+      "analytics_identifier": "AI For Good (17948)",
+      "url": "https://aiforgood.devpost.com/",
+      "time_left_to_submission": "about 1 hour left",
+      "submission_period_dates": "Mar 26, 2023",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>41,000</span>",
+      "registrations_count": 28,
+      "featured": false,
+      "organization_name": "Internet Activism and Cerebral Valley",
+      "winners_announced": false,
+      "submission_gallery_url": "https://aiforgood.devpost.com/project-gallery",
+      "start_a_submission_url": "https://aiforgood.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -340,7 +266,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/394/440/datas/medium_square.png",
       "analytics_identifier": "1st OMIS Department Data Visualization Competition (17591)",
       "url": "https://1st-omis-data-viz-competition.devpost.com/",
-      "time_left_to_submission": "20 days left",
+      "time_left_to_submission": "19 days left",
       "submission_period_dates": "Mar 20 - Apr 15, 2023",
       "themes": [
         {
@@ -367,17 +293,17 @@
       "eligibility_requirement_invite_only_description": "NIU College of Business students only"
     },
     {
-      "id": 17217,
-      "title": "HACKENOSIA",
+      "id": 17933,
+      "title": "Super Smash Code",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Bairangpur Urf Naibasti, India"
+        "location": "Richard Weeks Hall of Engineering"
       },
       "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/355/944/datas/medium_square.png",
-      "analytics_identifier": "HACKENOSIA (17217)",
-      "url": "https://hackenosia.devpost.com/",
-      "time_left_to_submission": "about 13 hours left",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "Super Smash Code (17933)",
+      "url": "https://super-smash-code.devpost.com/",
+      "time_left_to_submission": "36 minutes left",
       "submission_period_dates": "Mar 25 - 26, 2023",
       "themes": [
         {
@@ -385,69 +311,36 @@
           "name": "Beginner Friendly"
         },
         {
-          "id": 25,
-          "name": "Web"
-        },
-        {
-          "id": 26,
-          "name": "Mobile"
-        }
-      ],
-      "prize_amount": "₹ <span data-currency-value>45,000</span>",
-      "registrations_count": 23,
-      "featured": false,
-      "organization_name": "DeVerse Club, VGI",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackenosia.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackenosia.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 17515,
-      "title": "EWB CEDR Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Bahen, Room 2175"
-      },
-      "open_state": "open",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "EWB CEDR Hackathon (17515)",
-      "url": "https://ewb-cedr-hackathon.devpost.com/",
-      "time_left_to_submission": "about 4 hours left",
-      "submission_period_dates": "Mar 25, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
+          "id": 22,
+          "name": "Open Ended"
         },
         {
           "id": 13,
           "name": "Social Good"
         }
       ],
-      "prize_amount": "$<span data-currency-value>1,472</span>",
+      "prize_amount": "$<span data-currency-value>0</span>",
       "registrations_count": 18,
       "featured": false,
-      "organization_name": "University of Toronto",
+      "organization_name": "Rutgers IEEE",
       "winners_announced": false,
-      "submission_gallery_url": "https://ewb-cedr-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://ewb-cedr-hackathon.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://super-smash-code.devpost.com/project-gallery",
+      "start_a_submission_url": "https://super-smash-code.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 17816,
-      "title": "Rowdyhacks 2023",
+      "id": 17930,
+      "title": "TrojanHacks Spring 2023",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "UTSA - School of Data Science Building"
+        "location": "ZHS159"
       },
       "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/426/833/datas/medium_square.png",
-      "analytics_identifier": "Rowdyhacks 2023 (17816)",
-      "url": "https://rowdyhacks2023.devpost.com/",
-      "time_left_to_submission": "about 24 hours left",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/426/340/datas/medium_square.png",
+      "analytics_identifier": "TrojanHacks Spring 2023 (17930)",
+      "url": "https://trojanhacks-spring-2023.devpost.com/",
+      "time_left_to_submission": "about 1 hour left",
       "submission_period_dates": "Mar 25 - 26, 2023",
       "themes": [
         {
@@ -459,299 +352,19 @@
           "name": "Open Ended"
         },
         {
-          "id": 9,
-          "name": "Cybersecurity"
+          "id": 13,
+          "name": "Social Good"
         }
       ],
-      "prize_amount": "$<span data-currency-value>5,578</span>",
-      "registrations_count": 17,
-      "featured": false,
-      "organization_name": "ACM UTSA",
-      "winners_announced": false,
-      "submission_gallery_url": "https://rowdyhacks2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://rowdyhacks2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 17792,
-      "title": "CalvinHacks 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Business Building Lobby"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/415/175/datas/medium_square.png",
-      "analytics_identifier": "CalvinHacks 2023 (17792)",
-      "url": "https://calvinhacks-2023.devpost.com/",
-      "time_left_to_submission": "about 3 hours left",
-      "submission_period_dates": "Mar 24 - 25, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>2,800</span>",
+      "prize_amount": "$<span data-currency-value>300</span>",
       "registrations_count": 11,
       "featured": false,
-      "organization_name": "CalvinHacks",
+      "organization_name": "USC Association for Computing Machinery",
       "winners_announced": false,
-      "submission_gallery_url": "https://calvinhacks-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://calvinhacks-2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 17941,
-      "title": "Hack7Days TIxGTBIT",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "GTBIT New Delhi"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/426/931/datas/medium_square.jpg",
-      "analytics_identifier": "Hack7Days TIxGTBIT (17941)",
-      "url": "https://hack7days-tixgtbit.devpost.com/",
-      "time_left_to_submission": "3 days left",
-      "submission_period_dates": "Mar 25 - 28, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 1,
-          "name": "Blockchain"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "₹ <span data-currency-value>25,000</span>",
-      "registrations_count": 6,
-      "featured": false,
-      "organization_name": "Tezos India",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hack7days-tixgtbit.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hack7days-tixgtbit.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 17670,
-      "title": "Uncommon Hacks 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Polsky Exchange North"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/403/011/datas/medium_square.png",
-      "analytics_identifier": "Uncommon Hacks 2023 (17670)",
-      "url": "https://uncommon-hacks-2023.devpost.com/",
-      "time_left_to_submission": "about 21 hours left",
-      "submission_period_dates": "Mar 25 - 26, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 15,
-          "name": "Music/Art"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 5,
-      "featured": false,
-      "organization_name": "Uncommon Hacks",
-      "winners_announced": false,
-      "submission_gallery_url": "https://uncommon-hacks-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://uncommon-hacks-2023.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://trojanhacks-spring-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://trojanhacks-spring-2023.devpost.com/challenges/start_a_submission",
       "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Students accepted through our registration process"
-    },
-    {
-      "id": 17944,
-      "title": "ABC Code Jam 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Gretchen Whitney High School"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/427/004/datas/medium_square.png",
-      "analytics_identifier": "ABC Code Jam 2023 (17944)",
-      "url": "https://abc-code-jam-2023.devpost.com/",
-      "time_left_to_submission": "about 8 hours left",
-      "submission_period_dates": "Mar 25, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 4,
-      "featured": false,
-      "organization_name": "Whitney High School",
-      "winners_announced": false,
-      "submission_gallery_url": "https://abc-code-jam-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://abc-code-jam-2023.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "ABC Code Jam Participants [In-person]"
-    },
-    {
-      "id": 17871,
-      "title": "2023 WHS GWC Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Washington High School"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/421/777/datas/medium_square.png",
-      "analytics_identifier": "2023 WHS GWC Hackathon (17871)",
-      "url": "https://2023-whs-gwc-hackathon.devpost.com/",
-      "time_left_to_submission": "1 day left",
-      "submission_period_dates": "Mar 24 - 26, 2023",
-      "themes": [
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>50</span>",
-      "registrations_count": 4,
-      "featured": false,
-      "organization_name": "Washington High School",
-      "winners_announced": false,
-      "submission_gallery_url": "https://2023-whs-gwc-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://2023-whs-gwc-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 17934,
-      "title": "Lynbrook MLHacks 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "San Jose, CA, USA"
-      },
-      "open_state": "open",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "Lynbrook MLHacks 2023 (17934)",
-      "url": "https://lynbrook-mlhacks-2023.devpost.com/",
-      "time_left_to_submission": "8 days left",
-      "submission_period_dates": "Mar 24 - Apr 02, 2023",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>50</span>",
-      "registrations_count": 4,
-      "featured": false,
-      "organization_name": "Lynbrook ",
-      "winners_announced": false,
-      "submission_gallery_url": "https://lynbrook-mlhacks-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://lynbrook-mlhacks-2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 17865,
-      "title": "Steel Hacks 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Pittsburgh, PA, USA"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/421/091/datas/medium_square.png",
-      "analytics_identifier": "Steel Hacks 2023 (17865)",
-      "url": "https://steelhacks2k23.devpost.com/",
-      "time_left_to_submission": "about 4 hours left",
-      "submission_period_dates": "Mar 25, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>600</span>",
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "University of Pittsburgh",
-      "winners_announced": false,
-      "submission_gallery_url": "https://steelhacks2k23.devpost.com/project-gallery",
-      "start_a_submission_url": "https://steelhacks2k23.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 17870,
-      "title": "hackStoga 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Conestoga High School — Atrium"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/421/677/datas/medium_square.png",
-      "analytics_identifier": "hackStoga 2023 (17870)",
-      "url": "https://hackstoga.devpost.com/",
-      "time_left_to_submission": "about 4 hours left",
-      "submission_period_dates": "Mar 25, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>500</span>",
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "Conestoga Computer Science Club",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackstoga.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackstoga.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
+      "eligibility_requirement_invite_only_description": "USC Students only"
     },
     {
       "id": 17917,
@@ -764,7 +377,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/425/978/datas/medium_square.png",
       "analytics_identifier": "Blueprint 2023: Disasters + Resilience (17917)",
       "url": "https://bp23-disasters-resilience.devpost.com/",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 4 hours left",
       "submission_period_dates": "Mar 25 - 26, 2023",
       "themes": [
         {
@@ -781,7 +394,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>3,000</span>",
-      "registrations_count": 3,
+      "registrations_count": 9,
       "featured": false,
       "organization_name": "Duke Conservation Tech",
       "winners_announced": false,
@@ -791,76 +404,101 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 17866,
-      "title": "Social Impact BuildFest: 2023",
+      "id": 17814,
+      "title": "king saud university hackathon ",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "University of Texas at Austin, The Lab"
+        "location": "Riyadh, Saudi Arabia"
       },
       "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/421/087/datas/medium_square.png",
-      "analytics_identifier": "Social Impact BuildFest: 2023 (17866)",
-      "url": "https://social-impact-buildfest-2023.devpost.com/",
-      "time_left_to_submission": "about 22 hours left",
-      "submission_period_dates": "Mar 24 - 26, 2023",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "king saud university hackathon  (17814)",
+      "url": "https://king-saud-university-hackathon.devpost.com/",
+      "time_left_to_submission": "2 days left",
+      "submission_period_dates": "Mar 26 - 28, 2023",
       "themes": [
         {
-          "id": 5,
-          "name": "AR/VR"
+          "id": 9,
+          "name": "Cybersecurity"
         },
         {
-          "id": 19,
-          "name": "Education"
+          "id": 3,
+          "name": "Fintech"
         },
         {
-          "id": 13,
-          "name": "Social Good"
+          "id": 16,
+          "name": "Health"
         }
       ],
-      "prize_amount": "$<span data-currency-value>2,950</span>",
-      "registrations_count": 2,
+      "prize_amount": "$<span data-currency-value>50,000</span>",
+      "registrations_count": 9,
       "featured": false,
-      "organization_name": "Texas Immersive Institute",
+      "organization_name": "king saud university",
       "winners_announced": false,
-      "submission_gallery_url": "https://social-impact-buildfest-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://social-impact-buildfest-2023.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://king-saud-university-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://king-saud-university-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 17933,
-      "title": "Super Smash Code",
+      "id": 17934,
+      "title": "Lynbrook MLHacks 2023",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Richard Weeks Hall of Engineering"
+        "location": "San Jose, CA, USA"
       },
       "open_state": "open",
       "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "Super Smash Code (17933)",
-      "url": "https://super-smash-code.devpost.com/",
-      "time_left_to_submission": "about 24 hours left",
-      "submission_period_dates": "Mar 25 - 26, 2023",
+      "analytics_identifier": "Lynbrook MLHacks 2023 (17934)",
+      "url": "https://lynbrook-mlhacks-2023.devpost.com/",
+      "time_left_to_submission": "7 days left",
+      "submission_period_dates": "Mar 24 - Apr 02, 2023",
       "themes": [
         {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>50</span>",
+      "registrations_count": 9,
+      "featured": false,
+      "organization_name": "Lynbrook ",
+      "winners_announced": false,
+      "submission_gallery_url": "https://lynbrook-mlhacks-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://lynbrook-mlhacks-2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 17871,
+      "title": "2023 WHS GWC Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Washington High School"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/421/777/datas/medium_square.png",
+      "analytics_identifier": "2023 WHS GWC Hackathon (17871)",
+      "url": "https://2023-whs-gwc-hackathon.devpost.com/",
+      "time_left_to_submission": "about 4 hours left",
+      "submission_period_dates": "Mar 24 - 26, 2023",
+      "themes": [
         {
           "id": 22,
           "name": "Open Ended"
         },
         {
-          "id": 13,
-          "name": "Social Good"
+          "id": 6,
+          "name": "Machine Learning/AI"
         }
       ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 2,
+      "prize_amount": "$<span data-currency-value>50</span>",
+      "registrations_count": 7,
       "featured": false,
-      "organization_name": "Rutgers IEEE",
+      "organization_name": "Washington High School",
       "winners_announced": false,
-      "submission_gallery_url": "https://super-smash-code.devpost.com/project-gallery",
-      "start_a_submission_url": "https://super-smash-code.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://2023-whs-gwc-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://2023-whs-gwc-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -884,7 +522,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 2,
+      "registrations_count": 4,
       "featured": false,
       "organization_name": "university of pennsylvania",
       "winners_announced": false,
@@ -892,43 +530,6 @@
       "start_a_submission_url": "https://ese1900s23.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 17953,
-      "title": "24-hr Solution Challenge Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Innovation Place, Regina, SK"
-      },
-      "open_state": "open",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "24-hr Solution Challenge Hackathon (17953)",
-      "url": "https://solution-challenge-hackathon.devpost.com/",
-      "time_left_to_submission": "about 5 hours left",
-      "submission_period_dates": "Mar 25, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$CAD<span data-currency-value>1,000</span>",
-      "registrations_count": 1,
-      "featured": false,
-      "organization_name": "URGDSC and HackRegina",
-      "winners_announced": false,
-      "submission_gallery_url": "https://solution-challenge-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://solution-challenge-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Regina locals and students"
     },
     {
       "id": 16680,
@@ -958,49 +559,12 @@
         }
       ],
       "prize_amount": "₹ <span data-currency-value>75,000</span>",
-      "registrations_count": 1394,
+      "registrations_count": 1401,
       "featured": false,
       "organization_name": "Hack The League",
       "winners_announced": false,
       "submission_gallery_url": "https://hack-the-league-chapter-2.devpost.com/project-gallery",
       "start_a_submission_url": "https://hack-the-league-chapter-2.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 15141,
-      "title": "IATA ONE Record Hackathon – hosted by Lufthansa Cargo",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Lufthansa Seeheim"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/001/879/010/datas/medium_square.png",
-      "analytics_identifier": "IATA ONE Record Hackathon – hosted by Lufthansa Cargo (15141)",
-      "url": "https://onerecord-fra.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 23 - 25, 2023",
-      "themes": [
-        {
-          "id": 20,
-          "name": "E-commerce/Retail"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>15,000</span>",
-      "registrations_count": 101,
-      "featured": false,
-      "organization_name": "iata",
-      "winners_announced": false,
-      "submission_gallery_url": "https://onerecord-fra.devpost.com/project-gallery",
-      "start_a_submission_url": "https://onerecord-fra.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -1032,12 +596,49 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>2,000</span>",
-      "registrations_count": 99,
+      "registrations_count": 108,
       "featured": false,
       "organization_name": "Xircus WEB3 Protocol",
       "winners_announced": false,
       "submission_gallery_url": "https://xircus-apr-hackathon-manila.devpost.com/project-gallery",
       "start_a_submission_url": "https://xircus-apr-hackathon-manila.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 15141,
+      "title": "IATA ONE Record Hackathon – hosted by Lufthansa Cargo",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Lufthansa Seeheim"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/001/879/010/datas/medium_square.png",
+      "analytics_identifier": "IATA ONE Record Hackathon – hosted by Lufthansa Cargo (15141)",
+      "url": "https://onerecord-fra.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jun 23 - 25, 2023",
+      "themes": [
+        {
+          "id": 20,
+          "name": "E-commerce/Retail"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>15,000</span>",
+      "registrations_count": 102,
+      "featured": false,
+      "organization_name": "iata",
+      "winners_announced": false,
+      "submission_gallery_url": "https://onerecord-fra.devpost.com/project-gallery",
+      "start_a_submission_url": "https://onerecord-fra.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -1069,7 +670,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>7,000</span>",
-      "registrations_count": 73,
+      "registrations_count": 74,
       "featured": false,
       "organization_name": "Lincoln Financial Group",
       "winners_announced": false,
@@ -1106,7 +707,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>5,000</span>",
-      "registrations_count": 60,
+      "registrations_count": 64,
       "featured": false,
       "organization_name": "Spheron ",
       "winners_announced": false,
@@ -1180,7 +781,7 @@
         }
       ],
       "prize_amount": "$CAD<span data-currency-value>10,500</span>",
-      "registrations_count": 47,
+      "registrations_count": 48,
       "featured": false,
       "organization_name": "Hack Your Learning X Schulich",
       "winners_announced": false,
@@ -1213,49 +814,12 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 43,
+      "registrations_count": 45,
       "featured": false,
       "organization_name": "university of virginia",
       "winners_announced": false,
       "submission_gallery_url": "https://ecohacksrrr.devpost.com/project-gallery",
       "start_a_submission_url": "https://ecohacksrrr.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 17346,
-      "title": "Hack Cupertino 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Quinlan Community Center"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/366/866/datas/medium_square.png",
-      "analytics_identifier": "Hack Cupertino 2023 (17346)",
-      "url": "https://hackcupertino2023.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 15 - 16, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>294</span>",
-      "registrations_count": 37,
-      "featured": false,
-      "organization_name": "City of Cupertino",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackcupertino2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackcupertino2023.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -1287,12 +851,49 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>3,900</span>",
-      "registrations_count": 35,
+      "registrations_count": 42,
       "featured": false,
       "organization_name": "Princeton University",
       "winners_announced": false,
       "submission_gallery_url": "https://hackprinceton-spring-2023.devpost.com/project-gallery",
       "start_a_submission_url": "https://hackprinceton-spring-2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 17346,
+      "title": "Hack Cupertino 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Quinlan Community Center"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/366/866/datas/medium_square.png",
+      "analytics_identifier": "Hack Cupertino 2023 (17346)",
+      "url": "https://hackcupertino2023.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 15 - 16, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>294</span>",
+      "registrations_count": 39,
+      "featured": false,
+      "organization_name": "City of Cupertino",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackcupertino2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackcupertino2023.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -1324,7 +925,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 33,
+      "registrations_count": 35,
       "featured": false,
       "organization_name": "Echo Nest",
       "winners_announced": false,
@@ -1398,7 +999,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>400</span>",
-      "registrations_count": 25,
+      "registrations_count": 26,
       "featured": false,
       "organization_name": "North Carolina State University",
       "winners_announced": false,
@@ -1435,7 +1036,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>2,400</span>",
-      "registrations_count": 21,
+      "registrations_count": 22,
       "featured": false,
       "organization_name": "Hack Slovakia",
       "winners_announced": false,
@@ -1443,10 +1044,401 @@
       "start_a_submission_url": "https://hack-kosice.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 17198,
+      "title": "HackBackBetter 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Hacker Dojo"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/349/431/datas/medium_square.png",
+      "analytics_identifier": "HackBackBetter 2023 (17198)",
+      "url": "https://hackbackbetter.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 22 - 23, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 14,
+          "name": "COVID-19"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>19,000</span>",
+      "registrations_count": 16,
+      "featured": false,
+      "organization_name": "HackBackBetter",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackbackbetter.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackbackbetter.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Please register at https://hackbackbetter.live."
+    },
+    {
+      "id": 17610,
+      "title": "Hacklahoma 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Devon Energy Hall"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/395/400/datas/medium_square.png",
+      "analytics_identifier": "Hacklahoma 2023 (17610)",
+      "url": "https://hacklahoma-2023.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 01 - 02, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>5,180</span>",
+      "registrations_count": 15,
+      "featured": false,
+      "organization_name": "Major Leage Hacking",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hacklahoma-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hacklahoma-2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 17312,
+      "title": "BlossomHack",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Ohio University - Irvine Hall"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/356/796/datas/medium_square.png",
+      "analytics_identifier": "BlossomHack (17312)",
+      "url": "https://blossom-hack.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 01 - 02, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>4,700</span>",
+      "registrations_count": 13,
+      "featured": false,
+      "organization_name": "BlossomHacks",
+      "winners_announced": false,
+      "submission_gallery_url": "https://blossom-hack.devpost.com/project-gallery",
+      "start_a_submission_url": "https://blossom-hack.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 17278,
+      "title": "Ecohacks: Reduce, Reuse, Rehack",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Rice Hall and Davis Commons"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/398/271/datas/medium_square.png",
+      "analytics_identifier": "Ecohacks: Reduce, Reuse, Rehack (17278)",
+      "url": "https://ecohacks-reduce-reuse-rehack.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 15, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 12,
+          "name": "Lifehacks"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 11,
+      "featured": false,
+      "organization_name": "university of virginia",
+      "winners_announced": false,
+      "submission_gallery_url": "https://ecohacks-reduce-reuse-rehack.devpost.com/project-gallery",
+      "start_a_submission_url": "https://ecohacks-reduce-reuse-rehack.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 17224,
+      "title": "HackHPI 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "HPI E-School"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/348/602/datas/medium_square.png",
+      "analytics_identifier": "HackHPI 2023 (17224)",
+      "url": "https://hackhpi-2023.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 13 - 14, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 10,
+      "featured": false,
+      "organization_name": "Hasso-Plattner-Institut",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackhpi-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackhpi-2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 17694,
+      "title": "HSHacks: Spring 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "John Hersey High School"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/404/192/datas/medium_square.png",
+      "analytics_identifier": "HSHacks: Spring 2023 (17694)",
+      "url": "https://hshacks-spring2023.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 15, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>25,400</span>",
+      "registrations_count": 10,
+      "featured": false,
+      "organization_name": "John Hersey Hack Club",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hshacks-spring2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hshacks-spring2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 17635,
+      "title": "Beantown Bash",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Tufts Joyce Cummings Center"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/396/589/datas/medium_square.png",
+      "analytics_identifier": "Beantown Bash (17635)",
+      "url": "https://beantown-bash.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 01, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 18,
+          "name": "Design"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>420</span>",
+      "registrations_count": 9,
+      "featured": false,
+      "organization_name": "Hack Club",
+      "winners_announced": false,
+      "submission_gallery_url": "https://beantown-bash.devpost.com/project-gallery",
+      "start_a_submission_url": "https://beantown-bash.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 17255,
+      "title": "PickHacks 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Gale Bullman Multi-Purpose Building"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/356/339/datas/medium_square.png",
+      "analytics_identifier": "PickHacks 2023 (17255)",
+      "url": "https://pickhacks-2023.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 14 - 16, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 16,
+          "name": "Health"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>6,729</span>",
+      "registrations_count": 7,
+      "featured": false,
+      "organization_name": "Missouri S&T",
+      "winners_announced": false,
+      "submission_gallery_url": "https://pickhacks-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://pickhacks-2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 17703,
+      "title": "WilHacks 4.0",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Wilcox High School Cafeteria"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/404/602/datas/medium_square.png",
+      "analytics_identifier": "WilHacks 4.0 (17703)",
+      "url": "https://wilhacks-4-0.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Mar 31 - Apr 01, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1,425</span>",
+      "registrations_count": 6,
+      "featured": false,
+      "organization_name": "Wilcox High School's Programming Club",
+      "winners_announced": false,
+      "submission_gallery_url": "https://wilhacks-4-0.devpost.com/project-gallery",
+      "start_a_submission_url": "https://wilhacks-4-0.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 17841,
+      "title": "Axxess Hackathon 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "University of Texas at Dallas"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/421/071/datas/medium_square.png",
+      "analytics_identifier": "Axxess Hackathon 2023 (17841)",
+      "url": "https://axxess-hackathon-2023.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 01 - 02, 2023",
+      "themes": [
+        {
+          "id": 16,
+          "name": "Health"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>5,500</span>",
+      "registrations_count": 5,
+      "featured": false,
+      "organization_name": "Axxess",
+      "winners_announced": false,
+      "submission_gallery_url": "https://axxess-hackathon-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://axxess-hackathon-2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 17829,
+      "title": "ACM Hacks 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "UC Santa Cruz"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/419/470/datas/medium_square.png",
+      "analytics_identifier": "ACM Hacks 2023 (17829)",
+      "url": "https://acm-hacks-2023.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 15 - 16, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>100</span>",
+      "registrations_count": 5,
+      "featured": false,
+      "organization_name": "University of California",
+      "winners_announced": false,
+      "submission_gallery_url": "https://acm-hacks-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://acm-hacks-2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     }
   ],
   "meta": {
-    "total_count": 72,
+    "total_count": 61,
     "per_page": 40,
     "fuzzy": false
   }
