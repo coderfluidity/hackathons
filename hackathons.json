@@ -11,7 +11,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/420/461/datas/medium_square.png",
       "analytics_identifier": "dAppAthon  (17768)",
       "url": "https://dapp-a-thon.devpost.com/",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "about 22 hours left",
       "submission_period_dates": "Apr 22 - May 07, 2023",
       "themes": [
         {
@@ -28,12 +28,49 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>18,800</span>",
-      "registrations_count": 2766,
+      "registrations_count": 2787,
       "featured": false,
       "organization_name": "Spheron ",
       "winners_announced": false,
       "submission_gallery_url": "https://dapp-a-thon.devpost.com/project-gallery",
       "start_a_submission_url": "https://dapp-a-thon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18081,
+      "title": "UWB ACM Hacks In Person",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "UW Bothell - The ARC"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/448/224/datas/medium_square.png",
+      "analytics_identifier": "UWB ACM Hacks In Person (18081)",
+      "url": "https://uwb-acm-hacks-in-person.devpost.com/",
+      "time_left_to_submission": "1 day left",
+      "submission_period_dates": "May 05 - 07, 2023",
+      "themes": [
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 15,
+          "name": "Music/Art"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>2,000</span>",
+      "registrations_count": 164,
+      "featured": true,
+      "organization_name": "UWB ACM",
+      "winners_announced": false,
+      "submission_gallery_url": "https://uwb-acm-hacks-in-person.devpost.com/project-gallery",
+      "start_a_submission_url": "https://uwb-acm-hacks-in-person.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -48,7 +85,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/419/495/datas/medium_square.jpg",
       "analytics_identifier": "DeerHack 2023 (17822)",
       "url": "https://deerhack2023.devpost.com/",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 6 hours left",
       "submission_period_dates": "May 05 - 06, 2023",
       "themes": [
         {
@@ -65,12 +102,86 @@
         }
       ],
       "prize_amount": "₹ <span data-currency-value>110,000</span>",
-      "registrations_count": 21,
+      "registrations_count": 25,
       "featured": true,
       "organization_name": "DWIT Software Club",
       "winners_announced": false,
       "submission_gallery_url": "https://deerhack2023.devpost.com/project-gallery",
       "start_a_submission_url": "https://deerhack2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 17623,
+      "title": "Hack OC",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Anduril HQ"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/396/160/datas/medium_square.png",
+      "analytics_identifier": "Hack OC (17623)",
+      "url": "https://hack-oc.devpost.com/",
+      "time_left_to_submission": "about 10 hours left",
+      "submission_period_dates": "May 06, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>19,950</span>",
+      "registrations_count": 24,
+      "featured": true,
+      "organization_name": "Anduril Industries",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hack-oc.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hack-oc.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18083,
+      "title": "MetHacks 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Ted Rogers School of Management"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/468/649/datas/medium_square.png",
+      "analytics_identifier": "MetHacks 2023 (18083)",
+      "url": "https://methacks-2023.devpost.com/",
+      "time_left_to_submission": "about 20 hours left",
+      "submission_period_dates": "May 05 - 07, 2023",
+      "themes": [
+        {
+          "id": 3,
+          "name": "Fintech"
+        },
+        {
+          "id": 16,
+          "name": "Health"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$CAD<span data-currency-value>28,760</span>",
+      "registrations_count": 123,
+      "featured": false,
+      "organization_name": "MLH",
+      "winners_announced": false,
+      "submission_gallery_url": "https://methacks-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://methacks-2023.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -85,7 +196,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/385/307/datas/medium_square.png",
       "analytics_identifier": "MBOA CODE (17554)",
       "url": "https://mboa-code.devpost.com/",
-      "time_left_to_submission": "24 days left",
+      "time_left_to_submission": "23 days left",
       "submission_period_dates": "Feb 17 - May 29, 2023",
       "themes": [
         {
@@ -112,6 +223,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 17453,
+      "title": "MasseyHacks IX",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Vincent Massey Secondary School"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/376/685/datas/medium_square.png",
+      "analytics_identifier": "MasseyHacks IX (17453)",
+      "url": "https://masseyhacks9.devpost.com/",
+      "time_left_to_submission": "about 22 hours left",
+      "submission_period_dates": "May 06 - 07, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$CAD<span data-currency-value>42,960</span>",
+      "registrations_count": 42,
+      "featured": false,
+      "organization_name": "MasseyHacks",
+      "winners_announced": false,
+      "submission_gallery_url": "https://masseyhacks9.devpost.com/project-gallery",
+      "start_a_submission_url": "https://masseyhacks9.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 18079,
       "title": "Finathon",
       "displayed_location": {
@@ -122,7 +270,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/448/373/datas/medium_square.png",
       "analytics_identifier": "Finathon (18079)",
       "url": "https://finathon.devpost.com/",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 16 hours left",
       "submission_period_dates": "Apr 10 - May 07, 2023",
       "themes": [
         {
@@ -149,35 +297,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18109,
-      "title": "HackMIT",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Cambridge, MA, USA"
-      },
-      "open_state": "open",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "HackMIT (18109)",
-      "url": "https://hackmit-2023.devpost.com/",
-      "time_left_to_submission": "5 months left",
-      "submission_period_dates": "Apr 19 - Sep 17, 2023",
-      "themes": [
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>20</span>",
-      "registrations_count": 16,
-      "featured": false,
-      "organization_name": "HackMIT",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackmit-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackmit-2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 17508,
       "title": "UNIR HACK",
       "displayed_location": {
@@ -188,7 +307,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/463/432/datas/medium_square.jpg",
       "analytics_identifier": "UNIR HACK (17508)",
       "url": "https://unir-hack.devpost.com/",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 14 hours left",
       "submission_period_dates": "Apr 25 - May 07, 2023",
       "themes": [
         {
@@ -197,7 +316,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,000</span>",
-      "registrations_count": 15,
+      "registrations_count": 25,
       "featured": false,
       "organization_name": "IBM Watson",
       "winners_announced": false,
@@ -205,35 +324,6 @@
       "start_a_submission_url": "https://unir-hack.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Estudiantes de UNIR, 42 Madrid y otros interesados"
-    },
-    {
-      "id": 18094,
-      "title": "J On The Beach Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Palacio de Ferias y Congresos"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/449/146/datas/medium_square.jpg",
-      "analytics_identifier": "J On The Beach Hackathon (18094)",
-      "url": "https://intersystems-hackathon.devpost.com/",
-      "time_left_to_submission": "2 days left",
-      "submission_period_dates": "Apr 11 - May 07, 2023",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "€<span data-currency-value>1,150</span>",
-      "registrations_count": 15,
-      "featured": false,
-      "organization_name": "J On The Beach",
-      "winners_announced": false,
-      "submission_gallery_url": "https://intersystems-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://intersystems-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 18089,
@@ -246,7 +336,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/458/728/datas/medium_square.png",
       "analytics_identifier": "LaGuardia CC Hackathon 2023 (18089)",
       "url": "https://laguardia-cc-hackathon-2023.devpost.com/",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "1 day left",
       "submission_period_dates": "May 05 - 07, 2023",
       "themes": [
         {
@@ -263,7 +353,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 9,
+      "registrations_count": 23,
       "featured": false,
       "organization_name": "RHEC at LAGCC",
       "winners_announced": false,
@@ -273,64 +363,60 @@
       "eligibility_requirement_invite_only_description": "Current LaGuardia Tech student or recent graduate"
     },
     {
-      "id": 18157,
-      "title": "ESE5160 Spring 2023",
+      "id": 18109,
+      "title": "HackMIT",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Philadelphia, PA, USA"
+        "location": "Cambridge, MA, USA"
       },
       "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/458/207/datas/medium_square.png",
-      "analytics_identifier": "ESE5160 Spring 2023 (18157)",
-      "url": "https://ese5160-spring-2023.devpost.com/",
-      "time_left_to_submission": "4 days left",
-      "submission_period_dates": "Apr 18 - May 10, 2023",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "HackMIT (18109)",
+      "url": "https://hackmit-2023.devpost.com/",
+      "time_left_to_submission": "4 months left",
+      "submission_period_dates": "Apr 19 - Sep 17, 2023",
       "themes": [
         {
-          "id": 7,
-          "name": "IoT"
+          "id": 25,
+          "name": "Web"
         }
       ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 9,
+      "prize_amount": "$<span data-currency-value>20</span>",
+      "registrations_count": 18,
       "featured": false,
-      "organization_name": "Upenn",
+      "organization_name": "HackMIT",
       "winners_announced": false,
-      "submission_gallery_url": "https://ese5160-spring-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://ese5160-spring-2023.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "UPenn students only"
+      "submission_gallery_url": "https://hackmit-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackmit-2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18041,
-      "title": "TechTogether Miami 2023",
+      "id": 18094,
+      "title": "J On The Beach Hackathon",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Miami Dade College - The BIT Center"
+        "location": "Palacio de Ferias y Congresos"
       },
       "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/448/975/datas/medium_square.png",
-      "analytics_identifier": "TechTogether Miami 2023 (18041)",
-      "url": "https://techtogether-miami-2023.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/449/146/datas/medium_square.jpg",
+      "analytics_identifier": "J On The Beach Hackathon (18094)",
+      "url": "https://intersystems-hackathon.devpost.com/",
       "time_left_to_submission": "about 22 hours left",
-      "submission_period_dates": "May 05 - 06, 2023",
+      "submission_period_dates": "Apr 11 - May 07, 2023",
       "themes": [
         {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
+          "id": 6,
+          "name": "Machine Learning/AI"
         }
       ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 8,
+      "prize_amount": "€<span data-currency-value>1,150</span>",
+      "registrations_count": 17,
       "featured": false,
-      "organization_name": "TechTogether",
+      "organization_name": "J On The Beach",
       "winners_announced": false,
-      "submission_gallery_url": "https://techtogether-miami-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://techtogether-miami-2023.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://intersystems-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://intersystems-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -345,7 +431,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/423/829/datas/medium_square.png",
       "analytics_identifier": "Melbourne Hack 2023 (17891)",
       "url": "https://melbourne-hack-2023.devpost.com/",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 10 hours left",
       "submission_period_dates": "May 05 - 06, 2023",
       "themes": [
         {
@@ -362,7 +448,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,800</span>",
-      "registrations_count": 8,
+      "registrations_count": 13,
       "featured": false,
       "organization_name": "HackMelbourne",
       "winners_announced": false,
@@ -372,41 +458,33 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18083,
-      "title": "MetHacks 2023",
+      "id": 18157,
+      "title": "ESE5160 Spring 2023",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Ted Rogers School of Management"
+        "location": "Philadelphia, PA, USA"
       },
       "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/468/649/datas/medium_square.png",
-      "analytics_identifier": "MetHacks 2023 (18083)",
-      "url": "https://methacks-2023.devpost.com/",
-      "time_left_to_submission": "2 days left",
-      "submission_period_dates": "May 05 - 07, 2023",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/458/207/datas/medium_square.png",
+      "analytics_identifier": "ESE5160 Spring 2023 (18157)",
+      "url": "https://ese5160-spring-2023.devpost.com/",
+      "time_left_to_submission": "3 days left",
+      "submission_period_dates": "Apr 18 - May 10, 2023",
       "themes": [
         {
-          "id": 3,
-          "name": "Fintech"
-        },
-        {
-          "id": 16,
-          "name": "Health"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
+          "id": 7,
+          "name": "IoT"
         }
       ],
-      "prize_amount": "$CAD<span data-currency-value>28,760</span>",
-      "registrations_count": 6,
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 13,
       "featured": false,
-      "organization_name": "MLH",
+      "organization_name": "Upenn",
       "winners_announced": false,
-      "submission_gallery_url": "https://methacks-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://methacks-2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
+      "submission_gallery_url": "https://ese5160-spring-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://ese5160-spring-2023.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "UPenn students only"
     },
     {
       "id": 18139,
@@ -419,7 +497,7 @@
       "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
       "analytics_identifier": "Challenge One (18139)",
       "url": "https://datathon-challenge-one.devpost.com/",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 17 hours left",
       "submission_period_dates": "May 05 - 07, 2023",
       "themes": [
         {
@@ -428,7 +506,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>2,500</span>",
-      "registrations_count": 5,
+      "registrations_count": 6,
       "featured": false,
       "organization_name": "Analytics Club at ETH",
       "winners_announced": false,
@@ -448,7 +526,7 @@
       "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
       "analytics_identifier": "Challenge Three (18141)",
       "url": "https://datathon-challenge-three.devpost.com/",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 17 hours left",
       "submission_period_dates": "May 05 - 07, 2023",
       "themes": [
         {
@@ -457,7 +535,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>2,500</span>",
-      "registrations_count": 3,
+      "registrations_count": 4,
       "featured": false,
       "organization_name": "Analytics Club at ETH",
       "winners_announced": false,
@@ -477,7 +555,7 @@
       "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
       "analytics_identifier": "Challenge Two (18140)",
       "url": "https://datathon-challenge-two.devpost.com/",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 17 hours left",
       "submission_period_dates": "May 05 - 07, 2023",
       "themes": [
         {
@@ -486,7 +564,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>2,500</span>",
-      "registrations_count": 2,
+      "registrations_count": 3,
       "featured": false,
       "organization_name": "Analytics Club at ETH",
       "winners_announced": false,
@@ -496,76 +574,39 @@
       "eligibility_requirement_invite_only_description": "Selected students "
     },
     {
-      "id": 18081,
-      "title": "UWB ACM Hacks In Person",
+      "id": 18280,
+      "title": "MoreSpeed",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "UW Bothell - The ARC"
+        "location": "Sevan"
       },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/448/224/datas/medium_square.png",
-      "analytics_identifier": "UWB ACM Hacks In Person (18081)",
-      "url": "https://uwb-acm-hacks-in-person.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 05 - 07, 2023",
+      "open_state": "open",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "MoreSpeed (18280)",
+      "url": "https://morespeed.devpost.com/",
+      "time_left_to_submission": "11 days left",
+      "submission_period_dates": "May 06 - 17, 2023",
       "themes": [
         {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 15,
-          "name": "Music/Art"
+          "id": 18,
+          "name": "Design"
         },
         {
           "id": 13,
           "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>2,000</span>",
-      "registrations_count": 157,
-      "featured": true,
-      "organization_name": "UWB ACM",
-      "winners_announced": false,
-      "submission_gallery_url": "https://uwb-acm-hacks-in-person.devpost.com/project-gallery",
-      "start_a_submission_url": "https://uwb-acm-hacks-in-person.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 17623,
-      "title": "Hack OC",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Anduril HQ"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/396/160/datas/medium_square.png",
-      "analytics_identifier": "Hack OC (17623)",
-      "url": "https://hack-oc.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 06, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
         },
         {
           "id": 25,
           "name": "Web"
         }
       ],
-      "prize_amount": "$<span data-currency-value>19,950</span>",
-      "registrations_count": 24,
-      "featured": true,
-      "organization_name": "Anduril Industries",
+      "prize_amount": "$<span data-currency-value>10,000</span>",
+      "registrations_count": 3,
+      "featured": false,
+      "organization_name": "MoreSpeed",
       "winners_announced": false,
-      "submission_gallery_url": "https://hack-oc.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hack-oc.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://morespeed.devpost.com/project-gallery",
+      "start_a_submission_url": "https://morespeed.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -597,7 +638,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>17,000</span>",
-      "registrations_count": 165,
+      "registrations_count": 166,
       "featured": false,
       "organization_name": "iata",
       "winners_announced": false,
@@ -630,7 +671,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>250</span>",
-      "registrations_count": 3,
+      "registrations_count": 4,
       "featured": true,
       "organization_name": "TechTogether",
       "winners_announced": false,
@@ -667,49 +708,12 @@
         }
       ],
       "prize_amount": "$CAD<span data-currency-value>25,150</span>",
-      "registrations_count": 61,
+      "registrations_count": 63,
       "featured": false,
       "organization_name": "Waterloo Blockchain",
       "winners_announced": false,
       "submission_gallery_url": "https://olympihacks.devpost.com/project-gallery",
       "start_a_submission_url": "https://olympihacks.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 17453,
-      "title": "MasseyHacks IX",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Vincent Massey Secondary School"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/376/685/datas/medium_square.png",
-      "analytics_identifier": "MasseyHacks IX (17453)",
-      "url": "https://masseyhacks9.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 06 - 07, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$CAD<span data-currency-value>42,960</span>",
-      "registrations_count": 24,
-      "featured": false,
-      "organization_name": "MasseyHacks",
-      "winners_announced": false,
-      "submission_gallery_url": "https://masseyhacks9.devpost.com/project-gallery",
-      "start_a_submission_url": "https://masseyhacks9.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -741,7 +745,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,032</span>",
-      "registrations_count": 15,
+      "registrations_count": 17,
       "featured": false,
       "organization_name": "Montgomery HS Computer Science Club",
       "winners_announced": false,
@@ -784,6 +788,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 18180,
+      "title": "A Better World Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "MakeHaven"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/459/704/datas/medium_square.png",
+      "analytics_identifier": "A Better World Hackathon (18180)",
+      "url": "https://a-better-world-hackathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "May 19 - 21, 2023",
+      "themes": [
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>500</span>",
+      "registrations_count": 10,
+      "featured": false,
+      "organization_name": "makehaven",
+      "winners_announced": false,
+      "submission_gallery_url": "https://a-better-world-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://a-better-world-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 17904,
       "title": "HackThisJune 2023",
       "displayed_location": {
@@ -821,39 +862,39 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18180,
-      "title": "A Better World Hackathon",
+      "id": 18176,
+      "title": "MATLAB Hackathon Uniroma2",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "MakeHaven"
+        "location": "Engineering Teaching Building"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/459/704/datas/medium_square.png",
-      "analytics_identifier": "A Better World Hackathon (18180)",
-      "url": "https://a-better-world-hackathon.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/459/586/datas/medium_square.png",
+      "analytics_identifier": "MATLAB Hackathon Uniroma2 (18176)",
+      "url": "https://matlab-hackathon-uniroma2.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 19 - 21, 2023",
+      "submission_period_dates": "May 13, 2023",
       "themes": [
         {
-          "id": 7,
-          "name": "IoT"
+          "id": 19,
+          "name": "Education"
         },
         {
-          "id": 6,
-          "name": "Machine Learning/AI"
+          "id": 16,
+          "name": "Health"
         },
         {
-          "id": 13,
-          "name": "Social Good"
+          "id": 26,
+          "name": "Mobile"
         }
       ],
-      "prize_amount": "$<span data-currency-value>500</span>",
-      "registrations_count": 9,
+      "prize_amount": "€<span data-currency-value>400</span>",
+      "registrations_count": 7,
       "featured": false,
-      "organization_name": "makehaven",
+      "organization_name": "Mathworks",
       "winners_announced": false,
-      "submission_gallery_url": "https://a-better-world-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://a-better-world-hackathon.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://matlab-hackathon-uniroma2.devpost.com/project-gallery",
+      "start_a_submission_url": "https://matlab-hackathon-uniroma2.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -895,43 +936,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18176,
-      "title": "MATLAB Hackathon Uniroma2",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Engineering Teaching Building"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/459/586/datas/medium_square.png",
-      "analytics_identifier": "MATLAB Hackathon Uniroma2 (18176)",
-      "url": "https://matlab-hackathon-uniroma2.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 13, 2023",
-      "themes": [
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 16,
-          "name": "Health"
-        },
-        {
-          "id": 26,
-          "name": "Mobile"
-        }
-      ],
-      "prize_amount": "€<span data-currency-value>400</span>",
-      "registrations_count": 6,
-      "featured": false,
-      "organization_name": "Mathworks",
-      "winners_announced": false,
-      "submission_gallery_url": "https://matlab-hackathon-uniroma2.devpost.com/project-gallery",
-      "start_a_submission_url": "https://matlab-hackathon-uniroma2.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 18192,
       "title": "HackMHS",
       "displayed_location": {
@@ -965,6 +969,43 @@
       "winners_announced": false,
       "submission_gallery_url": "https://hackmhsviii.devpost.com/project-gallery",
       "start_a_submission_url": "https://hackmhsviii.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 17991,
+      "title": "Connect4Health via NordXDataspace at Vitalis",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Vitalis (Svenska Mässan)"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/434/007/datas/medium_square.png",
+      "analytics_identifier": "Connect4Health via NordXDataspace at Vitalis (17991)",
+      "url": "https://nxd.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "May 21 - 24, 2023",
+      "themes": [
+        {
+          "id": 16,
+          "name": "Health"
+        },
+        {
+          "id": 17,
+          "name": "Low/No Code"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "€<span data-currency-value>0</span>",
+      "registrations_count": 6,
+      "featured": false,
+      "organization_name": "Redpill-Linpro, MyData, RISE, iGrant.io",
+      "winners_announced": false,
+      "submission_gallery_url": "https://nxd.devpost.com/project-gallery",
+      "start_a_submission_url": "https://nxd.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -1076,43 +1117,6 @@
       "eligibility_requirement_invite_only_description": "All Students"
     },
     {
-      "id": 17991,
-      "title": "Connect4Health via NordXDataspace at Vitalis",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Vitalis (Svenska Mässan)"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/434/007/datas/medium_square.png",
-      "analytics_identifier": "Connect4Health via NordXDataspace at Vitalis (17991)",
-      "url": "https://nxd.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 21 - 24, 2023",
-      "themes": [
-        {
-          "id": 16,
-          "name": "Health"
-        },
-        {
-          "id": 17,
-          "name": "Low/No Code"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "€<span data-currency-value>0</span>",
-      "registrations_count": 5,
-      "featured": false,
-      "organization_name": "Redpill-Linpro, MyData, RISE, iGrant.io",
-      "winners_announced": false,
-      "submission_gallery_url": "https://nxd.devpost.com/project-gallery",
-      "start_a_submission_url": "https://nxd.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 17365,
       "title": "Hoya Hacks 2024",
       "displayed_location": {
@@ -1183,6 +1187,35 @@
       "winners_announced": false,
       "submission_gallery_url": "https://corpushacks.devpost.com/project-gallery",
       "start_a_submission_url": "https://corpushacks.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 17989,
+      "title": " AI with MATLAB Hackathon - Athens",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "National Technical University of Athens"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/458/971/datas/medium_square.png",
+      "analytics_identifier": " AI with MATLAB Hackathon - Athens (17989)",
+      "url": "https://matlab-hackathon-greece.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jun 08, 2023",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "€<span data-currency-value>350</span>",
+      "registrations_count": 3,
+      "featured": false,
+      "organization_name": "Mathworks",
+      "winners_announced": false,
+      "submission_gallery_url": "https://matlab-hackathon-greece.devpost.com/project-gallery",
+      "start_a_submission_url": "https://matlab-hackathon-greece.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -1323,74 +1356,45 @@
       "eligibility_requirement_invite_only_description": "Westchester high school students of any level"
     },
     {
-      "id": 17989,
-      "title": " AI with MATLAB Hackathon - Athens",
+      "id": 18278,
+      "title": "DeveloperWeek CloudX 2023 Hackathon",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "National Technical University of Athens"
+        "location": "San Mateo Events Center & Virtual"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/458/971/datas/medium_square.png",
-      "analytics_identifier": " AI with MATLAB Hackathon - Athens (17989)",
-      "url": "https://matlab-hackathon-greece.devpost.com/",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "DeveloperWeek CloudX 2023 Hackathon (18278)",
+      "url": "https://dw-cloudx-2023-hackathon.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 08, 2023",
+      "submission_period_dates": "Aug 01 - 16, 2023",
       "themes": [
         {
-          "id": 6,
-          "name": "Machine Learning/AI"
+          "id": 2,
+          "name": "DevOps"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
         }
       ],
-      "prize_amount": "€<span data-currency-value>350</span>",
+      "prize_amount": "$<span data-currency-value>12,500</span>",
       "registrations_count": 1,
       "featured": false,
-      "organization_name": "Mathworks",
+      "organization_name": "DevNetwork",
       "winners_announced": false,
-      "submission_gallery_url": "https://matlab-hackathon-greece.devpost.com/project-gallery",
-      "start_a_submission_url": "https://matlab-hackathon-greece.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18200,
-      "title": "HackPNW Summer",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Northeastern University - Seattle"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/463/081/datas/medium_square.png",
-      "analytics_identifier": "HackPNW Summer (18200)",
-      "url": "https://hackpnw-summer.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 03 - 04, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>1,095</span>",
-      "registrations_count": 0,
-      "featured": false,
-      "organization_name": "HackPNW Team",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackpnw-summer.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackpnw-summer.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://dw-cloudx-2023-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://dw-cloudx-2023-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     }
   ],
   "meta": {
-    "total_count": 40,
+    "total_count": 41,
     "per_page": 40,
     "fuzzy": false
   }
