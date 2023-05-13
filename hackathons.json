@@ -1,6 +1,80 @@
 {
   "hackathons": [
     {
+      "id": 17992,
+      "title": "HackUPC 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "FIB (Campus Nord)"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/433/780/datas/medium_square.png",
+      "analytics_identifier": "HackUPC 2023 (17992)",
+      "url": "https://hackupc-2023.devpost.com/",
+      "time_left_to_submission": "about 14 hours left",
+      "submission_period_dates": "May 12 - 14, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 49,
+      "featured": true,
+      "organization_name": "Hackers@UPC",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackupc-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackupc-2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18229,
+      "title": "MontyHacks VI",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Montgomery High School"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/464/771/datas/medium_square.png",
+      "analytics_identifier": "MontyHacks VI (18229)",
+      "url": "https://montyhacks-vi.devpost.com/",
+      "time_left_to_submission": "about 7 hours left",
+      "submission_period_dates": "May 13, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1,032</span>",
+      "registrations_count": 36,
+      "featured": true,
+      "organization_name": "Montgomery HS Computer Science Club",
+      "winners_announced": false,
+      "submission_gallery_url": "https://montyhacks-vi.devpost.com/project-gallery",
+      "start_a_submission_url": "https://montyhacks-vi.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 17554,
       "title": "MBOA CODE",
       "displayed_location": {
@@ -11,7 +85,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/385/307/datas/medium_square.png",
       "analytics_identifier": "MBOA CODE (17554)",
       "url": "https://mboa-code.devpost.com/",
-      "time_left_to_submission": "16 days left",
+      "time_left_to_submission": "15 days left",
       "submission_period_dates": "Feb 17 - May 28, 2023",
       "themes": [
         {
@@ -28,12 +102,49 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,800</span>",
-      "registrations_count": 75,
+      "registrations_count": 76,
       "featured": false,
       "organization_name": "Pan-African Associates ",
       "winners_announced": false,
       "submission_gallery_url": "https://mboa-code.devpost.com/project-gallery",
       "start_a_submission_url": "https://mboa-code.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18308,
+      "title": "SLO Hacks 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "San Luis Obispo, CA, USA"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/475/969/datas/medium_square.jpg",
+      "analytics_identifier": "SLO Hacks 2023 (18308)",
+      "url": "https://slo-hacks-2023.devpost.com/",
+      "time_left_to_submission": "about 23 hours left",
+      "submission_period_dates": "May 13 - 14, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 9,
+          "name": "Cybersecurity"
+        },
+        {
+          "id": 3,
+          "name": "Fintech"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1,000</span>",
+      "registrations_count": 52,
+      "featured": false,
+      "organization_name": "SLO Hacks",
+      "winners_announced": false,
+      "submission_gallery_url": "https://slo-hacks-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://slo-hacks-2023.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -57,7 +168,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>20</span>",
-      "registrations_count": 26,
+      "registrations_count": 28,
       "featured": false,
       "organization_name": "HackMIT",
       "winners_announced": false,
@@ -67,115 +178,132 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18229,
-      "title": "MontyHacks VI",
+      "id": 18065,
+      "title": "TechTogether Seattle 2023",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Montgomery High School"
+        "location": "Bellevue College - U301"
       },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/464/771/datas/medium_square.png",
-      "analytics_identifier": "MontyHacks VI (18229)",
-      "url": "https://montyhacks-vi.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 13, 2023",
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/442/684/datas/medium_square.png",
+      "analytics_identifier": "TechTogether Seattle 2023 (18065)",
+      "url": "https://techtogether-seattle-2023.devpost.com/",
+      "time_left_to_submission": "1 day left",
+      "submission_period_dates": "May 13 - 14, 2023",
       "themes": [
         {
           "id": 23,
           "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
         },
         {
           "id": 13,
           "name": "Social Good"
         }
       ],
-      "prize_amount": "$<span data-currency-value>1,032</span>",
-      "registrations_count": 31,
-      "featured": true,
-      "organization_name": "Montgomery HS Computer Science Club",
+      "prize_amount": "$<span data-currency-value>250</span>",
+      "registrations_count": 21,
+      "featured": false,
+      "organization_name": "TechTogether",
       "winners_announced": false,
-      "submission_gallery_url": "https://montyhacks-vi.devpost.com/project-gallery",
-      "start_a_submission_url": "https://montyhacks-vi.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://techtogether-seattle-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://techtogether-seattle-2023.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 17992,
-      "title": "HackUPC 2023",
+      "id": 18277,
+      "title": "WarriorHacks 2023",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "FIB (Campus Nord)"
+        "location": "Memorial High School"
       },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/433/780/datas/medium_square.png",
-      "analytics_identifier": "HackUPC 2023 (17992)",
-      "url": "https://hackupc-2023.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 12 - 14, 2023",
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/476/262/datas/medium_square.jpeg",
+      "analytics_identifier": "WarriorHacks 2023 (18277)",
+      "url": "https://homage-to-coolmath-games.devpost.com/",
+      "time_left_to_submission": "4 days left",
+      "submission_period_dates": "May 12 - 17, 2023",
       "themes": [
         {
-          "id": 23,
-          "name": "Beginner Friendly"
+          "id": 22,
+          "name": "Open Ended"
         },
         {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 25,
-          "name": "Web"
+          "id": 4,
+          "name": "Gaming"
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 22,
-      "featured": true,
-      "organization_name": "Hackers@UPC",
+      "registrations_count": 10,
+      "featured": false,
+      "organization_name": "Not related to CoolMath Games",
       "winners_announced": false,
-      "submission_gallery_url": "https://hackupc-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackupc-2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
+      "submission_gallery_url": "https://homage-to-coolmath-games.devpost.com/project-gallery",
+      "start_a_submission_url": "https://homage-to-coolmath-games.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Memorial Students"
     },
     {
-      "id": 18176,
-      "title": "MATLAB Hackathon Uniroma2",
+      "id": 18275,
+      "title": "HackGPT | NYC",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Engineering Teaching Building"
+        "location": "FreeAgencyHQ @ Midtown"
       },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/459/586/datas/medium_square.png",
-      "analytics_identifier": "MATLAB Hackathon Uniroma2 (18176)",
-      "url": "https://matlab-hackathon-uniroma2.devpost.com/",
-      "time_left_to_submission": "Upcoming",
+      "open_state": "open",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "HackGPT | NYC (18275)",
+      "url": "https://hackgpt.devpost.com/",
+      "time_left_to_submission": "1 day left",
+      "submission_period_dates": "May 13 - 14, 2023",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>133,050</span>",
+      "registrations_count": 6,
+      "featured": false,
+      "organization_name": "Cornell LLM Engineering Club",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackgpt.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackgpt.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Selected applicants"
+    },
+    {
+      "id": 18336,
+      "title": "DEEDhacks 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "SFU Burnaby"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/477/715/datas/medium_square.png",
+      "analytics_identifier": "DEEDhacks 2023 (18336)",
+      "url": "https://deedhacks-2023.devpost.com/",
+      "time_left_to_submission": "about 5 hours left",
       "submission_period_dates": "May 13, 2023",
       "themes": [
         {
-          "id": 19,
-          "name": "Education"
+          "id": 22,
+          "name": "Open Ended"
         },
         {
-          "id": 16,
-          "name": "Health"
-        },
-        {
-          "id": 26,
-          "name": "Mobile"
+          "id": 13,
+          "name": "Social Good"
         }
       ],
-      "prize_amount": "€<span data-currency-value>400</span>",
-      "registrations_count": 19,
-      "featured": true,
-      "organization_name": "Mathworks",
+      "prize_amount": "$CAD<span data-currency-value>1,500</span>",
+      "registrations_count": 1,
+      "featured": false,
+      "organization_name": "Women in Engineering SFU",
       "winners_announced": false,
-      "submission_gallery_url": "https://matlab-hackathon-uniroma2.devpost.com/project-gallery",
-      "start_a_submission_url": "https://matlab-hackathon-uniroma2.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
+      "submission_gallery_url": "https://deedhacks-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://deedhacks-2023.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Only attendees for DEEDhacks 2023"
     },
     {
       "id": 15141,
@@ -252,72 +380,39 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18308,
-      "title": "SLO Hacks 2023",
+      "id": 18180,
+      "title": "A Better World Hackathon",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "San Luis Obispo, CA, USA"
+        "location": "MakeHaven"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/475/969/datas/medium_square.jpg",
-      "analytics_identifier": "SLO Hacks 2023 (18308)",
-      "url": "https://slo-hacks-2023.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/459/704/datas/medium_square.png",
+      "analytics_identifier": "A Better World Hackathon (18180)",
+      "url": "https://a-better-world-hackathon.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 13 - 14, 2023",
+      "submission_period_dates": "May 19 - 21, 2023",
       "themes": [
         {
-          "id": 23,
-          "name": "Beginner Friendly"
+          "id": 7,
+          "name": "IoT"
         },
         {
-          "id": 9,
-          "name": "Cybersecurity"
-        },
-        {
-          "id": 3,
-          "name": "Fintech"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>1,000</span>",
-      "registrations_count": 34,
-      "featured": false,
-      "organization_name": "SLO Hacks",
-      "winners_announced": false,
-      "submission_gallery_url": "https://slo-hacks-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://slo-hacks-2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18065,
-      "title": "TechTogether Seattle 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Bellevue College - U301"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/442/684/datas/medium_square.png",
-      "analytics_identifier": "TechTogether Seattle 2023 (18065)",
-      "url": "https://techtogether-seattle-2023.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 13 - 14, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
+          "id": 6,
+          "name": "Machine Learning/AI"
         },
         {
           "id": 13,
           "name": "Social Good"
         }
       ],
-      "prize_amount": "$<span data-currency-value>250</span>",
-      "registrations_count": 13,
+      "prize_amount": "$<span data-currency-value>500</span>",
+      "registrations_count": 12,
       "featured": false,
-      "organization_name": "TechTogether",
+      "organization_name": "makehaven",
       "winners_announced": false,
-      "submission_gallery_url": "https://techtogether-seattle-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://techtogether-seattle-2023.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://a-better-world-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://a-better-world-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -351,43 +446,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://techtogether-nyc-2023.devpost.com/project-gallery",
       "start_a_submission_url": "https://techtogether-nyc-2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18180,
-      "title": "A Better World Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "MakeHaven"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/459/704/datas/medium_square.png",
-      "analytics_identifier": "A Better World Hackathon (18180)",
-      "url": "https://a-better-world-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 19 - 21, 2023",
-      "themes": [
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>500</span>",
-      "registrations_count": 11,
-      "featured": false,
-      "organization_name": "makehaven",
-      "winners_announced": false,
-      "submission_gallery_url": "https://a-better-world-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://a-better-world-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -565,6 +623,80 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 18278,
+      "title": "DeveloperWeek CloudX 2023 Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "San Mateo Events Center & Virtual"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "DeveloperWeek CloudX 2023 Hackathon (18278)",
+      "url": "https://dw-cloudx-2023-hackathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Aug 01 - 16, 2023",
+      "themes": [
+        {
+          "id": 2,
+          "name": "DevOps"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>12,500</span>",
+      "registrations_count": 7,
+      "featured": false,
+      "organization_name": "DevNetwork",
+      "winners_announced": false,
+      "submission_gallery_url": "https://dw-cloudx-2023-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://dw-cloudx-2023-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18309,
+      "title": "SB HACKS IX",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "UCSB - Corwin Pavilion"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/477/005/datas/medium_square.png",
+      "analytics_identifier": "SB HACKS IX (18309)",
+      "url": "https://sb-hacks-ix.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "May 13 - 14, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>4,820</span>",
+      "registrations_count": 6,
+      "featured": false,
+      "organization_name": "SB Hacks",
+      "winners_announced": false,
+      "submission_gallery_url": "https://sb-hacks-ix.devpost.com/project-gallery",
+      "start_a_submission_url": "https://sb-hacks-ix.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "University Students"
+    },
+    {
       "id": 18192,
       "title": "HackMHS",
       "displayed_location": {
@@ -676,43 +808,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18278,
-      "title": "DeveloperWeek CloudX 2023 Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "San Mateo Events Center & Virtual"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "DeveloperWeek CloudX 2023 Hackathon (18278)",
-      "url": "https://dw-cloudx-2023-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Aug 01 - 16, 2023",
-      "themes": [
-        {
-          "id": 2,
-          "name": "DevOps"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>12,500</span>",
-      "registrations_count": 6,
-      "featured": false,
-      "organization_name": "DevNetwork",
-      "winners_announced": false,
-      "submission_gallery_url": "https://dw-cloudx-2023-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://dw-cloudx-2023-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 17474,
       "title": "Riverhacks 2023",
       "displayed_location": {
@@ -748,35 +843,6 @@
       "start_a_submission_url": "https://riverhacks-2023.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "ACC Students Only "
-    },
-    {
-      "id": 18275,
-      "title": "HackGPT | NYC",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "FreeAgencyHQ @ Midtown"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "HackGPT | NYC (18275)",
-      "url": "https://hackgpt.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 13 - 14, 2023",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 4,
-      "featured": false,
-      "organization_name": "Cornell LLM Engineering Club",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackgpt.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackgpt.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Selected applicants"
     },
     {
       "id": 17365,
@@ -853,6 +919,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 18310,
+      "title": "HackAIthon by Craft Ventures",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Get Around Office"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/476/075/datas/medium_square.jpg",
+      "analytics_identifier": "HackAIthon by Craft Ventures (18310)",
+      "url": "https://hackaithon-by-craft-ventures.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "May 16 - 18, 2023",
+      "themes": [
+        {
+          "id": 17,
+          "name": "Low/No Code"
+        },
+        {
+          "id": 24,
+          "name": "Quantum"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>20,000</span>",
+      "registrations_count": 3,
+      "featured": false,
+      "organization_name": "Craft Ventures",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackaithon-by-craft-ventures.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackaithon-by-craft-ventures.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "HackAIthon Attendees"
+    },
+    {
       "id": 17989,
       "title": " AI with MATLAB Hackathon - Athens",
       "displayed_location": {
@@ -882,111 +985,37 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18309,
-      "title": "SB HACKS IX",
+      "id": 18291,
+      "title": "Built Different: Account Abstraction Hackathon",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "UCSB - Corwin Pavilion"
+        "location": "Ibu Hub Harare"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/477/005/datas/medium_square.png",
-      "analytics_identifier": "SB HACKS IX (18309)",
-      "url": "https://sb-hacks-ix.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/474/517/datas/medium_square.jpg",
+      "analytics_identifier": "Built Different: Account Abstraction Hackathon (18291)",
+      "url": "https://built-different-hackathon.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 13 - 14, 2023",
+      "submission_period_dates": "Jun 24 - 25, 2023",
       "themes": [
         {
-          "id": 23,
-          "name": "Beginner Friendly"
+          "id": 1,
+          "name": "Blockchain"
         },
         {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
+          "id": 25,
+          "name": "Web"
         }
       ],
-      "prize_amount": "$<span data-currency-value>4,820</span>",
+      "prize_amount": "$<span data-currency-value>3,700</span>",
       "registrations_count": 2,
       "featured": false,
-      "organization_name": "SB Hacks",
+      "organization_name": "Built Different",
       "winners_announced": false,
-      "submission_gallery_url": "https://sb-hacks-ix.devpost.com/project-gallery",
-      "start_a_submission_url": "https://sb-hacks-ix.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "University Students"
-    },
-    {
-      "id": 18277,
-      "title": "WarriorHacks 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Memorial High School"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/476/262/datas/medium_square.jpeg",
-      "analytics_identifier": "WarriorHacks 2023 (18277)",
-      "url": "https://homage-to-coolmath-games.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 13 - 17, 2023",
-      "themes": [
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 4,
-          "name": "Gaming"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>100</span>",
-      "registrations_count": 2,
-      "featured": false,
-      "organization_name": "Not related to CoolMath Games",
-      "winners_announced": false,
-      "submission_gallery_url": "https://homage-to-coolmath-games.devpost.com/project-gallery",
-      "start_a_submission_url": "https://homage-to-coolmath-games.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Memorial Students"
-    },
-    {
-      "id": 18310,
-      "title": "HackAIthon by Craft Ventures",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Get Around Office"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/476/075/datas/medium_square.jpg",
-      "analytics_identifier": "HackAIthon by Craft Ventures (18310)",
-      "url": "https://hackaithon-by-craft-ventures.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 16 - 18, 2023",
-      "themes": [
-        {
-          "id": 17,
-          "name": "Low/No Code"
-        },
-        {
-          "id": 24,
-          "name": "Quantum"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>20,000</span>",
-      "registrations_count": 2,
-      "featured": false,
-      "organization_name": "Craft Ventures",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackaithon-by-craft-ventures.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackaithon-by-craft-ventures.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "HackAIthon Attendees"
+      "submission_gallery_url": "https://built-different-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://built-different-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 17723,
@@ -1096,37 +1125,37 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18291,
-      "title": "Built Different: Account Abstraction Hackathon",
+      "id": 18271,
+      "title": "LifeHack 2023",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Ibu Hub Harare"
+        "location": "Singapore, Singapore"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/474/517/datas/medium_square.jpg",
-      "analytics_identifier": "Built Different: Account Abstraction Hackathon (18291)",
-      "url": "https://built-different-hackathon.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/470/711/datas/medium_square.jpg",
+      "analytics_identifier": "LifeHack 2023 (18271)",
+      "url": "https://lifehack-23.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 24 - 25, 2023",
+      "submission_period_dates": "May 28 - 30, 2023",
       "themes": [
         {
-          "id": 1,
-          "name": "Blockchain"
+          "id": 23,
+          "name": "Beginner Friendly"
         },
         {
-          "id": 25,
-          "name": "Web"
+          "id": 14,
+          "name": "COVID-19"
         }
       ],
-      "prize_amount": "$<span data-currency-value>3,700</span>",
+      "prize_amount": "$<span data-currency-value>10,000</span>",
       "registrations_count": 1,
       "featured": false,
-      "organization_name": "Built Different",
+      "organization_name": "NUS Students' Computing Club",
       "winners_announced": false,
-      "submission_gallery_url": "https://built-different-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://built-different-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
+      "submission_gallery_url": "https://lifehack-23.devpost.com/project-gallery",
+      "start_a_submission_url": "https://lifehack-23.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "LifeHack 2023 participants only"
     },
     {
       "id": 18295,
@@ -1200,7 +1229,7 @@
     }
   ],
   "meta": {
-    "total_count": 34,
+    "total_count": 35,
     "per_page": 40,
     "fuzzy": false
   }
