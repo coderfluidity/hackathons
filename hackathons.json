@@ -1,6 +1,43 @@
 {
   "hackathons": [
     {
+      "id": 17474,
+      "title": "Riverhacks 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Austin Community College Highland "
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/481/785/datas/medium_square.png",
+      "analytics_identifier": "Riverhacks 2023 (17474)",
+      "url": "https://riverhacks-2023.devpost.com/",
+      "time_left_to_submission": "1 day left",
+      "submission_period_dates": "May 18 - 19, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 17,
+          "name": "Low/No Code"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>618</span>",
+      "registrations_count": 7,
+      "featured": true,
+      "organization_name": "ACC Computer Science Club",
+      "winners_announced": false,
+      "submission_gallery_url": "https://riverhacks-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://riverhacks-2023.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "ACC Students Only "
+    },
+    {
       "id": 17554,
       "title": "MBOA CODE",
       "displayed_location": {
@@ -11,7 +48,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/385/307/datas/medium_square.png",
       "analytics_identifier": "MBOA CODE (17554)",
       "url": "https://mboa-code.devpost.com/",
-      "time_left_to_submission": "11 days left",
+      "time_left_to_submission": "10 days left",
       "submission_period_dates": "Feb 17 - May 28, 2023",
       "themes": [
         {
@@ -38,43 +75,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18310,
-      "title": "HackAIthon by Craft Ventures",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Getaround Office"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/476/075/datas/medium_square.jpg",
-      "analytics_identifier": "HackAIthon by Craft Ventures (18310)",
-      "url": "https://hackaithon-by-craft-ventures.devpost.com/",
-      "time_left_to_submission": "about 14 hours left",
-      "submission_period_dates": "May 16 - 18, 2023",
-      "themes": [
-        {
-          "id": 17,
-          "name": "Low/No Code"
-        },
-        {
-          "id": 24,
-          "name": "Quantum"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>24,369</span>",
-      "registrations_count": 64,
-      "featured": false,
-      "organization_name": "Craft Ventures",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackaithon-by-craft-ventures.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackaithon-by-craft-ventures.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "HackAIthon Attendees"
-    },
-    {
       "id": 18109,
       "title": "HackMIT",
       "displayed_location": {
@@ -94,7 +94,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>20</span>",
-      "registrations_count": 38,
+      "registrations_count": 40,
       "featured": false,
       "organization_name": "HackMIT",
       "winners_announced": false,
@@ -104,64 +104,72 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18277,
-      "title": "WarriorHacks 2023",
+      "id": 18271,
+      "title": "LifeHack 2023",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Memorial High School"
+        "location": "Singapore, Singapore"
       },
       "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/476/262/datas/medium_square.jpeg",
-      "analytics_identifier": "WarriorHacks 2023 (18277)",
-      "url": "https://homage-to-coolmath-games.devpost.com/",
-      "time_left_to_submission": "about 4 hours left",
-      "submission_period_dates": "May 12 - 17, 2023",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/470/711/datas/medium_square.jpg",
+      "analytics_identifier": "LifeHack 2023 (18271)",
+      "url": "https://lifehack-23.devpost.com/",
+      "time_left_to_submission": "12 days left",
+      "submission_period_dates": "May 18 - 30, 2023",
       "themes": [
         {
-          "id": 22,
-          "name": "Open Ended"
+          "id": 23,
+          "name": "Beginner Friendly"
         },
         {
-          "id": 4,
-          "name": "Gaming"
+          "id": 14,
+          "name": "COVID-19"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>15,000</span>",
+      "registrations_count": 4,
+      "featured": false,
+      "organization_name": "NUS Students' Computing Club",
+      "winners_announced": false,
+      "submission_gallery_url": "https://lifehack-23.devpost.com/project-gallery",
+      "start_a_submission_url": "https://lifehack-23.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "LifeHack 2023 participants only"
+    },
+    {
+      "id": 18375,
+      "title": "\"Hello 8th Wall\" Workshop (London)",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "N/A"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/482/549/datas/medium_square.png",
+      "analytics_identifier": "\"Hello 8th Wall\" Workshop (London) (18375)",
+      "url": "https://hello-8th-wall-workshop-london.devpost.com/",
+      "time_left_to_submission": "about 23 hours left",
+      "submission_period_dates": "May 18 - 19, 2023",
+      "themes": [
+        {
+          "id": 5,
+          "name": "AR/VR"
+        },
+        {
+          "id": 17,
+          "name": "Low/No Code"
+        },
+        {
+          "id": 25,
+          "name": "Web"
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 19,
+      "registrations_count": 1,
       "featured": false,
-      "organization_name": "Not related to CoolMath Games",
+      "organization_name": "Niantic",
       "winners_announced": false,
-      "submission_gallery_url": "https://homage-to-coolmath-games.devpost.com/project-gallery",
-      "start_a_submission_url": "https://homage-to-coolmath-games.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Memorial Students"
-    },
-    {
-      "id": 18348,
-      "title": "AI SF",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "San Francisco, CA, USA"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/480/970/datas/medium_square.png",
-      "analytics_identifier": "AI SF (18348)",
-      "url": "https://ai-sf.devpost.com/",
-      "time_left_to_submission": "about 8 hours left",
-      "submission_period_dates": "May 15 - 17, 2023",
-      "themes": [
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>34,000</span>",
-      "registrations_count": 6,
-      "featured": false,
-      "organization_name": "founders inc",
-      "winners_announced": false,
-      "submission_gallery_url": "https://ai-sf.devpost.com/project-gallery",
-      "start_a_submission_url": "https://ai-sf.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://hello-8th-wall-workshop-london.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hello-8th-wall-workshop-london.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -193,7 +201,7 @@
         }
       ],
       "prize_amount": "$CAD<span data-currency-value>22,650</span>",
-      "registrations_count": 89,
+      "registrations_count": 92,
       "featured": true,
       "organization_name": "Waterloo Blockchain",
       "winners_announced": false,
@@ -230,7 +238,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>17,000</span>",
-      "registrations_count": 185,
+      "registrations_count": 186,
       "featured": false,
       "organization_name": "iata",
       "winners_announced": false,
@@ -333,7 +341,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>350</span>",
-      "registrations_count": 55,
+      "registrations_count": 81,
       "featured": false,
       "organization_name": "Mathworks",
       "winners_announced": false,
@@ -341,6 +349,35 @@
       "start_a_submission_url": "https://matlab-hackathon-greece.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18211,
+      "title": "Open Web House MTY ft. CriptoMexico",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "LABNL Lab Cultural Ciudadano"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/463/472/datas/medium_square.png",
+      "analytics_identifier": "Open Web House MTY ft. CriptoMexico (18211)",
+      "url": "https://owh-mty-ft-criptomexico.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "May 24 - 27, 2023",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>2,500</span>",
+      "registrations_count": 15,
+      "featured": false,
+      "organization_name": "Open Web Academy",
+      "winners_announced": false,
+      "submission_gallery_url": "https://owh-mty-ft-criptomexico.devpost.com/project-gallery",
+      "start_a_submission_url": "https://owh-mty-ft-criptomexico.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Haber completado el pregistro en Google Forms"
     },
     {
       "id": 17904,
@@ -380,35 +417,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18211,
-      "title": "Open Web House MTY ft. CriptoMexico",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "LABNL Lab Cultural Ciudadano"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/463/472/datas/medium_square.png",
-      "analytics_identifier": "Open Web House MTY ft. CriptoMexico (18211)",
-      "url": "https://owh-mty-ft-criptomexico.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 24 - 27, 2023",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>2,500</span>",
-      "registrations_count": 14,
-      "featured": false,
-      "organization_name": "Open Web Academy",
-      "winners_announced": false,
-      "submission_gallery_url": "https://owh-mty-ft-criptomexico.devpost.com/project-gallery",
-      "start_a_submission_url": "https://owh-mty-ft-criptomexico.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Haber completado el pregistro en Google Forms"
-    },
-    {
       "id": 18066,
       "title": "TechTogether New York 2023",
       "displayed_location": {
@@ -432,7 +440,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>250</span>",
-      "registrations_count": 13,
+      "registrations_count": 14,
       "featured": false,
       "organization_name": "TechTogether",
       "winners_announced": false,
@@ -549,6 +557,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 17268,
+      "title": "Hackaburg 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Regensburg, Germany"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/404/482/datas/medium_square.png",
+      "analytics_identifier": "Hackaburg 2023 (17268)",
+      "url": "https://hackaburg-2022.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "May 25 - 27, 2023",
+      "themes": [
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 7,
+      "featured": false,
+      "organization_name": "ratisbona coding e.V.",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackaburg-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackaburg-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 18278,
       "title": "DeveloperWeek CloudX 2023 Hackathon",
       "displayed_location": {
@@ -586,55 +631,18 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 17268,
-      "title": "Hackaburg 2023",
+      "id": 18221,
+      "title": "TritonHacks 2023",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Regensburg, Germany"
+        "location": "University of California, CSE Building"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/404/482/datas/medium_square.png",
-      "analytics_identifier": "Hackaburg 2023 (17268)",
-      "url": "https://hackaburg-2022.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/463/930/datas/medium_square.png",
+      "analytics_identifier": "TritonHacks 2023 (18221)",
+      "url": "https://tritonhacks23.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 25 - 27, 2023",
-      "themes": [
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 6,
-      "featured": false,
-      "organization_name": "ratisbona coding e.V.",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackaburg-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackaburg-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 17474,
-      "title": "Riverhacks 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Austin Community College Highland "
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/469/488/datas/medium_square.png",
-      "analytics_identifier": "Riverhacks 2023 (17474)",
-      "url": "https://riverhacks-2023.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 18 - 19, 2023",
+      "submission_period_dates": "May 20 - 21, 2023",
       "themes": [
         {
           "id": 23,
@@ -643,21 +651,17 @@
         {
           "id": 19,
           "name": "Education"
-        },
-        {
-          "id": 17,
-          "name": "Low/No Code"
         }
       ],
-      "prize_amount": "$<span data-currency-value>618</span>",
+      "prize_amount": "$<span data-currency-value>440</span>",
       "registrations_count": 5,
-      "featured": true,
-      "organization_name": "ACC Computer Science Club",
+      "featured": false,
+      "organization_name": "CS foreach",
       "winners_announced": false,
-      "submission_gallery_url": "https://riverhacks-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://riverhacks-2023.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://tritonhacks23.devpost.com/project-gallery",
+      "start_a_submission_url": "https://tritonhacks23.devpost.com/challenges/start_a_submission",
       "invite_only": true,
-      "eligibility_requirement_invite_only_description": "ACC Students Only "
+      "eligibility_requirement_invite_only_description": "San Diego High Schools from invitation"
     },
     {
       "id": 17365,
@@ -771,6 +775,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 18360,
+      "title": "API World Hackathon 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Santa Clara Convention Center & Virutual"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "API World Hackathon 2023 (18360)",
+      "url": "https://api-world-hackathon-2023.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 09 - 26, 2023",
+      "themes": [
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>24,500</span>",
+      "registrations_count": 4,
+      "featured": false,
+      "organization_name": "DevNetwork",
+      "winners_announced": false,
+      "submission_gallery_url": "https://api-world-hackathon-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://api-world-hackathon-2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 18285,
       "title": "HackDavis 2023",
       "displayed_location": {
@@ -835,6 +876,43 @@
       "start_a_submission_url": "https://built-different-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18311,
+      "title": "AITE Hackathon 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Academy of Info Tech and Engineering"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/482/507/datas/medium_square.png",
+      "analytics_identifier": "AITE Hackathon 2023 (18311)",
+      "url": "https://aite-hackathon-2023.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "May 18 - 24, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>450</span>",
+      "registrations_count": 2,
+      "featured": false,
+      "organization_name": "AITE",
+      "winners_announced": false,
+      "submission_gallery_url": "https://aite-hackathon-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://aite-hackathon-2023.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Current AITE Students"
     },
     {
       "id": 18325,
@@ -1041,10 +1119,80 @@
       "start_a_submission_url": "https://test-hackaton.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18218,
+      "title": "AI x Product Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Amplitude SF "
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/464/079/datas/medium_square.jpg",
+      "analytics_identifier": "AI x Product Hackathon (18218)",
+      "url": "https://ai-x-product-hackathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jun 03 - 04, 2023",
+      "themes": [
+        {
+          "id": 28,
+          "name": "Databases"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>15,000</span>",
+      "registrations_count": 1,
+      "featured": false,
+      "organization_name": "Amplitude",
+      "winners_announced": false,
+      "submission_gallery_url": "https://ai-x-product-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://ai-x-product-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Individuals signed up on EventBrite with a ticket."
+    },
+    {
+      "id": 18373,
+      "title": "2nd PHYSICS Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Greece"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "2nd PHYSICS Hackathon (18373)",
+      "url": "https://2nd-physics-hackathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "May 24 - Jun 07, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 2,
+          "name": "DevOps"
+        }
+      ],
+      "prize_amount": "€<span data-currency-value>435</span>",
+      "registrations_count": 1,
+      "featured": false,
+      "organization_name": "PHYSICS Project",
+      "winners_announced": false,
+      "submission_gallery_url": "https://2nd-physics-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://2nd-physics-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     }
   ],
   "meta": {
-    "total_count": 30,
+    "total_count": 34,
     "per_page": 40,
     "fuzzy": false
   }
