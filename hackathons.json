@@ -1,6 +1,43 @@
 {
   "hackathons": [
     {
+      "id": 17268,
+      "title": "Hackaburg 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Regensburg, Germany"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/487/161/datas/medium_square.png",
+      "analytics_identifier": "Hackaburg 2023 (17268)",
+      "url": "https://hackaburg-2022.devpost.com/",
+      "time_left_to_submission": "about 17 hours left",
+      "submission_period_dates": "May 25 - 27, 2023",
+      "themes": [
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "€<span data-currency-value>2,500</span>",
+      "registrations_count": 83,
+      "featured": true,
+      "organization_name": "ratisbona coding e.V.",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackaburg-2022.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackaburg-2022.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 18394,
       "title": "X-thon 2",
       "displayed_location": {
@@ -11,7 +48,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/486/331/datas/medium_square.png",
       "analytics_identifier": "X-thon 2 (18394)",
       "url": "https://x-thon.devpost.com/",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "1 day left",
       "submission_period_dates": "May 25 - 27, 2023",
       "themes": [
         {
@@ -28,49 +65,12 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>8,000</span>",
-      "registrations_count": 53,
+      "registrations_count": 54,
       "featured": true,
       "organization_name": "HTS",
       "winners_announced": false,
       "submission_gallery_url": "https://x-thon.devpost.com/project-gallery",
       "start_a_submission_url": "https://x-thon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 17268,
-      "title": "Hackaburg 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Regensburg, Germany"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/487/161/datas/medium_square.png",
-      "analytics_identifier": "Hackaburg 2023 (17268)",
-      "url": "https://hackaburg-2022.devpost.com/",
-      "time_left_to_submission": "2 days left",
-      "submission_period_dates": "May 25 - 27, 2023",
-      "themes": [
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>2,500</span>",
-      "registrations_count": 14,
-      "featured": true,
-      "organization_name": "ratisbona coding e.V.",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackaburg-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackaburg-2022.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -85,7 +85,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/385/307/datas/medium_square.png",
       "analytics_identifier": "MBOA CODE (17554)",
       "url": "https://mboa-code.devpost.com/",
-      "time_left_to_submission": "3 days left",
+      "time_left_to_submission": "2 days left",
       "submission_period_dates": "Feb 17 - May 28, 2023",
       "themes": [
         {
@@ -131,7 +131,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>20</span>",
-      "registrations_count": 53,
+      "registrations_count": 55,
       "featured": false,
       "organization_name": "HackMIT",
       "winners_announced": false,
@@ -151,7 +151,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/463/472/datas/medium_square.png",
       "analytics_identifier": "Open Web House MTY ft. CriptoMexico (18211)",
       "url": "https://owh-mty-ft-criptomexico.devpost.com/",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "about 19 hours left",
       "submission_period_dates": "May 24 - 27, 2023",
       "themes": [
         {
@@ -159,8 +159,8 @@
           "name": "Blockchain"
         }
       ],
-      "prize_amount": "$<span data-currency-value>2,500</span>",
-      "registrations_count": 33,
+      "prize_amount": "$<span data-currency-value>4,300</span>",
+      "registrations_count": 36,
       "featured": false,
       "organization_name": "Open Web Academy",
       "winners_announced": false,
@@ -180,7 +180,7 @@
       "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
       "analytics_identifier": "2nd PHYSICS Hackathon (18373)",
       "url": "https://2nd-physics-hackathon.devpost.com/",
-      "time_left_to_submission": "13 days left",
+      "time_left_to_submission": "12 days left",
       "submission_period_dates": "May 24 - Jun 07, 2023",
       "themes": [
         {
@@ -193,7 +193,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>435</span>",
-      "registrations_count": 24,
+      "registrations_count": 25,
       "featured": false,
       "organization_name": "PHYSICS Project",
       "winners_announced": false,
@@ -201,43 +201,6 @@
       "start_a_submission_url": "https://2nd-physics-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18311,
-      "title": "AITE Hackathon 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Academy of Info Tech and Engineering"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/482/507/datas/medium_square.png",
-      "analytics_identifier": "AITE Hackathon 2023 (18311)",
-      "url": "https://aite-hackathon-2023.devpost.com/",
-      "time_left_to_submission": "about 1 hour left",
-      "submission_period_dates": "May 18 - 25, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>450</span>",
-      "registrations_count": 12,
-      "featured": false,
-      "organization_name": "AITE",
-      "winners_announced": false,
-      "submission_gallery_url": "https://aite-hackathon-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://aite-hackathon-2023.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Current AITE Students"
     },
     {
       "id": 18271,
@@ -250,7 +213,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/470/711/datas/medium_square.jpg",
       "analytics_identifier": "LifeHack 2023 (18271)",
       "url": "https://lifehack-23.devpost.com/",
-      "time_left_to_submission": "5 days left",
+      "time_left_to_submission": "4 days left",
       "submission_period_dates": "May 18 - 30, 2023",
       "themes": [
         {
@@ -271,35 +234,6 @@
       "start_a_submission_url": "https://lifehack-23.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "LifeHack 2023 participants only"
-    },
-    {
-      "id": 18405,
-      "title": "\"Hello 8th Wall\" Workshop (Amsterdam)",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "N/A"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/488/214/datas/medium_square.png",
-      "analytics_identifier": "\"Hello 8th Wall\" Workshop (Amsterdam) (18405)",
-      "url": "https://hello-8th-wall-workshop-ams.devpost.com/",
-      "time_left_to_submission": "about 23 hours left",
-      "submission_period_dates": "May 25 - 26, 2023",
-      "themes": [
-        {
-          "id": 5,
-          "name": "AR/VR"
-        }
-      ],
-      "prize_amount": "£<span data-currency-value>0</span>",
-      "registrations_count": 2,
-      "featured": false,
-      "organization_name": "Niantic",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hello-8th-wall-workshop-ams.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hello-8th-wall-workshop-ams.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 18066,
@@ -325,7 +259,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>2,610</span>",
-      "registrations_count": 24,
+      "registrations_count": 25,
       "featured": true,
       "organization_name": "TechTogether",
       "winners_announced": false,
@@ -391,7 +325,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>350</span>",
-      "registrations_count": 116,
+      "registrations_count": 118,
       "featured": false,
       "organization_name": "Mathworks",
       "winners_announced": false,
@@ -475,6 +409,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 18360,
+      "title": "API World Hackathon 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Santa Clara Convention Center & Virutual"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/487/824/datas/medium_square.jpg",
+      "analytics_identifier": "API World Hackathon 2023 (18360)",
+      "url": "https://api-world-hackathon-2023.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 09 - 26, 2023",
+      "themes": [
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>24,500</span>",
+      "registrations_count": 10,
+      "featured": false,
+      "organization_name": "DevNetwork",
+      "winners_announced": false,
+      "submission_gallery_url": "https://api-world-hackathon-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://api-world-hackathon-2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 18278,
       "title": "DeveloperWeek CloudX 2023 Hackathon",
       "displayed_location": {
@@ -512,43 +483,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18360,
-      "title": "API World Hackathon 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Santa Clara Convention Center & Virutual"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/487/824/datas/medium_square.jpg",
-      "analytics_identifier": "API World Hackathon 2023 (18360)",
-      "url": "https://api-world-hackathon-2023.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 09 - 26, 2023",
-      "themes": [
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>24,500</span>",
-      "registrations_count": 9,
-      "featured": false,
-      "organization_name": "DevNetwork",
-      "winners_announced": false,
-      "submission_gallery_url": "https://api-world-hackathon-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://api-world-hackathon-2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 18218,
       "title": "AI x Product Hackathon",
       "displayed_location": {
@@ -576,7 +510,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>12,500</span>",
-      "registrations_count": 6,
+      "registrations_count": 7,
       "featured": false,
       "organization_name": "Amplitude",
       "winners_announced": false,
@@ -584,6 +518,43 @@
       "start_a_submission_url": "https://ai-x-product-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Individuals signed up on EventBrite with a ticket."
+    },
+    {
+      "id": 18344,
+      "title": "Identity Wallets and Biometrics Hackathon: Reshaping Safe and Seamless Aviation",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Albeda Rotterdam Airport College"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/480/814/datas/medium_square.png",
+      "analytics_identifier": "Identity Wallets and Biometrics Hackathon: Reshaping Safe and Seamless Aviation (18344)",
+      "url": "https://id-wallet-biometrics-aviation.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jun 08 - 09, 2023",
+      "themes": [
+        {
+          "id": 9,
+          "name": "Cybersecurity"
+        },
+        {
+          "id": 26,
+          "name": "Mobile"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "€<span data-currency-value>2,500</span>",
+      "registrations_count": 6,
+      "featured": false,
+      "organization_name": "Airport Techology Lab (ATL)",
+      "winners_announced": false,
+      "submission_gallery_url": "https://id-wallet-biometrics-aviation.devpost.com/project-gallery",
+      "start_a_submission_url": "https://id-wallet-biometrics-aviation.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 18200,
@@ -623,43 +594,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18344,
-      "title": "Identity Wallets and Biometrics Hackathon: Reshaping Safe and Seamless Aviation",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Albeda Rotterdam Airport College"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/480/814/datas/medium_square.png",
-      "analytics_identifier": "Identity Wallets and Biometrics Hackathon: Reshaping Safe and Seamless Aviation (18344)",
-      "url": "https://id-wallet-biometrics-aviation.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 08 - 09, 2023",
-      "themes": [
-        {
-          "id": 9,
-          "name": "Cybersecurity"
-        },
-        {
-          "id": 26,
-          "name": "Mobile"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "€<span data-currency-value>2,500</span>",
-      "registrations_count": 5,
-      "featured": false,
-      "organization_name": "Airport Techology Lab (ATL)",
-      "winners_announced": false,
-      "submission_gallery_url": "https://id-wallet-biometrics-aviation.devpost.com/project-gallery",
-      "start_a_submission_url": "https://id-wallet-biometrics-aviation.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 17365,
       "title": "Hoya Hacks 2024",
       "displayed_location": {
@@ -693,6 +627,43 @@
       "winners_announced": false,
       "submission_gallery_url": "https://hoya-hacks-2024.devpost.com/project-gallery",
       "start_a_submission_url": "https://hoya-hacks-2024.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18420,
+      "title": "Westview Hacks",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Pacific Time"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "Westview Hacks (18420)",
+      "url": "https://westview-hacks.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "May 27, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 28,
+          "name": "Databases"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>25</span>",
+      "registrations_count": 4,
+      "featured": false,
+      "organization_name": "Westview Webdev Club",
+      "winners_announced": false,
+      "submission_gallery_url": "https://westview-hacks.devpost.com/project-gallery",
+      "start_a_submission_url": "https://westview-hacks.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -870,6 +841,43 @@
       "winners_announced": false,
       "submission_gallery_url": "https://built-different-kigali.devpost.com/project-gallery",
       "start_a_submission_url": "https://built-different-kigali.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18191,
+      "title": "YouthCodeX",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": null
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/488/760/datas/medium_square.jpg",
+      "analytics_identifier": "YouthCodeX (18191)",
+      "url": "https://youthcodex.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jul 29, 2023",
+      "themes": [
+        {
+          "id": 18,
+          "name": "Design"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>90,000</span>",
+      "registrations_count": 2,
+      "featured": false,
+      "organization_name": "Youth Code Foundation",
+      "winners_announced": false,
+      "submission_gallery_url": "https://youthcodex.devpost.com/project-gallery",
+      "start_a_submission_url": "https://youthcodex.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
