@@ -1,43 +1,6 @@
 {
   "hackathons": [
     {
-      "id": 17268,
-      "title": "Hackaburg 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Regensburg, Germany"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/487/161/datas/medium_square.png",
-      "analytics_identifier": "Hackaburg 2023 (17268)",
-      "url": "https://hackaburg-2022.devpost.com/",
-      "time_left_to_submission": "about 17 hours left",
-      "submission_period_dates": "May 25 - 27, 2023",
-      "themes": [
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "€<span data-currency-value>2,500</span>",
-      "registrations_count": 83,
-      "featured": true,
-      "organization_name": "ratisbona coding e.V.",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackaburg-2022.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackaburg-2022.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 18394,
       "title": "X-thon 2",
       "displayed_location": {
@@ -48,7 +11,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/486/331/datas/medium_square.png",
       "analytics_identifier": "X-thon 2 (18394)",
       "url": "https://x-thon.devpost.com/",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 4 hours left",
       "submission_period_dates": "May 25 - 27, 2023",
       "themes": [
         {
@@ -65,12 +28,82 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>8,000</span>",
-      "registrations_count": 54,
+      "registrations_count": 57,
       "featured": true,
       "organization_name": "HTS",
       "winners_announced": false,
       "submission_gallery_url": "https://x-thon.devpost.com/project-gallery",
       "start_a_submission_url": "https://x-thon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18066,
+      "title": "TechTogether New York 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "St. John's University - D'Angelo Center"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/448/977/datas/medium_square.png",
+      "analytics_identifier": "TechTogether New York 2023 (18066)",
+      "url": "https://techtogether-nyc-2023.devpost.com/",
+      "time_left_to_submission": "about 22 hours left",
+      "submission_period_dates": "May 27 - 28, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>2,610</span>",
+      "registrations_count": 40,
+      "featured": true,
+      "organization_name": "TechTogether",
+      "winners_announced": false,
+      "submission_gallery_url": "https://techtogether-nyc-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://techtogether-nyc-2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18325,
+      "title": "Supernova Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Fremont High School"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/477/017/datas/medium_square.png",
+      "analytics_identifier": "Supernova Hackathon (18325)",
+      "url": "https://supernova-hackathon.devpost.com/",
+      "time_left_to_submission": "about 4 hours left",
+      "submission_period_dates": "May 27, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 16,
+          "name": "Health"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>8,000</span>",
+      "registrations_count": 4,
+      "featured": true,
+      "organization_name": "Supernova Lynbrook",
+      "winners_announced": false,
+      "submission_gallery_url": "https://supernova-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://supernova-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -85,7 +118,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/385/307/datas/medium_square.png",
       "analytics_identifier": "MBOA CODE (17554)",
       "url": "https://mboa-code.devpost.com/",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "about 22 hours left",
       "submission_period_dates": "Feb 17 - May 28, 2023",
       "themes": [
         {
@@ -102,7 +135,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,800</span>",
-      "registrations_count": 83,
+      "registrations_count": 86,
       "featured": false,
       "organization_name": "Pan-African Associates ",
       "winners_announced": false,
@@ -131,7 +164,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>20</span>",
-      "registrations_count": 55,
+      "registrations_count": 57,
       "featured": false,
       "organization_name": "HackMIT",
       "winners_announced": false,
@@ -141,46 +174,54 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18211,
-      "title": "Open Web House MTY ft. CriptoMexico",
+      "id": 18369,
+      "title": "VenusHacks 2023",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "LABNL Lab Cultural Ciudadano"
+        "location": "University of California, Irvine"
       },
       "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/463/472/datas/medium_square.png",
-      "analytics_identifier": "Open Web House MTY ft. CriptoMexico (18211)",
-      "url": "https://owh-mty-ft-criptomexico.devpost.com/",
-      "time_left_to_submission": "about 19 hours left",
-      "submission_period_dates": "May 24 - 27, 2023",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/482/092/datas/medium_square.png",
+      "analytics_identifier": "VenusHacks 2023 (18369)",
+      "url": "https://venushacks-2023.devpost.com/",
+      "time_left_to_submission": "about 23 hours left",
+      "submission_period_dates": "May 27 - 28, 2023",
       "themes": [
         {
-          "id": 1,
-          "name": "Blockchain"
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
         }
       ],
-      "prize_amount": "$<span data-currency-value>4,300</span>",
-      "registrations_count": 36,
+      "prize_amount": "$<span data-currency-value>1,877</span>",
+      "registrations_count": 28,
       "featured": false,
-      "organization_name": "Open Web Academy",
+      "organization_name": "WICS & Hack at UCI",
       "winners_announced": false,
-      "submission_gallery_url": "https://owh-mty-ft-criptomexico.devpost.com/project-gallery",
-      "start_a_submission_url": "https://owh-mty-ft-criptomexico.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Haber completado el pregistro en Google Forms"
+      "submission_gallery_url": "https://venushacks-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://venushacks-2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 18373,
       "title": "2nd PHYSICS Hackathon",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Greece"
+        "location": "Ελλάδα"
       },
       "open_state": "open",
       "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
       "analytics_identifier": "2nd PHYSICS Hackathon (18373)",
       "url": "https://2nd-physics-hackathon.devpost.com/",
-      "time_left_to_submission": "12 days left",
+      "time_left_to_submission": "11 days left",
       "submission_period_dates": "May 24 - Jun 07, 2023",
       "themes": [
         {
@@ -193,12 +234,49 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>435</span>",
-      "registrations_count": 25,
+      "registrations_count": 27,
       "featured": false,
       "organization_name": "PHYSICS Project",
       "winners_announced": false,
       "submission_gallery_url": "https://2nd-physics-hackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://2nd-physics-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18420,
+      "title": "Westview Hacks",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Pacific Time"
+      },
+      "open_state": "open",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "Westview Hacks (18420)",
+      "url": "https://westview-hacks.devpost.com/",
+      "time_left_to_submission": "about 1 hour left",
+      "submission_period_dates": "May 27, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 28,
+          "name": "Databases"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>25</span>",
+      "registrations_count": 10,
+      "featured": false,
+      "organization_name": "Westview Webdev Club",
+      "winners_announced": false,
+      "submission_gallery_url": "https://westview-hacks.devpost.com/project-gallery",
+      "start_a_submission_url": "https://westview-hacks.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -213,7 +291,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/470/711/datas/medium_square.jpg",
       "analytics_identifier": "LifeHack 2023 (18271)",
       "url": "https://lifehack-23.devpost.com/",
-      "time_left_to_submission": "4 days left",
+      "time_left_to_submission": "2 days left",
       "submission_period_dates": "May 18 - 30, 2023",
       "themes": [
         {
@@ -234,39 +312,6 @@
       "start_a_submission_url": "https://lifehack-23.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "LifeHack 2023 participants only"
-    },
-    {
-      "id": 18066,
-      "title": "TechTogether New York 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "St. John's University - D'Angelo Center"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/448/977/datas/medium_square.png",
-      "analytics_identifier": "TechTogether New York 2023 (18066)",
-      "url": "https://techtogether-nyc-2023.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 27 - 28, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>2,610</span>",
-      "registrations_count": 25,
-      "featured": true,
-      "organization_name": "TechTogether",
-      "winners_announced": false,
-      "submission_gallery_url": "https://techtogether-nyc-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://techtogether-nyc-2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 15141,
@@ -296,7 +341,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>17,000</span>",
-      "registrations_count": 187,
+      "registrations_count": 189,
       "featured": false,
       "organization_name": "iata",
       "winners_announced": false,
@@ -325,7 +370,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>350</span>",
-      "registrations_count": 118,
+      "registrations_count": 122,
       "featured": false,
       "organization_name": "Mathworks",
       "winners_announced": false,
@@ -399,12 +444,49 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 13,
+      "registrations_count": 16,
       "featured": false,
       "organization_name": "National Academies",
       "winners_announced": false,
       "submission_gallery_url": "https://sti-hackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://sti-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18191,
+      "title": "YouthCodeX",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": null
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/488/760/datas/medium_square.jpg",
+      "analytics_identifier": "YouthCodeX (18191)",
+      "url": "https://youthcodex.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jul 29, 2023",
+      "themes": [
+        {
+          "id": 18,
+          "name": "Design"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>90,000</span>",
+      "registrations_count": 11,
+      "featured": false,
+      "organization_name": "Youth Code Foundation",
+      "winners_announced": false,
+      "submission_gallery_url": "https://youthcodex.devpost.com/project-gallery",
+      "start_a_submission_url": "https://youthcodex.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -510,7 +592,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>12,500</span>",
-      "registrations_count": 7,
+      "registrations_count": 8,
       "featured": false,
       "organization_name": "Amplitude",
       "winners_announced": false,
@@ -547,12 +629,49 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>2,500</span>",
-      "registrations_count": 6,
+      "registrations_count": 7,
       "featured": false,
       "organization_name": "Airport Techology Lab (ATL)",
       "winners_announced": false,
       "submission_gallery_url": "https://id-wallet-biometrics-aviation.devpost.com/project-gallery",
       "start_a_submission_url": "https://id-wallet-biometrics-aviation.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 17365,
+      "title": "Hoya Hacks 2024",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Healey Family Student Center"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
+      "analytics_identifier": "Hoya Hacks 2024 (17365)",
+      "url": "https://hoya-hacks-2024.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jan 26 - 28, 2024",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1,000</span>",
+      "registrations_count": 6,
+      "featured": false,
+      "organization_name": "Hoya Hacks",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hoya-hacks-2024.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hoya-hacks-2024.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -590,117 +709,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://hackpnw-summer.devpost.com/project-gallery",
       "start_a_submission_url": "https://hackpnw-summer.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 17365,
-      "title": "Hoya Hacks 2024",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Healey Family Student Center"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "Hoya Hacks 2024 (17365)",
-      "url": "https://hoya-hacks-2024.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jan 26 - 28, 2024",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>1,000</span>",
-      "registrations_count": 5,
-      "featured": false,
-      "organization_name": "Hoya Hacks",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hoya-hacks-2024.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hoya-hacks-2024.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18420,
-      "title": "Westview Hacks",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Pacific Time"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "Westview Hacks (18420)",
-      "url": "https://westview-hacks.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 27, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 28,
-          "name": "Databases"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>25</span>",
-      "registrations_count": 4,
-      "featured": false,
-      "organization_name": "Westview Webdev Club",
-      "winners_announced": false,
-      "submission_gallery_url": "https://westview-hacks.devpost.com/project-gallery",
-      "start_a_submission_url": "https://westview-hacks.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18325,
-      "title": "Supernova Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Fremont High School"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/477/017/datas/medium_square.png",
-      "analytics_identifier": "Supernova Hackathon (18325)",
-      "url": "https://supernova-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 27, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 16,
-          "name": "Health"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>8,000</span>",
-      "registrations_count": 3,
-      "featured": true,
-      "organization_name": "Supernova Lynbrook",
-      "winners_announced": false,
-      "submission_gallery_url": "https://supernova-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://supernova-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -845,82 +853,45 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18191,
-      "title": "YouthCodeX",
+      "id": 18395,
+      "title": "Hackamental",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": null
+        "location": "VISST"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/488/760/datas/medium_square.jpg",
-      "analytics_identifier": "YouthCodeX (18191)",
-      "url": "https://youthcodex.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/486/495/datas/medium_square.png",
+      "analytics_identifier": "Hackamental (18395)",
+      "url": "https://hackamental.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jul 29, 2023",
-      "themes": [
-        {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 11,
-          "name": "Productivity"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>90,000</span>",
-      "registrations_count": 2,
-      "featured": false,
-      "organization_name": "Youth Code Foundation",
-      "winners_announced": false,
-      "submission_gallery_url": "https://youthcodex.devpost.com/project-gallery",
-      "start_a_submission_url": "https://youthcodex.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18369,
-      "title": "VenusHacks 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "University of California, Irvine"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/482/092/datas/medium_square.png",
-      "analytics_identifier": "VenusHacks 2023 (18369)",
-      "url": "https://venushacks-2023.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 27 - 28, 2023",
+      "submission_period_dates": "Jun 24, 2023",
       "themes": [
         {
           "id": 23,
           "name": "Beginner Friendly"
         },
         {
-          "id": 22,
-          "name": "Open Ended"
+          "id": 16,
+          "name": "Health"
         },
         {
           "id": 13,
           "name": "Social Good"
         }
       ],
-      "prize_amount": "$<span data-currency-value>1,877</span>",
+      "prize_amount": "$CAD<span data-currency-value>500</span>",
       "registrations_count": 1,
       "featured": false,
-      "organization_name": "WICS & Hack at UCI",
+      "organization_name": "XdHacks Mini",
       "winners_announced": false,
-      "submission_gallery_url": "https://venushacks-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://venushacks-2023.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://hackamental.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackamental.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     }
   ],
   "meta": {
-    "total_count": 26,
+    "total_count": 25,
     "per_page": 40,
     "fuzzy": false
   }
