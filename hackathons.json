@@ -1,214 +1,74 @@
 {
   "hackathons": [
     {
-      "id": 18394,
-      "title": "X-thon 2",
+      "id": 18421,
+      "title": "GryphHacks 2023",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "مكتبة التخصصات الصحية"
+        "location": "University of Guelph - University Cenre"
       },
       "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/486/331/datas/medium_square.png",
-      "analytics_identifier": "X-thon 2 (18394)",
-      "url": "https://x-thon.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/489/721/datas/medium_square.png",
+      "analytics_identifier": "GryphHacks 2023 (18421)",
+      "url": "https://gryphhacks-2023.devpost.com/",
       "time_left_to_submission": "about 4 hours left",
-      "submission_period_dates": "May 25 - 27, 2023",
-      "themes": [
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 4,
-          "name": "Gaming"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>8,000</span>",
-      "registrations_count": 57,
-      "featured": true,
-      "organization_name": "HTS",
-      "winners_announced": false,
-      "submission_gallery_url": "https://x-thon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://x-thon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18066,
-      "title": "TechTogether New York 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "St. John's University - D'Angelo Center"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/448/977/datas/medium_square.png",
-      "analytics_identifier": "TechTogether New York 2023 (18066)",
-      "url": "https://techtogether-nyc-2023.devpost.com/",
-      "time_left_to_submission": "about 22 hours left",
       "submission_period_dates": "May 27 - 28, 2023",
       "themes": [
         {
           "id": 23,
           "name": "Beginner Friendly"
         },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>2,610</span>",
-      "registrations_count": 40,
-      "featured": true,
-      "organization_name": "TechTogether",
-      "winners_announced": false,
-      "submission_gallery_url": "https://techtogether-nyc-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://techtogether-nyc-2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18325,
-      "title": "Supernova Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Fremont High School"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/477/017/datas/medium_square.png",
-      "analytics_identifier": "Supernova Hackathon (18325)",
-      "url": "https://supernova-hackathon.devpost.com/",
-      "time_left_to_submission": "about 4 hours left",
-      "submission_period_dates": "May 27, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 16,
-          "name": "Health"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>8,000</span>",
-      "registrations_count": 4,
-      "featured": true,
-      "organization_name": "Supernova Lynbrook",
-      "winners_announced": false,
-      "submission_gallery_url": "https://supernova-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://supernova-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 17554,
-      "title": "MBOA CODE",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "GUIMS SPORT ACADEMY - LOGBESSOU"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/385/307/datas/medium_square.png",
-      "analytics_identifier": "MBOA CODE (17554)",
-      "url": "https://mboa-code.devpost.com/",
-      "time_left_to_submission": "about 22 hours left",
-      "submission_period_dates": "Feb 17 - May 28, 2023",
-      "themes": [
         {
           "id": 18,
           "name": "Design"
         },
         {
-          "id": 26,
-          "name": "Mobile"
-        },
-        {
-          "id": 25,
-          "name": "Web"
+          "id": 6,
+          "name": "Machine Learning/AI"
         }
       ],
-      "prize_amount": "$<span data-currency-value>1,800</span>",
-      "registrations_count": 86,
+      "prize_amount": "$CAD<span data-currency-value>3,400</span>",
+      "registrations_count": 46,
       "featured": false,
-      "organization_name": "Pan-African Associates ",
+      "organization_name": "university of guelph",
       "winners_announced": false,
-      "submission_gallery_url": "https://mboa-code.devpost.com/project-gallery",
-      "start_a_submission_url": "https://mboa-code.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://gryphhacks-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://gryphhacks-2023.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18109,
-      "title": "HackMIT",
+      "id": 18271,
+      "title": "LifeHack 2023",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Cambridge, MA, USA"
+        "location": "Singapore, Singapore"
       },
       "open_state": "open",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "HackMIT (18109)",
-      "url": "https://hackmit-2023.devpost.com/",
-      "time_left_to_submission": "4 months left",
-      "submission_period_dates": "Apr 19 - Sep 17, 2023",
-      "themes": [
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>20</span>",
-      "registrations_count": 57,
-      "featured": false,
-      "organization_name": "HackMIT",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackmit-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackmit-2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18369,
-      "title": "VenusHacks 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "University of California, Irvine"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/482/092/datas/medium_square.png",
-      "analytics_identifier": "VenusHacks 2023 (18369)",
-      "url": "https://venushacks-2023.devpost.com/",
-      "time_left_to_submission": "about 23 hours left",
-      "submission_period_dates": "May 27 - 28, 2023",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/470/711/datas/medium_square.jpg",
+      "analytics_identifier": "LifeHack 2023 (18271)",
+      "url": "https://lifehack-23.devpost.com/",
+      "time_left_to_submission": "1 day left",
+      "submission_period_dates": "May 18 - 30, 2023",
       "themes": [
         {
           "id": 23,
           "name": "Beginner Friendly"
         },
         {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
+          "id": 14,
+          "name": "COVID-19"
         }
       ],
-      "prize_amount": "$<span data-currency-value>1,877</span>",
+      "prize_amount": "$<span data-currency-value>16,000</span>",
       "registrations_count": 28,
       "featured": false,
-      "organization_name": "WICS & Hack at UCI",
+      "organization_name": "NUS Students' Computing Club",
       "winners_announced": false,
-      "submission_gallery_url": "https://venushacks-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://venushacks-2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
+      "submission_gallery_url": "https://lifehack-23.devpost.com/project-gallery",
+      "start_a_submission_url": "https://lifehack-23.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "LifeHack 2023 participants only"
     },
     {
       "id": 18373,
@@ -221,7 +81,7 @@
       "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
       "analytics_identifier": "2nd PHYSICS Hackathon (18373)",
       "url": "https://2nd-physics-hackathon.devpost.com/",
-      "time_left_to_submission": "11 days left",
+      "time_left_to_submission": "10 days left",
       "submission_period_dates": "May 24 - Jun 07, 2023",
       "themes": [
         {
@@ -244,74 +104,115 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18420,
-      "title": "Westview Hacks",
+      "id": 18427,
+      "title": "Climate AI Hackathon | SF #TechWeek",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Pacific Time"
+        "location": "Shack15"
       },
       "open_state": "open",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
-      "analytics_identifier": "Westview Hacks (18420)",
-      "url": "https://westview-hacks.devpost.com/",
-      "time_left_to_submission": "about 1 hour left",
-      "submission_period_dates": "May 27, 2023",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/490/038/datas/medium_square.png",
+      "analytics_identifier": "Climate AI Hackathon | SF #TechWeek (18427)",
+      "url": "https://aixclimate.devpost.com/",
+      "time_left_to_submission": "about 2 hours left",
+      "submission_period_dates": "May 28, 2023",
       "themes": [
         {
-          "id": 23,
-          "name": "Beginner Friendly"
+          "id": 6,
+          "name": "Machine Learning/AI"
         },
         {
-          "id": 28,
-          "name": "Databases"
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>12,150</span>",
+      "registrations_count": 19,
+      "featured": false,
+      "organization_name": "Cerebral Valley",
+      "winners_announced": false,
+      "submission_gallery_url": "https://aixclimate.devpost.com/project-gallery",
+      "start_a_submission_url": "https://aixclimate.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18423,
+      "title": "Tigre Hacks",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Polideportivo FIME"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/489/014/datas/medium_square.jpg",
+      "analytics_identifier": "Tigre Hacks (18423)",
+      "url": "https://tigre-hacks.devpost.com/",
+      "time_left_to_submission": "about 1 hour left",
+      "submission_period_dates": "May 28, 2023",
+      "themes": [
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
         },
         {
           "id": 25,
           "name": "Web"
         }
       ],
-      "prize_amount": "$<span data-currency-value>25</span>",
-      "registrations_count": 10,
+      "prize_amount": "MEX$<span data-currency-value>60,000</span>",
+      "registrations_count": 15,
       "featured": false,
-      "organization_name": "Westview Webdev Club",
+      "organization_name": "Bisontech",
       "winners_announced": false,
-      "submission_gallery_url": "https://westview-hacks.devpost.com/project-gallery",
-      "start_a_submission_url": "https://westview-hacks.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://tigre-hacks.devpost.com/project-gallery",
+      "start_a_submission_url": "https://tigre-hacks.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18271,
-      "title": "LifeHack 2023",
+      "id": 18428,
+      "title": "Hydra Hacks III",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Singapore, Singapore"
+        "location": "Oshman Family JCC"
       },
       "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/470/711/datas/medium_square.jpg",
-      "analytics_identifier": "LifeHack 2023 (18271)",
-      "url": "https://lifehack-23.devpost.com/",
-      "time_left_to_submission": "2 days left",
-      "submission_period_dates": "May 18 - 30, 2023",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/489/959/datas/medium_square.jpg",
+      "analytics_identifier": "Hydra Hacks III (18428)",
+      "url": "https://hydrahacks3.devpost.com/",
+      "time_left_to_submission": "about 9 hours left",
+      "submission_period_dates": "May 28, 2023",
       "themes": [
         {
           "id": 23,
           "name": "Beginner Friendly"
         },
         {
-          "id": 14,
-          "name": "COVID-19"
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
         }
       ],
-      "prize_amount": "$<span data-currency-value>15,000</span>",
-      "registrations_count": 8,
+      "prize_amount": "$<span data-currency-value>3,000</span>",
+      "registrations_count": 2,
       "featured": false,
-      "organization_name": "NUS Students' Computing Club",
+      "organization_name": "Hydra Hacks",
       "winners_announced": false,
-      "submission_gallery_url": "https://lifehack-23.devpost.com/project-gallery",
-      "start_a_submission_url": "https://lifehack-23.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "LifeHack 2023 participants only"
+      "submission_gallery_url": "https://hydrahacks3.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hydrahacks3.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 15141,
@@ -481,7 +382,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>90,000</span>",
-      "registrations_count": 11,
+      "registrations_count": 13,
       "featured": false,
       "organization_name": "Youth Code Foundation",
       "winners_announced": false,
@@ -518,7 +419,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>24,500</span>",
-      "registrations_count": 10,
+      "registrations_count": 12,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -526,6 +427,43 @@
       "start_a_submission_url": "https://api-world-hackathon-2023.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18218,
+      "title": "AI x Product Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Amplitude SF "
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/464/079/datas/medium_square.jpg",
+      "analytics_identifier": "AI x Product Hackathon (18218)",
+      "url": "https://ai-x-product-hackathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jun 03 - 04, 2023",
+      "themes": [
+        {
+          "id": 28,
+          "name": "Databases"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>12,500</span>",
+      "registrations_count": 10,
+      "featured": false,
+      "organization_name": "Amplitude",
+      "winners_announced": false,
+      "submission_gallery_url": "https://ai-x-product-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://ai-x-product-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Individuals signed up on EventBrite with a ticket."
     },
     {
       "id": 18278,
@@ -563,43 +501,6 @@
       "start_a_submission_url": "https://dw-cloudx-2023-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18218,
-      "title": "AI x Product Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Amplitude SF "
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/464/079/datas/medium_square.jpg",
-      "analytics_identifier": "AI x Product Hackathon (18218)",
-      "url": "https://ai-x-product-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 03 - 04, 2023",
-      "themes": [
-        {
-          "id": 28,
-          "name": "Databases"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>12,500</span>",
-      "registrations_count": 8,
-      "featured": false,
-      "organization_name": "Amplitude",
-      "winners_announced": false,
-      "submission_gallery_url": "https://ai-x-product-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://ai-x-product-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Individuals signed up on EventBrite with a ticket."
     },
     {
       "id": 18344,
@@ -783,6 +684,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 18429,
+      "title": "SICK Solution Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "SICK SIA Campus"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/490/031/datas/medium_square.png",
+      "analytics_identifier": "SICK Solution Hackathon (18429)",
+      "url": "https://sick-solution-hackathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 24 - 26, 2023",
+      "themes": [
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 27,
+          "name": "Robotic Process Automation"
+        }
+      ],
+      "prize_amount": "€<span data-currency-value>120,000</span>",
+      "registrations_count": 3,
+      "featured": false,
+      "organization_name": "SICK",
+      "winners_announced": false,
+      "submission_gallery_url": "https://sick-solution-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://sick-solution-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "College students and young professionals may apply"
+    },
+    {
       "id": 17723,
       "title": "[See desc for more info] PlanetUnity Winter '23 - WORLD",
       "displayed_location": {
@@ -853,6 +791,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 18430,
+      "title": "Code4Good Hack",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Alum Rock Library"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/491/092/datas/medium_square.png",
+      "analytics_identifier": "Code4Good Hack (18430)",
+      "url": "https://code4goodhack.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "May 28 - Jun 04, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 17,
+          "name": "Low/No Code"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>4,000</span>",
+      "registrations_count": 1,
+      "featured": false,
+      "organization_name": "Code4Good",
+      "winners_announced": false,
+      "submission_gallery_url": "https://code4goodhack.devpost.com/project-gallery",
+      "start_a_submission_url": "https://code4goodhack.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 18395,
       "title": "Hackamental",
       "displayed_location": {
@@ -891,7 +866,7 @@
     }
   ],
   "meta": {
-    "total_count": 25,
+    "total_count": 24,
     "per_page": 40,
     "fuzzy": false
   }
