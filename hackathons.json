@@ -11,7 +11,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/491/092/datas/medium_square.png",
       "analytics_identifier": "Code4Good Hack (Hybrid) (18430)",
       "url": "https://code4goodhack.devpost.com/",
-      "time_left_to_submission": "5 days left",
+      "time_left_to_submission": "4 days left",
       "submission_period_dates": "May 28 - Jun 04, 2023",
       "themes": [
         {
@@ -28,7 +28,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>4,000</span>",
-      "registrations_count": 20,
+      "registrations_count": 30,
       "featured": true,
       "organization_name": "Code4Good",
       "winners_announced": false,
@@ -42,13 +42,13 @@
       "title": "2nd PHYSICS Hackathon",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Ελλάδα"
+        "location": "Greece"
       },
       "open_state": "open",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder.gif",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
       "analytics_identifier": "2nd PHYSICS Hackathon (18373)",
       "url": "https://2nd-physics-hackathon.devpost.com/",
-      "time_left_to_submission": "8 days left",
+      "time_left_to_submission": "7 days left",
       "submission_period_dates": "May 24 - Jun 07, 2023",
       "themes": [
         {
@@ -98,12 +98,86 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>17,000</span>",
-      "registrations_count": 189,
+      "registrations_count": 190,
       "featured": false,
       "organization_name": "iata",
       "winners_announced": false,
       "submission_gallery_url": "https://onerecord-fra.devpost.com/project-gallery",
       "start_a_submission_url": "https://onerecord-fra.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18218,
+      "title": "AI x Product Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Amplitude SF "
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/464/079/datas/medium_square.jpg",
+      "analytics_identifier": "AI x Product Hackathon (18218)",
+      "url": "https://ai-x-product-hackathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jun 03 - 04, 2023",
+      "themes": [
+        {
+          "id": 28,
+          "name": "Databases"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>12,500</span>",
+      "registrations_count": 15,
+      "featured": true,
+      "organization_name": "Amplitude",
+      "winners_announced": false,
+      "submission_gallery_url": "https://ai-x-product-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://ai-x-product-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Individuals signed up on EventBrite with a ticket."
+    },
+    {
+      "id": 18200,
+      "title": "HackPNW Summer",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Northeastern University - Seattle"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/463/081/datas/medium_square.png",
+      "analytics_identifier": "HackPNW Summer (18200)",
+      "url": "https://hackpnw-summer.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jun 03 - 04, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 18,
+          "name": "Design"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1,095</span>",
+      "registrations_count": 5,
+      "featured": true,
+      "organization_name": "HackPNW Team",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackpnw-summer.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackpnw-summer.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -127,7 +201,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>350</span>",
-      "registrations_count": 122,
+      "registrations_count": 125,
       "featured": false,
       "organization_name": "Mathworks",
       "winners_announced": false,
@@ -164,7 +238,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>90,000</span>",
-      "registrations_count": 20,
+      "registrations_count": 22,
       "featured": false,
       "organization_name": "Youth Code Foundation",
       "winners_announced": false,
@@ -275,7 +349,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>24,500</span>",
-      "registrations_count": 15,
+      "registrations_count": 16,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -283,43 +357,6 @@
       "start_a_submission_url": "https://api-world-hackathon-2023.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18218,
-      "title": "AI x Product Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Amplitude SF "
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/464/079/datas/medium_square.jpg",
-      "analytics_identifier": "AI x Product Hackathon (18218)",
-      "url": "https://ai-x-product-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 03 - 04, 2023",
-      "themes": [
-        {
-          "id": 28,
-          "name": "Databases"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>12,500</span>",
-      "registrations_count": 13,
-      "featured": true,
-      "organization_name": "Amplitude",
-      "winners_announced": false,
-      "submission_gallery_url": "https://ai-x-product-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://ai-x-product-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Individuals signed up on EventBrite with a ticket."
     },
     {
       "id": 18278,
@@ -349,7 +386,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>12,500</span>",
-      "registrations_count": 11,
+      "registrations_count": 15,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -396,6 +433,39 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 18246,
+      "title": "Generative AI Hackathon: Revolutionize the Future of Work & Business",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Hacker Dojo "
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/469/476/datas/medium_square.png",
+      "analytics_identifier": "Generative AI Hackathon: Revolutionize the Future of Work & Business (18246)",
+      "url": "https://generative-ai-hackathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jun 23 - 25, 2023",
+      "themes": [
+        {
+          "id": 21,
+          "name": "Enterprise"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>700</span>",
+      "registrations_count": 8,
+      "featured": false,
+      "organization_name": "FutureProof",
+      "winners_announced": false,
+      "submission_gallery_url": "https://generative-ai-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://generative-ai-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 17365,
       "title": "Hoya Hacks 2024",
       "displayed_location": {
@@ -403,7 +473,7 @@
         "location": "Healey Family Student Center"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder.gif",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-42bcab8d8178b413922ae2877d8b0868.gif",
       "analytics_identifier": "Hoya Hacks 2024 (17365)",
       "url": "https://hoya-hacks-2024.devpost.com/",
       "time_left_to_submission": "Upcoming",
@@ -429,43 +499,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://hoya-hacks-2024.devpost.com/project-gallery",
       "start_a_submission_url": "https://hoya-hacks-2024.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18200,
-      "title": "HackPNW Summer",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Northeastern University - Seattle"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/463/081/datas/medium_square.png",
-      "analytics_identifier": "HackPNW Summer (18200)",
-      "url": "https://hackpnw-summer.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 03 - 04, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>1,095</span>",
-      "registrations_count": 5,
-      "featured": true,
-      "organization_name": "HackPNW Team",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackpnw-summer.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackpnw-summer.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -577,6 +610,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 18435,
+      "title": "Charleston Summer Hacks - Hack for Good ",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Charleston Tech Center"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/493/189/datas/medium_square.png",
+      "analytics_identifier": "Charleston Summer Hacks - Hack for Good  (18435)",
+      "url": "https://charlestonhacks-hfg.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jun 21 - 27, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 3,
+      "featured": false,
+      "organization_name": "Charleston Digital Corridor",
+      "winners_announced": false,
+      "submission_gallery_url": "https://charlestonhacks-hfg.devpost.com/project-gallery",
+      "start_a_submission_url": "https://charlestonhacks-hfg.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 17723,
       "title": "[See desc for more info] PlanetUnity Winter '23 - WORLD",
       "displayed_location": {
@@ -684,43 +754,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18435,
-      "title": "Charleston Summer Hacks - Hack for Good ",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Charleston Tech Center"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/493/189/datas/medium_square.png",
-      "analytics_identifier": "Charleston Summer Hacks - Hack for Good  (18435)",
-      "url": "https://charlestonhacks-hfg.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 21 - 27, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 2,
-      "featured": false,
-      "organization_name": "Charleston Digital Corridor",
-      "winners_announced": false,
-      "submission_gallery_url": "https://charlestonhacks-hfg.devpost.com/project-gallery",
-      "start_a_submission_url": "https://charlestonhacks-hfg.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 18440,
       "title": "BÄKO-Hackathon",
       "displayed_location": {
@@ -788,7 +821,7 @@
     }
   ],
   "meta": {
-    "total_count": 22,
+    "total_count": 23,
     "per_page": 40,
     "fuzzy": false
   }
