@@ -1,91 +1,17 @@
 {
   "hackathons": [
     {
-      "id": 18344,
-      "title": "Identity Wallets and Biometrics Hackathon: Reshaping Safe and Seamless Aviation",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Albeda Rotterdam Airport College"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/480/814/datas/medium_square.png",
-      "analytics_identifier": "Identity Wallets and Biometrics Hackathon: Reshaping Safe and Seamless Aviation (18344)",
-      "url": "https://id-wallet-biometrics-aviation.devpost.com/",
-      "time_left_to_submission": "about 19 hours left",
-      "submission_period_dates": "Jun 08 - 09, 2023",
-      "themes": [
-        {
-          "id": 9,
-          "name": "Cybersecurity"
-        },
-        {
-          "id": 26,
-          "name": "Mobile"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "€<span data-currency-value>2,500</span>",
-      "registrations_count": 19,
-      "featured": true,
-      "organization_name": "Airport Techology Lab (ATL)",
-      "winners_announced": false,
-      "submission_gallery_url": "https://id-wallet-biometrics-aviation.devpost.com/project-gallery",
-      "start_a_submission_url": "https://id-wallet-biometrics-aviation.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 15141,
-      "title": "IATA ONE Record Hackathon – hosted by Lufthansa Cargo",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Lufthansa Seeheim"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/001/879/010/datas/medium_square.png",
-      "analytics_identifier": "IATA ONE Record Hackathon – hosted by Lufthansa Cargo (15141)",
-      "url": "https://onerecord-fra.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 23 - 25, 2023",
-      "themes": [
-        {
-          "id": 20,
-          "name": "E-commerce/Retail"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>17,000</span>",
-      "registrations_count": 197,
-      "featured": false,
-      "organization_name": "iata",
-      "winners_announced": false,
-      "submission_gallery_url": "https://onerecord-fra.devpost.com/project-gallery",
-      "start_a_submission_url": "https://onerecord-fra.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 17904,
       "title": "HackThisJune 2023",
       "displayed_location": {
         "icon": "map-marker-alt",
         "location": "Butwal,Nepal"
       },
-      "open_state": "upcoming",
+      "open_state": "open",
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/425/698/datas/medium_square.png",
       "analytics_identifier": "HackThisJune 2023 (17904)",
       "url": "https://hackthisjune2023.devpost.com/",
-      "time_left_to_submission": "Upcoming",
+      "time_left_to_submission": "about 10 hours left",
       "submission_period_dates": "Jun 08 - 09, 2023",
       "themes": [
         {
@@ -139,7 +65,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 23,
+      "registrations_count": 25,
       "featured": true,
       "organization_name": "Charleston Digital Corridor",
       "winners_announced": false,
@@ -147,6 +73,76 @@
       "start_a_submission_url": "https://charlestonhacks.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 15141,
+      "title": "IATA ONE Record Hackathon – hosted by Lufthansa Cargo",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Lufthansa Seeheim"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/001/879/010/datas/medium_square.png",
+      "analytics_identifier": "IATA ONE Record Hackathon – hosted by Lufthansa Cargo (15141)",
+      "url": "https://onerecord-fra.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jun 23 - 25, 2023",
+      "themes": [
+        {
+          "id": 20,
+          "name": "E-commerce/Retail"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>17,000</span>",
+      "registrations_count": 198,
+      "featured": false,
+      "organization_name": "iata",
+      "winners_announced": false,
+      "submission_gallery_url": "https://onerecord-fra.devpost.com/project-gallery",
+      "start_a_submission_url": "https://onerecord-fra.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18468,
+      "title": "JAMHacks 7",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "UW Engineering 7 Building"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/499/446/datas/medium_square.png",
+      "analytics_identifier": "JAMHacks 7 (18468)",
+      "url": "https://jamhacks-7.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jun 09 - 11, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$CAD<span data-currency-value>5,720</span>",
+      "registrations_count": 45,
+      "featured": false,
+      "organization_name": "JAMHacks",
+      "winners_announced": false,
+      "submission_gallery_url": "https://jamhacks-7.devpost.com/project-gallery",
+      "start_a_submission_url": "https://jamhacks-7.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Applications for JAMHacks 7 have now closed."
     },
     {
       "id": 18191,
@@ -176,7 +172,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>101,500</span>",
-      "registrations_count": 38,
+      "registrations_count": 43,
       "featured": false,
       "organization_name": "Youth Code Foundation",
       "winners_announced": false,
@@ -213,7 +209,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 33,
+      "registrations_count": 34,
       "featured": false,
       "organization_name": "National Academies",
       "winners_announced": false,
@@ -246,7 +242,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>700</span>",
-      "registrations_count": 25,
+      "registrations_count": 26,
       "featured": false,
       "organization_name": "FutureProof",
       "winners_announced": false,
@@ -279,7 +275,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>28,500</span>",
-      "registrations_count": 24,
+      "registrations_count": 25,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -315,7 +311,7 @@
           "name": "Open Ended"
         }
       ],
-      "prize_amount": "$<span data-currency-value>12,500</span>",
+      "prize_amount": "$<span data-currency-value>16,500</span>",
       "registrations_count": 16,
       "featured": false,
       "organization_name": "DevNetwork",
@@ -324,39 +320,6 @@
       "start_a_submission_url": "https://dw-cloudx-2023-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18468,
-      "title": "JAMHacks 7",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "UW Engineering 7 Building"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/499/446/datas/medium_square.png",
-      "analytics_identifier": "JAMHacks 7 (18468)",
-      "url": "https://jamhacks-7.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 09 - 11, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$CAD<span data-currency-value>4,620</span>",
-      "registrations_count": 12,
-      "featured": false,
-      "organization_name": "JAMHacks",
-      "winners_announced": false,
-      "submission_gallery_url": "https://jamhacks-7.devpost.com/project-gallery",
-      "start_a_submission_url": "https://jamhacks-7.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Applications for JAMHacks 7 have now closed."
     },
     {
       "id": 18435,
@@ -386,14 +349,51 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 8,
-      "featured": false,
+      "registrations_count": 9,
+      "featured": true,
       "organization_name": "Charleston Digital Corridor",
       "winners_announced": false,
       "submission_gallery_url": "https://charlestonhacks-hfg.devpost.com/project-gallery",
       "start_a_submission_url": "https://charlestonhacks-hfg.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18429,
+      "title": "SICK Solution Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "SICK SIA Campus"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/490/031/datas/medium_square.png",
+      "analytics_identifier": "SICK Solution Hackathon (18429)",
+      "url": "https://sick-solution-hackathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 24 - 26, 2023",
+      "themes": [
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 27,
+          "name": "Robotic Process Automation"
+        }
+      ],
+      "prize_amount": "€<span data-currency-value>120,000</span>",
+      "registrations_count": 8,
+      "featured": false,
+      "organization_name": "SICK",
+      "winners_announced": false,
+      "submission_gallery_url": "https://sick-solution-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://sick-solution-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "College students and young professionals may apply"
     },
     {
       "id": 18291,
@@ -427,43 +427,6 @@
       "start_a_submission_url": "https://built-different-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18429,
-      "title": "SICK Solution Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "SICK SIA Campus"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/490/031/datas/medium_square.png",
-      "analytics_identifier": "SICK Solution Hackathon (18429)",
-      "url": "https://sick-solution-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 24 - 26, 2023",
-      "themes": [
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 27,
-          "name": "Robotic Process Automation"
-        }
-      ],
-      "prize_amount": "€<span data-currency-value>120,000</span>",
-      "registrations_count": 6,
-      "featured": false,
-      "organization_name": "SICK",
-      "winners_announced": false,
-      "submission_gallery_url": "https://sick-solution-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://sick-solution-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "College students and young professionals may apply"
     },
     {
       "id": 17365,
@@ -529,15 +492,15 @@
           "name": "Open Ended"
         }
       ],
-      "prize_amount": "$<span data-currency-value>0</span>",
+      "prize_amount": "$<span data-currency-value>200</span>",
       "registrations_count": 5,
       "featured": false,
       "organization_name": "KLS Hackathon Team",
       "winners_announced": false,
       "submission_gallery_url": "https://hackakhan.devpost.com/project-gallery",
       "start_a_submission_url": "https://hackakhan.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Email to join waitlist: hackakhancontact@gmail.com"
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 18295,
@@ -563,7 +526,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>3,700</span>",
-      "registrations_count": 3,
+      "registrations_count": 4,
       "featured": false,
       "organization_name": "Built Different",
       "winners_announced": false,
@@ -714,7 +677,7 @@
     }
   ],
   "meta": {
-    "total_count": 20,
+    "total_count": 19,
     "per_page": 40,
     "fuzzy": false
   }
