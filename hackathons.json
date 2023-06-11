@@ -1,76 +1,6 @@
 {
   "hackathons": [
     {
-      "id": 18468,
-      "title": "JAMHacks 7",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "UW Engineering 7 Building"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/499/446/datas/medium_square.png",
-      "analytics_identifier": "JAMHacks 7 (18468)",
-      "url": "https://jamhacks-7.devpost.com/",
-      "time_left_to_submission": "about 21 hours left",
-      "submission_period_dates": "Jun 09 - 11, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$CAD<span data-currency-value>5,720</span>",
-      "registrations_count": 81,
-      "featured": false,
-      "organization_name": "JAMHacks",
-      "winners_announced": false,
-      "submission_gallery_url": "https://jamhacks-7.devpost.com/project-gallery",
-      "start_a_submission_url": "https://jamhacks-7.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Applications for JAMHacks 7 have now closed."
-    },
-    {
-      "id": 17772,
-      "title": "HackaKhan",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Khan Lab School"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/413/053/datas/medium_square.PNG",
-      "analytics_identifier": "HackaKhan (17772)",
-      "url": "https://hackakhan.devpost.com/",
-      "time_left_to_submission": "about 11 hours left",
-      "submission_period_dates": "Jun 10 - 11, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>200</span>",
-      "registrations_count": 12,
-      "featured": false,
-      "organization_name": "KLS Hackathon Team",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackakhan.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackakhan.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 18403,
       "title": "Charleston Summer Hacks - Generative AI Hack",
       "displayed_location": {
@@ -98,7 +28,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 26,
+      "registrations_count": 27,
       "featured": true,
       "organization_name": "Charleston Digital Corridor",
       "winners_announced": false,
@@ -135,7 +65,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>17,000</span>",
-      "registrations_count": 197,
+      "registrations_count": 198,
       "featured": false,
       "organization_name": "iata",
       "winners_announced": false,
@@ -172,7 +102,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 11,
+      "registrations_count": 12,
       "featured": true,
       "organization_name": "Charleston Digital Corridor",
       "winners_announced": false,
@@ -209,7 +139,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>101,500</span>",
-      "registrations_count": 45,
+      "registrations_count": 49,
       "featured": false,
       "organization_name": "Youth Code Foundation",
       "winners_announced": false,
@@ -246,7 +176,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 35,
+      "registrations_count": 37,
       "featured": false,
       "organization_name": "National Academies",
       "winners_announced": false,
@@ -279,7 +209,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>700</span>",
-      "registrations_count": 35,
+      "registrations_count": 36,
       "featured": false,
       "organization_name": "FutureProof",
       "winners_announced": false,
@@ -349,7 +279,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>16,500</span>",
-      "registrations_count": 16,
+      "registrations_count": 17,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -396,6 +326,43 @@
       "eligibility_requirement_invite_only_description": "College students and young professionals may apply"
     },
     {
+      "id": 17365,
+      "title": "Hoya Hacks 2024",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Healey Family Student Center"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder.gif",
+      "analytics_identifier": "Hoya Hacks 2024 (17365)",
+      "url": "https://hoya-hacks-2024.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jan 26 - 28, 2024",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1,000</span>",
+      "registrations_count": 7,
+      "featured": false,
+      "organization_name": "Hoya Hacks",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hoya-hacks-2024.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hoya-hacks-2024.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 18291,
       "title": "Built Different: Account Abstraction Hackathon",
       "displayed_location": {
@@ -429,43 +396,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 17365,
-      "title": "Hoya Hacks 2024",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Healey Family Student Center"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder.gif",
-      "analytics_identifier": "Hoya Hacks 2024 (17365)",
-      "url": "https://hoya-hacks-2024.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jan 26 - 28, 2024",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>1,000</span>",
-      "registrations_count": 6,
-      "featured": false,
-      "organization_name": "Hoya Hacks",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hoya-hacks-2024.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hoya-hacks-2024.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 18295,
       "title": "Built Different: Account Abstraction Hackathon (Kigali)",
       "displayed_location": {
@@ -489,49 +419,12 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>3,700</span>",
-      "registrations_count": 5,
+      "registrations_count": 6,
       "featured": false,
       "organization_name": "Built Different",
       "winners_announced": false,
       "submission_gallery_url": "https://built-different-kigali.devpost.com/project-gallery",
       "start_a_submission_url": "https://built-different-kigali.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18416,
-      "title": "TigerHacks 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Jackson-Reed High School Library"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/488/660/datas/medium_square.png",
-      "analytics_identifier": "TigerHacks 2023 (18416)",
-      "url": "https://tigerhacks-2023.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 10, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 17,
-          "name": "Low/No Code"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>528</span>",
-      "registrations_count": 4,
-      "featured": false,
-      "organization_name": "Jackson-Reed High School",
-      "winners_announced": false,
-      "submission_gallery_url": "https://tigerhacks-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://tigerhacks-2023.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -569,6 +462,43 @@
       "winners_announced": false,
       "submission_gallery_url": "https://planetunity-winter-23-world.devpost.com/project-gallery",
       "start_a_submission_url": "https://planetunity-winter-23-world.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18335,
+      "title": "Fall In Vets Hackathon with AI guest speaker from Harvard CS50 guest lecturer ",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Los Angeles"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/501/243/datas/medium_square.png",
+      "analytics_identifier": "Fall In Vets Hackathon with AI guest speaker from Harvard CS50 guest lecturer  (18335)",
+      "url": "https://fall-in-vets-hackathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jun 30 - Jul 02, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 16,
+          "name": "Health"
+        },
+        {
+          "id": 17,
+          "name": "Low/No Code"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 2,
+      "featured": false,
+      "organization_name": "Fall In",
+      "winners_announced": false,
+      "submission_gallery_url": "https://fall-in-vets-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://fall-in-vets-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -637,47 +567,10 @@
       "start_a_submission_url": "https://hackamental.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18335,
-      "title": "Fall In Vets Hackathon with AI guest speaker from Harvard CS50 guest lecturer ",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Los Angeles"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/501/243/datas/medium_square.png",
-      "analytics_identifier": "Fall In Vets Hackathon with AI guest speaker from Harvard CS50 guest lecturer  (18335)",
-      "url": "https://fall-in-vets-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 30 - Jul 02, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 16,
-          "name": "Health"
-        },
-        {
-          "id": 17,
-          "name": "Low/No Code"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 1,
-      "featured": false,
-      "organization_name": "Fall In",
-      "winners_announced": false,
-      "submission_gallery_url": "https://fall-in-vets-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://fall-in-vets-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
     }
   ],
   "meta": {
-    "total_count": 19,
+    "total_count": 16,
     "per_page": 40,
     "fuzzy": false
   }
