@@ -1,39 +1,72 @@
 {
   "hackathons": [
     {
-      "id": 18403,
-      "title": "Charleston Summer Hacks - Generative AI Hack",
+      "id": 18246,
+      "title": "Generative AI Hackathon: Revolutionize the Future of Work & Business",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Charleston Tech Center"
+        "location": "Hacker Dojo "
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/488/283/datas/medium_square.png",
-      "analytics_identifier": "Charleston Summer Hacks - Generative AI Hack (18403)",
-      "url": "https://charlestonhacks.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/469/476/datas/medium_square.png",
+      "analytics_identifier": "Generative AI Hackathon: Revolutionize the Future of Work & Business (18246)",
+      "url": "https://generative-ai-hackathon.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 12 - 18, 2023",
+      "submission_period_dates": "Jun 23 - 25, 2023",
       "themes": [
         {
-          "id": 23,
-          "name": "Beginner Friendly"
+          "id": 21,
+          "name": "Enterprise"
         },
         {
           "id": 6,
           "name": "Machine Learning/AI"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
         }
       ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 27,
+      "prize_amount": "$<span data-currency-value>700</span>",
+      "registrations_count": 41,
       "featured": true,
-      "organization_name": "Charleston Digital Corridor",
+      "organization_name": "FutureProof",
       "winners_announced": false,
-      "submission_gallery_url": "https://charlestonhacks.devpost.com/project-gallery",
-      "start_a_submission_url": "https://charlestonhacks.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://generative-ai-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://generative-ai-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 17940,
+      "title": "Tech Solutions to Reduce Sexually Transmitted Infections",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Beckman Center of the National Academies"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/474/772/datas/medium_square.png",
+      "analytics_identifier": "Tech Solutions to Reduce Sexually Transmitted Infections (17940)",
+      "url": "https://sti-hackathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jun 22 - 23, 2023",
+      "themes": [
+        {
+          "id": 18,
+          "name": "Design"
+        },
+        {
+          "id": 16,
+          "name": "Health"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>10,000</span>",
+      "registrations_count": 38,
+      "featured": true,
+      "organization_name": "National Academies",
+      "winners_announced": false,
+      "submission_gallery_url": "https://sti-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://sti-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -102,7 +135,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 12,
+      "registrations_count": 14,
       "featured": true,
       "organization_name": "Charleston Digital Corridor",
       "winners_announced": false,
@@ -139,82 +172,12 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>101,500</span>",
-      "registrations_count": 49,
+      "registrations_count": 50,
       "featured": false,
       "organization_name": "Youth Code Foundation",
       "winners_announced": false,
       "submission_gallery_url": "https://youthcodex.devpost.com/project-gallery",
       "start_a_submission_url": "https://youthcodex.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 17940,
-      "title": "Tech Solutions to Reduce Sexually Transmitted Infections",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Beckman Center of the National Academies"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/474/772/datas/medium_square.png",
-      "analytics_identifier": "Tech Solutions to Reduce Sexually Transmitted Infections (17940)",
-      "url": "https://sti-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 22 - 23, 2023",
-      "themes": [
-        {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 16,
-          "name": "Health"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 37,
-      "featured": false,
-      "organization_name": "National Academies",
-      "winners_announced": false,
-      "submission_gallery_url": "https://sti-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://sti-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18246,
-      "title": "Generative AI Hackathon: Revolutionize the Future of Work & Business",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Hacker Dojo "
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/469/476/datas/medium_square.png",
-      "analytics_identifier": "Generative AI Hackathon: Revolutionize the Future of Work & Business (18246)",
-      "url": "https://generative-ai-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 23 - 25, 2023",
-      "themes": [
-        {
-          "id": 21,
-          "name": "Enterprise"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>700</span>",
-      "registrations_count": 36,
-      "featured": false,
-      "organization_name": "FutureProof",
-      "winners_announced": false,
-      "submission_gallery_url": "https://generative-ai-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://generative-ai-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -242,12 +205,49 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>28,500</span>",
-      "registrations_count": 27,
+      "registrations_count": 31,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
       "submission_gallery_url": "https://api-world-hackathon-2023.devpost.com/project-gallery",
       "start_a_submission_url": "https://api-world-hackathon-2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18403,
+      "title": "Charleston Summer Hacks - Generative AI Hack",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Charleston Tech Center"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/488/283/datas/medium_square.png",
+      "analytics_identifier": "Charleston Summer Hacks - Generative AI Hack (18403)",
+      "url": "https://charlestonhacks.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jun 12 - 18, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 29,
+      "featured": false,
+      "organization_name": "Charleston Digital Corridor",
+      "winners_announced": false,
+      "submission_gallery_url": "https://charlestonhacks.devpost.com/project-gallery",
+      "start_a_submission_url": "https://charlestonhacks.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -316,7 +316,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>120,000</span>",
-      "registrations_count": 11,
+      "registrations_count": 14,
       "featured": false,
       "organization_name": "SICK",
       "winners_announced": false,
@@ -456,7 +456,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 3,
+      "registrations_count": 4,
       "featured": false,
       "organization_name": "Planet Unity",
       "winners_announced": false,
@@ -560,7 +560,7 @@
       ],
       "prize_amount": "$CAD<span data-currency-value>500</span>",
       "registrations_count": 1,
-      "featured": false,
+      "featured": true,
       "organization_name": "XdHacks Mini",
       "winners_announced": false,
       "submission_gallery_url": "https://hackamental.devpost.com/project-gallery",
