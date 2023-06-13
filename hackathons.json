@@ -1,6 +1,43 @@
 {
   "hackathons": [
     {
+      "id": 18403,
+      "title": "Charleston Summer Hacks - Generative AI Hack",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Charleston Tech Center"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/488/283/datas/medium_square.png",
+      "analytics_identifier": "Charleston Summer Hacks - Generative AI Hack (18403)",
+      "url": "https://charlestonhacks.devpost.com/",
+      "time_left_to_submission": "4 days left",
+      "submission_period_dates": "Jun 12 - 18, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 29,
+      "featured": false,
+      "organization_name": "Charleston Digital Corridor",
+      "winners_announced": false,
+      "submission_gallery_url": "https://charlestonhacks.devpost.com/project-gallery",
+      "start_a_submission_url": "https://charlestonhacks.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 18246,
       "title": "Generative AI Hackathon: Revolutionize the Future of Work & Business",
       "displayed_location": {
@@ -24,7 +61,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>700</span>",
-      "registrations_count": 41,
+      "registrations_count": 45,
       "featured": true,
       "organization_name": "FutureProof",
       "winners_announced": false,
@@ -61,7 +98,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 38,
+      "registrations_count": 40,
       "featured": true,
       "organization_name": "National Academies",
       "winners_announced": false,
@@ -98,7 +135,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>17,000</span>",
-      "registrations_count": 198,
+      "registrations_count": 199,
       "featured": false,
       "organization_name": "iata",
       "winners_announced": false,
@@ -135,7 +172,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 14,
+      "registrations_count": 15,
       "featured": true,
       "organization_name": "Charleston Digital Corridor",
       "winners_announced": false,
@@ -172,7 +209,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>101,500</span>",
-      "registrations_count": 50,
+      "registrations_count": 56,
       "featured": false,
       "organization_name": "Youth Code Foundation",
       "winners_announced": false,
@@ -205,49 +242,12 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>28,500</span>",
-      "registrations_count": 31,
+      "registrations_count": 50,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
       "submission_gallery_url": "https://api-world-hackathon-2023.devpost.com/project-gallery",
       "start_a_submission_url": "https://api-world-hackathon-2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18403,
-      "title": "Charleston Summer Hacks - Generative AI Hack",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Charleston Tech Center"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/488/283/datas/medium_square.png",
-      "analytics_identifier": "Charleston Summer Hacks - Generative AI Hack (18403)",
-      "url": "https://charlestonhacks.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 12 - 18, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 29,
-      "featured": false,
-      "organization_name": "Charleston Digital Corridor",
-      "winners_announced": false,
-      "submission_gallery_url": "https://charlestonhacks.devpost.com/project-gallery",
-      "start_a_submission_url": "https://charlestonhacks.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -316,7 +316,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>120,000</span>",
-      "registrations_count": 14,
+      "registrations_count": 17,
       "featured": false,
       "organization_name": "SICK",
       "winners_announced": false,
@@ -363,39 +363,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18291,
-      "title": "Built Different: Account Abstraction Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Ibu Hub Harare"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/474/517/datas/medium_square.jpg",
-      "analytics_identifier": "Built Different: Account Abstraction Hackathon (18291)",
-      "url": "https://built-different-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 24 - 25, 2023",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>3,700</span>",
-      "registrations_count": 6,
-      "featured": false,
-      "organization_name": "Built Different",
-      "winners_announced": false,
-      "submission_gallery_url": "https://built-different-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://built-different-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 18295,
       "title": "Built Different: Account Abstraction Hackathon (Kigali)",
       "displayed_location": {
@@ -425,6 +392,39 @@
       "winners_announced": false,
       "submission_gallery_url": "https://built-different-kigali.devpost.com/project-gallery",
       "start_a_submission_url": "https://built-different-kigali.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18291,
+      "title": "Built Different: Account Abstraction Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Ibu Hub Harare"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/474/517/datas/medium_square.jpg",
+      "analytics_identifier": "Built Different: Account Abstraction Hackathon (18291)",
+      "url": "https://built-different-hackathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jun 24 - 25, 2023",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>3,700</span>",
+      "registrations_count": 6,
+      "featured": false,
+      "organization_name": "Built Different",
+      "winners_announced": false,
+      "submission_gallery_url": "https://built-different-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://built-different-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -464,6 +464,43 @@
       "start_a_submission_url": "https://planetunity-winter-23-world.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18481,
+      "title": "Save our Air Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "rkey"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/501/396/datas/medium_square.jpeg",
+      "analytics_identifier": "Save our Air Hackathon (18481)",
+      "url": "https://save-our-air-nyc.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jun 24 - 25, 2023",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 27,
+          "name": "Robotic Process Automation"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 2,
+      "featured": false,
+      "organization_name": "rkey",
+      "winners_announced": false,
+      "submission_gallery_url": "https://save-our-air-nyc.devpost.com/project-gallery",
+      "start_a_submission_url": "https://save-our-air-nyc.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Students and Recent Graduates"
     },
     {
       "id": 18335,
@@ -570,7 +607,7 @@
     }
   ],
   "meta": {
-    "total_count": 16,
+    "total_count": 17,
     "per_page": 40,
     "fuzzy": false
   }
