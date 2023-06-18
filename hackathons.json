@@ -1,6 +1,35 @@
 {
   "hackathons": [
     {
+      "id": 18540,
+      "title": "UC Berkeley AI Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "MLK Student Union - Berkeley, CA"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/509/269/datas/medium_square.png",
+      "analytics_identifier": "UC Berkeley AI Hackathon (18540)",
+      "url": "https://uc-berkeley-ai-hackathon.devpost.com/",
+      "time_left_to_submission": "about 4 hours left",
+      "submission_period_dates": "Jun 17 - 18, 2023",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>228,700</span>",
+      "registrations_count": 198,
+      "featured": false,
+      "organization_name": "Cal Hacks",
+      "winners_announced": false,
+      "submission_gallery_url": "https://uc-berkeley-ai-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://uc-berkeley-ai-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 18403,
       "title": "Charleston Summer Hacks - Generative AI Hack",
       "displayed_location": {
@@ -11,8 +40,8 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/488/283/datas/medium_square.png",
       "analytics_identifier": "Charleston Summer Hacks - Generative AI Hack (18403)",
       "url": "https://charlestonhacks.devpost.com/",
-      "time_left_to_submission": "about 11 hours left",
-      "submission_period_dates": "Jun 12 - 18, 2023",
+      "time_left_to_submission": "3 days left",
+      "submission_period_dates": "Jun 12 - 21, 2023",
       "themes": [
         {
           "id": 23,
@@ -28,41 +57,12 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 34,
+      "registrations_count": 35,
       "featured": false,
       "organization_name": "Charleston Digital Corridor",
       "winners_announced": false,
       "submission_gallery_url": "https://charlestonhacks.devpost.com/project-gallery",
       "start_a_submission_url": "https://charlestonhacks.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18540,
-      "title": "UC Berkeley AI Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "MLK Student Union - Berkeley, CA"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/509/269/datas/medium_square.png",
-      "analytics_identifier": "UC Berkeley AI Hackathon (18540)",
-      "url": "https://uc-berkeley-ai-hackathon.devpost.com/",
-      "time_left_to_submission": "1 day left",
-      "submission_period_dates": "Jun 17 - 18, 2023",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>228,700</span>",
-      "registrations_count": 4,
-      "featured": false,
-      "organization_name": "Cal Hacks",
-      "winners_announced": false,
-      "submission_gallery_url": "https://uc-berkeley-ai-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://uc-berkeley-ai-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -77,7 +77,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/509/165/datas/medium_square.jpg",
       "analytics_identifier": "Future Health Pioneers: KNIME Digital Health Innovation Hackathon (18536)",
       "url": "https://knime-vcu-school-of-pharmacy.devpost.com/",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 4 hours left",
       "submission_period_dates": "Jun 17 - 18, 2023",
       "themes": [
         {
@@ -94,7 +94,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 3,
+      "registrations_count": 5,
       "featured": false,
       "organization_name": "VIrginia Commonwealth University",
       "winners_announced": false,
@@ -131,7 +131,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>700</span>",
-      "registrations_count": 65,
+      "registrations_count": 71,
       "featured": true,
       "organization_name": "FutureProof",
       "winners_announced": false,
@@ -242,7 +242,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 16,
+      "registrations_count": 17,
       "featured": true,
       "organization_name": "Charleston Digital Corridor",
       "winners_announced": false,
@@ -316,7 +316,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>101,500</span>",
-      "registrations_count": 62,
+      "registrations_count": 63,
       "featured": false,
       "organization_name": "Youth Code Foundation",
       "winners_announced": false,
@@ -386,7 +386,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>140,000</span>",
-      "registrations_count": 23,
+      "registrations_count": 27,
       "featured": false,
       "organization_name": "NEAR Protocol",
       "winners_announced": false,
@@ -573,6 +573,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 18481,
+      "title": "Save our Air Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "rkey"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/501/396/datas/medium_square.jpeg",
+      "analytics_identifier": "Save our Air Hackathon (18481)",
+      "url": "https://save-our-air-nyc.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jun 24 - 25, 2023",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 27,
+          "name": "Robotic Process Automation"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1,600</span>",
+      "registrations_count": 5,
+      "featured": false,
+      "organization_name": "rkey",
+      "winners_announced": false,
+      "submission_gallery_url": "https://save-our-air-nyc.devpost.com/project-gallery",
+      "start_a_submission_url": "https://save-our-air-nyc.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Students and Recent Graduates"
+    },
+    {
       "id": 18502,
       "title": "Epson Innovation Challenge #2",
       "displayed_location": {
@@ -647,6 +684,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 18523,
+      "title": "AI Hack'23",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "RNSIT  - AI&ML Block"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/508/544/datas/medium_square.jpeg",
+      "analytics_identifier": "AI Hack'23 (18523)",
+      "url": "https://ai-hack-23.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jul 07 - 08, 2023",
+      "themes": [
+        {
+          "id": 28,
+          "name": "Databases"
+        },
+        {
+          "id": 3,
+          "name": "Fintech"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "₹ <span data-currency-value>70,000</span>",
+      "registrations_count": 3,
+      "featured": false,
+      "organization_name": "Amura Club Dept. Of AIML RNSIT",
+      "winners_announced": false,
+      "submission_gallery_url": "https://ai-hack-23.devpost.com/project-gallery",
+      "start_a_submission_url": "https://ai-hack-23.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 18440,
       "title": "BÄKO-Hackathon",
       "displayed_location": {
@@ -713,43 +787,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18481,
-      "title": "Save our Air Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "rkey"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/501/396/datas/medium_square.jpeg",
-      "analytics_identifier": "Save our Air Hackathon (18481)",
-      "url": "https://save-our-air-nyc.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 24 - 25, 2023",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 27,
-          "name": "Robotic Process Automation"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>1,600</span>",
-      "registrations_count": 2,
-      "featured": false,
-      "organization_name": "rkey",
-      "winners_announced": false,
-      "submission_gallery_url": "https://save-our-air-nyc.devpost.com/project-gallery",
-      "start_a_submission_url": "https://save-our-air-nyc.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Students and Recent Graduates"
-    },
-    {
       "id": 18335,
       "title": "Fall In Vets Hackathon with AI guest speaker from Harvard CS50 guest lecturer ",
       "displayed_location": {
@@ -787,39 +824,39 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18523,
-      "title": "AI Hack'23",
+      "id": 18282,
+      "title": "Encode Justice NY Hackathon",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "RNSIT  - AI&ML Block"
+        "location": "Brooklyn Public Library"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/508/544/datas/medium_square.jpeg",
-      "analytics_identifier": "AI Hack'23 (18523)",
-      "url": "https://ai-hack-23.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/509/489/datas/medium_square.png",
+      "analytics_identifier": "Encode Justice NY Hackathon (18282)",
+      "url": "https://encode-justice-ny-hackathon.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jul 07 - 08, 2023",
+      "submission_period_dates": "Jul 01, 2023",
       "themes": [
         {
-          "id": 28,
-          "name": "Databases"
+          "id": 23,
+          "name": "Beginner Friendly"
         },
         {
-          "id": 3,
-          "name": "Fintech"
+          "id": 19,
+          "name": "Education"
         },
         {
-          "id": 6,
-          "name": "Machine Learning/AI"
+          "id": 17,
+          "name": "Low/No Code"
         }
       ],
-      "prize_amount": "₹ <span data-currency-value>70,000</span>",
+      "prize_amount": "$<span data-currency-value>0</span>",
       "registrations_count": 1,
       "featured": false,
-      "organization_name": "Amura Club Dept. Of AIML RNSIT",
+      "organization_name": "Encode Justice New York",
       "winners_announced": false,
-      "submission_gallery_url": "https://ai-hack-23.devpost.com/project-gallery",
-      "start_a_submission_url": "https://ai-hack-23.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://encode-justice-ny-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://encode-justice-ny-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -899,7 +936,7 @@
     }
   ],
   "meta": {
-    "total_count": 25,
+    "total_count": 26,
     "per_page": 40,
     "fuzzy": false
   }
