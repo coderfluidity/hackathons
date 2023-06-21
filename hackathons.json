@@ -11,7 +11,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/488/283/datas/medium_square.png",
       "analytics_identifier": "Charleston Summer Hacks - Generative AI Hack (18403)",
       "url": "https://charlestonhacks.devpost.com/",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 4 hours left",
       "submission_period_dates": "Jun 12 - 21, 2023",
       "themes": [
         {
@@ -28,7 +28,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 47,
+      "registrations_count": 51,
       "featured": false,
       "organization_name": "Charleston Digital Corridor",
       "winners_announced": false,
@@ -65,7 +65,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>700</span>",
-      "registrations_count": 90,
+      "registrations_count": 94,
       "featured": true,
       "organization_name": "FutureProof",
       "winners_announced": false,
@@ -75,39 +75,39 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 17940,
-      "title": "Tech Solutions to Reduce Sexually Transmitted Infections",
+      "id": 18435,
+      "title": "Charleston Summer Hacks - Hack for Good (In-Person only)",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Beckman Center of the National Academies"
+        "location": "Charleston Tech Center"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/474/772/datas/medium_square.png",
-      "analytics_identifier": "Tech Solutions to Reduce Sexually Transmitted Infections (17940)",
-      "url": "https://sti-hackathon.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/493/189/datas/medium_square.png",
+      "analytics_identifier": "Charleston Summer Hacks - Hack for Good (In-Person only) (18435)",
+      "url": "https://charlestonhacks-hfg.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 22 - 23, 2023",
+      "submission_period_dates": "Jun 21 - 27, 2023",
       "themes": [
         {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 16,
-          "name": "Health"
+          "id": 23,
+          "name": "Beginner Friendly"
         },
         {
           "id": 6,
           "name": "Machine Learning/AI"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
         }
       ],
-      "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 60,
-      "featured": false,
-      "organization_name": "National Academies",
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 28,
+      "featured": true,
+      "organization_name": "Charleston Digital Corridor",
       "winners_announced": false,
-      "submission_gallery_url": "https://sti-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://sti-hackathon.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://charlestonhacks-hfg.devpost.com/project-gallery",
+      "start_a_submission_url": "https://charlestonhacks-hfg.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -139,49 +139,12 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>17,000</span>",
-      "registrations_count": 203,
+      "registrations_count": 204,
       "featured": false,
       "organization_name": "iata",
       "winners_announced": false,
       "submission_gallery_url": "https://onerecord-fra.devpost.com/project-gallery",
       "start_a_submission_url": "https://onerecord-fra.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18435,
-      "title": "Charleston Summer Hacks - Hack for Good ",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Charleston Tech Center"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/493/189/datas/medium_square.png",
-      "analytics_identifier": "Charleston Summer Hacks - Hack for Good  (18435)",
-      "url": "https://charlestonhacks-hfg.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 21 - 27, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 25,
-      "featured": true,
-      "organization_name": "Charleston Digital Corridor",
-      "winners_announced": false,
-      "submission_gallery_url": "https://charlestonhacks-hfg.devpost.com/project-gallery",
-      "start_a_submission_url": "https://charlestonhacks-hfg.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -250,12 +213,49 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>101,500</span>",
-      "registrations_count": 69,
+      "registrations_count": 71,
       "featured": false,
       "organization_name": "Youth Code Foundation",
       "winners_announced": false,
       "submission_gallery_url": "https://youthcodex.devpost.com/project-gallery",
       "start_a_submission_url": "https://youthcodex.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 17940,
+      "title": "Tech Solutions to Reduce Sexually Transmitted Infections",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Beckman Center of the National Academies"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/474/772/datas/medium_square.png",
+      "analytics_identifier": "Tech Solutions to Reduce Sexually Transmitted Infections (17940)",
+      "url": "https://sti-hackathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jun 22 - 23, 2023",
+      "themes": [
+        {
+          "id": 18,
+          "name": "Design"
+        },
+        {
+          "id": 16,
+          "name": "Health"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>10,000</span>",
+      "registrations_count": 62,
+      "featured": false,
+      "organization_name": "National Academies",
+      "winners_announced": false,
+      "submission_gallery_url": "https://sti-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://sti-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -283,7 +283,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>28,500</span>",
-      "registrations_count": 58,
+      "registrations_count": 59,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -320,7 +320,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>140,000</span>",
-      "registrations_count": 30,
+      "registrations_count": 39,
       "featured": false,
       "organization_name": "NEAR Protocol",
       "winners_announced": false,
@@ -394,7 +394,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>16,500</span>",
-      "registrations_count": 21,
+      "registrations_count": 23,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -427,12 +427,49 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>3,700</span>",
-      "registrations_count": 7,
+      "registrations_count": 8,
       "featured": false,
       "organization_name": "Built Different",
       "winners_announced": false,
       "submission_gallery_url": "https://built-different-kigali.devpost.com/project-gallery",
       "start_a_submission_url": "https://built-different-kigali.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18502,
+      "title": "Epson Innovation Challenge #2",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Foundry 415 Innovation Group"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/504/361/datas/medium_square.png",
+      "analytics_identifier": "Epson Innovation Challenge #2 (18502)",
+      "url": "https://epson-innovation-challenge.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jul 12 - 20, 2023",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>10,997</span>",
+      "registrations_count": 7,
+      "featured": false,
+      "organization_name": "Foundry 415 Innovation Group",
+      "winners_announced": false,
+      "submission_gallery_url": "https://epson-innovation-challenge.devpost.com/project-gallery",
+      "start_a_submission_url": "https://epson-innovation-challenge.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -544,43 +581,6 @@
       "eligibility_requirement_invite_only_description": "Students and Recent Graduates"
     },
     {
-      "id": 18502,
-      "title": "Epson Innovation Challenge #2",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Foundry 415 Innovation Group"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/504/361/datas/medium_square.png",
-      "analytics_identifier": "Epson Innovation Challenge #2 (18502)",
-      "url": "https://epson-innovation-challenge.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jul 12 - 20, 2023",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 11,
-          "name": "Productivity"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>10,997</span>",
-      "registrations_count": 6,
-      "featured": false,
-      "organization_name": "Foundry 415 Innovation Group",
-      "winners_announced": false,
-      "submission_gallery_url": "https://epson-innovation-challenge.devpost.com/project-gallery",
-      "start_a_submission_url": "https://epson-innovation-challenge.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 18517,
       "title": "HackZurich 2023",
       "displayed_location": {
@@ -608,7 +608,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 5,
+      "registrations_count": 6,
       "featured": false,
       "organization_name": "HackZurich",
       "winners_announced": false,
@@ -758,6 +758,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 18537,
+      "title": "HackDearborn",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "University of Michigan - Dearborn"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder.gif",
+      "analytics_identifier": "HackDearborn (18537)",
+      "url": "https://hackdearborn2.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 21 - 22, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>800</span>",
+      "registrations_count": 2,
+      "featured": false,
+      "organization_name": "MLH",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackdearborn2.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackdearborn2.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 18282,
       "title": "Encode Justice NY Hackathon",
       "displayed_location": {
@@ -828,43 +865,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://the-robots-are-coming.devpost.com/project-gallery",
       "start_a_submission_url": "https://the-robots-are-coming.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18537,
-      "title": "HackDearborn",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "University of Michigan - Dearborn"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder.gif",
-      "analytics_identifier": "HackDearborn (18537)",
-      "url": "https://hackdearborn2.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 21 - 22, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>800</span>",
-      "registrations_count": 1,
-      "featured": false,
-      "organization_name": "MLH",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackdearborn2.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackdearborn2.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     }
