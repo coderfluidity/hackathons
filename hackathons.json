@@ -1,18 +1,18 @@
 {
   "hackathons": [
     {
-      "id": 18403,
-      "title": "Charleston Summer Hacks - Generative AI Hack",
+      "id": 18435,
+      "title": "Charleston Summer Hacks - Hack for Good (In-Person only)",
       "displayed_location": {
         "icon": "map-marker-alt",
         "location": "Charleston Tech Center"
       },
       "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/488/283/datas/medium_square.png",
-      "analytics_identifier": "Charleston Summer Hacks - Generative AI Hack (18403)",
-      "url": "https://charlestonhacks.devpost.com/",
-      "time_left_to_submission": "about 4 hours left",
-      "submission_period_dates": "Jun 12 - 21, 2023",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/493/189/datas/medium_square.png",
+      "analytics_identifier": "Charleston Summer Hacks - Hack for Good (In-Person only) (18435)",
+      "url": "https://charlestonhacks-hfg.devpost.com/",
+      "time_left_to_submission": "4 days left",
+      "submission_period_dates": "Jun 21 - 27, 2023",
       "themes": [
         {
           "id": 23,
@@ -23,17 +23,17 @@
           "name": "Machine Learning/AI"
         },
         {
-          "id": 22,
-          "name": "Open Ended"
+          "id": 13,
+          "name": "Social Good"
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 51,
-      "featured": false,
+      "registrations_count": 30,
+      "featured": true,
       "organization_name": "Charleston Digital Corridor",
       "winners_announced": false,
-      "submission_gallery_url": "https://charlestonhacks.devpost.com/project-gallery",
-      "start_a_submission_url": "https://charlestonhacks.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://charlestonhacks-hfg.devpost.com/project-gallery",
+      "start_a_submission_url": "https://charlestonhacks-hfg.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -65,49 +65,12 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>700</span>",
-      "registrations_count": 94,
+      "registrations_count": 101,
       "featured": true,
       "organization_name": "FutureProof",
       "winners_announced": false,
       "submission_gallery_url": "https://generative-ai-hackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://generative-ai-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18435,
-      "title": "Charleston Summer Hacks - Hack for Good (In-Person only)",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Charleston Tech Center"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/493/189/datas/medium_square.png",
-      "analytics_identifier": "Charleston Summer Hacks - Hack for Good (In-Person only) (18435)",
-      "url": "https://charlestonhacks-hfg.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 21 - 27, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 28,
-      "featured": true,
-      "organization_name": "Charleston Digital Corridor",
-      "winners_announced": false,
-      "submission_gallery_url": "https://charlestonhacks-hfg.devpost.com/project-gallery",
-      "start_a_submission_url": "https://charlestonhacks-hfg.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -213,7 +176,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>101,500</span>",
-      "registrations_count": 71,
+      "registrations_count": 72,
       "featured": false,
       "organization_name": "Youth Code Foundation",
       "winners_announced": false,
@@ -250,7 +213,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 62,
+      "registrations_count": 64,
       "featured": false,
       "organization_name": "National Academies",
       "winners_announced": false,
@@ -283,7 +246,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>28,500</span>",
-      "registrations_count": 59,
+      "registrations_count": 60,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -320,7 +283,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>140,000</span>",
-      "registrations_count": 39,
+      "registrations_count": 40,
       "featured": false,
       "organization_name": "NEAR Protocol",
       "winners_announced": false,
@@ -357,7 +320,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>120,000</span>",
-      "registrations_count": 24,
+      "registrations_count": 27,
       "featured": false,
       "organization_name": "SICK",
       "winners_announced": false,
@@ -394,7 +357,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>16,500</span>",
-      "registrations_count": 23,
+      "registrations_count": 25,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -464,7 +427,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,997</span>",
-      "registrations_count": 7,
+      "registrations_count": 8,
       "featured": false,
       "organization_name": "Foundry 415 Innovation Group",
       "winners_announced": false,
@@ -618,6 +581,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 18523,
+      "title": "AI Hack'23",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "RNSIT  - AI&ML Block"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/508/544/datas/medium_square.jpeg",
+      "analytics_identifier": "AI Hack'23 (18523)",
+      "url": "https://ai-hack-23.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jul 07 - 08, 2023",
+      "themes": [
+        {
+          "id": 28,
+          "name": "Databases"
+        },
+        {
+          "id": 3,
+          "name": "Fintech"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "₹ <span data-currency-value>70,000</span>",
+      "registrations_count": 4,
+      "featured": false,
+      "organization_name": "Amura Club Dept. Of AIML RNSIT",
+      "winners_announced": false,
+      "submission_gallery_url": "https://ai-hack-23.devpost.com/project-gallery",
+      "start_a_submission_url": "https://ai-hack-23.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 17723,
       "title": "[See desc for more info] PlanetUnity Winter '23 - WORLD",
       "displayed_location": {
@@ -651,43 +651,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://planetunity-winter-23-world.devpost.com/project-gallery",
       "start_a_submission_url": "https://planetunity-winter-23-world.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18523,
-      "title": "AI Hack'23",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "RNSIT  - AI&ML Block"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/508/544/datas/medium_square.jpeg",
-      "analytics_identifier": "AI Hack'23 (18523)",
-      "url": "https://ai-hack-23.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jul 07 - 08, 2023",
-      "themes": [
-        {
-          "id": 28,
-          "name": "Databases"
-        },
-        {
-          "id": 3,
-          "name": "Fintech"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "₹ <span data-currency-value>70,000</span>",
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "Amura Club Dept. Of AIML RNSIT",
-      "winners_announced": false,
-      "submission_gallery_url": "https://ai-hack-23.devpost.com/project-gallery",
-      "start_a_submission_url": "https://ai-hack-23.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -870,7 +833,7 @@
     }
   ],
   "meta": {
-    "total_count": 24,
+    "total_count": 23,
     "per_page": 40,
     "fuzzy": false
   }
