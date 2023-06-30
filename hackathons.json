@@ -20,49 +20,12 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>3,500</span>",
-      "registrations_count": 5,
+      "registrations_count": 26,
       "featured": true,
       "organization_name": "CSESoc",
       "winners_announced": false,
       "submission_gallery_url": "https://csesoc2023.devpost.com/project-gallery",
       "start_a_submission_url": "https://csesoc2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18282,
-      "title": "Encode Justice NY Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Brooklyn Public Library"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/509/489/datas/medium_square.png",
-      "analytics_identifier": "Encode Justice NY Hackathon (18282)",
-      "url": "https://encode-justice-ny-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jul 01, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 17,
-          "name": "Low/No Code"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "Encode Justice New York",
-      "winners_announced": false,
-      "submission_gallery_url": "https://encode-justice-ny-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://encode-justice-ny-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -94,7 +57,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>101,500</span>",
-      "registrations_count": 83,
+      "registrations_count": 84,
       "featured": false,
       "organization_name": "Youth Code Foundation",
       "winners_announced": false,
@@ -127,7 +90,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>28,500</span>",
-      "registrations_count": 73,
+      "registrations_count": 75,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -164,12 +127,49 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>140,000</span>",
-      "registrations_count": 64,
+      "registrations_count": 66,
       "featured": false,
       "organization_name": "NEAR Protocol",
       "winners_announced": false,
       "submission_gallery_url": "https://nearcon-hackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://nearcon-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18278,
+      "title": "DeveloperWeek CloudX 2023 Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "San Mateo Events Center & Virtual"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/487/811/datas/medium_square.jpg",
+      "analytics_identifier": "DeveloperWeek CloudX 2023 Hackathon (18278)",
+      "url": "https://dw-cloudx-2023-hackathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Aug 01 - 16, 2023",
+      "themes": [
+        {
+          "id": 2,
+          "name": "DevOps"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>16,500</span>",
+      "registrations_count": 30,
+      "featured": false,
+      "organization_name": "DevNetwork",
+      "winners_announced": false,
+      "submission_gallery_url": "https://dw-cloudx-2023-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://dw-cloudx-2023-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -201,7 +201,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>120,000</span>",
-      "registrations_count": 29,
+      "registrations_count": 30,
       "featured": false,
       "organization_name": "SICK",
       "winners_announced": false,
@@ -209,43 +209,6 @@
       "start_a_submission_url": "https://sick-solution-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "College students and young professionals may apply"
-    },
-    {
-      "id": 18278,
-      "title": "DeveloperWeek CloudX 2023 Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "San Mateo Events Center & Virtual"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/487/811/datas/medium_square.jpg",
-      "analytics_identifier": "DeveloperWeek CloudX 2023 Hackathon (18278)",
-      "url": "https://dw-cloudx-2023-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Aug 01 - 16, 2023",
-      "themes": [
-        {
-          "id": 2,
-          "name": "DevOps"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>16,500</span>",
-      "registrations_count": 28,
-      "featured": false,
-      "organization_name": "DevNetwork",
-      "winners_announced": false,
-      "submission_gallery_url": "https://dw-cloudx-2023-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://dw-cloudx-2023-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 18517,
@@ -312,7 +275,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,997</span>",
-      "registrations_count": 14,
+      "registrations_count": 17,
       "featured": false,
       "organization_name": "Foundry 415 Innovation Group",
       "winners_announced": false,
@@ -320,6 +283,43 @@
       "start_a_submission_url": "https://epson-innovation-challenge.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18584,
+      "title": "Garuda Hacks 4.0",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Universitas Tarumanagara"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/526/393/datas/medium_square.png",
+      "analytics_identifier": "Garuda Hacks 4.0 (18584)",
+      "url": "https://garuda-hacks.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jul 21 - 22, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>16,200</span>",
+      "registrations_count": 10,
+      "featured": false,
+      "organization_name": "Garuda HQ",
+      "winners_announced": false,
+      "submission_gallery_url": "https://garuda-hacks.devpost.com/project-gallery",
+      "start_a_submission_url": "https://garuda-hacks.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Participants who have signed up and accepted."
     },
     {
       "id": 18523,
@@ -355,6 +355,43 @@
       "winners_announced": false,
       "submission_gallery_url": "https://ai-hack-23.devpost.com/project-gallery",
       "start_a_submission_url": "https://ai-hack-23.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18537,
+      "title": "Hack Dearborn: Disrupt Reality",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "University of Michigan - Dearborn"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/526/790/datas/medium_square.png",
+      "analytics_identifier": "Hack Dearborn: Disrupt Reality (18537)",
+      "url": "https://hackdearborn2.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 21 - 22, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>6,390</span>",
+      "registrations_count": 9,
+      "featured": false,
+      "organization_name": "MLH",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackdearborn2.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackdearborn2.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -396,43 +433,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18537,
-      "title": "HackDearborn",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "University of Michigan - Dearborn"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder.gif",
-      "analytics_identifier": "HackDearborn (18537)",
-      "url": "https://hackdearborn2.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 21 - 22, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>800</span>",
-      "registrations_count": 6,
-      "featured": false,
-      "organization_name": "MLH",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackdearborn2.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackdearborn2.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 17723,
       "title": "[See desc for more info] PlanetUnity Winter '23 - WORLD",
       "displayed_location": {
@@ -460,12 +460,49 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 4,
+      "registrations_count": 5,
       "featured": false,
       "organization_name": "Planet Unity",
       "winners_announced": false,
       "submission_gallery_url": "https://planetunity-winter-23-world.devpost.com/project-gallery",
       "start_a_submission_url": "https://planetunity-winter-23-world.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18282,
+      "title": "Encode Justice NY Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Brooklyn Public Library"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/509/489/datas/medium_square.png",
+      "analytics_identifier": "Encode Justice NY Hackathon (18282)",
+      "url": "https://encode-justice-ny-hackathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jul 01, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 17,
+          "name": "Low/No Code"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 4,
+      "featured": false,
+      "organization_name": "Encode Justice New York",
+      "winners_announced": false,
+      "submission_gallery_url": "https://encode-justice-ny-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://encode-justice-ny-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -534,43 +571,6 @@
       "start_a_submission_url": "https://fall-in-vets-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18584,
-      "title": "Garuda Hacks 4.0",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Universitas Tarumanagara"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/515/773/datas/medium_square.png",
-      "analytics_identifier": "Garuda Hacks 4.0 (18584)",
-      "url": "https://garuda-hacks.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jul 21 - 22, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>16,200</span>",
-      "registrations_count": 2,
-      "featured": false,
-      "organization_name": "Garuda HQ",
-      "winners_announced": false,
-      "submission_gallery_url": "https://garuda-hacks.devpost.com/project-gallery",
-      "start_a_submission_url": "https://garuda-hacks.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Participants who have signed up and accepted."
     },
     {
       "id": 18598,
@@ -711,10 +711,47 @@
       "start_a_submission_url": "https://my-hack-23.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18581,
+      "title": "TaroHacks",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "The Play Space"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder.gif",
+      "analytics_identifier": "TaroHacks (18581)",
+      "url": "https://tarohacks2023.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Aug 12 - 13, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>145</span>",
+      "registrations_count": 1,
+      "featured": false,
+      "organization_name": "Team Taro",
+      "winners_announced": false,
+      "submission_gallery_url": "https://tarohacks2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://tarohacks2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     }
   ],
   "meta": {
-    "total_count": 20,
+    "total_count": 21,
     "per_page": 40,
     "fuzzy": false
   }
