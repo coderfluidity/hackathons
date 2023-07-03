@@ -1,48 +1,40 @@
 {
   "hackathons": [
     {
-      "id": 18335,
-      "title": "Fall In Vets Hackathon with AI guest speaker from Harvard CS50 guest lecturer ",
+      "id": 18508,
+      "title": "Powerup Tech Community Hackathon",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Los Angeles"
+        "location": "Buffalo, NY and Wilmington Plaza"
       },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/501/243/datas/medium_square.png",
-      "analytics_identifier": "Fall In Vets Hackathon with AI guest speaker from Harvard CS50 guest lecturer  (18335)",
-      "url": "https://fall-in-vets-hackathon.devpost.com/",
-      "time_left_to_submission": "about 4 hours left",
-      "submission_period_dates": "Jun 30 - Jul 02, 2023",
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/507/580/datas/medium_square.png",
+      "analytics_identifier": "Powerup Tech Community Hackathon (18508)",
+      "url": "https://community-hack-2023.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jul 06 - 07, 2023",
       "themes": [
         {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 16,
-          "name": "Health"
-        },
-        {
-          "id": 17,
-          "name": "Low/No Code"
+          "id": 13,
+          "name": "Social Good"
         }
       ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 7,
+      "prize_amount": "$<span data-currency-value>5,000</span>",
+      "registrations_count": 5,
       "featured": true,
-      "organization_name": "Fall In",
+      "organization_name": "M&T Bank",
       "winners_announced": false,
-      "submission_gallery_url": "https://fall-in-vets-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://fall-in-vets-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
+      "submission_gallery_url": "https://community-hack-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://community-hack-2023.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "PowerUp Tech and M&T Bank interns only"
     },
     {
       "id": 18191,
       "title": "YouthCodeX",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": null
+        "location": "Online"
       },
       "open_state": "upcoming",
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/488/760/datas/medium_square.jpg",
@@ -65,7 +57,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>101,500</span>",
-      "registrations_count": 96,
+      "registrations_count": 106,
       "featured": false,
       "organization_name": "Youth Code Foundation",
       "winners_announced": false,
@@ -98,7 +90,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>28,500</span>",
-      "registrations_count": 79,
+      "registrations_count": 80,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -135,7 +127,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>140,000</span>",
-      "registrations_count": 69,
+      "registrations_count": 72,
       "featured": false,
       "organization_name": "NEAR Protocol",
       "winners_announced": false,
@@ -172,7 +164,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>16,500</span>",
-      "registrations_count": 30,
+      "registrations_count": 31,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -209,7 +201,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>120,000</span>",
-      "registrations_count": 30,
+      "registrations_count": 31,
       "featured": false,
       "organization_name": "SICK",
       "winners_announced": false,
@@ -246,7 +238,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>16,200</span>",
-      "registrations_count": 21,
+      "registrations_count": 23,
       "featured": false,
       "organization_name": "Garuda HQ",
       "winners_announced": false,
@@ -283,7 +275,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,997</span>",
-      "registrations_count": 20,
+      "registrations_count": 21,
       "featured": false,
       "organization_name": "Foundry 415 Innovation Group",
       "winners_announced": false,
@@ -320,7 +312,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 19,
+      "registrations_count": 20,
       "featured": false,
       "organization_name": "HackZurich",
       "winners_announced": false,
@@ -357,8 +349,8 @@
         }
       ],
       "prize_amount": "₹ <span data-currency-value>70,000</span>",
-      "registrations_count": 11,
-      "featured": false,
+      "registrations_count": 12,
+      "featured": true,
       "organization_name": "Amura Club Dept. Of AIML RNSIT",
       "winners_announced": false,
       "submission_gallery_url": "https://ai-hack-23.devpost.com/project-gallery",
@@ -468,7 +460,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 6,
+      "registrations_count": 7,
       "featured": false,
       "organization_name": "Planet Unity",
       "winners_announced": false,
@@ -476,35 +468,6 @@
       "start_a_submission_url": "https://planetunity-winter-23-world.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18508,
-      "title": "Powerup Tech Community Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Buffalo, NY and Wilmington Plaza"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/507/580/datas/medium_square.png",
-      "analytics_identifier": "Powerup Tech Community Hackathon (18508)",
-      "url": "https://community-hack-2023.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jul 06 - 07, 2023",
-      "themes": [
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>5,000</span>",
-      "registrations_count": 5,
-      "featured": false,
-      "organization_name": "M&T Bank",
-      "winners_announced": false,
-      "submission_gallery_url": "https://community-hack-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://community-hack-2023.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "PowerUp Tech and M&T Bank interns only"
     },
     {
       "id": 18598,
@@ -685,7 +648,7 @@
     }
   ],
   "meta": {
-    "total_count": 19,
+    "total_count": 18,
     "per_page": 40,
     "fuzzy": false
   }
