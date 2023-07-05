@@ -28,7 +28,7 @@
         }
       ],
       "prize_amount": "₹ <span data-currency-value>70,000</span>",
-      "registrations_count": 14,
+      "registrations_count": 13,
       "featured": true,
       "organization_name": "Amura Club Dept. Of AIML RNSIT",
       "winners_announced": false,
@@ -65,7 +65,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>101,500</span>",
-      "registrations_count": 115,
+      "registrations_count": 123,
       "featured": false,
       "organization_name": "Youth Code Foundation",
       "winners_announced": false,
@@ -98,7 +98,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>28,500</span>",
-      "registrations_count": 82,
+      "registrations_count": 84,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -135,7 +135,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>140,000</span>",
-      "registrations_count": 75,
+      "registrations_count": 78,
       "featured": false,
       "organization_name": "NEAR Protocol",
       "winners_announced": false,
@@ -172,7 +172,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>16,500</span>",
-      "registrations_count": 31,
+      "registrations_count": 32,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -219,6 +219,43 @@
       "eligibility_requirement_invite_only_description": "College students and young professionals may apply"
     },
     {
+      "id": 18502,
+      "title": "Epson Innovation Challenge #2",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Foundry 415 Innovation Group"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/504/361/datas/medium_square.png",
+      "analytics_identifier": "Epson Innovation Challenge #2 (18502)",
+      "url": "https://epson-innovation-challenge.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jul 12 - 20, 2023",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>10,997</span>",
+      "registrations_count": 25,
+      "featured": false,
+      "organization_name": "Foundry 415 Innovation Group",
+      "winners_announced": false,
+      "submission_gallery_url": "https://epson-innovation-challenge.devpost.com/project-gallery",
+      "start_a_submission_url": "https://epson-innovation-challenge.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 18584,
       "title": "Garuda Hacks 4.0",
       "displayed_location": {
@@ -256,43 +293,6 @@
       "eligibility_requirement_invite_only_description": "Participants who have signed up and accepted."
     },
     {
-      "id": 18502,
-      "title": "Epson Innovation Challenge #2",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Foundry 415 Innovation Group"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/504/361/datas/medium_square.png",
-      "analytics_identifier": "Epson Innovation Challenge #2 (18502)",
-      "url": "https://epson-innovation-challenge.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jul 12 - 20, 2023",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 11,
-          "name": "Productivity"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>10,997</span>",
-      "registrations_count": 23,
-      "featured": false,
-      "organization_name": "Foundry 415 Innovation Group",
-      "winners_announced": false,
-      "submission_gallery_url": "https://epson-innovation-challenge.devpost.com/project-gallery",
-      "start_a_submission_url": "https://epson-innovation-challenge.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 18517,
       "title": "HackZurich 2023",
       "displayed_location": {
@@ -320,7 +320,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 20,
+      "registrations_count": 21,
       "featured": false,
       "organization_name": "HackZurich",
       "winners_announced": false,
@@ -394,7 +394,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,600</span>",
-      "registrations_count": 7,
+      "registrations_count": 8,
       "featured": false,
       "organization_name": "Hoya Hacks",
       "winners_announced": false,
@@ -507,35 +507,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18440,
-      "title": "BÄKO-Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Amplifier"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/493/085/datas/medium_square.png",
-      "analytics_identifier": "BÄKO-Hackathon (18440)",
-      "url": "https://baeko-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Aug 25 - 27, 2023",
-      "themes": [
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "€<span data-currency-value>9,500</span>",
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "hack.institute",
-      "winners_announced": false,
-      "submission_gallery_url": "https://baeko-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://baeko-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 18581,
       "title": "TaroHacks",
       "displayed_location": {
@@ -563,12 +534,41 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>225</span>",
-      "registrations_count": 2,
+      "registrations_count": 4,
       "featured": false,
       "organization_name": "Team Taro",
       "winners_announced": false,
       "submission_gallery_url": "https://tarohacks2023.devpost.com/project-gallery",
       "start_a_submission_url": "https://tarohacks2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18440,
+      "title": "BÄKO-Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Amplifier"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/493/085/datas/medium_square.png",
+      "analytics_identifier": "BÄKO-Hackathon (18440)",
+      "url": "https://baeko-hackathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Aug 25 - 27, 2023",
+      "themes": [
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "€<span data-currency-value>9,500</span>",
+      "registrations_count": 4,
+      "featured": false,
+      "organization_name": "hack.institute",
+      "winners_announced": false,
+      "submission_gallery_url": "https://baeko-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://baeko-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -600,7 +600,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>20,000</span>",
-      "registrations_count": 2,
+      "registrations_count": 4,
       "featured": false,
       "organization_name": "Junction ",
       "winners_announced": false,
