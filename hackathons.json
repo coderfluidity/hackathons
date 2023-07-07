@@ -1,46 +1,17 @@
 {
   "hackathons": [
     {
-      "id": 18508,
-      "title": "Powerup Tech Community Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Buffalo, NY and Wilmington Plaza"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/507/580/datas/medium_square.png",
-      "analytics_identifier": "Powerup Tech Community Hackathon (18508)",
-      "url": "https://community-hack-2023.devpost.com/",
-      "time_left_to_submission": "about 22 hours left",
-      "submission_period_dates": "Jul 06 - 07, 2023",
-      "themes": [
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>5,000</span>",
-      "registrations_count": 28,
-      "featured": false,
-      "organization_name": "M&T Bank",
-      "winners_announced": false,
-      "submission_gallery_url": "https://community-hack-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://community-hack-2023.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "PowerUp Tech and M&T Bank interns only"
-    },
-    {
       "id": 18523,
       "title": "AI Hack'23",
       "displayed_location": {
         "icon": "map-marker-alt",
         "location": "RNSIT  - AI&ML Block"
       },
-      "open_state": "upcoming",
+      "open_state": "open",
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/508/544/datas/medium_square.jpeg",
       "analytics_identifier": "AI Hack'23 (18523)",
       "url": "https://ai-hack-23.devpost.com/",
-      "time_left_to_submission": "Upcoming",
+      "time_left_to_submission": "about 13 hours left",
       "submission_period_dates": "Jul 07 - 08, 2023",
       "themes": [
         {
@@ -57,12 +28,49 @@
         }
       ],
       "prize_amount": "₹ <span data-currency-value>70,000</span>",
-      "registrations_count": 14,
+      "registrations_count": 20,
       "featured": true,
       "organization_name": "Amura Club Dept. Of AIML RNSIT",
       "winners_announced": false,
       "submission_gallery_url": "https://ai-hack-23.devpost.com/project-gallery",
       "start_a_submission_url": "https://ai-hack-23.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18602,
+      "title": "Junction 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Helsinki, Finland"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/525/994/datas/medium_square.jpg",
+      "analytics_identifier": "Junction 2023 (18602)",
+      "url": "https://junction.devpost.com/",
+      "time_left_to_submission": "22 days left",
+      "submission_period_dates": "Jul 07 - 29, 2023",
+      "themes": [
+        {
+          "id": 10,
+          "name": "Communication"
+        },
+        {
+          "id": 18,
+          "name": "Design"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        }
+      ],
+      "prize_amount": "€<span data-currency-value>20,000</span>",
+      "registrations_count": 5,
+      "featured": false,
+      "organization_name": "Junction ",
+      "winners_announced": false,
+      "submission_gallery_url": "https://junction.devpost.com/project-gallery",
+      "start_a_submission_url": "https://junction.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -94,7 +102,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>101,500</span>",
-      "registrations_count": 129,
+      "registrations_count": 133,
       "featured": false,
       "organization_name": "Youth Code Foundation",
       "winners_announced": false,
@@ -127,7 +135,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>28,500</span>",
-      "registrations_count": 85,
+      "registrations_count": 87,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -164,12 +172,49 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>140,000</span>",
-      "registrations_count": 79,
+      "registrations_count": 81,
       "featured": false,
       "organization_name": "NEAR Protocol",
       "winners_announced": false,
       "submission_gallery_url": "https://nearcon-hackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://nearcon-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18517,
+      "title": "HackZurich 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Halle 550 Zurich Oerlikon"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/508/341/datas/medium_square.png",
+      "analytics_identifier": "HackZurich 2023 (18517)",
+      "url": "https://hackzurich2023.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jul 10 - Sep 17, 2023",
+      "themes": [
+        {
+          "id": 26,
+          "name": "Mobile"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>10,000</span>",
+      "registrations_count": 35,
+      "featured": false,
+      "organization_name": "HackZurich",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackzurich2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackzurich2023.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -201,7 +246,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>16,500</span>",
-      "registrations_count": 33,
+      "registrations_count": 34,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -285,43 +330,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18517,
-      "title": "HackZurich 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Halle 550 Zurich Oerlikon"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/508/341/datas/medium_square.png",
-      "analytics_identifier": "HackZurich 2023 (18517)",
-      "url": "https://hackzurich2023.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jul 10 - Sep 17, 2023",
-      "themes": [
-        {
-          "id": 26,
-          "name": "Mobile"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 28,
-      "featured": false,
-      "organization_name": "HackZurich",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackzurich2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackzurich2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 18584,
       "title": "Garuda Hacks 4.0",
       "displayed_location": {
@@ -349,7 +357,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>16,200</span>",
-      "registrations_count": 26,
+      "registrations_count": 28,
       "featured": false,
       "organization_name": "Garuda HQ",
       "winners_announced": false,
@@ -573,43 +581,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18602,
-      "title": "Junction 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Helsinki, Finland"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/525/994/datas/medium_square.jpg",
-      "analytics_identifier": "Junction 2023 (18602)",
-      "url": "https://junction.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 10 - 12, 2023",
-      "themes": [
-        {
-          "id": 10,
-          "name": "Communication"
-        },
-        {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        }
-      ],
-      "prize_amount": "€<span data-currency-value>20,000</span>",
-      "registrations_count": 4,
-      "featured": false,
-      "organization_name": "Junction ",
-      "winners_announced": false,
-      "submission_gallery_url": "https://junction.devpost.com/project-gallery",
-      "start_a_submission_url": "https://junction.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 18533,
       "title": "The Robots Are Coming",
       "displayed_location": {
@@ -685,7 +656,7 @@
     }
   ],
   "meta": {
-    "total_count": 19,
+    "total_count": 18,
     "per_page": 40,
     "fuzzy": false
   }
