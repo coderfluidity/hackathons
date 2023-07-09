@@ -11,7 +11,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/525/994/datas/medium_square.jpg",
       "analytics_identifier": "Junction 2023 (18602)",
       "url": "https://junction.devpost.com/",
-      "time_left_to_submission": "21 days left",
+      "time_left_to_submission": "20 days left",
       "submission_period_dates": "Jul 07 - 29, 2023",
       "themes": [
         {
@@ -28,7 +28,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>20,000</span>",
-      "registrations_count": 16,
+      "registrations_count": 26,
       "featured": false,
       "organization_name": "Junction ",
       "winners_announced": false,
@@ -65,7 +65,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>101,500</span>",
-      "registrations_count": 134,
+      "registrations_count": 140,
       "featured": false,
       "organization_name": "Youth Code Foundation",
       "winners_announced": false,
@@ -98,7 +98,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>28,500</span>",
-      "registrations_count": 89,
+      "registrations_count": 91,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -172,7 +172,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 37,
+      "registrations_count": 40,
       "featured": false,
       "organization_name": "HackZurich",
       "winners_announced": false,
@@ -209,7 +209,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>16,500</span>",
-      "registrations_count": 36,
+      "registrations_count": 37,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -246,7 +246,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>120,000</span>",
-      "registrations_count": 32,
+      "registrations_count": 33,
       "featured": false,
       "organization_name": "SICK",
       "winners_announced": false,
@@ -283,7 +283,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,997</span>",
-      "registrations_count": 31,
+      "registrations_count": 32,
       "featured": false,
       "organization_name": "Foundry 415 Innovation Group",
       "winners_announced": false,
@@ -441,6 +441,80 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 18581,
+      "title": "TaroHacks",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "The Play Space"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/531/678/datas/medium_square.png",
+      "analytics_identifier": "TaroHacks (18581)",
+      "url": "https://tarohacks2023.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Aug 12 - 13, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>225</span>",
+      "registrations_count": 5,
+      "featured": false,
+      "organization_name": "Team Taro",
+      "winners_announced": false,
+      "submission_gallery_url": "https://tarohacks2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://tarohacks2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18521,
+      "title": "ZENCON",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Fairmont Copacabana Hotel."
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/531/656/datas/medium_square.jpg",
+      "analytics_identifier": "ZENCON (18521)",
+      "url": "https://zencon-.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Sep 15 - 21, 2023",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 9,
+          "name": "Cybersecurity"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>100,000</span>",
+      "registrations_count": 5,
+      "featured": false,
+      "organization_name": "ZENIQ",
+      "winners_announced": false,
+      "submission_gallery_url": "https://zencon-.devpost.com/project-gallery",
+      "start_a_submission_url": "https://zencon-.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 18598,
       "title": "DeveloperWeek 2024 Hackathon",
       "displayed_location": {
@@ -478,43 +552,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18581,
-      "title": "TaroHacks",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "The Play Space"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/531/678/datas/medium_square.png",
-      "analytics_identifier": "TaroHacks (18581)",
-      "url": "https://tarohacks2023.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Aug 12 - 13, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>225</span>",
-      "registrations_count": 4,
-      "featured": false,
-      "organization_name": "Team Taro",
-      "winners_announced": false,
-      "submission_gallery_url": "https://tarohacks2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://tarohacks2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 18440,
       "title": "BÄKO-Hackathon",
       "displayed_location": {
@@ -540,43 +577,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://baeko-hackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://baeko-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18521,
-      "title": "ZENCON",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Fairmont Copacabana Hotel."
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/531/656/datas/medium_square.jpg",
-      "analytics_identifier": "ZENCON (18521)",
-      "url": "https://zencon-.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Sep 15 - 21, 2023",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        },
-        {
-          "id": 9,
-          "name": "Cybersecurity"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>100,000</span>",
-      "registrations_count": 4,
-      "featured": false,
-      "organization_name": "ZENIQ",
-      "winners_announced": false,
-      "submission_gallery_url": "https://zencon-.devpost.com/project-gallery",
-      "start_a_submission_url": "https://zencon-.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -608,7 +608,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>75</span>",
-      "registrations_count": 1,
+      "registrations_count": 2,
       "featured": false,
       "organization_name": "MARZ",
       "winners_announced": false,
