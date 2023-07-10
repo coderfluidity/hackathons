@@ -1,6 +1,43 @@
 {
   "hackathons": [
     {
+      "id": 18517,
+      "title": "HackZurich 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Halle 550 Zurich Oerlikon"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/508/341/datas/medium_square.png",
+      "analytics_identifier": "HackZurich 2023 (18517)",
+      "url": "https://hackzurich2023.devpost.com/",
+      "time_left_to_submission": "2 months left",
+      "submission_period_dates": "Jul 10 - Sep 17, 2023",
+      "themes": [
+        {
+          "id": 26,
+          "name": "Mobile"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>10,000</span>",
+      "registrations_count": 47,
+      "featured": false,
+      "organization_name": "HackZurich",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackzurich2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackzurich2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 18602,
       "title": "Junction 2023",
       "displayed_location": {
@@ -11,7 +48,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/525/994/datas/medium_square.jpg",
       "analytics_identifier": "Junction 2023 (18602)",
       "url": "https://junction.devpost.com/",
-      "time_left_to_submission": "20 days left",
+      "time_left_to_submission": "19 days left",
       "submission_period_dates": "Jul 07 - 29, 2023",
       "themes": [
         {
@@ -28,7 +65,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>20,000</span>",
-      "registrations_count": 26,
+      "registrations_count": 33,
       "featured": false,
       "organization_name": "Junction ",
       "winners_announced": false,
@@ -65,7 +102,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>101,500</span>",
-      "registrations_count": 140,
+      "registrations_count": 149,
       "featured": false,
       "organization_name": "Youth Code Foundation",
       "winners_announced": false,
@@ -98,7 +135,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>28,500</span>",
-      "registrations_count": 91,
+      "registrations_count": 93,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -135,49 +172,12 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>140,000</span>",
-      "registrations_count": 81,
+      "registrations_count": 83,
       "featured": false,
       "organization_name": "NEAR Protocol",
       "winners_announced": false,
       "submission_gallery_url": "https://nearcon-hackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://nearcon-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18517,
-      "title": "HackZurich 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Halle 550 Zurich Oerlikon"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/508/341/datas/medium_square.png",
-      "analytics_identifier": "HackZurich 2023 (18517)",
-      "url": "https://hackzurich2023.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jul 10 - Sep 17, 2023",
-      "themes": [
-        {
-          "id": 26,
-          "name": "Mobile"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 40,
-      "featured": false,
-      "organization_name": "HackZurich",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackzurich2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackzurich2023.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -209,7 +209,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>16,500</span>",
-      "registrations_count": 37,
+      "registrations_count": 45,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -246,7 +246,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>120,000</span>",
-      "registrations_count": 33,
+      "registrations_count": 34,
       "featured": false,
       "organization_name": "SICK",
       "winners_announced": false,
@@ -254,6 +254,43 @@
       "start_a_submission_url": "https://sick-solution-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "College students and young professionals may apply"
+    },
+    {
+      "id": 18584,
+      "title": "Garuda Hacks 4.0",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Universitas Tarumanagara"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/526/393/datas/medium_square.png",
+      "analytics_identifier": "Garuda Hacks 4.0 (18584)",
+      "url": "https://garuda-hacks.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jul 21 - 22, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>16,200</span>",
+      "registrations_count": 33,
+      "featured": false,
+      "organization_name": "Garuda HQ",
+      "winners_announced": false,
+      "submission_gallery_url": "https://garuda-hacks.devpost.com/project-gallery",
+      "start_a_submission_url": "https://garuda-hacks.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Participants who have signed up and accepted."
     },
     {
       "id": 18502,
@@ -293,43 +330,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18584,
-      "title": "Garuda Hacks 4.0",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Universitas Tarumanagara"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/526/393/datas/medium_square.png",
-      "analytics_identifier": "Garuda Hacks 4.0 (18584)",
-      "url": "https://garuda-hacks.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jul 21 - 22, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>16,200</span>",
-      "registrations_count": 30,
-      "featured": false,
-      "organization_name": "Garuda HQ",
-      "winners_announced": false,
-      "submission_gallery_url": "https://garuda-hacks.devpost.com/project-gallery",
-      "start_a_submission_url": "https://garuda-hacks.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Participants who have signed up and accepted."
-    },
-    {
       "id": 18537,
       "title": "Hack Dearborn: Disrupt Reality",
       "displayed_location": {
@@ -357,7 +357,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>6,390</span>",
-      "registrations_count": 11,
+      "registrations_count": 13,
       "featured": false,
       "organization_name": "MLH",
       "winners_announced": false,
@@ -394,7 +394,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,600</span>",
-      "registrations_count": 8,
+      "registrations_count": 9,
       "featured": false,
       "organization_name": "Hoya Hacks",
       "winners_announced": false,
@@ -468,7 +468,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>225</span>",
-      "registrations_count": 5,
+      "registrations_count": 6,
       "featured": false,
       "organization_name": "Team Taro",
       "winners_announced": false,
@@ -505,7 +505,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>100,000</span>",
-      "registrations_count": 5,
+      "registrations_count": 6,
       "featured": false,
       "organization_name": "ZENIQ",
       "winners_announced": false,
@@ -577,6 +577,43 @@
       "winners_announced": false,
       "submission_gallery_url": "https://baeko-hackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://baeko-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18627,
+      "title": "Hack-GPT Edmonton's LLM Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Worknicer Beaver House "
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/530/966/datas/medium_square.jpg",
+      "analytics_identifier": "Hack-GPT Edmonton's LLM Hackathon (18627)",
+      "url": "https://gpt-edmonton-llm-hackathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jul 22 - 23, 2023",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$CAD<span data-currency-value>3,500</span>",
+      "registrations_count": 3,
+      "featured": false,
+      "organization_name": "PLACE",
+      "winners_announced": false,
+      "submission_gallery_url": "https://gpt-edmonton-llm-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://gpt-edmonton-llm-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -656,7 +693,7 @@
     }
   ],
   "meta": {
-    "total_count": 18,
+    "total_count": 19,
     "per_page": 40,
     "fuzzy": false
   }
