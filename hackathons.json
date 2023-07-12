@@ -28,7 +28,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 53,
+      "registrations_count": 61,
       "featured": false,
       "organization_name": "HackZurich",
       "winners_announced": false,
@@ -48,7 +48,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/525/994/datas/medium_square.jpg",
       "analytics_identifier": "Junction 2023 (18602)",
       "url": "https://junction.devpost.com/",
-      "time_left_to_submission": "18 days left",
+      "time_left_to_submission": "17 days left",
       "submission_period_dates": "Jul 07 - 29, 2023",
       "themes": [
         {
@@ -65,7 +65,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>20,000</span>",
-      "registrations_count": 41,
+      "registrations_count": 45,
       "featured": false,
       "organization_name": "Junction ",
       "winners_announced": false,
@@ -102,7 +102,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>101,500</span>",
-      "registrations_count": 155,
+      "registrations_count": 166,
       "featured": false,
       "organization_name": "Youth Code Foundation",
       "winners_announced": false,
@@ -135,7 +135,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>28,500</span>",
-      "registrations_count": 95,
+      "registrations_count": 98,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -172,7 +172,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>140,000</span>",
-      "registrations_count": 84,
+      "registrations_count": 88,
       "featured": false,
       "organization_name": "NEAR Protocol",
       "winners_announced": false,
@@ -180,6 +180,43 @@
       "start_a_submission_url": "https://nearcon-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18584,
+      "title": "Garuda Hacks 4.0",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Universitas Tarumanagara"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/526/393/datas/medium_square.png",
+      "analytics_identifier": "Garuda Hacks 4.0 (18584)",
+      "url": "https://garuda-hacks.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jul 21 - 22, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>16,200</span>",
+      "registrations_count": 53,
+      "featured": false,
+      "organization_name": "Garuda HQ",
+      "winners_announced": false,
+      "submission_gallery_url": "https://garuda-hacks.devpost.com/project-gallery",
+      "start_a_submission_url": "https://garuda-hacks.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Participants who have signed up and accepted."
     },
     {
       "id": 18278,
@@ -217,43 +254,6 @@
       "start_a_submission_url": "https://dw-cloudx-2023-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18584,
-      "title": "Garuda Hacks 4.0",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Universitas Tarumanagara"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/526/393/datas/medium_square.png",
-      "analytics_identifier": "Garuda Hacks 4.0 (18584)",
-      "url": "https://garuda-hacks.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jul 21 - 22, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>16,200</span>",
-      "registrations_count": 47,
-      "featured": false,
-      "organization_name": "Garuda HQ",
-      "winners_announced": false,
-      "submission_gallery_url": "https://garuda-hacks.devpost.com/project-gallery",
-      "start_a_submission_url": "https://garuda-hacks.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Participants who have signed up and accepted."
     },
     {
       "id": 18502,
@@ -357,7 +357,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>6,390</span>",
-      "registrations_count": 13,
+      "registrations_count": 14,
       "featured": false,
       "organization_name": "MLH",
       "winners_announced": false,
@@ -394,12 +394,49 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>21,000</span>",
-      "registrations_count": 10,
+      "registrations_count": 11,
       "featured": false,
       "organization_name": "SDxAI",
       "winners_announced": false,
       "submission_gallery_url": "https://sdxai.devpost.com/project-gallery",
       "start_a_submission_url": "https://sdxai.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18627,
+      "title": "Hack-GPT Edmonton's LLM Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Worknicer Beaver House "
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/530/966/datas/medium_square.jpg",
+      "analytics_identifier": "Hack-GPT Edmonton's LLM Hackathon (18627)",
+      "url": "https://gpt-edmonton-llm-hackathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jul 22 - 23, 2023",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$CAD<span data-currency-value>3,500</span>",
+      "registrations_count": 11,
+      "featured": false,
+      "organization_name": "PLACE",
+      "winners_announced": false,
+      "submission_gallery_url": "https://gpt-edmonton-llm-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://gpt-edmonton-llm-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -441,39 +478,39 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18627,
-      "title": "Hack-GPT Edmonton's LLM Hackathon",
+      "id": 18598,
+      "title": "DeveloperWeek 2024 Hackathon",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Worknicer Beaver House "
+        "location": "Oakland Convention Center"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/530/966/datas/medium_square.jpg",
-      "analytics_identifier": "Hack-GPT Edmonton's LLM Hackathon (18627)",
-      "url": "https://gpt-edmonton-llm-hackathon.devpost.com/",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder.gif",
+      "analytics_identifier": "DeveloperWeek 2024 Hackathon (18598)",
+      "url": "https://developerweek-2024-hackathon.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jul 22 - 23, 2023",
+      "submission_period_dates": "Feb 05 - 23, 2024",
       "themes": [
         {
-          "id": 6,
-          "name": "Machine Learning/AI"
+          "id": 2,
+          "name": "DevOps"
         },
         {
-          "id": 11,
-          "name": "Productivity"
+          "id": 21,
+          "name": "Enterprise"
         },
         {
-          "id": 25,
-          "name": "Web"
+          "id": 7,
+          "name": "IoT"
         }
       ],
-      "prize_amount": "$CAD<span data-currency-value>3,500</span>",
-      "registrations_count": 8,
+      "prize_amount": "$<span data-currency-value>12,500</span>",
+      "registrations_count": 7,
       "featured": false,
-      "organization_name": "PLACE",
+      "organization_name": "DevNetwork",
       "winners_announced": false,
-      "submission_gallery_url": "https://gpt-edmonton-llm-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://gpt-edmonton-llm-hackathon.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://developerweek-2024-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://developerweek-2024-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -589,43 +626,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18598,
-      "title": "DeveloperWeek 2024 Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Oakland Convention Center"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder.gif",
-      "analytics_identifier": "DeveloperWeek 2024 Hackathon (18598)",
-      "url": "https://developerweek-2024-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Feb 05 - 23, 2024",
-      "themes": [
-        {
-          "id": 2,
-          "name": "DevOps"
-        },
-        {
-          "id": 21,
-          "name": "Enterprise"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>12,500</span>",
-      "registrations_count": 6,
-      "featured": false,
-      "organization_name": "DevNetwork",
-      "winners_announced": false,
-      "submission_gallery_url": "https://developerweek-2024-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://developerweek-2024-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 18440,
       "title": "BÄKO-Hackathon",
       "displayed_location": {
@@ -719,7 +719,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>500</span>",
-      "registrations_count": 1,
+      "registrations_count": 2,
       "featured": false,
       "organization_name": "Mafiq Foundation",
       "winners_announced": false,
@@ -727,10 +727,43 @@
       "start_a_submission_url": "https://my-hack-23.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18693,
+      "title": "Web3 Code Challenge",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Vietnam"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder.gif",
+      "analytics_identifier": "Web3 Code Challenge (18693)",
+      "url": "https://web3-code-challenge-1.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jul 15 - Aug 31, 2023",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 3,
+          "name": "Fintech"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>18,000</span>",
+      "registrations_count": 1,
+      "featured": false,
+      "organization_name": "VBI Academy",
+      "winners_announced": false,
+      "submission_gallery_url": "https://web3-code-challenge-1.devpost.com/project-gallery",
+      "start_a_submission_url": "https://web3-code-challenge-1.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     }
   ],
   "meta": {
-    "total_count": 20,
+    "total_count": 21,
     "per_page": 40,
     "fuzzy": false
   }
