@@ -28,7 +28,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 65,
+      "registrations_count": 70,
       "featured": false,
       "organization_name": "HackZurich",
       "winners_announced": false,
@@ -48,7 +48,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/525/994/datas/medium_square.jpg",
       "analytics_identifier": "Junction 2023 (18602)",
       "url": "https://junction.devpost.com/",
-      "time_left_to_submission": "16 days left",
+      "time_left_to_submission": "15 days left",
       "submission_period_dates": "Jul 07 - 29, 2023",
       "themes": [
         {
@@ -65,7 +65,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>20,000</span>",
-      "registrations_count": 49,
+      "registrations_count": 54,
       "featured": false,
       "organization_name": "Junction ",
       "winners_announced": false,
@@ -85,7 +85,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/504/361/datas/medium_square.png",
       "analytics_identifier": "Epson Innovation Challenge #2 (18502)",
       "url": "https://epson-innovation-challenge.devpost.com/",
-      "time_left_to_submission": "7 days left",
+      "time_left_to_submission": "6 days left",
       "submission_period_dates": "Jul 12 - 20, 2023",
       "themes": [
         {
@@ -102,51 +102,14 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,997</span>",
-      "registrations_count": 38,
+      "registrations_count": 41,
       "featured": false,
       "organization_name": "Foundry 415 Innovation Group",
       "winners_announced": false,
       "submission_gallery_url": "https://epson-innovation-challenge.devpost.com/project-gallery",
       "start_a_submission_url": "https://epson-innovation-challenge.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18533,
-      "title": "The Robots Are Coming",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "AMCC"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/509/054/datas/medium_square.png",
-      "analytics_identifier": "The Robots Are Coming (18533)",
-      "url": "https://the-robots-are-coming.devpost.com/",
-      "time_left_to_submission": "about 4 hours left",
-      "submission_period_dates": "Jul 13, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 27,
-          "name": "Robotic Process Automation"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>75</span>",
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "MARZ",
-      "winners_announced": false,
-      "submission_gallery_url": "https://the-robots-are-coming.devpost.com/project-gallery",
-      "start_a_submission_url": "https://the-robots-are-coming.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Epson Innovation Challenge is currently full"
     },
     {
       "id": 18191,
@@ -176,7 +139,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>101,500</span>",
-      "registrations_count": 170,
+      "registrations_count": 173,
       "featured": false,
       "organization_name": "Youth Code Foundation",
       "winners_announced": false,
@@ -209,7 +172,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>28,500</span>",
-      "registrations_count": 98,
+      "registrations_count": 99,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -246,7 +209,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>140,000</span>",
-      "registrations_count": 89,
+      "registrations_count": 90,
       "featured": false,
       "organization_name": "NEAR Protocol",
       "winners_announced": false,
@@ -283,7 +246,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>16,200</span>",
-      "registrations_count": 60,
+      "registrations_count": 64,
       "featured": false,
       "organization_name": "Garuda HQ",
       "winners_announced": false,
@@ -320,7 +283,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>76,500</span>",
-      "registrations_count": 53,
+      "registrations_count": 55,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -357,7 +320,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>120,000</span>",
-      "registrations_count": 34,
+      "registrations_count": 35,
       "featured": false,
       "organization_name": "SICK",
       "winners_announced": false,
@@ -394,49 +357,12 @@
         }
       ],
       "prize_amount": "$CAD<span data-currency-value>3,500</span>",
-      "registrations_count": 17,
+      "registrations_count": 19,
       "featured": false,
       "organization_name": "PLACE",
       "winners_announced": false,
       "submission_gallery_url": "https://gpt-edmonton-llm-hackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://gpt-edmonton-llm-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18537,
-      "title": "Hack Dearborn: Disrupt Reality",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "University of Michigan - Dearborn"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/526/790/datas/medium_square.png",
-      "analytics_identifier": "Hack Dearborn: Disrupt Reality (18537)",
-      "url": "https://hackdearborn2.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 21 - 22, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>6,390</span>",
-      "registrations_count": 15,
-      "featured": false,
-      "organization_name": "MLH",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackdearborn2.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackdearborn2.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -467,13 +393,50 @@
           "name": "Mobile"
         }
       ],
-      "prize_amount": "$<span data-currency-value>21,000</span>",
-      "registrations_count": 14,
+      "prize_amount": "$<span data-currency-value>23,000</span>",
+      "registrations_count": 17,
       "featured": false,
       "organization_name": "SDxAI",
       "winners_announced": false,
       "submission_gallery_url": "https://sdxai.devpost.com/project-gallery",
       "start_a_submission_url": "https://sdxai.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Must be registered through the SDxAI"
+    },
+    {
+      "id": 18537,
+      "title": "Hack Dearborn: Disrupt Reality",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "University of Michigan - Dearborn"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/526/790/datas/medium_square.png",
+      "analytics_identifier": "Hack Dearborn: Disrupt Reality (18537)",
+      "url": "https://hackdearborn2.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 21 - 22, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>6,390</span>",
+      "registrations_count": 16,
+      "featured": false,
+      "organization_name": "MLH",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackdearborn2.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackdearborn2.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -542,7 +505,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>100,000</span>",
-      "registrations_count": 7,
+      "registrations_count": 8,
       "featured": false,
       "organization_name": "ZENIQ",
       "winners_announced": false,
@@ -579,7 +542,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>12,500</span>",
-      "registrations_count": 7,
+      "registrations_count": 8,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -616,7 +579,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 7,
+      "registrations_count": 8,
       "featured": false,
       "organization_name": "Planet Unity",
       "winners_announced": false,
@@ -682,12 +645,45 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>9,500</span>",
-      "registrations_count": 4,
+      "registrations_count": 5,
       "featured": false,
       "organization_name": "hack.institute",
       "winners_announced": false,
       "submission_gallery_url": "https://baeko-hackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://baeko-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18693,
+      "title": "Web3 Code Challenge",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Việt Nam"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder.gif",
+      "analytics_identifier": "Web3 Code Challenge (18693)",
+      "url": "https://web3-code-challenge-1.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jul 15 - Aug 31, 2023",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 3,
+          "name": "Fintech"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>18,000</span>",
+      "registrations_count": 3,
+      "featured": false,
+      "organization_name": "VBI Academy",
+      "winners_announced": false,
+      "submission_gallery_url": "https://web3-code-challenge-1.devpost.com/project-gallery",
+      "start_a_submission_url": "https://web3-code-challenge-1.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -729,39 +725,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18693,
-      "title": "Web3 Code Challenge",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Việt Nam"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder.gif",
-      "analytics_identifier": "Web3 Code Challenge (18693)",
-      "url": "https://web3-code-challenge-1.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jul 15 - Aug 31, 2023",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        },
-        {
-          "id": 3,
-          "name": "Fintech"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>18,000</span>",
-      "registrations_count": 1,
-      "featured": false,
-      "organization_name": "VBI Academy",
-      "winners_announced": false,
-      "submission_gallery_url": "https://web3-code-challenge-1.devpost.com/project-gallery",
-      "start_a_submission_url": "https://web3-code-challenge-1.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 18674,
       "title": "HackUIowa '23",
       "displayed_location": {
@@ -795,6 +758,43 @@
       "winners_announced": false,
       "submission_gallery_url": "https://hackuiowa-23.devpost.com/project-gallery",
       "start_a_submission_url": "https://hackuiowa-23.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18690,
+      "title": "NASA Space Apps Challenge Mountain View",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "NASA Ames Research Center"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/534/398/datas/medium_square.png",
+      "analytics_identifier": "NASA Space Apps Challenge Mountain View (18690)",
+      "url": "https://nasa-space-apps-mountain-view.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 07 - 08, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 1,
+      "featured": false,
+      "organization_name": "NASA",
+      "winners_announced": false,
+      "submission_gallery_url": "https://nasa-space-apps-mountain-view.devpost.com/project-gallery",
+      "start_a_submission_url": "https://nasa-space-apps-mountain-view.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     }
