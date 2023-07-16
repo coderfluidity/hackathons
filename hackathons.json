@@ -28,7 +28,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 76,
+      "registrations_count": 78,
       "featured": false,
       "organization_name": "HackZurich",
       "winners_announced": false,
@@ -48,7 +48,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/525/994/datas/medium_square.jpg",
       "analytics_identifier": "Junction 2023 (18602)",
       "url": "https://junction.devpost.com/",
-      "time_left_to_submission": "14 days left",
+      "time_left_to_submission": "13 days left",
       "submission_period_dates": "Jul 07 - 29, 2023",
       "themes": [
         {
@@ -65,7 +65,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>20,000</span>",
-      "registrations_count": 58,
+      "registrations_count": 70,
       "featured": false,
       "organization_name": "Junction ",
       "winners_announced": false,
@@ -73,43 +73,6 @@
       "start_a_submission_url": "https://junction.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18502,
-      "title": "Epson Innovation Challenge #2",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Foundry 415 Innovation Group"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/504/361/datas/medium_square.png",
-      "analytics_identifier": "Epson Innovation Challenge #2 (18502)",
-      "url": "https://epson-innovation-challenge.devpost.com/",
-      "time_left_to_submission": "5 days left",
-      "submission_period_dates": "Jul 12 - 20, 2023",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 11,
-          "name": "Productivity"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>10,997</span>",
-      "registrations_count": 45,
-      "featured": false,
-      "organization_name": "Foundry 415 Innovation Group",
-      "winners_announced": false,
-      "submission_gallery_url": "https://epson-innovation-challenge.devpost.com/project-gallery",
-      "start_a_submission_url": "https://epson-innovation-challenge.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Epson Innovation Challenge is currently full"
     },
     {
       "id": 18548,
@@ -122,7 +85,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/533/184/datas/medium_square.png",
       "analytics_identifier": "SDxAI Hackathon (18548)",
       "url": "https://sdxai.devpost.com/",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 4 hours left",
       "submission_period_dates": "Jul 15 - 16, 2023",
       "themes": [
         {
@@ -139,7 +102,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>23,000</span>",
-      "registrations_count": 19,
+      "registrations_count": 59,
       "featured": false,
       "organization_name": "SDxAI",
       "winners_announced": false,
@@ -147,6 +110,43 @@
       "start_a_submission_url": "https://sdxai.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Must be registered through the SDxAI"
+    },
+    {
+      "id": 18502,
+      "title": "Epson Innovation Challenge #2",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Foundry 415 Innovation Group"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/504/361/datas/medium_square.png",
+      "analytics_identifier": "Epson Innovation Challenge #2 (18502)",
+      "url": "https://epson-innovation-challenge.devpost.com/",
+      "time_left_to_submission": "4 days left",
+      "submission_period_dates": "Jul 12 - 20, 2023",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>10,997</span>",
+      "registrations_count": 46,
+      "featured": false,
+      "organization_name": "Foundry 415 Innovation Group",
+      "winners_announced": false,
+      "submission_gallery_url": "https://epson-innovation-challenge.devpost.com/project-gallery",
+      "start_a_submission_url": "https://epson-innovation-challenge.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Epson Innovation Challenge is currently full"
     },
     {
       "id": 18693,
@@ -172,7 +172,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>18,000</span>",
-      "registrations_count": 3,
+      "registrations_count": 5,
       "featured": false,
       "organization_name": "VBI Academy",
       "winners_announced": false,
@@ -209,7 +209,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>102,100</span>",
-      "registrations_count": 183,
+      "registrations_count": 188,
       "featured": false,
       "organization_name": "Youth Code Foundation",
       "winners_announced": false,
@@ -242,7 +242,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>28,500</span>",
-      "registrations_count": 100,
+      "registrations_count": 102,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -316,7 +316,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>16,200</span>",
-      "registrations_count": 65,
+      "registrations_count": 72,
       "featured": false,
       "organization_name": "Garuda HQ",
       "winners_announced": false,
@@ -353,7 +353,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>78,500</span>",
-      "registrations_count": 57,
+      "registrations_count": 59,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -390,7 +390,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>120,000</span>",
-      "registrations_count": 35,
+      "registrations_count": 36,
       "featured": false,
       "organization_name": "SICK",
       "winners_announced": false,
@@ -427,7 +427,7 @@
         }
       ],
       "prize_amount": "$CAD<span data-currency-value>3,500</span>",
-      "registrations_count": 19,
+      "registrations_count": 21,
       "featured": false,
       "organization_name": "PLACE",
       "winners_announced": false,
@@ -474,43 +474,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 17365,
-      "title": "Hoya Hacks 2024",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Healey Family Student Center"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/507/923/datas/medium_square.png",
-      "analytics_identifier": "Hoya Hacks 2024 (17365)",
-      "url": "https://hoya-hacks-2024.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jan 26 - 28, 2024",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>1,600</span>",
-      "registrations_count": 9,
-      "featured": false,
-      "organization_name": "Hoya Hacks",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hoya-hacks-2024.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hoya-hacks-2024.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 18598,
       "title": "DeveloperWeek 2024 Hackathon",
       "displayed_location": {
@@ -538,7 +501,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>12,500</span>",
-      "registrations_count": 9,
+      "registrations_count": 11,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -575,12 +538,49 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>100,000</span>",
-      "registrations_count": 8,
+      "registrations_count": 9,
       "featured": false,
       "organization_name": "ZENIQ",
       "winners_announced": false,
       "submission_gallery_url": "https://zencon-.devpost.com/project-gallery",
       "start_a_submission_url": "https://zencon-.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 17365,
+      "title": "Hoya Hacks 2024",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Healey Family Student Center"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/507/923/datas/medium_square.png",
+      "analytics_identifier": "Hoya Hacks 2024 (17365)",
+      "url": "https://hoya-hacks-2024.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jan 26 - 28, 2024",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1,600</span>",
+      "registrations_count": 9,
+      "featured": false,
+      "organization_name": "Hoya Hacks",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hoya-hacks-2024.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hoya-hacks-2024.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -725,6 +725,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 18690,
+      "title": "NASA Space Apps Challenge Mountain View",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "NASA Ames Research Center"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/534/398/datas/medium_square.png",
+      "analytics_identifier": "NASA Space Apps Challenge Mountain View (18690)",
+      "url": "https://nasa-space-apps-mountain-view.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 07 - 08, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 2,
+      "featured": false,
+      "organization_name": "NASA",
+      "winners_announced": false,
+      "submission_gallery_url": "https://nasa-space-apps-mountain-view.devpost.com/project-gallery",
+      "start_a_submission_url": "https://nasa-space-apps-mountain-view.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 18674,
       "title": "HackUIowa '23",
       "displayed_location": {
@@ -758,43 +795,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://hackuiowa-23.devpost.com/project-gallery",
       "start_a_submission_url": "https://hackuiowa-23.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18690,
-      "title": "NASA Space Apps Challenge Mountain View",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "NASA Ames Research Center"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/534/398/datas/medium_square.png",
-      "analytics_identifier": "NASA Space Apps Challenge Mountain View (18690)",
-      "url": "https://nasa-space-apps-mountain-view.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 07 - 08, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 1,
-      "featured": false,
-      "organization_name": "NASA",
-      "winners_announced": false,
-      "submission_gallery_url": "https://nasa-space-apps-mountain-view.devpost.com/project-gallery",
-      "start_a_submission_url": "https://nasa-space-apps-mountain-view.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     }
