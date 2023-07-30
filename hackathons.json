@@ -1,80 +1,6 @@
 {
   "hackathons": [
     {
-      "id": 18602,
-      "title": "Junction 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Helsinki, Finland"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/525/994/datas/medium_square.jpg",
-      "analytics_identifier": "Junction 2023 (18602)",
-      "url": "https://junction.devpost.com/",
-      "time_left_to_submission": "about 4 hours left",
-      "submission_period_dates": "Jul 07 - 29, 2023",
-      "themes": [
-        {
-          "id": 10,
-          "name": "Communication"
-        },
-        {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        }
-      ],
-      "prize_amount": "€<span data-currency-value>20,000</span>",
-      "registrations_count": 154,
-      "featured": true,
-      "organization_name": "Junction ",
-      "winners_announced": false,
-      "submission_gallery_url": "https://junction.devpost.com/project-gallery",
-      "start_a_submission_url": "https://junction.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18704,
-      "title": "AI Language Tools for Business",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "City Cube Berlin + Online"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/535/787/datas/medium_square.png",
-      "analytics_identifier": "AI Language Tools for Business (18704)",
-      "url": "https://deepl.devpost.com/",
-      "time_left_to_submission": "about 22 hours left",
-      "submission_period_dates": "Jul 23 - 30, 2023",
-      "themes": [
-        {
-          "id": 10,
-          "name": "Communication"
-        },
-        {
-          "id": 21,
-          "name": "Enterprise"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 16,
-      "featured": true,
-      "organization_name": "DeepL",
-      "winners_announced": false,
-      "submission_gallery_url": "https://deepl.devpost.com/project-gallery",
-      "start_a_submission_url": "https://deepl.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 18517,
       "title": "HackZurich 2023",
       "displayed_location": {
@@ -102,7 +28,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 124,
+      "registrations_count": 125,
       "featured": false,
       "organization_name": "HackZurich",
       "winners_announced": false,
@@ -112,44 +38,40 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18754,
-      "title": "Management and Technology Summer Institute 2023 Deliwala/Babin",
+      "id": 18776,
+      "title": "Anthropic Claude 2 Hackathon",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Philadelphia, PA, USA"
+        "location": "Shack15"
       },
       "open_state": "open",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder.gif",
-      "analytics_identifier": "Management and Technology Summer Institute 2023 Deliwala/Babin (18754)",
-      "url": "https://mtsi2023.devpost.com/",
-      "time_left_to_submission": "about 4 hours left",
-      "submission_period_dates": "Jul 24 - 29, 2023",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/545/055/datas/medium_square.png",
+      "analytics_identifier": "Anthropic Claude 2 Hackathon (18776)",
+      "url": "https://claude2hackathon.devpost.com/",
+      "time_left_to_submission": "about 2 hours left",
+      "submission_period_dates": "Jul 30, 2023",
       "themes": [
         {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
+          "id": 6,
+          "name": "Machine Learning/AI"
         }
       ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 57,
+      "prize_amount": "$<span data-currency-value>15,000</span>",
+      "registrations_count": 67,
       "featured": false,
-      "organization_name": "university of pennsylvania",
+      "organization_name": "Cerebral Valley",
       "winners_announced": false,
-      "submission_gallery_url": "https://mtsi2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://mtsi2023.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Need to be enrolled in mtsi2023"
+      "submission_gallery_url": "https://claude2hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://claude2hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 18693,
       "title": "Web3 Code Challenge",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Việt Nam"
+        "location": "Vietnam"
       },
       "open_state": "open",
       "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder.gif",
@@ -168,86 +90,12 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>23,000</span>",
-      "registrations_count": 53,
+      "registrations_count": 56,
       "featured": false,
       "organization_name": "VBI Academy",
       "winners_announced": false,
       "submission_gallery_url": "https://web3-code-challenge.devpost.com/project-gallery",
       "start_a_submission_url": "https://web3-code-challenge.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18782,
-      "title": "MC Gets Visual",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Higher Institute of Sciences"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/545/147/datas/medium_square.png",
-      "analytics_identifier": "MC Gets Visual (18782)",
-      "url": "https://mc-gets-visual.devpost.com/",
-      "time_left_to_submission": "about 24 hours left",
-      "submission_period_dates": "Jul 29 - 30, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 10,
-          "name": "Communication"
-        },
-        {
-          "id": 18,
-          "name": "Design"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>20</span>",
-      "registrations_count": 44,
-      "featured": false,
-      "organization_name": "Micro Club",
-      "winners_announced": false,
-      "submission_gallery_url": "https://mc-gets-visual.devpost.com/project-gallery",
-      "start_a_submission_url": "https://mc-gets-visual.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18800,
-      "title": "TalentNexus trial",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "VIT Bhopal University"
-      },
-      "open_state": "open",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder.gif",
-      "analytics_identifier": "TalentNexus trial (18800)",
-      "url": "https://talentnexus-trial.devpost.com/",
-      "time_left_to_submission": "about 6 hours left",
-      "submission_period_dates": "Jul 28 - 29, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "₹ <span data-currency-value>1,000</span>",
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "Entrepreneurship Cell",
-      "winners_announced": false,
-      "submission_gallery_url": "https://talentnexus-trial.devpost.com/project-gallery",
-      "start_a_submission_url": "https://talentnexus-trial.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -262,7 +110,7 @@
       "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder.gif",
       "analytics_identifier": "TalentNexus (18801)",
       "url": "https://talentnexus.devpost.com/",
-      "time_left_to_submission": "4 days left",
+      "time_left_to_submission": "3 days left",
       "submission_period_dates": "Jul 29 - Aug 02, 2023",
       "themes": [
         {
@@ -279,7 +127,7 @@
         }
       ],
       "prize_amount": "₹ <span data-currency-value>0</span>",
-      "registrations_count": 3,
+      "registrations_count": 4,
       "featured": false,
       "organization_name": "Entrepreneurship Cell",
       "winners_announced": false,
@@ -316,7 +164,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>255,200</span>",
-      "registrations_count": 121,
+      "registrations_count": 126,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -386,12 +234,49 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>140,000</span>",
-      "registrations_count": 113,
+      "registrations_count": 115,
       "featured": false,
       "organization_name": "NEAR Protocol",
       "winners_announced": false,
       "submission_gallery_url": "https://nearcon-hackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://nearcon-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18689,
+      "title": "natHACKS 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "University of Alberta - SUB"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/537/476/datas/medium_square.png",
+      "analytics_identifier": "natHACKS 2023 (18689)",
+      "url": "https://nathacks23.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Nov 16 - 19, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 16,
+          "name": "Health"
+        }
+      ],
+      "prize_amount": "$CAD<span data-currency-value>27,000</span>",
+      "registrations_count": 22,
+      "featured": false,
+      "organization_name": "NeurAlbertaTech",
+      "winners_announced": false,
+      "submission_gallery_url": "https://nathacks23.devpost.com/project-gallery",
+      "start_a_submission_url": "https://nathacks23.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -470,18 +355,18 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18689,
-      "title": "natHACKS 2023",
+      "id": 18690,
+      "title": "NASA Space Apps Challenge Mountain View",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "University of Alberta - SUB"
+        "location": "NASA Ames - B3 Conference center"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/537/476/datas/medium_square.png",
-      "analytics_identifier": "natHACKS 2023 (18689)",
-      "url": "https://nathacks23.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/534/398/datas/medium_square.png",
+      "analytics_identifier": "NASA Space Apps Challenge Mountain View (18690)",
+      "url": "https://nasa-space-apps-mountain-view.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 16 - 19, 2023",
+      "submission_period_dates": "Oct 07 - 08, 2023",
       "themes": [
         {
           "id": 23,
@@ -492,17 +377,17 @@
           "name": "Education"
         },
         {
-          "id": 16,
-          "name": "Health"
+          "id": 6,
+          "name": "Machine Learning/AI"
         }
       ],
-      "prize_amount": "$CAD<span data-currency-value>27,000</span>",
-      "registrations_count": 19,
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 16,
       "featured": false,
-      "organization_name": "NeurAlbertaTech",
+      "organization_name": "NASA",
       "winners_announced": false,
-      "submission_gallery_url": "https://nathacks23.devpost.com/project-gallery",
-      "start_a_submission_url": "https://nathacks23.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://nasa-space-apps-mountain-view.devpost.com/project-gallery",
+      "start_a_submission_url": "https://nasa-space-apps-mountain-view.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -540,43 +425,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://zencon-.devpost.com/project-gallery",
       "start_a_submission_url": "https://zencon-.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18690,
-      "title": "NASA Space Apps Challenge Mountain View",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "NASA Ames - B3 Conference center"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/534/398/datas/medium_square.png",
-      "analytics_identifier": "NASA Space Apps Challenge Mountain View (18690)",
-      "url": "https://nasa-space-apps-mountain-view.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 07 - 08, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 13,
-      "featured": false,
-      "organization_name": "NASA",
-      "winners_announced": false,
-      "submission_gallery_url": "https://nasa-space-apps-mountain-view.devpost.com/project-gallery",
-      "start_a_submission_url": "https://nasa-space-apps-mountain-view.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -645,12 +493,45 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,600</span>",
-      "registrations_count": 9,
+      "registrations_count": 10,
       "featured": false,
       "organization_name": "Hoya Hacks",
       "winners_announced": false,
       "submission_gallery_url": "https://hoya-hacks-2024.devpost.com/project-gallery",
       "start_a_submission_url": "https://hoya-hacks-2024.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18650,
+      "title": "Oasis Hacks",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Circuit Launch, Oakland"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/533/117/datas/medium_square.png",
+      "analytics_identifier": "Oasis Hacks (18650)",
+      "url": "https://oasis-hacks.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Aug 06, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>34,050</span>",
+      "registrations_count": 9,
+      "featured": false,
+      "organization_name": "Cal Commit",
+      "winners_announced": false,
+      "submission_gallery_url": "https://oasis-hacks.devpost.com/project-gallery",
+      "start_a_submission_url": "https://oasis-hacks.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -688,39 +569,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://planetunity-winter-23-world.devpost.com/project-gallery",
       "start_a_submission_url": "https://planetunity-winter-23-world.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18650,
-      "title": "Oasis Hacks",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Circuit Launch, Oakland"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/533/117/datas/medium_square.png",
-      "analytics_identifier": "Oasis Hacks (18650)",
-      "url": "https://oasis-hacks.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Aug 06, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>34,050</span>",
-      "registrations_count": 8,
-      "featured": false,
-      "organization_name": "Cal Commit",
-      "winners_announced": false,
-      "submission_gallery_url": "https://oasis-hacks.devpost.com/project-gallery",
-      "start_a_submission_url": "https://oasis-hacks.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -814,12 +662,123 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>500</span>",
-      "registrations_count": 3,
+      "registrations_count": 4,
       "featured": false,
       "organization_name": "Mafiq Foundation",
       "winners_announced": false,
       "submission_gallery_url": "https://my-hack-23.devpost.com/project-gallery",
       "start_a_submission_url": "https://my-hack-23.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18774,
+      "title": "Pitt Challenge 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "TBD"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/544/760/datas/medium_square.png",
+      "analytics_identifier": "Pitt Challenge 2023 (18774)",
+      "url": "https://pittchallenge2023.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Sep 15 - 17, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 16,
+          "name": "Health"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 4,
+      "featured": false,
+      "organization_name": "University of Pittsburgh",
+      "winners_announced": false,
+      "submission_gallery_url": "https://pittchallenge2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://pittchallenge2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18729,
+      "title": "Hacks for Humanity",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "1951 @ Skysong - ASU Skysong"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder.gif",
+      "analytics_identifier": "Hacks for Humanity (18729)",
+      "url": "https://hacks-for-humanity.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 06 - 08, 2023",
+      "themes": [
+        {
+          "id": 18,
+          "name": "Design"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>13,800</span>",
+      "registrations_count": 4,
+      "featured": false,
+      "organization_name": "Project Humanities",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hacks-for-humanity.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hacks-for-humanity.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18794,
+      "title": "PioneerHacks V",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Juniper Aspiration Dome"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder.gif",
+      "analytics_identifier": "PioneerHacks V (18794)",
+      "url": "https://pioneerhacks-v.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Feb 17 - 18, 2024",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 4,
+      "featured": false,
+      "organization_name": "Juniper",
+      "winners_announced": false,
+      "submission_gallery_url": "https://pioneerhacks-v.devpost.com/project-gallery",
+      "start_a_submission_url": "https://pioneerhacks-v.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -935,76 +894,39 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18729,
-      "title": "Hacks for Humanity",
+      "id": 18807,
+      "title": "Block Stock Hackathon 2K23",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "1951 @ Skysong - ASU Skysong"
+        "location": "Block 283, Toh Guan Road, Void deck "
       },
       "open_state": "upcoming",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder.gif",
-      "analytics_identifier": "Hacks for Humanity (18729)",
-      "url": "https://hacks-for-humanity.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/547/941/datas/medium_square.png",
+      "analytics_identifier": "Block Stock Hackathon 2K23 (18807)",
+      "url": "https://block-stock-hackathon-2k23.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 06 - 08, 2023",
+      "submission_period_dates": "Jul 31 - Aug 31, 2023",
       "themes": [
         {
-          "id": 18,
-          "name": "Design"
+          "id": 10,
+          "name": "Communication"
         },
         {
-          "id": 19,
-          "name": "Education"
+          "id": 4,
+          "name": "Gaming"
         },
         {
-          "id": 13,
-          "name": "Social Good"
+          "id": 17,
+          "name": "Low/No Code"
         }
       ],
-      "prize_amount": "$<span data-currency-value>13,800</span>",
-      "registrations_count": 3,
+      "prize_amount": "$<span data-currency-value>100,000</span>",
+      "registrations_count": 2,
       "featured": false,
-      "organization_name": "Project Humanities",
+      "organization_name": "HDB",
       "winners_announced": false,
-      "submission_gallery_url": "https://hacks-for-humanity.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hacks-for-humanity.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18794,
-      "title": "PioneerHacks V",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Juniper Aspiration Dome"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder.gif",
-      "analytics_identifier": "PioneerHacks V (18794)",
-      "url": "https://pioneerhacks-v.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Feb 17 - 18, 2024",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "Juniper",
-      "winners_announced": false,
-      "submission_gallery_url": "https://pioneerhacks-v.devpost.com/project-gallery",
-      "start_a_submission_url": "https://pioneerhacks-v.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://block-stock-hackathon-2k23.devpost.com/project-gallery",
+      "start_a_submission_url": "https://block-stock-hackathon-2k23.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -1065,7 +987,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,000</span>",
-      "registrations_count": 1,
+      "registrations_count": 2,
       "featured": false,
       "organization_name": "AI Peaks",
       "winners_announced": false,
@@ -1094,12 +1016,49 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 1,
+      "registrations_count": 2,
       "featured": false,
       "organization_name": "Dimo Finance",
       "winners_announced": false,
       "submission_gallery_url": "https://hackverse-2-0.devpost.com/project-gallery",
       "start_a_submission_url": "https://hackverse-2-0.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18806,
+      "title": "SystAIn3r Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Munich"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder.gif",
+      "analytics_identifier": "SystAIn3r Hackathon (18806)",
+      "url": "https://systain3r.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Sep 21 - 23, 2023",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "€<span data-currency-value>0</span>",
+      "registrations_count": 1,
+      "featured": false,
+      "organization_name": "Systain3r",
+      "winners_announced": false,
+      "submission_gallery_url": "https://systain3r.devpost.com/project-gallery",
+      "start_a_submission_url": "https://systain3r.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -1134,7 +1093,7 @@
     }
   ],
   "meta": {
-    "total_count": 32,
+    "total_count": 31,
     "per_page": 40,
     "fuzzy": false
   }
