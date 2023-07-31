@@ -28,7 +28,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 125,
+      "registrations_count": 127,
       "featured": false,
       "organization_name": "HackZurich",
       "winners_announced": false,
@@ -38,40 +38,11 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18776,
-      "title": "Anthropic Claude 2 Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Shack15"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/545/055/datas/medium_square.png",
-      "analytics_identifier": "Anthropic Claude 2 Hackathon (18776)",
-      "url": "https://claude2hackathon.devpost.com/",
-      "time_left_to_submission": "about 2 hours left",
-      "submission_period_dates": "Jul 30, 2023",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>15,000</span>",
-      "registrations_count": 67,
-      "featured": false,
-      "organization_name": "Cerebral Valley",
-      "winners_announced": false,
-      "submission_gallery_url": "https://claude2hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://claude2hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 18693,
       "title": "Web3 Code Challenge",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Vietnam"
+        "location": "Việt Nam"
       },
       "open_state": "open",
       "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder.gif",
@@ -90,7 +61,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>23,000</span>",
-      "registrations_count": 56,
+      "registrations_count": 59,
       "featured": false,
       "organization_name": "VBI Academy",
       "winners_announced": false,
@@ -110,7 +81,7 @@
       "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder.gif",
       "analytics_identifier": "TalentNexus (18801)",
       "url": "https://talentnexus.devpost.com/",
-      "time_left_to_submission": "3 days left",
+      "time_left_to_submission": "2 days left",
       "submission_period_dates": "Jul 29 - Aug 02, 2023",
       "themes": [
         {
@@ -133,6 +104,43 @@
       "winners_announced": false,
       "submission_gallery_url": "https://talentnexus.devpost.com/project-gallery",
       "start_a_submission_url": "https://talentnexus.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18807,
+      "title": "Block Stock Hackathon 2K23",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Block 283, Toh Guan Road, Void deck "
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/547/941/datas/medium_square.png",
+      "analytics_identifier": "Block Stock Hackathon 2K23 (18807)",
+      "url": "https://block-stock-hackathon-2k23.devpost.com/",
+      "time_left_to_submission": "about 1 month left",
+      "submission_period_dates": "Jul 31 - Aug 31, 2023",
+      "themes": [
+        {
+          "id": 10,
+          "name": "Communication"
+        },
+        {
+          "id": 4,
+          "name": "Gaming"
+        },
+        {
+          "id": 17,
+          "name": "Low/No Code"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>100,000</span>",
+      "registrations_count": 3,
+      "featured": false,
+      "organization_name": "HDB",
+      "winners_announced": false,
+      "submission_gallery_url": "https://block-stock-hackathon-2k23.devpost.com/project-gallery",
+      "start_a_submission_url": "https://block-stock-hackathon-2k23.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -164,7 +172,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>255,200</span>",
-      "registrations_count": 126,
+      "registrations_count": 133,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -234,7 +242,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>140,000</span>",
-      "registrations_count": 115,
+      "registrations_count": 117,
       "featured": false,
       "organization_name": "NEAR Protocol",
       "winners_announced": false,
@@ -271,7 +279,7 @@
         }
       ],
       "prize_amount": "$CAD<span data-currency-value>27,000</span>",
-      "registrations_count": 22,
+      "registrations_count": 24,
       "featured": false,
       "organization_name": "NeurAlbertaTech",
       "winners_announced": false,
@@ -308,7 +316,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>6,390</span>",
-      "registrations_count": 20,
+      "registrations_count": 21,
       "featured": false,
       "organization_name": "MLH",
       "winners_announced": false,
@@ -419,12 +427,45 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>100,000</span>",
-      "registrations_count": 13,
+      "registrations_count": 15,
       "featured": false,
       "organization_name": "ZENIQ",
       "winners_announced": false,
       "submission_gallery_url": "https://zencon-.devpost.com/project-gallery",
       "start_a_submission_url": "https://zencon-.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18650,
+      "title": "Oasis Hacks",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Circuit Launch, Oakland"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/533/117/datas/medium_square.png",
+      "analytics_identifier": "Oasis Hacks (18650)",
+      "url": "https://oasis-hacks.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Aug 06, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>34,050</span>",
+      "registrations_count": 10,
+      "featured": true,
+      "organization_name": "Cal Commit",
+      "winners_announced": false,
+      "submission_gallery_url": "https://oasis-hacks.devpost.com/project-gallery",
+      "start_a_submission_url": "https://oasis-hacks.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -457,7 +498,7 @@
       ],
       "prize_amount": "$<span data-currency-value>1,350</span>",
       "registrations_count": 10,
-      "featured": false,
+      "featured": true,
       "organization_name": "Team Taro",
       "winners_announced": false,
       "submission_gallery_url": "https://tarohacks2023.devpost.com/project-gallery",
@@ -499,39 +540,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://hoya-hacks-2024.devpost.com/project-gallery",
       "start_a_submission_url": "https://hoya-hacks-2024.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18650,
-      "title": "Oasis Hacks",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Circuit Launch, Oakland"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/533/117/datas/medium_square.png",
-      "analytics_identifier": "Oasis Hacks (18650)",
-      "url": "https://oasis-hacks.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Aug 06, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>34,050</span>",
-      "registrations_count": 9,
-      "featured": false,
-      "organization_name": "Cal Commit",
-      "winners_announced": false,
-      "submission_gallery_url": "https://oasis-hacks.devpost.com/project-gallery",
-      "start_a_submission_url": "https://oasis-hacks.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -596,7 +604,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>18,000</span>",
-      "registrations_count": 6,
+      "registrations_count": 7,
       "featured": false,
       "organization_name": "Biofarma",
       "winners_announced": false,
@@ -635,6 +643,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 18794,
+      "title": "PioneerHacks V",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Juniper Aspiration Dome"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder.gif",
+      "analytics_identifier": "PioneerHacks V (18794)",
+      "url": "https://pioneerhacks-v.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Feb 17 - 18, 2024",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 5,
+      "featured": false,
+      "organization_name": "Juniper",
+      "winners_announced": false,
+      "submission_gallery_url": "https://pioneerhacks-v.devpost.com/project-gallery",
+      "start_a_submission_url": "https://pioneerhacks-v.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 18605,
       "title": "MY Hack",
       "displayed_location": {
@@ -663,7 +708,7 @@
       ],
       "prize_amount": "$<span data-currency-value>500</span>",
       "registrations_count": 4,
-      "featured": false,
+      "featured": true,
       "organization_name": "Mafiq Foundation",
       "winners_announced": false,
       "submission_gallery_url": "https://my-hack-23.devpost.com/project-gallery",
@@ -746,43 +791,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18794,
-      "title": "PioneerHacks V",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Juniper Aspiration Dome"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder.gif",
-      "analytics_identifier": "PioneerHacks V (18794)",
-      "url": "https://pioneerhacks-v.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Feb 17 - 18, 2024",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 4,
-      "featured": false,
-      "organization_name": "Juniper",
-      "winners_announced": false,
-      "submission_gallery_url": "https://pioneerhacks-v.devpost.com/project-gallery",
-      "start_a_submission_url": "https://pioneerhacks-v.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 18616,
       "title": "Enriched CS Summer Hacks (In person Bay Area)",
       "displayed_location": {
@@ -811,7 +819,7 @@
       ],
       "prize_amount": "$<span data-currency-value>27,200</span>",
       "registrations_count": 3,
-      "featured": false,
+      "featured": true,
       "organization_name": "Lynbrook High Schoolers",
       "winners_announced": false,
       "submission_gallery_url": "https://enrichedcs-summerhacks.devpost.com/project-gallery",
@@ -894,39 +902,31 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18807,
-      "title": "Block Stock Hackathon 2K23",
+      "id": 18795,
+      "title": "HackVerse 2.0",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Block 283, Toh Guan Road, Void deck "
+        "location": "Chennai , Tamil Nadu , India"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/547/941/datas/medium_square.png",
-      "analytics_identifier": "Block Stock Hackathon 2K23 (18807)",
-      "url": "https://block-stock-hackathon-2k23.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/545/609/datas/medium_square.jpg",
+      "analytics_identifier": "HackVerse 2.0 (18795)",
+      "url": "https://hackverse-2-0.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jul 31 - Aug 31, 2023",
+      "submission_period_dates": "Oct 27 - 29, 2023",
       "themes": [
         {
-          "id": 10,
-          "name": "Communication"
-        },
-        {
-          "id": 4,
-          "name": "Gaming"
-        },
-        {
-          "id": 17,
-          "name": "Low/No Code"
+          "id": 1,
+          "name": "Blockchain"
         }
       ],
-      "prize_amount": "$<span data-currency-value>100,000</span>",
-      "registrations_count": 2,
+      "prize_amount": "$<span data-currency-value>10,000</span>",
+      "registrations_count": 3,
       "featured": false,
-      "organization_name": "HDB",
+      "organization_name": "Dimo Finance",
       "winners_announced": false,
-      "submission_gallery_url": "https://block-stock-hackathon-2k23.devpost.com/project-gallery",
-      "start_a_submission_url": "https://block-stock-hackathon-2k23.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://hackverse-2-0.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackverse-2-0.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -993,35 +993,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://autonomous-agents.devpost.com/project-gallery",
       "start_a_submission_url": "https://autonomous-agents.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18795,
-      "title": "HackVerse 2.0",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Chennai , Tamil Nadu , India"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/545/609/datas/medium_square.jpg",
-      "analytics_identifier": "HackVerse 2.0 (18795)",
-      "url": "https://hackverse-2-0.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 27 - 29, 2023",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 2,
-      "featured": false,
-      "organization_name": "Dimo Finance",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackverse-2-0.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackverse-2-0.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -1093,7 +1064,7 @@
     }
   ],
   "meta": {
-    "total_count": 31,
+    "total_count": 30,
     "per_page": 40,
     "fuzzy": false
   }
