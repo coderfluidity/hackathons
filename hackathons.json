@@ -11,7 +11,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/546/052/datas/medium_square.jpg",
       "analytics_identifier": "DeveloperWeek CloudX 2023 Hack (18278)",
       "url": "https://dw-cloudx-2023-hackathon.devpost.com/",
-      "time_left_to_submission": "15 days left",
+      "time_left_to_submission": "14 days left",
       "submission_period_dates": "Aug 01 - 16, 2023",
       "themes": [
         {
@@ -28,7 +28,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>255,200</span>",
-      "registrations_count": 146,
+      "registrations_count": 158,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -85,7 +85,7 @@
       "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder.gif",
       "analytics_identifier": "Web3 Code Challenge (18693)",
       "url": "https://web3-code-challenge.devpost.com/",
-      "time_left_to_submission": "29 days left",
+      "time_left_to_submission": "28 days left",
       "submission_period_dates": "Jul 15 - Aug 31, 2023",
       "themes": [
         {
@@ -98,7 +98,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>23,000</span>",
-      "registrations_count": 68,
+      "registrations_count": 72,
       "featured": false,
       "organization_name": "VBI Academy",
       "winners_announced": false,
@@ -118,8 +118,8 @@
       "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder.gif",
       "analytics_identifier": "TalentNexus (18801)",
       "url": "https://talentnexus.devpost.com/",
-      "time_left_to_submission": "about 18 hours left",
-      "submission_period_dates": "Jul 29 - Aug 02, 2023",
+      "time_left_to_submission": "2 days left",
+      "submission_period_dates": "Jul 29 - Aug 04, 2023",
       "themes": [
         {
           "id": 23,
@@ -135,7 +135,7 @@
         }
       ],
       "prize_amount": "₹ <span data-currency-value>0</span>",
-      "registrations_count": 4,
+      "registrations_count": 7,
       "featured": false,
       "organization_name": "Entrepreneurship Cell",
       "winners_announced": false,
@@ -252,6 +252,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 18513,
+      "title": "NEARCON IRL Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Armazem"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/507/867/datas/medium_square.png",
+      "analytics_identifier": "NEARCON IRL Hackathon (18513)",
+      "url": "https://nearcon-hackathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Nov 07 - 10, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>140,000</span>",
+      "registrations_count": 120,
+      "featured": false,
+      "organization_name": "NEAR Protocol",
+      "winners_announced": false,
+      "submission_gallery_url": "https://nearcon-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://nearcon-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 18360,
       "title": "API World Hackathon 2023",
       "displayed_location": {
@@ -285,43 +322,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18513,
-      "title": "NEARCON IRL Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Armazem"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/507/867/datas/medium_square.png",
-      "analytics_identifier": "NEARCON IRL Hackathon (18513)",
-      "url": "https://nearcon-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 07 - 10, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 1,
-          "name": "Blockchain"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>140,000</span>",
-      "registrations_count": 118,
-      "featured": false,
-      "organization_name": "NEAR Protocol",
-      "winners_announced": false,
-      "submission_gallery_url": "https://nearcon-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://nearcon-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 18689,
       "title": "natHACKS 2023",
       "displayed_location": {
@@ -349,7 +349,7 @@
         }
       ],
       "prize_amount": "$CAD<span data-currency-value>27,000</span>",
-      "registrations_count": 27,
+      "registrations_count": 31,
       "featured": false,
       "organization_name": "NeurAlbertaTech",
       "winners_announced": false,
@@ -497,7 +497,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>100,000</span>",
-      "registrations_count": 15,
+      "registrations_count": 16,
       "featured": false,
       "organization_name": "ZENIQ",
       "winners_announced": false,
@@ -643,6 +643,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 18777,
+      "title": "Autonomous Agents: Unleashing the Power of AI",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Founder Central"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/545/064/datas/medium_square.png",
+      "analytics_identifier": "Autonomous Agents: Unleashing the Power of AI (18777)",
+      "url": "https://autonomous-agents.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 13 - 14, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1,000</span>",
+      "registrations_count": 6,
+      "featured": false,
+      "organization_name": "AI Peaks",
+      "winners_announced": false,
+      "submission_gallery_url": "https://autonomous-agents.devpost.com/project-gallery",
+      "start_a_submission_url": "https://autonomous-agents.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 18729,
       "title": "Hacks for Humanity",
       "displayed_location": {
@@ -676,43 +713,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://hacks-for-humanity.devpost.com/project-gallery",
       "start_a_submission_url": "https://hacks-for-humanity.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18777,
-      "title": "Autonomous Agents: Unleashing the Power of AI",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Founder Central"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/545/064/datas/medium_square.png",
-      "analytics_identifier": "Autonomous Agents: Unleashing the Power of AI (18777)",
-      "url": "https://autonomous-agents.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 13 - 14, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>1,000</span>",
-      "registrations_count": 5,
-      "featured": false,
-      "organization_name": "AI Peaks",
-      "winners_announced": false,
-      "submission_gallery_url": "https://autonomous-agents.devpost.com/project-gallery",
-      "start_a_submission_url": "https://autonomous-agents.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -931,6 +931,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 18572,
+      "title": "DivHacks 2023: Hack to the Future",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Roone Auditorium in Lerner"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/549/917/datas/medium_square.png",
+      "analytics_identifier": "DivHacks 2023: Hack to the Future (18572)",
+      "url": "https://divhacks-2023.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Sep 23 - 24, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 2,
+      "featured": false,
+      "organization_name": "Columbia University WiCS",
+      "winners_announced": false,
+      "submission_gallery_url": "https://divhacks-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://divhacks-2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 18806,
       "title": "SystAIn3r Hackathon",
       "displayed_location": {
@@ -964,43 +1001,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://systain3r.devpost.com/project-gallery",
       "start_a_submission_url": "https://systain3r.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18572,
-      "title": "DivHacks 2023: Hack to the Future",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Roone Auditorium in Lerner"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/549/917/datas/medium_square.png",
-      "analytics_identifier": "DivHacks 2023: Hack to the Future (18572)",
-      "url": "https://divhacks-2023.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Sep 23 - 24, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 1,
-      "featured": false,
-      "organization_name": "Columbia University WiCS",
-      "winners_announced": false,
-      "submission_gallery_url": "https://divhacks-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://divhacks-2023.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
