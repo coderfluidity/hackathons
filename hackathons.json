@@ -11,7 +11,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/546/052/datas/medium_square.jpg",
       "analytics_identifier": "DeveloperWeek CloudX 2023 Hack (18278)",
       "url": "https://dw-cloudx-2023-hackathon.devpost.com/",
-      "time_left_to_submission": "3 days left",
+      "time_left_to_submission": "2 days left",
       "submission_period_dates": "Aug 01 - 16, 2023",
       "themes": [
         {
@@ -27,9 +27,9 @@
           "name": "Web"
         }
       ],
-      "prize_amount": "$<span data-currency-value>257,700</span>",
-      "registrations_count": 388,
-      "featured": true,
+      "prize_amount": "$<span data-currency-value>99,492</span>",
+      "registrations_count": 417,
+      "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
       "submission_gallery_url": "https://dw-cloudx-2023-hackathon.devpost.com/project-gallery",
@@ -48,7 +48,7 @@
       "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
       "analytics_identifier": "Web3 Code Challenge (18693)",
       "url": "https://web3-code-challenge.devpost.com/",
-      "time_left_to_submission": "17 days left",
+      "time_left_to_submission": "16 days left",
       "submission_period_dates": "Jul 15 - Aug 31, 2023",
       "themes": [
         {
@@ -61,7 +61,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>23,000</span>",
-      "registrations_count": 135,
+      "registrations_count": 140,
       "featured": false,
       "organization_name": "VBI Academy",
       "winners_announced": false,
@@ -81,7 +81,7 @@
       "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
       "analytics_identifier": "Düşük Hapı Sipariş (18901)",
       "url": "https://dusuk-hapi-siparis.devpost.com/",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 4 hours left",
       "submission_period_dates": "Aug 13 - 14, 2023",
       "themes": [
         {
@@ -90,12 +90,49 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1</span>",
-      "registrations_count": 1,
+      "registrations_count": 3,
       "featured": false,
       "organization_name": "Ruhr-University Bochum",
       "winners_announced": false,
       "submission_gallery_url": "https://dusuk-hapi-siparis.devpost.com/project-gallery",
       "start_a_submission_url": "https://dusuk-hapi-siparis.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18821,
+      "title": "Hack the 6ix 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "George Vari Engineering Centre"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/550/574/datas/medium_square.png",
+      "analytics_identifier": "Hack the 6ix 2023 (18821)",
+      "url": "https://hackthe6ix2023.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Aug 18 - 20, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$CAD<span data-currency-value>9,073</span>",
+      "registrations_count": 71,
+      "featured": true,
+      "organization_name": "Hack the 6ix",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackthe6ix2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackthe6ix2023.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -166,43 +203,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://api-world-hackathon-2023.devpost.com/project-gallery",
       "start_a_submission_url": "https://api-world-hackathon-2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18821,
-      "title": "Hack the 6ix 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "George Vari Engineering Centre"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/550/574/datas/medium_square.png",
-      "analytics_identifier": "Hack the 6ix 2023 (18821)",
-      "url": "https://hackthe6ix2023.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Aug 18 - 20, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$CAD<span data-currency-value>9,073</span>",
-      "registrations_count": 62,
-      "featured": false,
-      "organization_name": "Hack the 6ix",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackthe6ix2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackthe6ix2023.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -429,6 +429,39 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 18755,
+      "title": "Bio Farma X MIT Hacking Medicine",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Bio Farma Head Office"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/543/473/datas/medium_square.png",
+      "analytics_identifier": "Bio Farma X MIT Hacking Medicine (18755)",
+      "url": "https://hackmed-biofarma-23.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Aug 24 - 25, 2023",
+      "themes": [
+        {
+          "id": 16,
+          "name": "Health"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>18,000</span>",
+      "registrations_count": 13,
+      "featured": false,
+      "organization_name": "Biofarma",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackmed-biofarma-23.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackmed-biofarma-23.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Pre-Selected participants only"
+    },
+    {
       "id": 17365,
       "title": "Hoya Hacks 2024",
       "displayed_location": {
@@ -466,39 +499,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18755,
-      "title": "Bio Farma X MIT Hacking Medicine",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Bio Farma Head Office"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/543/473/datas/medium_square.png",
-      "analytics_identifier": "Bio Farma X MIT Hacking Medicine (18755)",
-      "url": "https://hackmed-biofarma-23.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Aug 24 - 25, 2023",
-      "themes": [
-        {
-          "id": 16,
-          "name": "Health"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>18,000</span>",
-      "registrations_count": 12,
-      "featured": false,
-      "organization_name": "Biofarma",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackmed-biofarma-23.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackmed-biofarma-23.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Pre-Selected participants only"
-    },
-    {
       "id": 18829,
       "title": "HackZurich 2023",
       "displayed_location": {
@@ -526,7 +526,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>9,000</span>",
-      "registrations_count": 11,
+      "registrations_count": 12,
       "featured": false,
       "organization_name": "HackZurich",
       "winners_announced": false,
@@ -534,43 +534,6 @@
       "start_a_submission_url": "https://hackzurich23.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "HackZurich 2023 Confirmed Participants"
-    },
-    {
-      "id": 18777,
-      "title": "Autonomous Agents: Unleashing the Power of AI",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Founder Central"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/545/064/datas/medium_square.png",
-      "analytics_identifier": "Autonomous Agents: Unleashing the Power of AI (18777)",
-      "url": "https://autonomous-agents.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 13 - 14, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>1,000</span>",
-      "registrations_count": 11,
-      "featured": false,
-      "organization_name": "AI Peaks",
-      "winners_announced": false,
-      "submission_gallery_url": "https://autonomous-agents.devpost.com/project-gallery",
-      "start_a_submission_url": "https://autonomous-agents.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 18774,
@@ -606,6 +569,43 @@
       "winners_announced": false,
       "submission_gallery_url": "https://pittchallenge2023.devpost.com/project-gallery",
       "start_a_submission_url": "https://pittchallenge2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18777,
+      "title": "Autonomous Agents: Unleashing the Power of AI",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Founder Central"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/545/064/datas/medium_square.png",
+      "analytics_identifier": "Autonomous Agents: Unleashing the Power of AI (18777)",
+      "url": "https://autonomous-agents.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 13 - 14, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1,000</span>",
+      "registrations_count": 10,
+      "featured": false,
+      "organization_name": "AI Peaks",
+      "winners_announced": false,
+      "submission_gallery_url": "https://autonomous-agents.devpost.com/project-gallery",
+      "start_a_submission_url": "https://autonomous-agents.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -779,6 +779,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 18802,
+      "title": "Opportunity Hack 2023 - In Person @ ASU, Tempe, Arizona",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Arizona State University--Generator Labs"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/559/612/datas/medium_square.png",
+      "analytics_identifier": "Opportunity Hack 2023 - In Person @ ASU, Tempe, Arizona (18802)",
+      "url": "https://opportunity-hack-2023-asu.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 07 - 08, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1</span>",
+      "registrations_count": 7,
+      "featured": false,
+      "organization_name": "Opportunity Hack",
+      "winners_announced": false,
+      "submission_gallery_url": "https://opportunity-hack-2023-asu.devpost.com/project-gallery",
+      "start_a_submission_url": "https://opportunity-hack-2023-asu.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 18794,
       "title": "PioneerHacks V",
       "displayed_location": {
@@ -853,43 +890,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18802,
-      "title": "Opportunity Hack 2023 - In Person @ ASU, Tempe, Arizona",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Arizona State University--Generator Labs"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/559/612/datas/medium_square.png",
-      "analytics_identifier": "Opportunity Hack 2023 - In Person @ ASU, Tempe, Arizona (18802)",
-      "url": "https://opportunity-hack-2023-asu.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 07 - 08, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>1</span>",
-      "registrations_count": 6,
-      "featured": false,
-      "organization_name": "Opportunity Hack",
-      "winners_announced": false,
-      "submission_gallery_url": "https://opportunity-hack-2023-asu.devpost.com/project-gallery",
-      "start_a_submission_url": "https://opportunity-hack-2023-asu.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 18825,
       "title": "AI DevWorld Hackathon 2023",
       "displayed_location": {
@@ -960,35 +960,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18669,
-      "title": "Ampersand & AI Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Common Ground Bukit Bintang"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
-      "analytics_identifier": "Ampersand & AI Hackathon (18669)",
-      "url": "https://ampersand-ai-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Sep 09 - 10, 2023",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "MYR<span data-currency-value>5,000</span>",
-      "registrations_count": 4,
-      "featured": false,
-      "organization_name": "Ampersand Advisory",
-      "winners_announced": false,
-      "submission_gallery_url": "https://ampersand-ai-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://ampersand-ai-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 18781,
       "title": "Girls in Tech SF Hacking for Humanity 2023",
       "displayed_location": {
@@ -1016,41 +987,12 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>4,500</span>",
-      "registrations_count": 4,
+      "registrations_count": 5,
       "featured": false,
       "organization_name": "Girls in Tech SF",
       "winners_announced": false,
       "submission_gallery_url": "https://girlsintech2023.devpost.com/project-gallery",
       "start_a_submission_url": "https://girlsintech2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18856,
-      "title": "CISSA First Year Hackathon 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "John Medley"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/558/442/datas/medium_square.png",
-      "analytics_identifier": "CISSA First Year Hackathon 2023 (18856)",
-      "url": "https://first-year-hackathon-2023.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Aug 18 - 20, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>400</span>",
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "CISSA",
-      "winners_announced": false,
-      "submission_gallery_url": "https://first-year-hackathon-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://first-year-hackathon-2023.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -1082,12 +1024,70 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>100</span>",
-      "registrations_count": 3,
+      "registrations_count": 4,
       "featured": false,
       "organization_name": "Private",
       "winners_announced": false,
       "submission_gallery_url": "https://loadout.devpost.com/project-gallery",
       "start_a_submission_url": "https://loadout.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18669,
+      "title": "Ampersand & AI Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Common Ground Bukit Bintang"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+      "analytics_identifier": "Ampersand & AI Hackathon (18669)",
+      "url": "https://ampersand-ai-hackathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Sep 09 - 10, 2023",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "MYR<span data-currency-value>5,000</span>",
+      "registrations_count": 4,
+      "featured": false,
+      "organization_name": "Ampersand Advisory",
+      "winners_announced": false,
+      "submission_gallery_url": "https://ampersand-ai-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://ampersand-ai-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18856,
+      "title": "CISSA First Year Hackathon 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "John Medley"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/558/442/datas/medium_square.png",
+      "analytics_identifier": "CISSA First Year Hackathon 2023 (18856)",
+      "url": "https://first-year-hackathon-2023.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Aug 18 - 20, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>400</span>",
+      "registrations_count": 3,
+      "featured": true,
+      "organization_name": "CISSA",
+      "winners_announced": false,
+      "submission_gallery_url": "https://first-year-hackathon-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://first-year-hackathon-2023.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
