@@ -5,13 +5,13 @@
       "title": "Web3 Code Challenge",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Việt Nam"
+        "location": "Vietnam"
       },
       "open_state": "open",
       "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
       "analytics_identifier": "Web3 Code Challenge (18693)",
       "url": "https://web3-code-challenge.devpost.com/",
-      "time_left_to_submission": "14 days left",
+      "time_left_to_submission": "13 days left",
       "submission_period_dates": "Jul 15 - Aug 31, 2023",
       "themes": [
         {
@@ -24,7 +24,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>23,000</span>",
-      "registrations_count": 146,
+      "registrations_count": 155,
       "featured": false,
       "organization_name": "VBI Academy",
       "winners_announced": false,
@@ -61,7 +61,7 @@
         }
       ],
       "prize_amount": "$CAD<span data-currency-value>9,073</span>",
-      "registrations_count": 91,
+      "registrations_count": 101,
       "featured": true,
       "organization_name": "Hack the 6ix",
       "winners_announced": false,
@@ -98,7 +98,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>140,000</span>",
-      "registrations_count": 147,
+      "registrations_count": 149,
       "featured": false,
       "organization_name": "NEAR Protocol",
       "winners_announced": false,
@@ -131,12 +131,41 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>28,500</span>",
-      "registrations_count": 143,
+      "registrations_count": 147,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
       "submission_gallery_url": "https://api-world-hackathon-2023.devpost.com/project-gallery",
       "start_a_submission_url": "https://api-world-hackathon-2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18856,
+      "title": "CISSA First Year Hackathon 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "John Medley"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/558/442/datas/medium_square.png",
+      "analytics_identifier": "CISSA First Year Hackathon 2023 (18856)",
+      "url": "https://first-year-hackathon-2023.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Aug 18 - 20, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>400</span>",
+      "registrations_count": 4,
+      "featured": true,
+      "organization_name": "CISSA",
+      "winners_announced": false,
+      "submission_gallery_url": "https://first-year-hackathon-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://first-year-hackathon-2023.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -205,7 +234,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>12,500</span>",
-      "registrations_count": 36,
+      "registrations_count": 37,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -279,7 +308,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 29,
+      "registrations_count": 30,
       "featured": false,
       "organization_name": "NASA",
       "winners_announced": false,
@@ -423,7 +452,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>9,000</span>",
-      "registrations_count": 14,
+      "registrations_count": 15,
       "featured": false,
       "organization_name": "HackZurich",
       "winners_announced": false,
@@ -544,6 +573,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 18802,
+      "title": "Opportunity Hack 2023 - ASU Students Only",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Arizona State University--Generator Labs"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/559/612/datas/medium_square.png",
+      "analytics_identifier": "Opportunity Hack 2023 - ASU Students Only (18802)",
+      "url": "https://opportunity-hack-2023-asu.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 07 - 08, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1</span>",
+      "registrations_count": 10,
+      "featured": false,
+      "organization_name": "Opportunity Hack",
+      "winners_announced": false,
+      "submission_gallery_url": "https://opportunity-hack-2023-asu.devpost.com/project-gallery",
+      "start_a_submission_url": "https://opportunity-hack-2023-asu.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 18825,
       "title": "AI DevWorld Hackathon 2023",
       "displayed_location": {
@@ -651,43 +717,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18802,
-      "title": "Opportunity Hack 2023 - ASU Students Only",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Arizona State University--Generator Labs"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/559/612/datas/medium_square.png",
-      "analytics_identifier": "Opportunity Hack 2023 - ASU Students Only (18802)",
-      "url": "https://opportunity-hack-2023-asu.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 07 - 08, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>1</span>",
-      "registrations_count": 9,
-      "featured": false,
-      "organization_name": "Opportunity Hack",
-      "winners_announced": false,
-      "submission_gallery_url": "https://opportunity-hack-2023-asu.devpost.com/project-gallery",
-      "start_a_submission_url": "https://opportunity-hack-2023-asu.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 18657,
       "title": "Fitch Code For a Cause 2023 - London (in-person)",
       "displayed_location": {
@@ -715,6 +744,80 @@
       "start_a_submission_url": "https://fitch-code4good-london.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "University students within London travel distance"
+    },
+    {
+      "id": 18729,
+      "title": "Hacks for Humanity",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "1951 @ Skysong - ASU Skysong"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+      "analytics_identifier": "Hacks for Humanity (18729)",
+      "url": "https://hacks-for-humanity.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 06 - 08, 2023",
+      "themes": [
+        {
+          "id": 18,
+          "name": "Design"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>13,800</span>",
+      "registrations_count": 8,
+      "featured": false,
+      "organization_name": "Project Humanities",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hacks-for-humanity.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hacks-for-humanity.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18781,
+      "title": "Girls in Tech SF Hacking for Humanity 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "San Francisco"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+      "analytics_identifier": "Girls in Tech SF Hacking for Humanity 2023 (18781)",
+      "url": "https://girlsintech2023.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Nov 11 - 12, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 17,
+          "name": "Low/No Code"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>4,500</span>",
+      "registrations_count": 8,
+      "featured": false,
+      "organization_name": "Girls in Tech SF",
+      "winners_announced": false,
+      "submission_gallery_url": "https://girlsintech2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://girlsintech2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 18440,
@@ -783,80 +886,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18729,
-      "title": "Hacks for Humanity",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "1951 @ Skysong - ASU Skysong"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
-      "analytics_identifier": "Hacks for Humanity (18729)",
-      "url": "https://hacks-for-humanity.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 06 - 08, 2023",
-      "themes": [
-        {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>13,800</span>",
-      "registrations_count": 7,
-      "featured": false,
-      "organization_name": "Project Humanities",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hacks-for-humanity.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hacks-for-humanity.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18781,
-      "title": "Girls in Tech SF Hacking for Humanity 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "San Francisco"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
-      "analytics_identifier": "Girls in Tech SF Hacking for Humanity 2023 (18781)",
-      "url": "https://girlsintech2023.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 11 - 12, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 17,
-          "name": "Low/No Code"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>4,500</span>",
-      "registrations_count": 7,
-      "featured": false,
-      "organization_name": "Girls in Tech SF",
-      "winners_announced": false,
-      "submission_gallery_url": "https://girlsintech2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://girlsintech2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 18794,
       "title": "PioneerHacks V",
       "displayed_location": {
@@ -890,6 +919,43 @@
       "winners_announced": false,
       "submission_gallery_url": "https://pioneerhacks-v.devpost.com/project-gallery",
       "start_a_submission_url": "https://pioneerhacks-v.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18863,
+      "title": "Loadout Live Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "One Canal Boston"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/557/800/datas/medium_square.png",
+      "analytics_identifier": "Loadout Live Hackathon (18863)",
+      "url": "https://loadout.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Aug 25 - 26, 2023",
+      "themes": [
+        {
+          "id": 18,
+          "name": "Design"
+        },
+        {
+          "id": 4,
+          "name": "Gaming"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>100</span>",
+      "registrations_count": 5,
+      "featured": false,
+      "organization_name": "Private",
+      "winners_announced": false,
+      "submission_gallery_url": "https://loadout.devpost.com/project-gallery",
+      "start_a_submission_url": "https://loadout.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -960,68 +1026,31 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18863,
-      "title": "Loadout Live Hackathon",
+      "id": 18249,
+      "title": "MRUHacks",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "One Canal Boston"
+        "location": "Mount Royal University"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/557/800/datas/medium_square.png",
-      "analytics_identifier": "Loadout Live Hackathon (18863)",
-      "url": "https://loadout.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/545/119/datas/medium_square.png",
+      "analytics_identifier": "MRUHacks (18249)",
+      "url": "https://mruhacks.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Aug 25 - 26, 2023",
-      "themes": [
-        {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 4,
-          "name": "Gaming"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>100</span>",
-      "registrations_count": 4,
-      "featured": false,
-      "organization_name": "Private",
-      "winners_announced": false,
-      "submission_gallery_url": "https://loadout.devpost.com/project-gallery",
-      "start_a_submission_url": "https://loadout.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18856,
-      "title": "CISSA First Year Hackathon 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "John Medley"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/558/442/datas/medium_square.png",
-      "analytics_identifier": "CISSA First Year Hackathon 2023 (18856)",
-      "url": "https://first-year-hackathon-2023.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Aug 18 - 20, 2023",
+      "submission_period_dates": "Oct 13 - 14, 2023",
       "themes": [
         {
           "id": 23,
           "name": "Beginner Friendly"
         }
       ],
-      "prize_amount": "$<span data-currency-value>400</span>",
-      "registrations_count": 3,
-      "featured": true,
-      "organization_name": "CISSA",
+      "prize_amount": "$CAD<span data-currency-value>0</span>",
+      "registrations_count": 5,
+      "featured": false,
+      "organization_name": "CAMRU",
       "winners_announced": false,
-      "submission_gallery_url": "https://first-year-hackathon-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://first-year-hackathon-2023.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://mruhacks.devpost.com/project-gallery",
+      "start_a_submission_url": "https://mruhacks.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -1063,44 +1092,15 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18249,
-      "title": "MRUHacks",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Mount Royal University"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/545/119/datas/medium_square.png",
-      "analytics_identifier": "MRUHacks (18249)",
-      "url": "https://mruhacks.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 13 - 14, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        }
-      ],
-      "prize_amount": "$CAD<span data-currency-value>0</span>",
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "CAMRU",
-      "winners_announced": false,
-      "submission_gallery_url": "https://mruhacks.devpost.com/project-gallery",
-      "start_a_submission_url": "https://mruhacks.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 18890,
-      "title": "FUN HACKATHON WEEKEND",
+      "title": "FUN HACKATHON WEEKEND: Make the world a better place (Hacker Dojo)",
       "displayed_location": {
         "icon": "map-marker-alt",
         "location": "Hacker Dojo"
       },
       "open_state": "upcoming",
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/559/620/datas/medium_square.png",
-      "analytics_identifier": "FUN HACKATHON WEEKEND (18890)",
+      "analytics_identifier": "FUN HACKATHON WEEKEND: Make the world a better place (Hacker Dojo) (18890)",
       "url": "https://fun-hackathon-weekend.devpost.com/",
       "time_left_to_submission": "Upcoming",
       "submission_period_dates": "Aug 25 - 27, 2023",
