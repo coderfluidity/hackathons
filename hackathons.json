@@ -1,54 +1,17 @@
 {
   "hackathons": [
     {
-      "id": 18821,
-      "title": "Hack the 6ix 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "George Vari Engineering Centre"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/550/574/datas/medium_square.png",
-      "analytics_identifier": "Hack the 6ix 2023 (18821)",
-      "url": "https://hackthe6ix2023.devpost.com/",
-      "time_left_to_submission": "about 21 hours left",
-      "submission_period_dates": "Aug 18 - 20, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$CAD<span data-currency-value>10,443</span>",
-      "registrations_count": 144,
-      "featured": true,
-      "organization_name": "Hack the 6ix",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackthe6ix2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackthe6ix2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 18693,
       "title": "Web3 Code Challenge",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Vietnam"
+        "location": "Việt Nam"
       },
       "open_state": "open",
       "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
       "analytics_identifier": "Web3 Code Challenge (18693)",
       "url": "https://web3-code-challenge.devpost.com/",
-      "time_left_to_submission": "11 days left",
+      "time_left_to_submission": "10 days left",
       "submission_period_dates": "Jul 15 - Aug 31, 2023",
       "themes": [
         {
@@ -61,41 +24,12 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>23,000</span>",
-      "registrations_count": 167,
+      "registrations_count": 173,
       "featured": false,
       "organization_name": "VBI Academy",
       "winners_announced": false,
       "submission_gallery_url": "https://web3-code-challenge.devpost.com/project-gallery",
       "start_a_submission_url": "https://web3-code-challenge.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18856,
-      "title": "CISSA First Year Hackathon 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "John Medley"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/558/442/datas/medium_square.png",
-      "analytics_identifier": "CISSA First Year Hackathon 2023 (18856)",
-      "url": "https://first-year-hackathon-2023.devpost.com/",
-      "time_left_to_submission": "about 11 hours left",
-      "submission_period_dates": "Aug 18 - 20, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>400</span>",
-      "registrations_count": 10,
-      "featured": true,
-      "organization_name": "CISSA",
-      "winners_announced": false,
-      "submission_gallery_url": "https://first-year-hackathon-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://first-year-hackathon-2023.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -127,7 +61,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>40,000</span>",
-      "registrations_count": 17,
+      "registrations_count": 24,
       "featured": false,
       "organization_name": "ASU RealmSpark",
       "winners_announced": false,
@@ -164,7 +98,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>140,000</span>",
-      "registrations_count": 151,
+      "registrations_count": 155,
       "featured": false,
       "organization_name": "NEAR Protocol",
       "winners_announced": false,
@@ -271,7 +205,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>12,500</span>",
-      "registrations_count": 40,
+      "registrations_count": 43,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -308,7 +242,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 33,
+      "registrations_count": 34,
       "featured": false,
       "organization_name": "NASA",
       "winners_announced": false,
@@ -355,6 +289,35 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 18928,
+      "title": "KU HackFest 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Kathmandu University, Dhulikhel, Nepal"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/563/211/datas/medium_square.jpg",
+      "analytics_identifier": "KU HackFest 2023 (18928)",
+      "url": "https://kuhackfest.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Sep 29 - 30, 2023",
+      "themes": [
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>930</span>",
+      "registrations_count": 27,
+      "featured": false,
+      "organization_name": "KUCC",
+      "winners_announced": false,
+      "submission_gallery_url": "https://kuhackfest.devpost.com/project-gallery",
+      "start_a_submission_url": "https://kuhackfest.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 18581,
       "title": "TaroHacks",
       "displayed_location": {
@@ -392,35 +355,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18928,
-      "title": "KU HackFest 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Kathmandu University, Dhulikhel, Nepal"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/563/211/datas/medium_square.jpg",
-      "analytics_identifier": "KU HackFest 2023 (18928)",
-      "url": "https://kuhackfest.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Sep 29 - 30, 2023",
-      "themes": [
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>930</span>",
-      "registrations_count": 21,
-      "featured": false,
-      "organization_name": "KUCC",
-      "winners_announced": false,
-      "submission_gallery_url": "https://kuhackfest.devpost.com/project-gallery",
-      "start_a_submission_url": "https://kuhackfest.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 18521,
       "title": "ZENCON",
       "displayed_location": {
@@ -448,7 +382,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>100,000</span>",
-      "registrations_count": 17,
+      "registrations_count": 18,
       "featured": false,
       "organization_name": "ZENIQ",
       "winners_announced": false,
@@ -528,6 +462,80 @@
       "eligibility_requirement_invite_only_description": "Pre-Selected participants only"
     },
     {
+      "id": 18674,
+      "title": "HackUIowa '23",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "University of Iowa - Iowa Memorial Union"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/532/811/datas/medium_square.png",
+      "analytics_identifier": "HackUIowa '23 (18674)",
+      "url": "https://hackuiowa-23.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Sep 23 - 24, 2023",
+      "themes": [
+        {
+          "id": 5,
+          "name": "AR/VR"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>18,000</span>",
+      "registrations_count": 14,
+      "featured": false,
+      "organization_name": "UI Hydroinformatics Lab",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackuiowa-23.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackuiowa-23.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18774,
+      "title": "Pitt Challenge 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "TBD"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/544/760/datas/medium_square.png",
+      "analytics_identifier": "Pitt Challenge 2023 (18774)",
+      "url": "https://pittchallenge2023.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Sep 15 - 17, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 16,
+          "name": "Health"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 13,
+      "featured": false,
+      "organization_name": "University of Pittsburgh",
+      "winners_announced": false,
+      "submission_gallery_url": "https://pittchallenge2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://pittchallenge2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 17365,
       "title": "Hoya Hacks 2024",
       "displayed_location": {
@@ -565,80 +573,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18774,
-      "title": "Pitt Challenge 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "TBD"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/544/760/datas/medium_square.png",
-      "analytics_identifier": "Pitt Challenge 2023 (18774)",
-      "url": "https://pittchallenge2023.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Sep 15 - 17, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 16,
-          "name": "Health"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 12,
-      "featured": false,
-      "organization_name": "University of Pittsburgh",
-      "winners_announced": false,
-      "submission_gallery_url": "https://pittchallenge2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://pittchallenge2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18674,
-      "title": "HackUIowa '23",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "University of Iowa - Iowa Memorial Union"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/532/811/datas/medium_square.png",
-      "analytics_identifier": "HackUIowa '23 (18674)",
-      "url": "https://hackuiowa-23.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Sep 23 - 24, 2023",
-      "themes": [
-        {
-          "id": 5,
-          "name": "AR/VR"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>18,000</span>",
-      "registrations_count": 11,
-      "featured": false,
-      "organization_name": "UI Hydroinformatics Lab",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackuiowa-23.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackuiowa-23.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 18802,
       "title": "Opportunity Hack 2023 - ASU Students Only",
       "displayed_location": {
@@ -666,7 +600,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1</span>",
-      "registrations_count": 11,
+      "registrations_count": 12,
       "featured": false,
       "organization_name": "Opportunity Hack",
       "winners_announced": false,
@@ -703,7 +637,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,000</span>",
-      "registrations_count": 11,
+      "registrations_count": 12,
       "featured": false,
       "organization_name": "AI Peaks",
       "winners_announced": false,
@@ -736,7 +670,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>12,500</span>",
-      "registrations_count": 11,
+      "registrations_count": 12,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -773,7 +707,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>4,500</span>",
-      "registrations_count": 10,
+      "registrations_count": 11,
       "featured": false,
       "organization_name": "Girls in Tech SF",
       "winners_announced": false,
@@ -1415,10 +1349,84 @@
       "start_a_submission_url": "https://sic-x-streamlit-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Informatics Student at Udayana University"
+    },
+    {
+      "id": 18895,
+      "title": "VR Summit Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "O-Werk, Bochum, Germany"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/559/578/datas/medium_square.jpg",
+      "analytics_identifier": "VR Summit Hackathon (18895)",
+      "url": "https://vrsummit.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 05 - 06, 2023",
+      "themes": [
+        {
+          "id": 5,
+          "name": "AR/VR"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 16,
+          "name": "Health"
+        }
+      ],
+      "prize_amount": "€<span data-currency-value>3,500</span>",
+      "registrations_count": 1,
+      "featured": false,
+      "organization_name": "Ruhr-University Bochum",
+      "winners_announced": false,
+      "submission_gallery_url": "https://vrsummit.devpost.com/project-gallery",
+      "start_a_submission_url": "https://vrsummit.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18852,
+      "title": "PITBU! Leveraging Tech for Social and Work Immigration",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "eBay "
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/559/789/datas/medium_square.png",
+      "analytics_identifier": "PITBU! Leveraging Tech for Social and Work Immigration (18852)",
+      "url": "https://pitbu.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 06 - 08, 2023",
+      "themes": [
+        {
+          "id": 11,
+          "name": "Productivity"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "€<span data-currency-value>300</span>",
+      "registrations_count": 1,
+      "featured": false,
+      "organization_name": "ebay",
+      "winners_announced": false,
+      "submission_gallery_url": "https://pitbu.devpost.com/project-gallery",
+      "start_a_submission_url": "https://pitbu.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     }
   ],
   "meta": {
-    "total_count": 44,
+    "total_count": 42,
     "per_page": 40,
     "fuzzy": false
   }
