@@ -1,39 +1,6 @@
 {
   "hackathons": [
     {
-      "id": 18693,
-      "title": "Web3 Code Challenge",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Việt Nam"
-      },
-      "open_state": "open",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
-      "analytics_identifier": "Web3 Code Challenge (18693)",
-      "url": "https://web3-code-challenge.devpost.com/",
-      "time_left_to_submission": "9 days left",
-      "submission_period_dates": "Jul 15 - Sep 10, 2023",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        },
-        {
-          "id": 3,
-          "name": "Fintech"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>23,000</span>",
-      "registrations_count": 254,
-      "featured": false,
-      "organization_name": "VBI Academy",
-      "winners_announced": false,
-      "submission_gallery_url": "https://web3-code-challenge.devpost.com/project-gallery",
-      "start_a_submission_url": "https://web3-code-challenge.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 18747,
       "title": "RythmHacks",
       "displayed_location": {
@@ -44,7 +11,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/557/190/datas/medium_square.png",
       "analytics_identifier": "RythmHacks (18747)",
       "url": "https://rythmhacks2023.devpost.com/",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "about 21 hours left",
       "submission_period_dates": "Sep 01 - 03, 2023",
       "themes": [
         {
@@ -57,12 +24,45 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>4,532</span>",
-      "registrations_count": 39,
+      "registrations_count": 59,
       "featured": true,
       "organization_name": "RythmHacks",
       "winners_announced": false,
       "submission_gallery_url": "https://rythmhacks2023.devpost.com/project-gallery",
       "start_a_submission_url": "https://rythmhacks2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18693,
+      "title": "Web3 Code Challenge",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Việt Nam"
+      },
+      "open_state": "open",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+      "analytics_identifier": "Web3 Code Challenge (18693)",
+      "url": "https://web3-code-challenge.devpost.com/",
+      "time_left_to_submission": "8 days left",
+      "submission_period_dates": "Jul 15 - Sep 10, 2023",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 3,
+          "name": "Fintech"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>23,000</span>",
+      "registrations_count": 260,
+      "featured": false,
+      "organization_name": "VBI Academy",
+      "winners_announced": false,
+      "submission_gallery_url": "https://web3-code-challenge.devpost.com/project-gallery",
+      "start_a_submission_url": "https://web3-code-challenge.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -77,7 +77,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/573/094/datas/medium_square.png",
       "analytics_identifier": "Hack Summit 4.0 (19024)",
       "url": "https://hacksummit.devpost.com/",
-      "time_left_to_submission": "11 days left",
+      "time_left_to_submission": "10 days left",
       "submission_period_dates": "Aug 30 - Sep 12, 2023",
       "themes": [
         {
@@ -94,7 +94,7 @@
         }
       ],
       "prize_amount": "₹ <span data-currency-value>100,000</span>",
-      "registrations_count": 73,
+      "registrations_count": 95,
       "featured": false,
       "organization_name": "Aaruush, SRMIST",
       "winners_announced": false,
@@ -114,7 +114,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/573/396/datas/medium_square.jpeg",
       "analytics_identifier": "ETHWarsaw 2023 (19036)",
       "url": "https://ethwarsaw-2023.devpost.com/",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 15 hours left",
       "submission_period_dates": "Sep 01 - 03, 2023",
       "themes": [
         {
@@ -122,13 +122,75 @@
           "name": "Blockchain"
         }
       ],
-      "prize_amount": "$<span data-currency-value>1,000</span>",
-      "registrations_count": 19,
+      "prize_amount": "$<span data-currency-value>6,000</span>",
+      "registrations_count": 56,
       "featured": false,
       "organization_name": "ETHWarsaw",
       "winners_announced": false,
       "submission_gallery_url": "https://ethwarsaw-2023.devpost.com/project-gallery",
       "start_a_submission_url": "https://ethwarsaw-2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 19053,
+      "title": "CodeFest",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Sharon Forks Public Library"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/574/597/datas/medium_square.png",
+      "analytics_identifier": "CodeFest (19053)",
+      "url": "https://codefest-19053.devpost.com/",
+      "time_left_to_submission": "about 10 hours left",
+      "submission_period_dates": "Sep 02, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>20</span>",
+      "registrations_count": 1,
+      "featured": false,
+      "organization_name": "Girls Who Code Hackathon",
+      "winners_announced": false,
+      "submission_gallery_url": "https://codefest-19053.devpost.com/project-gallery",
+      "start_a_submission_url": "https://codefest-19053.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 19051,
+      "title": "mobil proxy satın al",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Türkiye"
+      },
+      "open_state": "open",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+      "analytics_identifier": "mobil proxy satın al (19051)",
+      "url": "https://mobil-proxy-satin-al.devpost.com/",
+      "time_left_to_submission": "almost 2 years left",
+      "submission_period_dates": "Sep 01, 2023 - Sep 01, 2025",
+      "themes": [
+        {
+          "id": 26,
+          "name": "Mobile"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>15,000</span>",
+      "registrations_count": 1,
+      "featured": false,
+      "organization_name": "Woodbridge",
+      "winners_announced": false,
+      "submission_gallery_url": "https://mobil-proxy-satin-al.devpost.com/project-gallery",
+      "start_a_submission_url": "https://mobil-proxy-satin-al.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -156,7 +218,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 673,
+      "registrations_count": 748,
       "featured": false,
       "organization_name": "HackMIT",
       "winners_announced": false,
@@ -189,7 +251,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>28,500</span>",
-      "registrations_count": 193,
+      "registrations_count": 196,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -226,7 +288,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>140,000</span>",
-      "registrations_count": 186,
+      "registrations_count": 188,
       "featured": false,
       "organization_name": "NEAR Protocol",
       "winners_announced": false,
@@ -255,7 +317,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>930</span>",
-      "registrations_count": 127,
+      "registrations_count": 130,
       "featured": false,
       "organization_name": "KUCC",
       "winners_announced": false,
@@ -329,7 +391,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>12,500</span>",
-      "registrations_count": 50,
+      "registrations_count": 52,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -366,7 +428,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 42,
+      "registrations_count": 47,
       "featured": false,
       "organization_name": "Opportunity Hack",
       "winners_announced": false,
@@ -403,7 +465,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 39,
+      "registrations_count": 40,
       "featured": false,
       "organization_name": "NASA",
       "winners_announced": false,
@@ -543,7 +605,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,350</span>",
-      "registrations_count": 26,
+      "registrations_count": 27,
       "featured": false,
       "organization_name": "Team Taro",
       "winners_announced": false,
@@ -650,7 +712,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>12,500</span>",
-      "registrations_count": 19,
+      "registrations_count": 20,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -724,7 +786,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>4,500</span>",
-      "registrations_count": 16,
+      "registrations_count": 17,
       "featured": false,
       "organization_name": "Girls in Tech SF",
       "winners_announced": false,
@@ -938,7 +1000,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>17,500</span>",
-      "registrations_count": 10,
+      "registrations_count": 11,
       "featured": false,
       "organization_name": "ASU RealmSpark",
       "winners_announced": false,
@@ -1191,6 +1253,43 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 18975,
+      "title": "CyberForge: Innovate. Code. Transform.",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "SRM Institute of Science and Technology"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+      "analytics_identifier": "CyberForge: Innovate. Code. Transform. (18975)",
+      "url": "https://cyberforge.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Sep 12 - 16, 2023",
+      "themes": [
+        {
+          "id": 5,
+          "name": "AR/VR"
+        },
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 9,
+          "name": "Cybersecurity"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>300,000</span>",
+      "registrations_count": 6,
+      "featured": false,
+      "organization_name": "SRM Institute of Science and Technology",
+      "winners_announced": false,
+      "submission_gallery_url": "https://cyberforge.devpost.com/project-gallery",
+      "start_a_submission_url": "https://cyberforge.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 18981,
       "title": "Samsung Next: Generative AI Mobile Experiences",
       "displayed_location": {
@@ -1224,43 +1323,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18975,
-      "title": "CyberForge: Innovate. Code. Transform.",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "SRM Institute of Science and Technology"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
-      "analytics_identifier": "CyberForge: Innovate. Code. Transform. (18975)",
-      "url": "https://cyberforge.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Sep 12 - 16, 2023",
-      "themes": [
-        {
-          "id": 5,
-          "name": "AR/VR"
-        },
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 9,
-          "name": "Cybersecurity"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>300,000</span>",
-      "registrations_count": 5,
-      "featured": false,
-      "organization_name": "SRM Institute of Science and Technology",
-      "winners_announced": false,
-      "submission_gallery_url": "https://cyberforge.devpost.com/project-gallery",
-      "start_a_submission_url": "https://cyberforge.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 18944,
       "title": "OwlHacks Fall 2023",
       "displayed_location": {
@@ -1288,7 +1350,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1</span>",
-      "registrations_count": 5,
+      "registrations_count": 6,
       "featured": false,
       "organization_name": "temple university",
       "winners_announced": false,
@@ -1333,84 +1395,10 @@
       "start_a_submission_url": "https://vrsummit.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18590,
-      "title": "Deeptech GigaHack",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Chisinau"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/538/963/datas/medium_square.jpeg",
-      "analytics_identifier": "Deeptech GigaHack (18590)",
-      "url": "https://deeptech-gigahack.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Sep 09 - 10, 2023",
-      "themes": [
-        {
-          "id": 9,
-          "name": "Cybersecurity"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 3,
-          "name": "Fintech"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>11,000</span>",
-      "registrations_count": 4,
-      "featured": false,
-      "organization_name": "Technovator",
-      "winners_announced": false,
-      "submission_gallery_url": "https://deeptech-gigahack.devpost.com/project-gallery",
-      "start_a_submission_url": "https://deeptech-gigahack.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18735,
-      "title": "IdeaX",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Madan Bhandari Memorial College"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/539/369/datas/medium_square.png",
-      "analytics_identifier": "IdeaX (18735)",
-      "url": "https://mbmideax.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Sep 29 - Oct 01, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 4,
-      "featured": false,
-      "organization_name": "Madan Bhandari Memorial College",
-      "winners_announced": false,
-      "submission_gallery_url": "https://mbmideax.devpost.com/project-gallery",
-      "start_a_submission_url": "https://mbmideax.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
     }
   ],
   "meta": {
-    "total_count": 57,
+    "total_count": 62,
     "per_page": 40,
     "fuzzy": false
   }
