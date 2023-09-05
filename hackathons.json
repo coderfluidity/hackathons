@@ -1,39 +1,6 @@
 {
   "hackathons": [
     {
-      "id": 18693,
-      "title": "Web3 Code Challenge",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Vietnam"
-      },
-      "open_state": "open",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
-      "analytics_identifier": "Web3 Code Challenge (18693)",
-      "url": "https://web3-code-challenge.devpost.com/",
-      "time_left_to_submission": "6 days left",
-      "submission_period_dates": "Jul 15 - Sep 10, 2023",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        },
-        {
-          "id": 3,
-          "name": "Fintech"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>23,000</span>",
-      "registrations_count": 267,
-      "featured": false,
-      "organization_name": "VBI Academy",
-      "winners_announced": false,
-      "submission_gallery_url": "https://web3-code-challenge.devpost.com/project-gallery",
-      "start_a_submission_url": "https://web3-code-challenge.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 19024,
       "title": "Hack Summit 4.0",
       "displayed_location": {
@@ -44,7 +11,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/573/094/datas/medium_square.png",
       "analytics_identifier": "Hack Summit 4.0 (19024)",
       "url": "https://hacksummit.devpost.com/",
-      "time_left_to_submission": "8 days left",
+      "time_left_to_submission": "7 days left",
       "submission_period_dates": "Aug 30 - Sep 12, 2023",
       "themes": [
         {
@@ -61,12 +28,45 @@
         }
       ],
       "prize_amount": "₹ <span data-currency-value>100,000</span>",
-      "registrations_count": 133,
-      "featured": false,
+      "registrations_count": 177,
+      "featured": true,
       "organization_name": "Aaruush, SRMIST",
       "winners_announced": false,
       "submission_gallery_url": "https://hacksummit.devpost.com/project-gallery",
       "start_a_submission_url": "https://hacksummit.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18693,
+      "title": "Web3 Code Challenge",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Vietnam"
+      },
+      "open_state": "open",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+      "analytics_identifier": "Web3 Code Challenge (18693)",
+      "url": "https://web3-code-challenge.devpost.com/",
+      "time_left_to_submission": "5 days left",
+      "submission_period_dates": "Jul 15 - Sep 10, 2023",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 3,
+          "name": "Fintech"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>23,000</span>",
+      "registrations_count": 276,
+      "featured": false,
+      "organization_name": "VBI Academy",
+      "winners_announced": false,
+      "submission_gallery_url": "https://web3-code-challenge.devpost.com/project-gallery",
+      "start_a_submission_url": "https://web3-code-challenge.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -81,7 +81,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/575/379/datas/medium_square.jpg",
       "analytics_identifier": "INNOEXPO 360 (19065)",
       "url": "https://innoexpo-360-2023.devpost.com/",
-      "time_left_to_submission": "4 days left",
+      "time_left_to_submission": "3 days left",
       "submission_period_dates": "Sep 03 - 08, 2023",
       "themes": [
         {
@@ -98,8 +98,8 @@
         }
       ],
       "prize_amount": "₹ <span data-currency-value>100,000</span>",
-      "registrations_count": 2,
-      "featured": false,
+      "registrations_count": 9,
+      "featured": true,
       "organization_name": "JNTUGV college of engineering vizianagar",
       "winners_announced": false,
       "submission_gallery_url": "https://innoexpo-360-2023.devpost.com/project-gallery",
@@ -164,7 +164,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 755,
+      "registrations_count": 760,
       "featured": false,
       "organization_name": "HackMIT",
       "winners_announced": false,
@@ -234,7 +234,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>140,000</span>",
-      "registrations_count": 190,
+      "registrations_count": 191,
       "featured": false,
       "organization_name": "NEAR Protocol",
       "winners_announced": false,
@@ -263,7 +263,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>930</span>",
-      "registrations_count": 138,
+      "registrations_count": 149,
       "featured": false,
       "organization_name": "KUCC",
       "winners_announced": false,
@@ -300,12 +300,49 @@
         }
       ],
       "prize_amount": "$CAD<span data-currency-value>27,000</span>",
-      "registrations_count": 65,
+      "registrations_count": 66,
       "featured": false,
       "organization_name": "NeurAlbertaTech",
       "winners_announced": false,
       "submission_gallery_url": "https://nathacks23.devpost.com/project-gallery",
       "start_a_submission_url": "https://nathacks23.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18802,
+      "title": "Opportunity Hack 2023 - ASU Students Only",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Arizona State University--Generator Labs"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/559/612/datas/medium_square.png",
+      "analytics_identifier": "Opportunity Hack 2023 - ASU Students Only (18802)",
+      "url": "https://opportunity-hack-2023-asu.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 07 - 08, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>10,000</span>",
+      "registrations_count": 52,
+      "featured": false,
+      "organization_name": "Opportunity Hack",
+      "winners_announced": false,
+      "submission_gallery_url": "https://opportunity-hack-2023-asu.devpost.com/project-gallery",
+      "start_a_submission_url": "https://opportunity-hack-2023-asu.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -343,43 +380,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://developerweek-2024-hackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://developerweek-2024-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18802,
-      "title": "Opportunity Hack 2023 - ASU Students Only",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Arizona State University--Generator Labs"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/559/612/datas/medium_square.png",
-      "analytics_identifier": "Opportunity Hack 2023 - ASU Students Only (18802)",
-      "url": "https://opportunity-hack-2023-asu.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 07 - 08, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 51,
-      "featured": false,
-      "organization_name": "Opportunity Hack",
-      "winners_announced": false,
-      "submission_gallery_url": "https://opportunity-hack-2023-asu.devpost.com/project-gallery",
-      "start_a_submission_url": "https://opportunity-hack-2023-asu.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -477,7 +477,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>18,000</span>",
-      "registrations_count": 35,
+      "registrations_count": 36,
       "featured": false,
       "organization_name": "UI Hydroinformatics Lab",
       "winners_announced": false,
@@ -588,7 +588,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>100,000</span>",
-      "registrations_count": 23,
+      "registrations_count": 24,
       "featured": false,
       "organization_name": "ZENIQ",
       "winners_announced": false,
@@ -625,7 +625,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>9,000</span>",
-      "registrations_count": 20,
+      "registrations_count": 22,
       "featured": false,
       "organization_name": "HackZurich",
       "winners_announced": false,
@@ -658,7 +658,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>12,500</span>",
-      "registrations_count": 20,
+      "registrations_count": 21,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -769,7 +769,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,600</span>",
-      "registrations_count": 16,
+      "registrations_count": 17,
       "featured": false,
       "organization_name": "Hoya Hacks",
       "winners_announced": false,
@@ -806,7 +806,7 @@
         }
       ],
       "prize_amount": "₹ <span data-currency-value>150,000</span>",
-      "registrations_count": 15,
+      "registrations_count": 16,
       "featured": false,
       "organization_name": "creatara",
       "winners_announced": false,
@@ -843,7 +843,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 14,
+      "registrations_count": 15,
       "featured": false,
       "organization_name": "TechHackers at VT",
       "winners_announced": false,
@@ -851,6 +851,43 @@
       "start_a_submission_url": "https://vthacks-11.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18866,
+      "title": "Interchain Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Nonce Community Gangnam"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+      "analytics_identifier": "Interchain Hackathon (18866)",
+      "url": "https://interchain.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Sep 08 - 09, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 4,
+          "name": "Gaming"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>13,000</span>",
+      "registrations_count": 14,
+      "featured": false,
+      "organization_name": "Interchain Friends",
+      "winners_announced": false,
+      "submission_gallery_url": "https://interchain.devpost.com/project-gallery",
+      "start_a_submission_url": "https://interchain.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Acceptance via email to the Interchain Hackathon"
     },
     {
       "id": 18249,
@@ -993,6 +1030,39 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
+      "id": 18981,
+      "title": "Samsung Next: Generative AI Mobile Experiences",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "San Francisco"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/568/162/datas/medium_square.png",
+      "analytics_identifier": "Samsung Next: Generative AI Mobile Experiences (18981)",
+      "url": "https://mobile-first-generative-ai.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Sep 22 - 23, 2023",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 26,
+          "name": "Mobile"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>312,000</span>",
+      "registrations_count": 10,
+      "featured": false,
+      "organization_name": "Samsung Next",
+      "winners_announced": false,
+      "submission_gallery_url": "https://mobile-first-generative-ai.devpost.com/project-gallery",
+      "start_a_submission_url": "https://mobile-first-generative-ai.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 17723,
       "title": "[See desc for more info] PlanetUnity Winter '23 - WORLD",
       "displayed_location": {
@@ -1030,74 +1100,41 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18981,
-      "title": "Samsung Next: Generative AI Mobile Experiences",
+      "id": 18975,
+      "title": "CyberForge: Innovate. Code. Transform.",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "San Francisco"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/568/162/datas/medium_square.png",
-      "analytics_identifier": "Samsung Next: Generative AI Mobile Experiences (18981)",
-      "url": "https://mobile-first-generative-ai.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Sep 22 - 23, 2023",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 26,
-          "name": "Mobile"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>312,000</span>",
-      "registrations_count": 9,
-      "featured": false,
-      "organization_name": "Samsung Next",
-      "winners_announced": false,
-      "submission_gallery_url": "https://mobile-first-generative-ai.devpost.com/project-gallery",
-      "start_a_submission_url": "https://mobile-first-generative-ai.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18866,
-      "title": "Interchain Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Nonce Community Gangnam"
+        "location": "SRM Institute of Science and Technology"
       },
       "open_state": "upcoming",
       "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
-      "analytics_identifier": "Interchain Hackathon (18866)",
-      "url": "https://interchain.devpost.com/",
+      "analytics_identifier": "CyberForge: Innovate. Code. Transform. (18975)",
+      "url": "https://cyberforge.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Sep 08 - 09, 2023",
+      "submission_period_dates": "Sep 12 - 16, 2023",
       "themes": [
+        {
+          "id": 5,
+          "name": "AR/VR"
+        },
         {
           "id": 23,
           "name": "Beginner Friendly"
         },
         {
-          "id": 1,
-          "name": "Blockchain"
-        },
-        {
-          "id": 4,
-          "name": "Gaming"
+          "id": 9,
+          "name": "Cybersecurity"
         }
       ],
-      "prize_amount": "$<span data-currency-value>12,000</span>",
+      "prize_amount": "$<span data-currency-value>300,000</span>",
       "registrations_count": 7,
       "featured": false,
-      "organization_name": "Interchain Friends",
+      "organization_name": "SRM Institute of Science and Technology",
       "winners_announced": false,
-      "submission_gallery_url": "https://interchain.devpost.com/project-gallery",
-      "start_a_submission_url": "https://interchain.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Acceptance via email to the Interchain Hackathon"
+      "submission_gallery_url": "https://cyberforge.devpost.com/project-gallery",
+      "start_a_submission_url": "https://cyberforge.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 18982,
@@ -1269,43 +1306,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18975,
-      "title": "CyberForge: Innovate. Code. Transform.",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "SRM Institute of Science and Technology"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://q9k6x7m8.stackpathcdn.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
-      "analytics_identifier": "CyberForge: Innovate. Code. Transform. (18975)",
-      "url": "https://cyberforge.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Sep 12 - 16, 2023",
-      "themes": [
-        {
-          "id": 5,
-          "name": "AR/VR"
-        },
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 9,
-          "name": "Cybersecurity"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>300,000</span>",
-      "registrations_count": 6,
-      "featured": false,
-      "organization_name": "SRM Institute of Science and Technology",
-      "winners_announced": false,
-      "submission_gallery_url": "https://cyberforge.devpost.com/project-gallery",
-      "start_a_submission_url": "https://cyberforge.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 18944,
       "title": "OwlHacks Fall 2023",
       "displayed_location": {
@@ -1343,63 +1343,26 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18590,
-      "title": "Deeptech GigaHack",
+      "id": 18871,
+      "title": "CharlestonHacks harborHack",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Chisinau"
+        "location": "Harbor Walk"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/538/963/datas/medium_square.jpeg",
-      "analytics_identifier": "Deeptech GigaHack (18590)",
-      "url": "https://deeptech-gigahack.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/573/134/datas/medium_square.png",
+      "analytics_identifier": "CharlestonHacks harborHack (18871)",
+      "url": "https://charlestonhacksharborhack.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Sep 09 - 10, 2023",
+      "submission_period_dates": "Oct 06 - 08, 2023",
       "themes": [
-        {
-          "id": 9,
-          "name": "Cybersecurity"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 3,
-          "name": "Fintech"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>11,000</span>",
-      "registrations_count": 5,
-      "featured": false,
-      "organization_name": "Technovator",
-      "winners_announced": false,
-      "submission_gallery_url": "https://deeptech-gigahack.devpost.com/project-gallery",
-      "start_a_submission_url": "https://deeptech-gigahack.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18735,
-      "title": "IdeaX",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Madan Bhandari Memorial College"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/539/369/datas/medium_square.png",
-      "analytics_identifier": "IdeaX (18735)",
-      "url": "https://mbmideax.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Sep 29 - Oct 01, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
         {
           "id": 19,
           "name": "Education"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
         },
         {
           "id": 13,
@@ -1407,18 +1370,55 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 5,
+      "registrations_count": 6,
       "featured": false,
-      "organization_name": "Madan Bhandari Memorial College",
+      "organization_name": "Charlestonhacks",
       "winners_announced": false,
-      "submission_gallery_url": "https://mbmideax.devpost.com/project-gallery",
-      "start_a_submission_url": "https://mbmideax.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://charlestonhacksharborhack.devpost.com/project-gallery",
+      "start_a_submission_url": "https://charlestonhacksharborhack.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 19041,
+      "title": "Drnk Hot Brains 2023 - Gaming and Innovative Projects  ",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Kolkata , West Bengal"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/574/718/datas/medium_square.png",
+      "analytics_identifier": "Drnk Hot Brains 2023 - Gaming and Innovative Projects   (19041)",
+      "url": "https://hot-brains-2023-19041.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 15 - 16, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 4,
+          "name": "Gaming"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>50</span>",
+      "registrations_count": 6,
+      "featured": false,
+      "organization_name": "Drnk",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hot-brains-2023-19041.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hot-brains-2023-19041.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     }
   ],
   "meta": {
-    "total_count": 61,
+    "total_count": 63,
     "per_page": 40,
     "fuzzy": false
   }
