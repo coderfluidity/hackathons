@@ -1,6 +1,80 @@
 {
   "hackathons": [
     {
+      "id": 19314,
+      "title": "Leh-Laf Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Lehigh University"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/611/347/datas/medium_square.png",
+      "analytics_identifier": "Leh-Laf Hackathon (19314)",
+      "url": "https://leh-laf-2023.devpost.com/",
+      "time_left_to_submission": "9 days left",
+      "submission_period_dates": "Oct 31 - Nov 12, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>925</span>",
+      "registrations_count": 133,
+      "featured": false,
+      "organization_name": "Lehigh CSBA",
+      "winners_announced": false,
+      "submission_gallery_url": "https://leh-laf-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://leh-laf-2023.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Lehigh and Lafayette Students"
+    },
+    {
+      "id": 19387,
+      "title": "Fintech Collab Hack: TIAA Challenge",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Creativity Commons, ASU Tempe"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/628/723/datas/medium_square.png",
+      "analytics_identifier": "Fintech Collab Hack: TIAA Challenge (19387)",
+      "url": "https://asu-tiaa.devpost.com/",
+      "time_left_to_submission": "2 days left",
+      "submission_period_dates": "Nov 03 - 05, 2023",
+      "themes": [
+        {
+          "id": 3,
+          "name": "Fintech"
+        },
+        {
+          "id": 4,
+          "name": "Gaming"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 119,
+      "featured": false,
+      "organization_name": "TIAA",
+      "winners_announced": false,
+      "submission_gallery_url": "https://asu-tiaa.devpost.com/project-gallery",
+      "start_a_submission_url": "https://asu-tiaa.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Arizona State University students"
+    },
+    {
       "id": 18657,
       "title": " Fitch Code For a Cause 2023 with Amazon",
       "displayed_location": {
@@ -11,7 +85,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/551/859/datas/medium_square.jpg",
       "analytics_identifier": " Fitch Code For a Cause 2023 with Amazon (18657)",
       "url": "https://fitch-code4good-london.devpost.com/",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 2 hours left",
       "submission_period_dates": "Nov 02 - 03, 2023",
       "themes": [
         {
@@ -69,7 +143,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/574/109/datas/medium_square.png",
       "analytics_identifier": "Syracuse Open Data Day (16327)",
       "url": "https://syracuse-open-data-day.devpost.com/",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "1 day left",
       "submission_period_dates": "Oct 04 - Nov 04, 2023",
       "themes": [
         {
@@ -86,86 +160,12 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,800</span>",
-      "registrations_count": 38,
+      "registrations_count": 42,
       "featured": false,
       "organization_name": "City of Syracuse",
       "winners_announced": false,
       "submission_gallery_url": "https://syracuse-open-data-day.devpost.com/project-gallery",
       "start_a_submission_url": "https://syracuse-open-data-day.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 19175,
-      "title": "Epson Innovation Challenge #3",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Foundry 415 Innovation Group"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/586/072/datas/medium_square.png",
-      "analytics_identifier": "Epson Innovation Challenge #3 (19175)",
-      "url": "https://epson-innovation-challenge3.devpost.com/",
-      "time_left_to_submission": "1 day left",
-      "submission_period_dates": "Oct 26 - Nov 03, 2023",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 11,
-          "name": "Productivity"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>10,997</span>",
-      "registrations_count": 29,
-      "featured": false,
-      "organization_name": "Foundry 415 Innovation Group",
-      "winners_announced": false,
-      "submission_gallery_url": "https://epson-innovation-challenge3.devpost.com/project-gallery",
-      "start_a_submission_url": "https://epson-innovation-challenge3.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Epson Innovation Challenge is currently full"
-    },
-    {
-      "id": 19283,
-      "title": "The Green Plan 2030 Challenge",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Tanjong Pagar Community Club"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/619/310/datas/medium_square.jpeg",
-      "analytics_identifier": "The Green Plan 2030 Challenge (19283)",
-      "url": "https://the-green-plan-2030-challenge.devpost.com/",
-      "time_left_to_submission": "15 days left",
-      "submission_period_dates": "Oct 08 - Nov 17, 2023",
-      "themes": [
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>1,200</span>",
-      "registrations_count": 25,
-      "featured": false,
-      "organization_name": "TPCC DMIG",
-      "winners_announced": false,
-      "submission_gallery_url": "https://the-green-plan-2030-challenge.devpost.com/project-gallery",
-      "start_a_submission_url": "https://the-green-plan-2030-challenge.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -197,12 +197,152 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>5,000</span>",
-      "registrations_count": 24,
+      "registrations_count": 31,
       "featured": false,
       "organization_name": "kyroz.in",
       "winners_announced": false,
       "submission_gallery_url": "https://kyroz.devpost.com/project-gallery",
       "start_a_submission_url": "https://kyroz.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 19175,
+      "title": "Epson Innovation Challenge #3",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Foundry 415 Innovation Group"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/586/072/datas/medium_square.png",
+      "analytics_identifier": "Epson Innovation Challenge #3 (19175)",
+      "url": "https://epson-innovation-challenge3.devpost.com/",
+      "time_left_to_submission": "about 7 hours left",
+      "submission_period_dates": "Oct 26 - Nov 03, 2023",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>10,997</span>",
+      "registrations_count": 30,
+      "featured": false,
+      "organization_name": "Foundry 415 Innovation Group",
+      "winners_announced": false,
+      "submission_gallery_url": "https://epson-innovation-challenge3.devpost.com/project-gallery",
+      "start_a_submission_url": "https://epson-innovation-challenge3.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Epson Innovation Challenge is currently full"
+    },
+    {
+      "id": 19283,
+      "title": "The Green Plan 2030 Challenge",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Tanjong Pagar Community Club"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/619/310/datas/medium_square.jpeg",
+      "analytics_identifier": "The Green Plan 2030 Challenge (19283)",
+      "url": "https://the-green-plan-2030-challenge.devpost.com/",
+      "time_left_to_submission": "14 days left",
+      "submission_period_dates": "Oct 08 - Nov 17, 2023",
+      "themes": [
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1,200</span>",
+      "registrations_count": 26,
+      "featured": false,
+      "organization_name": "TPCC DMIG",
+      "winners_announced": false,
+      "submission_gallery_url": "https://the-green-plan-2030-challenge.devpost.com/project-gallery",
+      "start_a_submission_url": "https://the-green-plan-2030-challenge.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 19324,
+      "title": "YCP Hacks 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "York"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/609/891/datas/medium_square.png",
+      "analytics_identifier": "YCP Hacks 2023 (19324)",
+      "url": "https://ycp-hacks-2023.devpost.com/",
+      "time_left_to_submission": "2 days left",
+      "submission_period_dates": "Nov 03 - 05, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 18,
+          "name": "Design"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>3,700</span>",
+      "registrations_count": 8,
+      "featured": false,
+      "organization_name": "YCP Hacks",
+      "winners_announced": false,
+      "submission_gallery_url": "https://ycp-hacks-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://ycp-hacks-2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 19557,
+      "title": "Pedal Forward Kalamazoo",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "WMU Student Center"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/646/876/datas/medium_square.jpeg",
+      "analytics_identifier": "Pedal Forward Kalamazoo (19557)",
+      "url": "https://pedal-forward-kalamazoo.devpost.com/",
+      "time_left_to_submission": "14 days left",
+      "submission_period_dates": "Nov 03 - 17, 2023",
+      "themes": [
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 1,
+      "featured": false,
+      "organization_name": "Google Developer Student Club @ WMU",
+      "winners_announced": false,
+      "submission_gallery_url": "https://pedal-forward-kalamazoo.devpost.com/project-gallery",
+      "start_a_submission_url": "https://pedal-forward-kalamazoo.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -234,7 +374,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>140,000</span>",
-      "registrations_count": 603,
+      "registrations_count": 611,
       "featured": true,
       "organization_name": "NEAR Protocol",
       "winners_announced": false,
@@ -271,7 +411,7 @@
         }
       ],
       "prize_amount": "$CAD<span data-currency-value>27,000</span>",
-      "registrations_count": 430,
+      "registrations_count": 429,
       "featured": false,
       "organization_name": "NeurAlbertaTech",
       "winners_announced": false,
@@ -308,7 +448,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>3,000</span>",
-      "registrations_count": 50,
+      "registrations_count": 53,
       "featured": true,
       "organization_name": "Girls in Tech SF",
       "winners_announced": false,
@@ -345,7 +485,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,472</span>",
-      "registrations_count": 20,
+      "registrations_count": 30,
       "featured": true,
       "organization_name": "Computing Org for Multicultural Students",
       "winners_announced": false,
@@ -392,78 +532,41 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 19314,
-      "title": "Leh-Laf Hackathon",
+      "id": 19043,
+      "title": "myNetworkHer[Hacks]",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Lehigh University"
+        "location": "New York, New York, USA"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/611/347/datas/medium_square.png",
-      "analytics_identifier": "Leh-Laf Hackathon (19314)",
-      "url": "https://leh-laf-2023.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/582/027/datas/medium_square.png",
+      "analytics_identifier": "myNetworkHer[Hacks] (19043)",
+      "url": "https://mynetworkher-hacks.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 11 - 12, 2023",
+      "submission_period_dates": "Nov 04, 2023",
       "themes": [
         {
           "id": 23,
           "name": "Beginner Friendly"
         },
         {
-          "id": 19,
-          "name": "Education"
+          "id": 22,
+          "name": "Open Ended"
         },
         {
           "id": 13,
           "name": "Social Good"
         }
       ],
-      "prize_amount": "$<span data-currency-value>1,100</span>",
-      "registrations_count": 130,
-      "featured": false,
-      "organization_name": "Lehigh CSBA",
-      "winners_announced": false,
-      "submission_gallery_url": "https://leh-laf-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://leh-laf-2023.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Lehigh and Lafayette Students"
-    },
-    {
-      "id": 19387,
-      "title": "Fintech Collab Hack: TIAA Challenge",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Creativity Commons, ASU Tempe"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/628/723/datas/medium_square.png",
-      "analytics_identifier": "Fintech Collab Hack: TIAA Challenge (19387)",
-      "url": "https://asu-tiaa.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 03 - 05, 2023",
-      "themes": [
-        {
-          "id": 3,
-          "name": "Fintech"
-        },
-        {
-          "id": 4,
-          "name": "Gaming"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 119,
-      "featured": false,
-      "organization_name": "TIAA",
+      "registrations_count": 5,
+      "featured": true,
+      "organization_name": "myNetworkHer",
       "winners_announced": false,
-      "submission_gallery_url": "https://asu-tiaa.devpost.com/project-gallery",
-      "start_a_submission_url": "https://asu-tiaa.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Arizona State University students"
+      "submission_gallery_url": "https://mynetworkher-hacks.devpost.com/project-gallery",
+      "start_a_submission_url": "https://mynetworkher-hacks.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 18598,
@@ -493,7 +596,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>12,500</span>",
-      "registrations_count": 118,
+      "registrations_count": 119,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -530,7 +633,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 99,
+      "registrations_count": 118,
       "featured": false,
       "organization_name": "SCU ACM x INRIX",
       "winners_announced": false,
@@ -604,7 +707,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,000</span>",
-      "registrations_count": 87,
+      "registrations_count": 90,
       "featured": false,
       "organization_name": "Brandeis University",
       "winners_announced": false,
@@ -633,7 +736,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>5,100</span>",
-      "registrations_count": 60,
+      "registrations_count": 61,
       "featured": false,
       "organization_name": "Fitch",
       "winners_announced": false,
@@ -670,49 +773,12 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>212,000</span>",
-      "registrations_count": 55,
+      "registrations_count": 60,
       "featured": false,
       "organization_name": "Girls in Tech DR",
       "winners_announced": false,
       "submission_gallery_url": "https://hacking-for-humanity-dr-2023.devpost.com/project-gallery",
       "start_a_submission_url": "https://hacking-for-humanity-dr-2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 19210,
-      "title": "MksU Hackfest 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Machakos University"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/597/438/datas/medium_square.png",
-      "analytics_identifier": "MksU Hackfest 2023 (19210)",
-      "url": "https://mksu-hackfest-2023.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 16 - 17, 2023",
-      "themes": [
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 26,
-          "name": "Mobile"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>203</span>",
-      "registrations_count": 48,
-      "featured": false,
-      "organization_name": "Machakos University Tech Community",
-      "winners_announced": false,
-      "submission_gallery_url": "https://mksu-hackfest-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://mksu-hackfest-2023.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -744,12 +810,49 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>5,200</span>",
-      "registrations_count": 44,
+      "registrations_count": 57,
       "featured": false,
       "organization_name": "NJIT ACM",
       "winners_announced": false,
       "submission_gallery_url": "https://hacknjit-2023.devpost.com/project-gallery",
       "start_a_submission_url": "https://hacknjit-2023.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 19210,
+      "title": "MksU Hackfest 2023",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Machakos University"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/597/438/datas/medium_square.png",
+      "analytics_identifier": "MksU Hackfest 2023 (19210)",
+      "url": "https://mksu-hackfest-2023.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Nov 16 - 17, 2023",
+      "themes": [
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 26,
+          "name": "Mobile"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>203</span>",
+      "registrations_count": 49,
+      "featured": false,
+      "organization_name": "Machakos University Tech Community",
+      "winners_announced": false,
+      "submission_gallery_url": "https://mksu-hackfest-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://mksu-hackfest-2023.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -781,7 +884,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,600</span>",
-      "registrations_count": 35,
+      "registrations_count": 44,
       "featured": false,
       "organization_name": "Code the Change YYC",
       "winners_announced": false,
@@ -818,7 +921,7 @@
         }
       ],
       "prize_amount": "£<span data-currency-value>0</span>",
-      "registrations_count": 35,
+      "registrations_count": 43,
       "featured": false,
       "organization_name": "HackSussex",
       "winners_announced": false,
@@ -854,13 +957,50 @@
           "name": "Social Good"
         }
       ],
-      "prize_amount": "$<span data-currency-value>51,420</span>",
-      "registrations_count": 30,
+      "prize_amount": "$<span data-currency-value>62,360</span>",
+      "registrations_count": 40,
       "featured": false,
       "organization_name": "hackutd",
       "winners_announced": false,
       "submission_gallery_url": "https://hackutd-x.devpost.com/project-gallery",
       "start_a_submission_url": "https://hackutd-x.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 18761,
+      "title": "HackRPI X",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Darrin Communications Center"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/549/708/datas/medium_square.png",
+      "analytics_identifier": "HackRPI X (18761)",
+      "url": "https://hackrpi-x-2023.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Nov 04 - 05, 2023",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>18,375</span>",
+      "registrations_count": 33,
+      "featured": false,
+      "organization_name": "Rensselaer Polytechnic Institute",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackrpi-x-2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackrpi-x-2023.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -902,39 +1042,31 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 18761,
-      "title": "HackRPI X",
+      "id": 19575,
+      "title": "Tigerhacks 2023",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Darrin Communications Center"
+        "location": "Columbia, Missouri"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/549/708/datas/medium_square.png",
-      "analytics_identifier": "HackRPI X (18761)",
-      "url": "https://hackrpi-x-2023.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/648/737/datas/medium_square.png",
+      "analytics_identifier": "Tigerhacks 2023 (19575)",
+      "url": "https://mizzoutigerhacks2023.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 04 - 05, 2023",
+      "submission_period_dates": "Nov 03 - 05, 2023",
       "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
         {
           "id": 22,
           "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
         }
       ],
-      "prize_amount": "$<span data-currency-value>18,375</span>",
+      "prize_amount": "$<span data-currency-value>8,812</span>",
       "registrations_count": 28,
       "featured": false,
-      "organization_name": "Rensselaer Polytechnic Institute",
+      "organization_name": "university of missouri",
       "winners_announced": false,
-      "submission_gallery_url": "https://hackrpi-x-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackrpi-x-2023.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://mizzoutigerhacks2023.devpost.com/project-gallery",
+      "start_a_submission_url": "https://mizzoutigerhacks2023.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -962,7 +1094,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>3,000</span>",
-      "registrations_count": 23,
+      "registrations_count": 26,
       "featured": false,
       "organization_name": "Florida Data Science for Good",
       "winners_announced": false,
@@ -1083,35 +1215,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 19575,
-      "title": "Tigerhacks 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Columbia, Missouri"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/648/737/datas/medium_square.png",
-      "analytics_identifier": "Tigerhacks 2023 (19575)",
-      "url": "https://mizzoutigerhacks2023.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 03 - 05, 2023",
-      "themes": [
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>8,812</span>",
-      "registrations_count": 14,
-      "featured": false,
-      "organization_name": "university of missouri",
-      "winners_announced": false,
-      "submission_gallery_url": "https://mizzoutigerhacks2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://mizzoutigerhacks2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 19388,
       "title": "MecSimCalc Hackathon LIVE ",
       "displayed_location": {
@@ -1139,7 +1242,7 @@
         }
       ],
       "prize_amount": "$CAD<span data-currency-value>500</span>",
-      "registrations_count": 14,
+      "registrations_count": 16,
       "featured": false,
       "organization_name": "MecSimCalc",
       "winners_announced": false,
@@ -1324,117 +1427,10 @@
       "start_a_submission_url": "https://hacksimbuild-2024.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 19368,
-      "title": "Code for Cause",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Falcon X Incubator"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/616/252/datas/medium_square.jpeg",
-      "analytics_identifier": "Code for Cause (19368)",
-      "url": "https://codeforcause.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Dec 09, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>1,750</span>",
-      "registrations_count": 8,
-      "featured": false,
-      "organization_name": "Hack Club",
-      "winners_announced": false,
-      "submission_gallery_url": "https://codeforcause.devpost.com/project-gallery",
-      "start_a_submission_url": "https://codeforcause.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 19324,
-      "title": "YCP Hacks 2023",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "York"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/609/891/datas/medium_square.png",
-      "analytics_identifier": "YCP Hacks 2023 (19324)",
-      "url": "https://ycp-hacks-2023.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 03 - 05, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>3,700</span>",
-      "registrations_count": 7,
-      "featured": false,
-      "organization_name": "YCP Hacks",
-      "winners_announced": false,
-      "submission_gallery_url": "https://ycp-hacks-2023.devpost.com/project-gallery",
-      "start_a_submission_url": "https://ycp-hacks-2023.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 19003,
-      "title": "AI Atlanta",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Klaus Advanced Computing Building"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/572/281/datas/medium_square.png",
-      "analytics_identifier": "AI Atlanta (19003)",
-      "url": "https://ai-atl.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 17 - 19, 2023",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>3,600</span>",
-      "registrations_count": 7,
-      "featured": false,
-      "organization_name": "Startup Exchange",
-      "winners_announced": false,
-      "submission_gallery_url": "https://ai-atl.devpost.com/project-gallery",
-      "start_a_submission_url": "https://ai-atl.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Accepted Applicants Only"
     }
   ],
   "meta": {
-    "total_count": 55,
+    "total_count": 58,
     "per_page": 40,
     "fuzzy": false
   }
