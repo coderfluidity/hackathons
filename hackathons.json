@@ -1,6 +1,76 @@
 {
   "hackathons": [
     {
+      "id": 20515,
+      "title": "GenAI Hackathon with Get Seen Ventures ",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Engineering Dept, Cambridge CB2 1PZ, UK"
+      },
+      "open_state": "open",
+      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+      "analytics_identifier": "GenAI Hackathon with Get Seen Ventures  (20515)",
+      "url": "https://genai-get-seen-ventures.devpost.com/",
+      "time_left_to_submission": "about 19 hours left",
+      "submission_period_dates": "Mar 02 - 03, 2024",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "£<span data-currency-value>1,000</span>",
+      "registrations_count": 99,
+      "featured": true,
+      "organization_name": "Get Seen Ventures",
+      "winners_announced": false,
+      "submission_gallery_url": "https://genai-get-seen-ventures.devpost.com/project-gallery",
+      "start_a_submission_url": "https://genai-get-seen-ventures.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 20749,
+      "title": "uOttaHack 6",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Learning Crossroads (CRX)"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/788/751/datas/medium_square.png",
+      "analytics_identifier": "uOttaHack 6 (20749)",
+      "url": "https://uottahack-6.devpost.com/",
+      "time_left_to_submission": "about 22 hours left",
+      "submission_period_dates": "Mar 01 - 03, 2024",
+      "themes": [
+        {
+          "id": 9,
+          "name": "Cybersecurity"
+        },
+        {
+          "id": 3,
+          "name": "Fintech"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$CAD<span data-currency-value>19,731</span>",
+      "registrations_count": 346,
+      "featured": false,
+      "organization_name": "uOttaHack",
+      "winners_announced": false,
+      "submission_gallery_url": "https://uottahack-6.devpost.com/project-gallery",
+      "start_a_submission_url": "https://uottahack-6.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 20449,
       "title": "Autonomous Agent: AI x Web3 Hackathon",
       "displayed_location": {
@@ -11,7 +81,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/757/738/datas/medium_square.png",
       "analytics_identifier": "Autonomous Agent: AI x Web3 Hackathon (20449)",
       "url": "https://autonomous-agent.devpost.com/",
-      "time_left_to_submission": "6 days left",
+      "time_left_to_submission": "5 days left",
       "submission_period_dates": "Feb 26 - Mar 07, 2024",
       "themes": [
         {
@@ -28,12 +98,49 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>26,800</span>",
-      "registrations_count": 281,
+      "registrations_count": 291,
       "featured": false,
       "organization_name": "Edge",
       "winners_announced": false,
       "submission_gallery_url": "https://autonomous-agent.devpost.com/project-gallery",
       "start_a_submission_url": "https://autonomous-agent.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 20235,
+      "title": "WiCHacks '24",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Magic Spell Studios"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/788/335/datas/medium_square.png",
+      "analytics_identifier": "WiCHacks '24 (20235)",
+      "url": "https://wichacks-24.devpost.com/",
+      "time_left_to_submission": "about 24 hours left",
+      "submission_period_dates": "Mar 02 - 03, 2024",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>5,736</span>",
+      "registrations_count": 48,
+      "featured": true,
+      "organization_name": "Women in Computing at RIT",
+      "winners_announced": false,
+      "submission_gallery_url": "https://wichacks-24.devpost.com/project-gallery",
+      "start_a_submission_url": "https://wichacks-24.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -48,7 +155,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/648/662/datas/medium_square.png",
       "analytics_identifier": "Cheat Layer Hackathon II (19519)",
       "url": "https://cheat-layer.devpost.com/",
-      "time_left_to_submission": "about 1 month left",
+      "time_left_to_submission": "29 days left",
       "submission_period_dates": "Dec 15, 2023 - Mar 31, 2024",
       "themes": [
         {
@@ -85,7 +192,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/558/684/datas/medium_square.png",
       "analytics_identifier": "(HATCH) HudsonAlpha Tech Challenge 2024 (18876)",
       "url": "https://hatch.devpost.com/",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "1 day left",
       "submission_period_dates": "Mar 01 - 03, 2024",
       "themes": [
         {
@@ -102,7 +209,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>5,000</span>",
-      "registrations_count": 17,
+      "registrations_count": 31,
       "featured": true,
       "organization_name": "HudsonAlpha Institute for Biotechnology",
       "winners_announced": false,
@@ -110,6 +217,43 @@
       "start_a_submission_url": "https://hatch.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 20771,
+      "title": "SMathHacks 2024",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "North Carolina"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/789/712/datas/medium_square.JPG",
+      "analytics_identifier": "SMathHacks 2024 (20771)",
+      "url": "https://smathhacks-2024.devpost.com/",
+      "time_left_to_submission": "1 day left",
+      "submission_period_dates": "Mar 02 - 03, 2024",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>808</span>",
+      "registrations_count": 81,
+      "featured": false,
+      "organization_name": "NC School of Science and Math",
+      "winners_announced": false,
+      "submission_gallery_url": "https://smathhacks-2024.devpost.com/project-gallery",
+      "start_a_submission_url": "https://smathhacks-2024.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "NC Students who have registered beforehand"
     },
     {
       "id": 19950,
@@ -122,7 +266,7 @@
       "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
       "analytics_identifier": "2024 ESE4510 ESE Senior Design [Deliwala, van der Spiegel] (19950)",
       "url": "https://ese4510s24.devpost.com/",
-      "time_left_to_submission": "3 months left",
+      "time_left_to_submission": "2 months left",
       "submission_period_dates": "Jan 02 - May 15, 2024",
       "themes": [
         {
@@ -141,6 +285,43 @@
       "eligibility_requirement_invite_only_description": "university of Pennsylvania students only"
     },
     {
+      "id": 20330,
+      "title": "Hack@CEWIT 2024",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Stony Brook University - CEWIT Building"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/735/509/datas/medium_square.jpg",
+      "analytics_identifier": "Hack@CEWIT 2024 (20330)",
+      "url": "https://hack-cewit-2024.devpost.com/",
+      "time_left_to_submission": "about 21 hours left",
+      "submission_period_dates": "Mar 01 - 03, 2024",
+      "themes": [
+        {
+          "id": 9,
+          "name": "Cybersecurity"
+        },
+        {
+          "id": 16,
+          "name": "Health"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>9,000</span>",
+      "registrations_count": 41,
+      "featured": false,
+      "organization_name": "CEWIT",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hack-cewit-2024.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hack-cewit-2024.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 20497,
       "title": "App Development Club Hackathon",
       "displayed_location": {
@@ -151,7 +332,7 @@
       "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
       "analytics_identifier": "App Development Club Hackathon (20497)",
       "url": "https://app-development-club-hackathon.devpost.com/",
-      "time_left_to_submission": "12 days left",
+      "time_left_to_submission": "11 days left",
       "submission_period_dates": "Feb 07 - Mar 13, 2024",
       "themes": [
         {
@@ -164,7 +345,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>300</span>",
-      "registrations_count": 40,
+      "registrations_count": 41,
       "featured": false,
       "organization_name": "App Development Club",
       "winners_announced": false,
@@ -172,6 +353,220 @@
       "start_a_submission_url": "https://app-development-club-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Oregon State University students only"
+    },
+    {
+      "id": 20715,
+      "title": "Winter Hackathon 2024",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Learning Innovation Center Room 303"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/789/694/datas/medium_square.png",
+      "analytics_identifier": "Winter Hackathon 2024 (20715)",
+      "url": "https://winter-hackathon.devpost.com/",
+      "time_left_to_submission": "1 day left",
+      "submission_period_dates": "Mar 01 - 03, 2024",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>633</span>",
+      "registrations_count": 39,
+      "featured": false,
+      "organization_name": "Oregon State University Hackathon Club",
+      "winners_announced": false,
+      "submission_gallery_url": "https://winter-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://winter-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 20165,
+      "title": "InnovateHER",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Stewart Center - Purdue University"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/715/779/datas/medium_square.png",
+      "analytics_identifier": "InnovateHER (20165)",
+      "url": "https://innovateher.devpost.com/",
+      "time_left_to_submission": "about 24 hours left",
+      "submission_period_dates": "Mar 02 - 03, 2024",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>3,273</span>",
+      "registrations_count": 32,
+      "featured": false,
+      "organization_name": "InnovateHER",
+      "winners_announced": false,
+      "submission_gallery_url": "https://innovateher.devpost.com/project-gallery",
+      "start_a_submission_url": "https://innovateher.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 19886,
+      "title": "AtHack CTF 2024",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Concordia University, Montreal, QC"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/703/787/datas/medium_square.jpg",
+      "analytics_identifier": "AtHack CTF 2024 (19886)",
+      "url": "https://athackctf.devpost.com/",
+      "time_left_to_submission": "1 day left",
+      "submission_period_dates": "Mar 02 - 03, 2024",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 9,
+          "name": "Cybersecurity"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$CAD<span data-currency-value>16,000</span>",
+      "registrations_count": 31,
+      "featured": false,
+      "organization_name": "concordia  university",
+      "winners_announced": false,
+      "submission_gallery_url": "https://athackctf.devpost.com/project-gallery",
+      "start_a_submission_url": "https://athackctf.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 20590,
+      "title": "Hack For The World 2024",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Naperville North High School"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/764/384/datas/medium_square.png",
+      "analytics_identifier": "Hack For The World 2024 (20590)",
+      "url": "https://hack-for-the-world-2024.devpost.com/",
+      "time_left_to_submission": "about 6 hours left",
+      "submission_period_dates": "Mar 02, 2024",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>694</span>",
+      "registrations_count": 28,
+      "featured": false,
+      "organization_name": "Naperville North Computer Science Club",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hack-for-the-world-2024.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hack-for-the-world-2024.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 19949,
+      "title": "CYHacks '24",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Central York High School"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/758/765/datas/medium_square.png",
+      "analytics_identifier": "CYHacks '24 (19949)",
+      "url": "https://cyhacks-24.devpost.com/",
+      "time_left_to_submission": "about 7 hours left",
+      "submission_period_dates": "Mar 02, 2024",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>300</span>",
+      "registrations_count": 27,
+      "featured": false,
+      "organization_name": "Central York High School",
+      "winners_announced": false,
+      "submission_gallery_url": "https://cyhacks-24.devpost.com/project-gallery",
+      "start_a_submission_url": "https://cyhacks-24.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 19729,
+      "title": "GFS Quackathon 2024",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Germantown Friends School"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/757/115/datas/medium_square.PNG",
+      "analytics_identifier": "GFS Quackathon 2024 (19729)",
+      "url": "https://quackathon-2024.devpost.com/",
+      "time_left_to_submission": "about 5 hours left",
+      "submission_period_dates": "Mar 02, 2024",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>250</span>",
+      "registrations_count": 22,
+      "featured": false,
+      "organization_name": "Germantown Friends School",
+      "winners_announced": false,
+      "submission_gallery_url": "https://quackathon-2024.devpost.com/project-gallery",
+      "start_a_submission_url": "https://quackathon-2024.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Any high school student in the Philadelphia area"
     },
     {
       "id": 20326,
@@ -184,7 +579,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/788/462/datas/medium_square.png",
       "analytics_identifier": "hack4.ai  (20326)",
       "url": "https://hack4ai.devpost.com/",
-      "time_left_to_submission": "14 days left",
+      "time_left_to_submission": "13 days left",
       "submission_period_dates": "Feb 26 - Mar 15, 2024",
       "themes": [
         {
@@ -201,12 +596,49 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>18,000</span>",
-      "registrations_count": 16,
+      "registrations_count": 20,
       "featured": false,
       "organization_name": "Helve",
       "winners_announced": false,
       "submission_gallery_url": "https://hack4ai.devpost.com/project-gallery",
       "start_a_submission_url": "https://hack4ai.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 19497,
+      "title": "HenHacks 2024",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Smith & Gore Hall"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/690/548/datas/medium_square.png",
+      "analytics_identifier": "HenHacks 2024 (19497)",
+      "url": "https://henhacks2024.devpost.com/",
+      "time_left_to_submission": "about 24 hours left",
+      "submission_period_dates": "Mar 02 - 03, 2024",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 3,
+          "name": "Fintech"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>44,680</span>",
+      "registrations_count": 17,
+      "featured": false,
+      "organization_name": "University of Delaware",
+      "winners_announced": false,
+      "submission_gallery_url": "https://henhacks2024.devpost.com/project-gallery",
+      "start_a_submission_url": "https://henhacks2024.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -248,43 +680,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 20458,
-      "title": "49er Impact ",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Charlotte"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/781/955/datas/medium_square.png",
-      "analytics_identifier": "49er Impact  (20458)",
-      "url": "https://49er-impact.devpost.com/",
-      "time_left_to_submission": "about 2 hours left",
-      "submission_period_dates": "Feb 27 - Mar 01, 2024",
-      "themes": [
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 6,
-      "featured": false,
-      "organization_name": "cei",
-      "winners_announced": false,
-      "submission_gallery_url": "https://49er-impact.devpost.com/project-gallery",
-      "start_a_submission_url": "https://49er-impact.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "UNC Charlotte Students only "
-    },
-    {
       "id": 20753,
       "title": "AthenaHacks 2024",
       "displayed_location": {
@@ -295,7 +690,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/788/840/datas/medium_square.png",
       "analytics_identifier": "AthenaHacks 2024 (20753)",
       "url": "https://athenahacks2024.devpost.com/",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "1 day left",
       "submission_period_dates": "Feb 29 - Mar 03, 2024",
       "themes": [
         {
@@ -312,7 +707,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>3,772</span>",
-      "registrations_count": 6,
+      "registrations_count": 15,
       "featured": false,
       "organization_name": "AthenaHacks",
       "winners_announced": false,
@@ -320,6 +715,167 @@
       "start_a_submission_url": "https://athenahacks2024.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "female & gender non-conforming university students"
+    },
+    {
+      "id": 20769,
+      "title": "{eHacks} 2024",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "T-Rex Innovation Center"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/789/669/datas/medium_square.png",
+      "analytics_identifier": "{eHacks} 2024 (20769)",
+      "url": "https://ehacks-2024.devpost.com/",
+      "time_left_to_submission": "about 23 hours left",
+      "submission_period_dates": "Mar 01 - 03, 2024",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 13,
+      "featured": false,
+      "organization_name": "SIUE",
+      "winners_announced": false,
+      "submission_gallery_url": "https://ehacks-2024.devpost.com/project-gallery",
+      "start_a_submission_url": "https://ehacks-2024.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 19362,
+      "title": "EurekaHACKS 2024",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Abbey Park High School"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/714/433/datas/medium_square.png",
+      "analytics_identifier": "EurekaHACKS 2024 (19362)",
+      "url": "https://eurekahacks-2024.devpost.com/",
+      "time_left_to_submission": "about 9 hours left",
+      "submission_period_dates": "Mar 02, 2024",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$CAD<span data-currency-value>0</span>",
+      "registrations_count": 10,
+      "featured": false,
+      "organization_name": "EurekaHACKS",
+      "winners_announced": false,
+      "submission_gallery_url": "https://eurekahacks-2024.devpost.com/project-gallery",
+      "start_a_submission_url": "https://eurekahacks-2024.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
+      "id": 20465,
+      "title": "Rare Disease Hackathon 2024",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Harvard University"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/756/497/datas/medium_square.png",
+      "analytics_identifier": "Rare Disease Hackathon 2024 (20465)",
+      "url": "https://hack-rare-disease.devpost.com/",
+      "time_left_to_submission": "1 day left",
+      "submission_period_dates": "Mar 02 - 03, 2024",
+      "themes": [
+        {
+          "id": 28,
+          "name": "Databases"
+        },
+        {
+          "id": 16,
+          "name": "Health"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1,500</span>",
+      "registrations_count": 8,
+      "featured": false,
+      "organization_name": "Harvard Undergraduate Biotechnology Club",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hack-rare-disease.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hack-rare-disease.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "College + graduate students with an .edu email"
+    },
+    {
+      "id": 20786,
+      "title": "Hack Attack",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "UBCO"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/790/360/datas/medium_square.png",
+      "analytics_identifier": "Hack Attack (20786)",
+      "url": "https://hack-attack.devpost.com/",
+      "time_left_to_submission": "1 day left",
+      "submission_period_dates": "Mar 01 - 03, 2024",
+      "themes": [
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$CAD<span data-currency-value>0</span>",
+      "registrations_count": 6,
+      "featured": false,
+      "organization_name": "SUO Girls in Tech",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hack-attack.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hack-attack.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "UBCO students only"
+    },
+    {
+      "id": 20221,
+      "title": "Bull Hacks",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Ross, CA, USA"
+      },
+      "open_state": "open",
+      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+      "analytics_identifier": "Bull Hacks (20221)",
+      "url": "https://bull-hacks.devpost.com/",
+      "time_left_to_submission": "about 11 hours left",
+      "submission_period_dates": "Mar 02, 2024",
+      "themes": [
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1,000</span>",
+      "registrations_count": 5,
+      "featured": false,
+      "organization_name": "The Branson School",
+      "winners_announced": false,
+      "submission_gallery_url": "https://bull-hacks.devpost.com/project-gallery",
+      "start_a_submission_url": "https://bull-hacks.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
     },
     {
       "id": 20482,
@@ -443,7 +999,7 @@
       "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
       "analytics_identifier": "2024 ESE 1900 Silicon Garage (19951)",
       "url": "https://ese1900s24.devpost.com/",
-      "time_left_to_submission": "3 months left",
+      "time_left_to_submission": "2 months left",
       "submission_period_dates": "Feb 15 - May 15, 2024",
       "themes": [
         {
@@ -462,111 +1018,70 @@
       "eligibility_requirement_invite_only_description": "For those enrolled in ESE 1900"
     },
     {
-      "id": 20515,
-      "title": "GenAI Hackathon with Get Seen Ventures ",
+      "id": 20762,
+      "title": "CuHackit 2024",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Engineering Dept, Cambridge CB2 1PZ, UK"
+        "location": "Watt Family Innovation Center"
       },
-      "open_state": "upcoming",
+      "open_state": "open",
       "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
-      "analytics_identifier": "GenAI Hackathon with Get Seen Ventures  (20515)",
-      "url": "https://genai-get-seen-ventures.devpost.com/",
-      "time_left_to_submission": "Upcoming",
+      "analytics_identifier": "CuHackit 2024 (20762)",
+      "url": "https://cuhackit-2024.devpost.com/",
+      "time_left_to_submission": "about 22 hours left",
       "submission_period_dates": "Mar 02 - 03, 2024",
       "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
         {
           "id": 22,
           "name": "Open Ended"
         }
       ],
-      "prize_amount": "£<span data-currency-value>1,000</span>",
-      "registrations_count": 95,
-      "featured": true,
-      "organization_name": "Get Seen Ventures",
+      "prize_amount": "$<span data-currency-value>2,600</span>",
+      "registrations_count": 2,
+      "featured": false,
+      "organization_name": "Clemson",
       "winners_announced": false,
-      "submission_gallery_url": "https://genai-get-seen-ventures.devpost.com/project-gallery",
-      "start_a_submission_url": "https://genai-get-seen-ventures.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://cuhackit-2024.devpost.com/project-gallery",
+      "start_a_submission_url": "https://cuhackit-2024.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 20235,
-      "title": "WiCHacks '24",
+      "id": 20664,
+      "title": "Hack the Treasure",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Magic Spell Studios"
+        "location": "Sharon Forks Library"
       },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/788/335/datas/medium_square.png",
-      "analytics_identifier": "WiCHacks '24 (20235)",
-      "url": "https://wichacks-24.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 02 - 03, 2024",
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/778/679/datas/medium_square.png",
+      "analytics_identifier": "Hack the Treasure (20664)",
+      "url": "https://hack-the-treasure.devpost.com/",
+      "time_left_to_submission": "about 5 hours left",
+      "submission_period_dates": "Mar 02, 2024",
       "themes": [
         {
           "id": 23,
           "name": "Beginner Friendly"
         },
         {
-          "id": 19,
-          "name": "Education"
+          "id": 22,
+          "name": "Open Ended"
         },
         {
-          "id": 13,
-          "name": "Social Good"
+          "id": 25,
+          "name": "Web"
         }
       ],
-      "prize_amount": "$<span data-currency-value>5,736</span>",
-      "registrations_count": 35,
-      "featured": true,
-      "organization_name": "Women in Computing at RIT",
-      "winners_announced": false,
-      "submission_gallery_url": "https://wichacks-24.devpost.com/project-gallery",
-      "start_a_submission_url": "https://wichacks-24.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 20749,
-      "title": "uOttaHack 6",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Learning Crossroads (CRX)"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/788/751/datas/medium_square.png",
-      "analytics_identifier": "uOttaHack 6 (20749)",
-      "url": "https://uottahack-6.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 01 - 03, 2024",
-      "themes": [
-        {
-          "id": 9,
-          "name": "Cybersecurity"
-        },
-        {
-          "id": 3,
-          "name": "Fintech"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$CAD<span data-currency-value>18,131</span>",
-      "registrations_count": 166,
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 1,
       "featured": false,
-      "organization_name": "uOttaHack",
+      "organization_name": "Hack Club",
       "winners_announced": false,
-      "submission_gallery_url": "https://uottahack-6.devpost.com/project-gallery",
-      "start_a_submission_url": "https://uottahack-6.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
+      "submission_gallery_url": "https://hack-the-treasure.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hack-the-treasure.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Sign up here: www.hackthetreasure.quest"
     },
     {
       "id": 19343,
@@ -670,7 +1185,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>12,000</span>",
-      "registrations_count": 75,
+      "registrations_count": 77,
       "featured": false,
       "organization_name": "ICCS",
       "winners_announced": false,
@@ -713,6 +1228,43 @@
       "eligibility_requirement_invite_only_description": "Bergen Tech Teterboro High School Students"
     },
     {
+      "id": 20514,
+      "title": "[LIVE AI 1] Joint Duke-Harvard Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Duke University and Harvard University"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/780/524/datas/medium_square.png",
+      "analytics_identifier": "[LIVE AI 1] Joint Duke-Harvard Hackathon (20514)",
+      "url": "https://live-ai-1-hackathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Mar 23 - 24, 2024",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 3,
+          "name": "Fintech"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>18,000</span>",
+      "registrations_count": 38,
+      "featured": false,
+      "organization_name": "Duke Applied Machine Learning",
+      "winners_announced": false,
+      "submission_gallery_url": "https://live-ai-1-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://live-ai-1-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null
+    },
+    {
       "id": 20220,
       "title": "Philly Codefest 2024 at Drexel University",
       "displayed_location": {
@@ -746,80 +1298,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://philly-codefest-2024.devpost.com/project-gallery",
       "start_a_submission_url": "https://philly-codefest-2024.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 20715,
-      "title": "Winter Hackathon 2024",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Learning Innovation Center Room 303"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/789/694/datas/medium_square.png",
-      "analytics_identifier": "Winter Hackathon 2024 (20715)",
-      "url": "https://winter-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 01 - 03, 2024",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>633</span>",
-      "registrations_count": 34,
-      "featured": false,
-      "organization_name": "Oregon State University Hackathon Club",
-      "winners_announced": false,
-      "submission_gallery_url": "https://winter-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://winter-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 19886,
-      "title": "AtHack CTF 2024",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Concordia University, Montreal, QC"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/703/787/datas/medium_square.jpg",
-      "analytics_identifier": "AtHack CTF 2024 (19886)",
-      "url": "https://athackctf.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 02 - 03, 2024",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        },
-        {
-          "id": 9,
-          "name": "Cybersecurity"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$CAD<span data-currency-value>16,000</span>",
-      "registrations_count": 31,
-      "featured": false,
-      "organization_name": "concordia  university",
-      "winners_announced": false,
-      "submission_gallery_url": "https://athackctf.devpost.com/project-gallery",
-      "start_a_submission_url": "https://athackctf.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -861,43 +1339,6 @@
       "eligibility_requirement_invite_only_description": null
     },
     {
-      "id": 20514,
-      "title": "[LIVE AI 1] Joint Duke-Harvard Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Duke University and Harvard University"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/780/524/datas/medium_square.png",
-      "analytics_identifier": "[LIVE AI 1] Joint Duke-Harvard Hackathon (20514)",
-      "url": "https://live-ai-1-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 23 - 24, 2024",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        },
-        {
-          "id": 3,
-          "name": "Fintech"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>18,000</span>",
-      "registrations_count": 31,
-      "featured": false,
-      "organization_name": "Duke Applied Machine Learning",
-      "winners_announced": false,
-      "submission_gallery_url": "https://live-ai-1-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://live-ai-1-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
       "id": 20047,
       "title": "UWB Hacks AI",
       "displayed_location": {
@@ -925,49 +1366,12 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,000</span>",
-      "registrations_count": 28,
+      "registrations_count": 30,
       "featured": false,
       "organization_name": "UWB ACM",
       "winners_announced": false,
       "submission_gallery_url": "https://uwb-hacks-ai.devpost.com/project-gallery",
       "start_a_submission_url": "https://uwb-hacks-ai.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 19949,
-      "title": "CYHacks '24",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Central York High School"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/758/765/datas/medium_square.png",
-      "analytics_identifier": "CYHacks '24 (19949)",
-      "url": "https://cyhacks-24.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 02, 2024",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>300</span>",
-      "registrations_count": 27,
-      "featured": false,
-      "organization_name": "Central York High School",
-      "winners_announced": false,
-      "submission_gallery_url": "https://cyhacks-24.devpost.com/project-gallery",
-      "start_a_submission_url": "https://cyhacks-24.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
     },
@@ -991,7 +1395,7 @@
         }
       ],
       "prize_amount": "₹ <span data-currency-value>150,000</span>",
-      "registrations_count": 22,
+      "registrations_count": 23,
       "featured": false,
       "organization_name": "SecurityPal",
       "winners_announced": false,
@@ -999,442 +1403,10 @@
       "start_a_submission_url": "https://nepal-hacks.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 18731,
-      "title": "HackSimBuild 2024",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Denver, Colorado, USA"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
-      "analytics_identifier": "HackSimBuild 2024 (18731)",
-      "url": "https://hacksimbuild-2024.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 20 - 21, 2024",
-      "themes": [
-        {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 2,
-          "name": "DevOps"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 21,
-      "featured": false,
-      "organization_name": "IBPSA-USA",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hacksimbuild-2024.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hacksimbuild-2024.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 19729,
-      "title": "GFS Quackathon 2024",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Germantown Friends School"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/757/115/datas/medium_square.PNG",
-      "analytics_identifier": "GFS Quackathon 2024 (19729)",
-      "url": "https://quackathon-2024.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 02, 2024",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>250</span>",
-      "registrations_count": 20,
-      "featured": false,
-      "organization_name": "Germantown Friends School",
-      "winners_announced": false,
-      "submission_gallery_url": "https://quackathon-2024.devpost.com/project-gallery",
-      "start_a_submission_url": "https://quackathon-2024.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Any high school student in the Philadelphia area"
-    },
-    {
-      "id": 20113,
-      "title": "GrizzHacks 6",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Oakland University Engineering Center"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/712/943/datas/medium_square.png",
-      "analytics_identifier": "GrizzHacks 6 (20113)",
-      "url": "https://grizzhacks-6.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 09 - 10, 2024",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>8,000</span>",
-      "registrations_count": 19,
-      "featured": false,
-      "organization_name": "GrizzHacks",
-      "winners_announced": false,
-      "submission_gallery_url": "https://grizzhacks-6.devpost.com/project-gallery",
-      "start_a_submission_url": "https://grizzhacks-6.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 20447,
-      "title": "RidgeHacks 2024",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Ridge High School"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/756/634/datas/medium_square.png",
-      "analytics_identifier": "RidgeHacks 2024 (20447)",
-      "url": "https://ridgehacks-2024.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 06, 2024",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 19,
-      "featured": false,
-      "organization_name": "Ridge Computer Science Club",
-      "winners_announced": false,
-      "submission_gallery_url": "https://ridgehacks-2024.devpost.com/project-gallery",
-      "start_a_submission_url": "https://ridgehacks-2024.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 20288,
-      "title": "WEHack 2024",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "University of Texas at Dallas - ECSW"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/745/953/datas/medium_square.png",
-      "analytics_identifier": "WEHack 2024 (20288)",
-      "url": "https://wehack-2024.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 23 - 24, 2024",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 26,
-          "name": "Mobile"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>1,200</span>",
-      "registrations_count": 18,
-      "featured": false,
-      "organization_name": "WEHack",
-      "winners_announced": false,
-      "submission_gallery_url": "https://wehack-2024.devpost.com/project-gallery",
-      "start_a_submission_url": "https://wehack-2024.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 20330,
-      "title": "Hack@CEWIT 2024",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Stony Brook University - CEWIT Building"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/735/509/datas/medium_square.jpg",
-      "analytics_identifier": "Hack@CEWIT 2024 (20330)",
-      "url": "https://hack-cewit-2024.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 01 - 03, 2024",
-      "themes": [
-        {
-          "id": 9,
-          "name": "Cybersecurity"
-        },
-        {
-          "id": 16,
-          "name": "Health"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>9,000</span>",
-      "registrations_count": 16,
-      "featured": false,
-      "organization_name": "CEWIT",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hack-cewit-2024.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hack-cewit-2024.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 20423,
-      "title": "HackOps",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Harbor Entrepreneur Center"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/748/950/datas/medium_square.png",
-      "analytics_identifier": "HackOps (20423)",
-      "url": "https://hackops.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 19 - 21, 2024",
-      "themes": [
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 16,
-      "featured": false,
-      "organization_name": "Charlestonhacks",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackops.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackops.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 20682,
-      "title": "GDSC Hacks 2024",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "University of Guelph"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/779/789/datas/medium_square.png",
-      "analytics_identifier": "GDSC Hacks 2024 (20682)",
-      "url": "https://gdsc-hacks-2024.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 04 - 05, 2024",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$CAD<span data-currency-value>1,410</span>",
-      "registrations_count": 16,
-      "featured": false,
-      "organization_name": "Google Developer Student Club @ Guelph",
-      "winners_announced": false,
-      "submission_gallery_url": "https://gdsc-hacks-2024.devpost.com/project-gallery",
-      "start_a_submission_url": "https://gdsc-hacks-2024.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 20428,
-      "title": "Code for Accessibility",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Google (Chicago)"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
-      "analytics_identifier": "Code for Accessibility (20428)",
-      "url": "https://code-for-accessibility.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 09, 2024",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>12,000</span>",
-      "registrations_count": 15,
-      "featured": false,
-      "organization_name": "Code Your Dreams",
-      "winners_announced": false,
-      "submission_gallery_url": "https://code-for-accessibility.devpost.com/project-gallery",
-      "start_a_submission_url": "https://code-for-accessibility.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 19938,
-      "title": "LDK Hackathon at Advancing Bitcoin",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "6 Alie St"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/746/700/datas/medium_square.png",
-      "analytics_identifier": "LDK Hackathon at Advancing Bitcoin (19938)",
-      "url": "https://ldk-hack-at-advancing-bitcoin.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 13 - 15, 2024",
-      "themes": [
-        {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 26,
-          "name": "Mobile"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>7,500</span>",
-      "registrations_count": 15,
-      "featured": false,
-      "organization_name": "Advancing Bitcoin",
-      "winners_announced": false,
-      "submission_gallery_url": "https://ldk-hack-at-advancing-bitcoin.devpost.com/project-gallery",
-      "start_a_submission_url": "https://ldk-hack-at-advancing-bitcoin.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 20590,
-      "title": "Hack For The World 2024",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Naperville North High School"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/764/384/datas/medium_square.png",
-      "analytics_identifier": "Hack For The World 2024 (20590)",
-      "url": "https://hack-for-the-world-2024.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 02, 2024",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>694</span>",
-      "registrations_count": 12,
-      "featured": false,
-      "organization_name": "Naperville North Computer Science Club",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hack-for-the-world-2024.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hack-for-the-world-2024.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
-    },
-    {
-      "id": 19305,
-      "title": "Hack The Skies",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Toronto"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/709/441/datas/medium_square.png",
-      "analytics_identifier": "Hack The Skies (19305)",
-      "url": "https://hack-the-skies.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 24 - 26, 2024",
-      "themes": [
-        {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 12,
-      "featured": false,
-      "organization_name": "Hack The Skies",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hack-the-skies.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hack-the-skies.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null
     }
   ],
   "meta": {
-    "total_count": 72,
+    "total_count": 77,
     "per_page": 40,
     "fuzzy": false
   }
