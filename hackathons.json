@@ -11,7 +11,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/900/071/datas/medium_square.png",
       "analytics_identifier": "GirlCode Hackathon 2024 (21511)",
       "url": "https://girlcode-hackathon-2024.devpost.com/",
-      "time_left_to_submission": "23 days left",
+      "time_left_to_submission": "22 days left",
       "submission_period_dates": "May 25 - Jun 28, 2024",
       "themes": [
         {
@@ -28,7 +28,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>150</span>",
-      "registrations_count": 387,
+      "registrations_count": 441,
       "featured": false,
       "organization_name": "GirlCode",
       "winners_announced": false,
@@ -49,7 +49,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/779/001/datas/medium_square.jpg",
       "analytics_identifier": "Cipher Craft (20671)",
       "url": "https://cipher-craft.devpost.com/",
-      "time_left_to_submission": "3 days left",
+      "time_left_to_submission": "2 days left",
       "submission_period_dates": "Feb 20 - Jun 08, 2024",
       "themes": [
         {
@@ -66,7 +66,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 115,
+      "registrations_count": 119,
       "featured": false,
       "organization_name": "MLH",
       "winners_announced": false,
@@ -87,7 +87,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/907/202/datas/medium_square.png",
       "analytics_identifier": "Binary Minds (21097)",
       "url": "https://shipathon.devpost.com/",
-      "time_left_to_submission": "11 days left",
+      "time_left_to_submission": "10 days left",
       "submission_period_dates": "Apr 12 - Jun 16, 2024",
       "themes": [
         {
@@ -104,6 +104,40 @@
       "start_a_submission_url": "https://shipathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 21422,
+      "title": "XRperience | DSTA BrainHack 2024",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "DSTA "
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/894/269/datas/medium_square.png",
+      "analytics_identifier": "XRperience | DSTA BrainHack 2024 (21422)",
+      "url": "https://brainhack-xrperience-2024.devpost.com/",
+      "time_left_to_submission": "5 days left",
+      "submission_period_dates": "Jun 06 - 12, 2024",
+      "themes": [
+        {
+          "id": 5,
+          "name": "AR/VR"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>6,500</span>",
+      "registrations_count": 7,
+      "featured": false,
+      "organization_name": "XRperience 2024",
+      "winners_announced": false,
+      "submission_gallery_url": "https://brainhack-xrperience-2024.devpost.com/project-gallery",
+      "start_a_submission_url": "https://brainhack-xrperience-2024.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "XRperience 2024 Participants",
       "managed_by_devpost_badge": false
     },
     {
@@ -130,7 +164,7 @@
         }
       ],
       "prize_amount": "$CAD<span data-currency-value>10,122</span>",
-      "registrations_count": 19,
+      "registrations_count": 20,
       "featured": true,
       "organization_name": "XdHacks Mini",
       "winners_announced": false,
@@ -168,7 +202,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>600</span>",
-      "registrations_count": 57,
+      "registrations_count": 63,
       "featured": false,
       "organization_name": "BC Tech Society ",
       "winners_announced": false,
@@ -202,7 +236,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 38,
+      "registrations_count": 39,
       "featured": false,
       "organization_name": "Khan Lab School",
       "winners_announced": false,
@@ -240,12 +274,50 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>9,000</span>",
-      "registrations_count": 36,
+      "registrations_count": 38,
       "featured": false,
       "organization_name": "Interledger Foundation",
       "winners_announced": false,
       "submission_gallery_url": "https://interledger-hackathon-2024.devpost.com/project-gallery",
       "start_a_submission_url": "https://interledger-hackathon-2024.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 21376,
+      "title": "Hack Nights",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "The Ripple Fund"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/884/658/datas/medium_square.png",
+      "analytics_identifier": "Hack Nights (21376)",
+      "url": "https://hack-nights.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jun 24 - 27, 2024",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1,500</span>",
+      "registrations_count": 21,
+      "featured": false,
+      "organization_name": "Charlestonhacks",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hack-nights.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hack-nights.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -309,14 +381,10 @@
         {
           "id": 6,
           "name": "Machine Learning/AI"
-        },
-        {
-          "id": 26,
-          "name": "Mobile"
         }
       ],
       "prize_amount": "$<span data-currency-value>7,000</span>",
-      "registrations_count": 19,
+      "registrations_count": 20,
       "featured": false,
       "organization_name": "MongoDB",
       "winners_announced": false,
@@ -324,44 +392,6 @@
       "start_a_submission_url": "https://mongodb-genai-hackathon-6-14.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Those who are registered and approved through Luma",
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 21376,
-      "title": "Hack Nights",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "The Ripple Fund"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/884/658/datas/medium_square.png",
-      "analytics_identifier": "Hack Nights (21376)",
-      "url": "https://hack-nights.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 24 - 27, 2024",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>1,500</span>",
-      "registrations_count": 19,
-      "featured": false,
-      "organization_name": "Charlestonhacks",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hack-nights.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hack-nights.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
     },
     {
@@ -498,7 +528,7 @@
         }
       ],
       "prize_amount": "£<span data-currency-value>590</span>",
-      "registrations_count": 7,
+      "registrations_count": 9,
       "featured": false,
       "organization_name": "bright little labs",
       "winners_announced": false,
@@ -543,40 +573,6 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 21422,
-      "title": "XRperience | DSTA BrainHack 2024",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "DSTA "
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/894/269/datas/medium_square.png",
-      "analytics_identifier": "XRperience | DSTA BrainHack 2024 (21422)",
-      "url": "https://brainhack-xrperience-2024.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 06 - 12, 2024",
-      "themes": [
-        {
-          "id": 5,
-          "name": "AR/VR"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>6,500</span>",
-      "registrations_count": 6,
-      "featured": false,
-      "organization_name": "XRperience 2024",
-      "winners_announced": false,
-      "submission_gallery_url": "https://brainhack-xrperience-2024.devpost.com/project-gallery",
-      "start_a_submission_url": "https://brainhack-xrperience-2024.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "XRperience 2024 Participants",
-      "managed_by_devpost_badge": false
-    },
-    {
       "id": 21241,
       "title": "MY-HACK",
       "displayed_location": {
@@ -615,6 +611,44 @@
       "managed_by_devpost_badge": false
     },
     {
+      "id": 21299,
+      "title": "CodeDay New York",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Flatiron School in Manhattan, NY"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/876/619/datas/medium_square.png",
+      "analytics_identifier": "CodeDay New York (21299)",
+      "url": "https://codeday-new-york.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jun 29, 2024",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 15,
+          "name": "Music/Art"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 5,
+      "featured": false,
+      "organization_name": "CodeDay",
+      "winners_announced": false,
+      "submission_gallery_url": "https://codeday-new-york.devpost.com/project-gallery",
+      "start_a_submission_url": "https://codeday-new-york.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
       "id": 21012,
       "title": "Techstars Startup Weekend - PAI Palooza - LA",
       "displayed_location": {
@@ -648,44 +682,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://pai-palooza-la.devpost.com/project-gallery",
       "start_a_submission_url": "https://pai-palooza-la.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 21299,
-      "title": "CodeDay New York",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Flatiron School in Manhattan, NY"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/876/619/datas/medium_square.png",
-      "analytics_identifier": "CodeDay New York (21299)",
-      "url": "https://codeday-new-york.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 29, 2024",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 15,
-          "name": "Music/Art"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "CodeDay",
-      "winners_announced": false,
-      "submission_gallery_url": "https://codeday-new-york.devpost.com/project-gallery",
-      "start_a_submission_url": "https://codeday-new-york.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
