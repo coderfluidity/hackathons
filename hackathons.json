@@ -28,7 +28,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>30,500</span>",
-      "registrations_count": 82,
+      "registrations_count": 88,
       "featured": false,
       "organization_name": "Techniche HackClub",
       "winners_announced": false,
@@ -49,7 +49,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/009/170/datas/medium_square.png",
       "analytics_identifier": "Tartans Innovate: Sep 6th - Sep 12th (22277)",
       "url": "https://tartansinnovate.devpost.com/",
-      "time_left_to_submission": "3 days left",
+      "time_left_to_submission": "2 days left",
       "submission_period_dates": "Sep 06 - 12, 2024",
       "themes": [
         {
@@ -66,7 +66,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 80,
+      "registrations_count": 85,
       "featured": false,
       "organization_name": "Carnegie Mellon University Africa",
       "winners_announced": false,
@@ -87,7 +87,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/004/238/datas/medium_square.png",
       "analytics_identifier": "Google Cloud/ Bayer AI Innovation Platform Hackathon (22276)",
       "url": "https://bayer-ai-innovation-platform.devpost.com/",
-      "time_left_to_submission": "about 2 months left",
+      "time_left_to_submission": "about 1 month left",
       "submission_period_dates": "Aug 28 - Oct 25, 2024",
       "themes": [
         {
@@ -104,12 +104,42 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>82,000</span>",
-      "registrations_count": 59,
+      "registrations_count": 64,
       "featured": false,
       "organization_name": "Bayer AG",
       "winners_announced": false,
       "submission_gallery_url": "https://bayer-ai-innovation-platform.devpost.com/project-gallery",
       "start_a_submission_url": "https://bayer-ai-innovation-platform.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 22264,
+      "title": "Frutal Web House 2024 @ ETH MX",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Mérida Yucatán"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/003/037/datas/medium_square.jpg",
+      "analytics_identifier": "Frutal Web House 2024 @ ETH MX (22264)",
+      "url": "https://frutal-web-house-2024.devpost.com/",
+      "time_left_to_submission": "3 days left",
+      "submission_period_dates": "Aug 26 - Sep 13, 2024",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>11,200</span>",
+      "registrations_count": 55,
+      "featured": false,
+      "organization_name": "Open Web Academy",
+      "winners_announced": false,
+      "submission_gallery_url": "https://frutal-web-house-2024.devpost.com/project-gallery",
+      "start_a_submission_url": "https://frutal-web-house-2024.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -125,7 +155,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/989/774/datas/medium_square.png",
       "analytics_identifier": "Mento Innovate: cKES Hackathon 2024 (22157)",
       "url": "https://mento-innovate-hackathon.devpost.com/",
-      "time_left_to_submission": "12 days left",
+      "time_left_to_submission": "11 days left",
       "submission_period_dates": "Aug 26 - Sep 21, 2024",
       "themes": [
         {
@@ -142,42 +172,12 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,000</span>",
-      "registrations_count": 54,
+      "registrations_count": 55,
       "featured": false,
       "organization_name": "Mento Foundation",
       "winners_announced": false,
       "submission_gallery_url": "https://mento-innovate-hackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://mento-innovate-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 22264,
-      "title": "Frutal Web House 2024 @ ETH MX",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Mérida Yucatán"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/003/037/datas/medium_square.jpg",
-      "analytics_identifier": "Frutal Web House 2024 @ ETH MX (22264)",
-      "url": "https://frutal-web-house-2024.devpost.com/",
-      "time_left_to_submission": "4 days left",
-      "submission_period_dates": "Aug 26 - Sep 13, 2024",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>11,200</span>",
-      "registrations_count": 41,
-      "featured": false,
-      "organization_name": "Open Web Academy",
-      "winners_announced": false,
-      "submission_gallery_url": "https://frutal-web-house-2024.devpost.com/project-gallery",
-      "start_a_submission_url": "https://frutal-web-house-2024.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -193,8 +193,8 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/008/810/datas/medium_square.png",
       "analytics_identifier": "Poly.Tech Mini Hackathon (22298)",
       "url": "https://poly-tech-mini.devpost.com/",
-      "time_left_to_submission": "4 days left",
-      "submission_period_dates": "Sep 03 - 13, 2024",
+      "time_left_to_submission": "7 days left",
+      "submission_period_dates": "Sep 03 - 17, 2024",
       "themes": [
         {
           "id": 10,
@@ -210,7 +210,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>50</span>",
-      "registrations_count": 23,
+      "registrations_count": 25,
       "featured": false,
       "organization_name": "nobody yet",
       "winners_announced": false,
@@ -248,7 +248,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 14,
+      "registrations_count": 15,
       "featured": false,
       "organization_name": "School",
       "winners_announced": false,
@@ -307,7 +307,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/010/515/datas/medium_square.png",
       "analytics_identifier": "Real Estate Revolution Hackathon w/ OpenAI presentation & free API credits (22240)",
       "url": "https://real-estate-revolution.devpost.com/",
-      "time_left_to_submission": "16 days left",
+      "time_left_to_submission": "15 days left",
       "submission_period_dates": "Sep 03 - 25, 2024",
       "themes": [
         {
@@ -324,7 +324,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>7,500</span>",
-      "registrations_count": 5,
+      "registrations_count": 7,
       "featured": false,
       "organization_name": "eXp Realty",
       "winners_announced": false,
@@ -332,6 +332,74 @@
       "start_a_submission_url": "https://real-estate-revolution.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Any teams with 1-5 members may apply to enter",
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 22361,
+      "title": "GARUDA INDIA HACKATHON",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "ARALVAIMOZHI, "
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/017/077/datas/medium_square.jpeg",
+      "analytics_identifier": "GARUDA INDIA HACKATHON (22361)",
+      "url": "https://garuda-india-hackathon-24.devpost.com/",
+      "time_left_to_submission": "18 days left",
+      "submission_period_dates": "Sep 10 - 28, 2024",
+      "themes": [
+        {
+          "id": 19,
+          "name": "Education"
+        }
+      ],
+      "prize_amount": "₹ <span data-currency-value>100,000</span>",
+      "registrations_count": 1,
+      "featured": false,
+      "organization_name": "DMI ENGINEERING COLLEGE",
+      "winners_announced": false,
+      "submission_gallery_url": "https://garuda-india-hackathon-24.devpost.com/project-gallery",
+      "start_a_submission_url": "https://garuda-india-hackathon-24.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 22363,
+      "title": "Cathay Hackathon 2024",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Cathay City"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/017/184/datas/medium_square.png",
+      "analytics_identifier": "Cathay Hackathon 2024 (22363)",
+      "url": "https://cathay-hackathon-2024.devpost.com/",
+      "time_left_to_submission": "2 months left",
+      "submission_period_dates": "Sep 10 - Nov 16, 2024",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 21,
+          "name": "Enterprise"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 1,
+      "featured": false,
+      "organization_name": "Cathay",
+      "winners_announced": false,
+      "submission_gallery_url": "https://cathay-hackathon-2024.devpost.com/project-gallery",
+      "start_a_submission_url": "https://cathay-hackathon-2024.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
     },
     {
@@ -354,7 +422,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>9,000</span>",
-      "registrations_count": 209,
+      "registrations_count": 215,
       "featured": false,
       "organization_name": "FutureProof",
       "winners_announced": false,
@@ -392,12 +460,76 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>30,500</span>",
-      "registrations_count": 198,
+      "registrations_count": 204,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
       "submission_gallery_url": "https://api-world-2024-hackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://api-world-2024-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 21632,
+      "title": "Techstars StartUp Weekend - PAI Palooza & GDG Build with AI—Tulsa",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Techstars Tulsa"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/921/577/datas/medium_square.png",
+      "analytics_identifier": "Techstars StartUp Weekend - PAI Palooza & GDG Build with AI—Tulsa (21632)",
+      "url": "https://pai-palooza-tulsa.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Sep 13 - 15, 2024",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 15,
+      "featured": true,
+      "organization_name": "KWAAI",
+      "winners_announced": false,
+      "submission_gallery_url": "https://pai-palooza-tulsa.devpost.com/project-gallery",
+      "start_a_submission_url": "https://pai-palooza-tulsa.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 22040,
+      "title": "Vancouver Tech Week Mini Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "SFU Ventures Concourse Hall"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/016/021/datas/medium_square.png",
+      "analytics_identifier": "Vancouver Tech Week Mini Hackathon (22040)",
+      "url": "https://vtw.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Sep 14, 2024",
+      "themes": [
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>200</span>",
+      "registrations_count": 10,
+      "featured": true,
+      "organization_name": "Vancouver Tech Week",
+      "winners_announced": false,
+      "submission_gallery_url": "https://vtw.devpost.com/project-gallery",
+      "start_a_submission_url": "https://vtw.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -430,7 +562,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>12,500</span>",
-      "registrations_count": 122,
+      "registrations_count": 129,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -479,44 +611,6 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 21798,
-      "title": "NASA Space Apps Challenge Mountain View",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "NASA Ames - B3 Conference center"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/955/045/datas/medium_square.png",
-      "analytics_identifier": "NASA Space Apps Challenge Mountain View (21798)",
-      "url": "https://nasa-space-apps-2024.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 05 - 06, 2024",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 83,
-      "featured": false,
-      "organization_name": "NASA",
-      "winners_announced": false,
-      "submission_gallery_url": "https://nasa-space-apps-2024.devpost.com/project-gallery",
-      "start_a_submission_url": "https://nasa-space-apps-2024.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
       "id": 21050,
       "title": "IATA ONE Record Hackathon – hosted by Turkish Cargo & Turkish Technology",
       "displayed_location": {
@@ -544,12 +638,50 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>12,000</span>",
-      "registrations_count": 79,
+      "registrations_count": 86,
       "featured": false,
       "organization_name": "Turkish Cargo",
       "winners_announced": false,
       "submission_gallery_url": "https://onerecord-ist.devpost.com/project-gallery",
       "start_a_submission_url": "https://onerecord-ist.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 21798,
+      "title": "NASA Space Apps Challenge Mountain View",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "NASA Ames - B3 Conference center"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/955/045/datas/medium_square.png",
+      "analytics_identifier": "NASA Space Apps Challenge Mountain View (21798)",
+      "url": "https://nasa-space-apps-2024.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 05 - 06, 2024",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 85,
+      "featured": false,
+      "organization_name": "NASA",
+      "winners_announced": false,
+      "submission_gallery_url": "https://nasa-space-apps-2024.devpost.com/project-gallery",
+      "start_a_submission_url": "https://nasa-space-apps-2024.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -577,8 +709,8 @@
           "name": "Open Ended"
         }
       ],
-      "prize_amount": "$CAD<span data-currency-value>168,040</span>",
-      "registrations_count": 49,
+      "prize_amount": "$CAD<span data-currency-value>128,180</span>",
+      "registrations_count": 57,
       "featured": false,
       "organization_name": "Hack the North",
       "winners_announced": false,
@@ -616,7 +748,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>3,750</span>",
-      "registrations_count": 45,
+      "registrations_count": 46,
       "featured": false,
       "organization_name": "Fitch",
       "winners_announced": false,
@@ -654,7 +786,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 42,
+      "registrations_count": 43,
       "featured": false,
       "organization_name": "ETHCapeTown",
       "winners_announced": false,
@@ -692,7 +824,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 37,
+      "registrations_count": 40,
       "featured": false,
       "organization_name": "Opportunity Hack",
       "winners_announced": false,
@@ -730,7 +862,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,500</span>",
-      "registrations_count": 35,
+      "registrations_count": 36,
       "featured": false,
       "organization_name": "Charlestonhacks",
       "winners_announced": false,
@@ -874,12 +1006,88 @@
         }
       ],
       "prize_amount": "$CAD<span data-currency-value>31,500</span>",
-      "registrations_count": 24,
+      "registrations_count": 25,
       "featured": false,
       "organization_name": "NeurAlbertaTech",
       "winners_announced": false,
       "submission_gallery_url": "https://nathacks-2024.devpost.com/project-gallery",
       "start_a_submission_url": "https://nathacks-2024.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 22134,
+      "title": "Hill Hacks",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Foothill College"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/985/766/datas/medium_square.png",
+      "analytics_identifier": "Hill Hacks (22134)",
+      "url": "https://hill-hacks.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Nov 16 - 17, 2024",
+      "themes": [
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>10,000</span>",
+      "registrations_count": 24,
+      "featured": false,
+      "organization_name": "Foothill College",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hill-hacks.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hill-hacks.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 22106,
+      "title": "Fetch-A-Thon 2.0",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": ""
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+      "analytics_identifier": "Fetch-A-Thon 2.0 (22106)",
+      "url": "https://fetch-a-thon-2-0.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Sep 30 - Oct 10, 2024",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 12,
+          "name": "Lifehacks"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 22,
+      "featured": false,
+      "organization_name": "Fetch.ai",
+      "winners_announced": false,
+      "submission_gallery_url": "https://fetch-a-thon-2-0.devpost.com/project-gallery",
+      "start_a_submission_url": "https://fetch-a-thon-2-0.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -961,44 +1169,6 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 22134,
-      "title": "Hill Hacks",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Foothill College"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/985/766/datas/medium_square.png",
-      "analytics_identifier": "Hill Hacks (22134)",
-      "url": "https://hill-hacks.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 16 - 17, 2024",
-      "themes": [
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 21,
-      "featured": false,
-      "organization_name": "Foothill College",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hill-hacks.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hill-hacks.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
       "id": 22202,
       "title": "IMAGINE HACKATHON",
       "displayed_location": {
@@ -1034,44 +1204,6 @@
       "start_a_submission_url": "https://imagine-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Decision by organisers",
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 22106,
-      "title": "Fetch-A-Thon 2.0",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": ""
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
-      "analytics_identifier": "Fetch-A-Thon 2.0 (22106)",
-      "url": "https://fetch-a-thon-2-0.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Sep 30 - Oct 10, 2024",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        },
-        {
-          "id": 12,
-          "name": "Lifehacks"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 19,
-      "featured": false,
-      "organization_name": "Fetch.ai",
-      "winners_announced": false,
-      "submission_gallery_url": "https://fetch-a-thon-2-0.devpost.com/project-gallery",
-      "start_a_submission_url": "https://fetch-a-thon-2-0.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
     },
     {
@@ -1178,46 +1310,12 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>20,300</span>",
-      "registrations_count": 13,
+      "registrations_count": 14,
       "featured": false,
       "organization_name": "TechHackers at VT",
       "winners_announced": false,
       "submission_gallery_url": "https://vthacks-12.devpost.com/project-gallery",
       "start_a_submission_url": "https://vthacks-12.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 21632,
-      "title": "Techstars StartUp Weekend - PAI Palooza & GDG Build with AI—Tulsa",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Techstars Tulsa"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/921/577/datas/medium_square.png",
-      "analytics_identifier": "Techstars StartUp Weekend - PAI Palooza & GDG Build with AI—Tulsa (21632)",
-      "url": "https://pai-palooza-tulsa.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Sep 13 - 15, 2024",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 12,
-      "featured": false,
-      "organization_name": "KWAAI",
-      "winners_announced": false,
-      "submission_gallery_url": "https://pai-palooza-tulsa.devpost.com/project-gallery",
-      "start_a_submission_url": "https://pai-palooza-tulsa.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -1246,7 +1344,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>21,000</span>",
-      "registrations_count": 10,
+      "registrations_count": 11,
       "featured": false,
       "organization_name": "European Blockchain Convention",
       "winners_announced": false,
@@ -1284,7 +1382,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>3,000</span>",
-      "registrations_count": 10,
+      "registrations_count": 11,
       "featured": false,
       "organization_name": "Florida Data Science for Social Good",
       "winners_announced": false,
@@ -1333,36 +1431,6 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 22040,
-      "title": "Vancouver Tech Week Mini Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "SFU Ventures Concourse Hall"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/016/021/datas/medium_square.png",
-      "analytics_identifier": "Vancouver Tech Week Mini Hackathon (22040)",
-      "url": "https://vtw.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Sep 14, 2024",
-      "themes": [
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>250</span>",
-      "registrations_count": 8,
-      "featured": false,
-      "organization_name": "Vancouver Tech Week",
-      "winners_announced": false,
-      "submission_gallery_url": "https://vtw.devpost.com/project-gallery",
-      "start_a_submission_url": "https://vtw.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
       "id": 21743,
       "title": "HackAKPsi",
       "displayed_location": {
@@ -1395,82 +1463,10 @@
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
-    },
-    {
-      "id": 21510,
-      "title": "Hack the Skies '24",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Danforth CTI"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/899/670/datas/medium_square.png",
-      "analytics_identifier": "Hack the Skies '24 (21510)",
-      "url": "https://hack-the-skies-24.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 26 - 27, 2024",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 7,
-      "featured": false,
-      "organization_name": "Hack The Skies",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hack-the-skies-24.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hack-the-skies-24.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 22236,
-      "title": "DIVE 2024 (Data Insights and Visualization Event 2024)",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Bexco"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/002/998/790/datas/medium_square.jpg",
-      "analytics_identifier": "DIVE 2024 (Data Insights and Visualization Event 2024) (22236)",
-      "url": "https://dive2024inbusan.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 04 - 05, 2024",
-      "themes": [
-        {
-          "id": 28,
-          "name": "Databases"
-        },
-        {
-          "id": 2,
-          "name": "DevOps"
-        },
-        {
-          "id": 21,
-          "name": "Enterprise"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>11,516</span>",
-      "registrations_count": 6,
-      "featured": false,
-      "organization_name": "busan",
-      "winners_announced": false,
-      "submission_gallery_url": "https://dive2024inbusan.devpost.com/project-gallery",
-      "start_a_submission_url": "https://dive2024inbusan.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
     }
   ],
   "meta": {
-    "total_count": 46,
+    "total_count": 49,
     "per_page": 40,
     "fuzzy": false
   }
