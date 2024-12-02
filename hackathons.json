@@ -1,6 +1,40 @@
 {
   "hackathons": [
     {
+      "id": 23194,
+      "title": "Blitz'24",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Department of AI & ML, DSCE Bengaluru"
+      },
+      "open_state": "open",
+      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+      "analytics_identifier": "Blitz'24 (23194)",
+      "url": "https://blitz-24.devpost.com/",
+      "time_left_to_submission": "1 day left",
+      "submission_period_dates": "Dec 01 - 04, 2024",
+      "themes": [
+        {
+          "id": 21,
+          "name": "Enterprise"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "₹ <span data-currency-value>50,000</span>",
+      "registrations_count": 222,
+      "featured": false,
+      "organization_name": "IEDC",
+      "winners_announced": false,
+      "submission_gallery_url": "https://blitz-24.devpost.com/project-gallery",
+      "start_a_submission_url": "https://blitz-24.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
       "id": 22380,
       "title": "CodeStorm Hackathon",
       "displayed_location": {
@@ -11,7 +45,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/033/709/datas/medium_square.jpg",
       "analytics_identifier": "CodeStorm Hackathon (22380)",
       "url": "https://fiyge-hackathon.devpost.com/",
-      "time_left_to_submission": "9 days left",
+      "time_left_to_submission": "8 days left",
       "submission_period_dates": "Nov 09 - Dec 10, 2024",
       "themes": [
         {
@@ -28,7 +62,7 @@
         }
       ],
       "prize_amount": "$CAD<span data-currency-value>20,000</span>",
-      "registrations_count": 145,
+      "registrations_count": 149,
       "featured": false,
       "organization_name": "FIYGE Research Inc.",
       "winners_announced": false,
@@ -49,7 +83,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/081/598/datas/medium_square.png",
       "analytics_identifier": "Telenor Velocity Innovation Challenge (22675)",
       "url": "https://velocity.devpost.com/",
-      "time_left_to_submission": "14 days left",
+      "time_left_to_submission": "13 days left",
       "submission_period_dates": "Oct 16 - Dec 15, 2024",
       "themes": [
         {
@@ -62,7 +96,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>3,600</span>",
-      "registrations_count": 95,
+      "registrations_count": 97,
       "featured": false,
       "organization_name": "Telenor Pakistan",
       "winners_announced": false,
@@ -100,7 +134,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 86,
+      "registrations_count": 88,
       "featured": false,
       "organization_name": "ZIBS",
       "winners_announced": false,
@@ -138,7 +172,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 68,
+      "registrations_count": 69,
       "featured": false,
       "organization_name": "IEEE Region 1",
       "winners_announced": false,
@@ -159,7 +193,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/137/744/datas/medium_square.jpg",
       "analytics_identifier": "Funcstart: AI For Good Hackathon (23076)",
       "url": "https://funcstart-ai-for-good.devpost.com/",
-      "time_left_to_submission": "17 days left",
+      "time_left_to_submission": "16 days left",
       "submission_period_dates": "Nov 14 - Dec 18, 2024",
       "themes": [
         {
@@ -176,7 +210,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>120</span>",
-      "registrations_count": 14,
+      "registrations_count": 15,
       "featured": false,
       "organization_name": "Funcstart",
       "winners_announced": false,
@@ -231,7 +265,7 @@
       "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
       "analytics_identifier": "audioseacher (23029)",
       "url": "https://audioseacher.devpost.com/",
-      "time_left_to_submission": "27 days left",
+      "time_left_to_submission": "26 days left",
       "submission_period_dates": "Nov 30 - Dec 28, 2024",
       "themes": [
         {
@@ -248,12 +282,50 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>4</span>",
-      "registrations_count": 5,
+      "registrations_count": 7,
       "featured": false,
       "organization_name": "Computing Students Hub @ York University",
       "winners_announced": false,
       "submission_gallery_url": "https://audioseacher.devpost.com/project-gallery",
       "start_a_submission_url": "https://audioseacher.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 23195,
+      "title": "GENETHON",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Gyan Ganga Group of institutions"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/161/459/datas/medium_square.jpg",
+      "analytics_identifier": "GENETHON (23195)",
+      "url": "https://genethonggits.devpost.com/",
+      "time_left_to_submission": "18 days left",
+      "submission_period_dates": "Dec 01 - 20, 2024",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 17,
+          "name": "Low/No Code"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>50,000</span>",
+      "registrations_count": 6,
+      "featured": false,
+      "organization_name": "gyan ganga",
+      "winners_announced": false,
+      "submission_gallery_url": "https://genethonggits.devpost.com/project-gallery",
+      "start_a_submission_url": "https://genethonggits.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -293,44 +365,6 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 23195,
-      "title": "GENETHON",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Gyan Ganga Group of institutions"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/161/459/datas/medium_square.jpg",
-      "analytics_identifier": "GENETHON (23195)",
-      "url": "https://genethonggits.devpost.com/",
-      "time_left_to_submission": "19 days left",
-      "submission_period_dates": "Dec 01 - 20, 2024",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 17,
-          "name": "Low/No Code"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>50,000</span>",
-      "registrations_count": 2,
-      "featured": false,
-      "organization_name": "gyan ganga",
-      "winners_announced": false,
-      "submission_gallery_url": "https://genethonggits.devpost.com/project-gallery",
-      "start_a_submission_url": "https://genethonggits.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
       "id": 21664,
       "title": "DeveloperWeek 2025 Hackathon",
       "displayed_location": {
@@ -358,46 +392,12 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>12,500</span>",
-      "registrations_count": 304,
+      "registrations_count": 306,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
       "submission_gallery_url": "https://developerweek-2025-hackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://developerweek-2025-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 23194,
-      "title": "Blitz'24",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Department of AI & ML, DSCE Bengaluru"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
-      "analytics_identifier": "Blitz'24 (23194)",
-      "url": "https://blitz-24.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Dec 03 - 04, 2024",
-      "themes": [
-        {
-          "id": 21,
-          "name": "Enterprise"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "₹ <span data-currency-value>50,000</span>",
-      "registrations_count": 184,
-      "featured": false,
-      "organization_name": "IEDC",
-      "winners_announced": false,
-      "submission_gallery_url": "https://blitz-24.devpost.com/project-gallery",
-      "start_a_submission_url": "https://blitz-24.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -430,7 +430,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>6,270</span>",
-      "registrations_count": 104,
+      "registrations_count": 111,
       "featured": false,
       "organization_name": "Hack The Ridge",
       "winners_announced": false,
@@ -532,7 +532,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>300</span>",
-      "registrations_count": 73,
+      "registrations_count": 78,
       "featured": false,
       "organization_name": "Mathworks",
       "winners_announced": false,
@@ -570,7 +570,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 58,
+      "registrations_count": 59,
       "featured": false,
       "organization_name": "Harvard Open Data Project",
       "winners_announced": false,
@@ -642,7 +642,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>5,800</span>",
-      "registrations_count": 38,
+      "registrations_count": 40,
       "featured": false,
       "organization_name": "Santa Fe Business Incubator",
       "winners_announced": false,
@@ -680,7 +680,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>5,000</span>",
-      "registrations_count": 12,
+      "registrations_count": 13,
       "featured": false,
       "organization_name": "HudsonAlpha Institute for Biotechnology",
       "winners_announced": false,
@@ -692,14 +692,14 @@
     },
     {
       "id": 21765,
-      "title": "HackUNCP 2024",
+      "title": "HackUNCP 2025",
       "displayed_location": {
         "icon": "map-marker-alt",
         "location": "Pembroke, NC, USA"
       },
       "open_state": "upcoming",
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/020/931/datas/medium_square.jpg",
-      "analytics_identifier": "HackUNCP 2024 (21765)",
+      "analytics_identifier": "HackUNCP 2025 (21765)",
       "url": "https://hackuncp.devpost.com/",
       "time_left_to_submission": "Upcoming",
       "submission_period_dates": "Mar 22 - 23, 2025",
@@ -711,6 +711,10 @@
         {
           "id": 6,
           "name": "Machine Learning/AI"
+        },
+        {
+          "id": 9,
+          "name": "Cybersecurity"
         }
       ],
       "prize_amount": "$<span data-currency-value>3,000</span>",
@@ -790,7 +794,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>9,000</span>",
-      "registrations_count": 5,
+      "registrations_count": 7,
       "featured": false,
       "organization_name": "Clever Guerrilla Inc.",
       "winners_announced": false,
@@ -904,7 +908,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>12,000</span>",
-      "registrations_count": 3,
+      "registrations_count": 4,
       "featured": false,
       "organization_name": "iata",
       "winners_announced": false,
