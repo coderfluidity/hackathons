@@ -1,40 +1,6 @@
 {
   "hackathons": [
     {
-      "id": 22675,
-      "title": "Telenor Velocity Innovation Challenge",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Islamabad, Pakistan"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/081/598/datas/medium_square.png",
-      "analytics_identifier": "Telenor Velocity Innovation Challenge (22675)",
-      "url": "https://velocity.devpost.com/",
-      "time_left_to_submission": "3 days left",
-      "submission_period_dates": "Oct 16 - Dec 15, 2024",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>3,600</span>",
-      "registrations_count": 114,
-      "featured": false,
-      "organization_name": "Telenor Pakistan",
-      "winners_announced": false,
-      "submission_gallery_url": "https://velocity.devpost.com/project-gallery",
-      "start_a_submission_url": "https://velocity.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
       "id": 23233,
       "title": "Innerve 9.0",
       "displayed_location": {
@@ -62,12 +28,46 @@
         }
       ],
       "prize_amount": "₹ <span data-currency-value>250,000</span>",
-      "registrations_count": 103,
+      "registrations_count": 128,
       "featured": false,
       "organization_name": "Students",
       "winners_announced": false,
       "submission_gallery_url": "https://innerve-9.devpost.com/project-gallery",
       "start_a_submission_url": "https://innerve-9.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 22675,
+      "title": "Telenor Velocity Innovation Challenge",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Islamabad, Pakistan"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/081/598/datas/medium_square.png",
+      "analytics_identifier": "Telenor Velocity Innovation Challenge (22675)",
+      "url": "https://velocity.devpost.com/",
+      "time_left_to_submission": "2 days left",
+      "submission_period_dates": "Oct 16 - Dec 15, 2024",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>3,600</span>",
+      "registrations_count": 116,
+      "featured": false,
+      "organization_name": "Telenor Pakistan",
+      "winners_announced": false,
+      "submission_gallery_url": "https://velocity.devpost.com/project-gallery",
+      "start_a_submission_url": "https://velocity.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -100,7 +100,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 97,
+      "registrations_count": 99,
       "featured": false,
       "organization_name": "ZIBS",
       "winners_announced": false,
@@ -121,7 +121,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/057/804/datas/medium_square.png",
       "analytics_identifier": "AI Hackathon - Ethical AI Data Solutions (Hybrid event) (22581)",
       "url": "https://ethicalaisolutions.devpost.com/",
-      "time_left_to_submission": "27 days left",
+      "time_left_to_submission": "26 days left",
       "submission_period_dates": "Dec 05, 2024 - Jan 08, 2025",
       "themes": [
         {
@@ -138,7 +138,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>5,800</span>",
-      "registrations_count": 89,
+      "registrations_count": 93,
       "featured": false,
       "organization_name": "Santa Fe Business Incubator",
       "winners_announced": false,
@@ -176,7 +176,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 75,
+      "registrations_count": 76,
       "featured": false,
       "organization_name": "IEEE Region 1",
       "winners_announced": false,
@@ -197,7 +197,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/161/459/datas/medium_square.jpg",
       "analytics_identifier": "GENETHON (23195)",
       "url": "https://genethonggits.devpost.com/",
-      "time_left_to_submission": "8 days left",
+      "time_left_to_submission": "7 days left",
       "submission_period_dates": "Dec 01 - 20, 2024",
       "themes": [
         {
@@ -214,7 +214,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>50,000</span>",
-      "registrations_count": 37,
+      "registrations_count": 39,
       "featured": false,
       "organization_name": "gyan ganga",
       "winners_announced": false,
@@ -235,7 +235,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/137/744/datas/medium_square.jpg",
       "analytics_identifier": "Funcstart: AI For Good Hackathon (23076)",
       "url": "https://funcstart-ai-for-good.devpost.com/",
-      "time_left_to_submission": "6 days left",
+      "time_left_to_submission": "5 days left",
       "submission_period_dates": "Nov 14 - Dec 18, 2024",
       "themes": [
         {
@@ -252,7 +252,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>120</span>",
-      "registrations_count": 27,
+      "registrations_count": 29,
       "featured": false,
       "organization_name": "Funcstart",
       "winners_announced": false,
@@ -297,82 +297,6 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 23265,
-      "title": "THE AI SUMMIT NEW YORK HACKATHON",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Javits Center, New York"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/173/291/datas/medium_square.png",
-      "analytics_identifier": "THE AI SUMMIT NEW YORK HACKATHON (23265)",
-      "url": "https://ai-summit-new-york-hackathon.devpost.com/",
-      "time_left_to_submission": "about 4 hours left",
-      "submission_period_dates": "Dec 11 - 12, 2024",
-      "themes": [
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 16,
-          "name": "Health"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>2,000</span>",
-      "registrations_count": 23,
-      "featured": false,
-      "organization_name": "Fetch.ai",
-      "winners_announced": false,
-      "submission_gallery_url": "https://ai-summit-new-york-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://ai-summit-new-york-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 23142,
-      "title": "Code Crusade: Ai Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "KNS Institute of Technology"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/149/609/datas/medium_square.jpg",
-      "analytics_identifier": "Code Crusade: Ai Hackathon (23142)",
-      "url": "https://code-crusade.devpost.com/",
-      "time_left_to_submission": "about 16 hours left",
-      "submission_period_dates": "Dec 12 - 13, 2024",
-      "themes": [
-        {
-          "id": 20,
-          "name": "E-commerce/Retail"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 3,
-          "name": "Fintech"
-        }
-      ],
-      "prize_amount": "₹ <span data-currency-value>4,000</span>",
-      "registrations_count": 13,
-      "featured": false,
-      "organization_name": "KNS Institute of Technology",
-      "winners_announced": false,
-      "submission_gallery_url": "https://code-crusade.devpost.com/project-gallery",
-      "start_a_submission_url": "https://code-crusade.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
       "id": 23137,
       "title": "Digital ID Hackathon - Western Africa",
       "displayed_location": {
@@ -383,7 +307,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/148/763/datas/medium_square.png",
       "analytics_identifier": "Digital ID Hackathon - Western Africa (23137)",
       "url": "https://hackid-westernafrica.devpost.com/",
-      "time_left_to_submission": "about 2 months left",
+      "time_left_to_submission": "about 1 month left",
       "submission_period_dates": "Nov 28, 2024 - Jan 26, 2025",
       "themes": [
         {
@@ -396,7 +320,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 7,
+      "registrations_count": 12,
       "featured": false,
       "organization_name": "Carnegie Mellon University Africa",
       "winners_announced": false,
@@ -434,7 +358,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>22,500</span>",
-      "registrations_count": 354,
+      "registrations_count": 361,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -468,7 +392,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>1,500</span>",
-      "registrations_count": 129,
+      "registrations_count": 133,
       "featured": false,
       "organization_name": "Hoya Hacks",
       "winners_announced": false,
@@ -506,7 +430,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>6,270</span>",
-      "registrations_count": 120,
+      "registrations_count": 129,
       "featured": false,
       "organization_name": "Hack The Ridge",
       "winners_announced": false,
@@ -544,7 +468,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 81,
+      "registrations_count": 84,
       "featured": false,
       "organization_name": "Harvard Open Data Project",
       "winners_announced": false,
@@ -642,7 +566,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 41,
+      "registrations_count": 42,
       "featured": false,
       "organization_name": "Muse Hub",
       "winners_announced": false,
@@ -680,7 +604,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>5,000</span>",
-      "registrations_count": 17,
+      "registrations_count": 19,
       "featured": false,
       "organization_name": "HudsonAlpha Institute for Biotechnology",
       "winners_announced": false,
@@ -794,7 +718,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>40,000</span>",
-      "registrations_count": 13,
+      "registrations_count": 14,
       "featured": false,
       "organization_name": "CruzHacks",
       "winners_announced": false,
@@ -832,7 +756,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>3,000</span>",
-      "registrations_count": 12,
+      "registrations_count": 14,
       "featured": false,
       "organization_name": "AI@UNCP",
       "winners_announced": false,
@@ -870,7 +794,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>900</span>",
-      "registrations_count": 8,
+      "registrations_count": 10,
       "featured": false,
       "organization_name": "Open Community",
       "winners_announced": false,
@@ -908,7 +832,7 @@
         }
       ],
       "prize_amount": "€<span data-currency-value>100</span>",
-      "registrations_count": 5,
+      "registrations_count": 8,
       "featured": false,
       "organization_name": "Hackers@UPC",
       "winners_announced": false,
@@ -916,6 +840,78 @@
       "start_a_submission_url": "https://bitsxlamarato-2024.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 22977,
+      "title": "Road to Start Hack",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Ecuador"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+      "analytics_identifier": "Road to Start Hack (22977)",
+      "url": "https://road-to-start-hack-22977.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jan 10, 2025",
+      "themes": [
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 21,
+          "name": "Enterprise"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>2,000</span>",
+      "registrations_count": 4,
+      "featured": false,
+      "organization_name": "Trent Univeristy",
+      "winners_announced": false,
+      "submission_gallery_url": "https://road-to-start-hack-22977.devpost.com/project-gallery",
+      "start_a_submission_url": "https://road-to-start-hack-22977.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 23252,
+      "title": "SCU ACM Winter Challenge",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Santa Clara, CA, USA"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/171/447/datas/medium_square.png",
+      "analytics_identifier": "SCU ACM Winter Challenge (23252)",
+      "url": "https://scu-acm-winter-challenge.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Dec 14, 2024 - Jan 11, 2025",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>500</span>",
+      "registrations_count": 3,
+      "featured": false,
+      "organization_name": "SCU ACM",
+      "winners_announced": false,
+      "submission_gallery_url": "https://scu-acm-winter-challenge.devpost.com/project-gallery",
+      "start_a_submission_url": "https://scu-acm-winter-challenge.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Santa Clara University Students, only",
       "managed_by_devpost_badge": false
     },
     {
@@ -952,6 +948,44 @@
       "winners_announced": false,
       "submission_gallery_url": "https://tabhacks-2024.devpost.com/project-gallery",
       "start_a_submission_url": "https://tabhacks-2024.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 23278,
+      "title": "DaiBuild Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Delta state University - Abraka"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/176/449/datas/medium_square.jpg",
+      "analytics_identifier": "DaiBuild Hackathon (23278)",
+      "url": "https://daibuild-hackathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Dec 31, 2024 - Jan 21, 2025",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 3,
+          "name": "Fintech"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>750</span>",
+      "registrations_count": 3,
+      "featured": false,
+      "organization_name": "CodeUp Africa",
+      "winners_announced": false,
+      "submission_gallery_url": "https://daibuild-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://daibuild-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -1033,52 +1067,18 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 22977,
-      "title": "Road to Start Hack",
+      "id": 23288,
+      "title": "TaroHacks 2.0",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Ecuador"
+        "location": "Plug and Play Tech Center"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
-      "analytics_identifier": "Road to Start Hack (22977)",
-      "url": "https://road-to-start-hack-22977.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/178/279/datas/medium_square.png",
+      "analytics_identifier": "TaroHacks 2.0 (23288)",
+      "url": "https://tarohacks-2-0.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jan 10, 2025",
-      "themes": [
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 21,
-          "name": "Enterprise"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>2,000</span>",
-      "registrations_count": 2,
-      "featured": false,
-      "organization_name": "Trent Univeristy",
-      "winners_announced": false,
-      "submission_gallery_url": "https://road-to-start-hack-22977.devpost.com/project-gallery",
-      "start_a_submission_url": "https://road-to-start-hack-22977.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 23252,
-      "title": "SCU ACM Winter Challenge",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Santa Clara, CA, USA"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/171/447/datas/medium_square.png",
-      "analytics_identifier": "SCU ACM Winter Challenge (23252)",
-      "url": "https://scu-acm-winter-challenge.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Dec 14, 2024 - Jan 11, 2025",
+      "submission_period_dates": "Jan 04 - 05, 2025",
       "themes": [
         {
           "id": 23,
@@ -1089,62 +1089,24 @@
           "name": "Machine Learning/AI"
         },
         {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>500</span>",
-      "registrations_count": 2,
-      "featured": false,
-      "organization_name": "SCU ACM",
-      "winners_announced": false,
-      "submission_gallery_url": "https://scu-acm-winter-challenge.devpost.com/project-gallery",
-      "start_a_submission_url": "https://scu-acm-winter-challenge.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Santa Clara University Students, only",
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 23278,
-      "title": "DaiBuild Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Delta state University - Abraka"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/176/449/datas/medium_square.jpg",
-      "analytics_identifier": "DaiBuild Hackathon (23278)",
-      "url": "https://daibuild-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Dec 31, 2024 - Jan 21, 2025",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        },
-        {
-          "id": 3,
-          "name": "Fintech"
-        },
-        {
           "id": 13,
           "name": "Social Good"
         }
       ],
-      "prize_amount": "$<span data-currency-value>750</span>",
+      "prize_amount": "$<span data-currency-value>550</span>",
       "registrations_count": 2,
       "featured": false,
-      "organization_name": "CodeUp Africa",
+      "organization_name": "Team Taro",
       "winners_announced": false,
-      "submission_gallery_url": "https://daibuild-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://daibuild-hackathon.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://tarohacks-2-0.devpost.com/project-gallery",
+      "start_a_submission_url": "https://tarohacks-2-0.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
     }
   ],
   "meta": {
-    "total_count": 31,
+    "total_count": 30,
     "per_page": 40,
     "fuzzy": false
   }
