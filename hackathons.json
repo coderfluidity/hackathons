@@ -28,7 +28,7 @@
         }
       ],
       "prize_amount": "₹ <span data-currency-value>250,000</span>",
-      "registrations_count": 270,
+      "registrations_count": 282,
       "featured": false,
       "organization_name": "Students",
       "winners_announced": false,
@@ -49,7 +49,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/057/804/datas/medium_square.png",
       "analytics_identifier": "AI Hackathon - Ethical AI Data Solutions (Hybrid event) (22581)",
       "url": "https://ethicalaisolutions.devpost.com/",
-      "time_left_to_submission": "19 days left",
+      "time_left_to_submission": "18 days left",
       "submission_period_dates": "Dec 05, 2024 - Jan 08, 2025",
       "themes": [
         {
@@ -66,7 +66,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>5,800</span>",
-      "registrations_count": 133,
+      "registrations_count": 135,
       "featured": false,
       "organization_name": "Santa Fe Business Incubator",
       "winners_announced": false,
@@ -104,7 +104,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 102,
+      "registrations_count": 103,
       "featured": false,
       "organization_name": "ZIBS",
       "winners_announced": false,
@@ -142,7 +142,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 81,
+      "registrations_count": 82,
       "featured": false,
       "organization_name": "IEEE Region 1",
       "winners_announced": false,
@@ -176,12 +176,50 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 41,
+      "registrations_count": 43,
       "featured": false,
       "organization_name": "Carnegie Mellon University Africa",
       "winners_announced": false,
       "submission_gallery_url": "https://hackid-westernafrica.devpost.com/project-gallery",
       "start_a_submission_url": "https://hackid-westernafrica.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 23076,
+      "title": "Funcstart: AI For Good Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Dumong Systems Hub, Sunyani"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/137/744/datas/medium_square.jpg",
+      "analytics_identifier": "Funcstart: AI For Good Hackathon (23076)",
+      "url": "https://funcstart-ai-for-good.devpost.com/",
+      "time_left_to_submission": "25 days left",
+      "submission_period_dates": "Nov 14, 2024 - Jan 15, 2025",
+      "themes": [
+        {
+          "id": 16,
+          "name": "Health"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>120</span>",
+      "registrations_count": 37,
+      "featured": false,
+      "organization_name": "Funcstart",
+      "winners_announced": false,
+      "submission_gallery_url": "https://funcstart-ai-for-good.devpost.com/project-gallery",
+      "start_a_submission_url": "https://funcstart-ai-for-good.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -197,7 +235,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/148/746/datas/medium_square.png",
       "analytics_identifier": "Digital ID Hackathon - Southern Africa (23136)",
       "url": "https://hackid-southernafrica.devpost.com/",
-      "time_left_to_submission": "about 1 month left",
+      "time_left_to_submission": "29 days left",
       "submission_period_dates": "Nov 21, 2024 - Jan 19, 2025",
       "themes": [
         {
@@ -221,6 +259,44 @@
       "managed_by_devpost_badge": false
     },
     {
+      "id": 22648,
+      "title": "Orange AI Hackathon 2024",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Medina Congress Center, Yasmine Hammamet"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/180/297/datas/medium_square.png",
+      "analytics_identifier": "Orange AI Hackathon 2024 (22648)",
+      "url": "https://orange-ai-hackathon-2024.devpost.com/",
+      "time_left_to_submission": "about 19 hours left",
+      "submission_period_dates": "Dec 21 - 22, 2024",
+      "themes": [
+        {
+          "id": 17,
+          "name": "Low/No Code"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>2,050</span>",
+      "registrations_count": 15,
+      "featured": false,
+      "organization_name": "Orange Digital Center",
+      "winners_announced": false,
+      "submission_gallery_url": "https://orange-ai-hackathon-2024.devpost.com/project-gallery",
+      "start_a_submission_url": "https://orange-ai-hackathon-2024.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Tunisian IEEE Student Branches",
+      "managed_by_devpost_badge": false
+    },
+    {
       "id": 23252,
       "title": "SCU ACM Winter Challenge",
       "displayed_location": {
@@ -231,7 +307,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/171/447/datas/medium_square.png",
       "analytics_identifier": "SCU ACM Winter Challenge (23252)",
       "url": "https://scu-acm-winter-challenge.devpost.com/",
-      "time_left_to_submission": "22 days left",
+      "time_left_to_submission": "21 days left",
       "submission_period_dates": "Dec 14, 2024 - Jan 11, 2025",
       "themes": [
         {
@@ -248,7 +324,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>500</span>",
-      "registrations_count": 9,
+      "registrations_count": 10,
       "featured": false,
       "organization_name": "SCU ACM",
       "winners_announced": false,
@@ -286,7 +362,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>22,500</span>",
-      "registrations_count": 412,
+      "registrations_count": 421,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -358,7 +434,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
-      "registrations_count": 99,
+      "registrations_count": 101,
       "featured": false,
       "organization_name": "Harvard Open Data Project",
       "winners_announced": false,
@@ -430,7 +506,7 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>12,000</span>",
-      "registrations_count": 24,
+      "registrations_count": 25,
       "featured": false,
       "organization_name": "iata",
       "winners_announced": false,
@@ -517,44 +593,6 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 22787,
-      "title": "BevHacks 2025",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "The Brearley School"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/092/858/datas/medium_square.png",
-      "analytics_identifier": "BevHacks 2025 (22787)",
-      "url": "https://bevhacks-2025.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jan 11, 2025",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>720</span>",
-      "registrations_count": 15,
-      "featured": false,
-      "organization_name": "Brearley",
-      "winners_announced": false,
-      "submission_gallery_url": "https://bevhacks-2025.devpost.com/project-gallery",
-      "start_a_submission_url": "https://bevhacks-2025.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
       "id": 23221,
       "title": "Random Forest Hackathon",
       "displayed_location": {
@@ -582,12 +620,50 @@
         }
       ],
       "prize_amount": "$<span data-currency-value>900</span>",
-      "registrations_count": 14,
+      "registrations_count": 16,
       "featured": false,
       "organization_name": "Open Community",
       "winners_announced": false,
       "submission_gallery_url": "https://randomforest.devpost.com/project-gallery",
       "start_a_submission_url": "https://randomforest.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 22787,
+      "title": "BevHacks 2025",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "The Brearley School"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/092/858/datas/medium_square.png",
+      "analytics_identifier": "BevHacks 2025 (22787)",
+      "url": "https://bevhacks-2025.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jan 11, 2025",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 18,
+          "name": "Design"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>720</span>",
+      "registrations_count": 16,
+      "featured": false,
+      "organization_name": "Brearley",
+      "winners_announced": false,
+      "submission_gallery_url": "https://bevhacks-2025.devpost.com/project-gallery",
+      "start_a_submission_url": "https://bevhacks-2025.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -707,41 +783,33 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 22648,
-      "title": "Orange AI Hackathon 2024",
+      "id": 23353,
+      "title": "CAMEL AI 精通多智能体系统 24h Hackathon ",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Medina Congress Center, Yasmine Hammamet"
+        "location": "上海前滩中心"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/180/297/datas/medium_square.png",
-      "analytics_identifier": "Orange AI Hackathon 2024 (22648)",
-      "url": "https://orange-ai-hackathon-2024.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/188/358/datas/medium_square.jpg",
+      "analytics_identifier": "CAMEL AI 精通多智能体系统 24h Hackathon  (23353)",
+      "url": "https://camel-ai-24h-hackathon.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Dec 21 - 22, 2024",
+      "submission_period_dates": "Dec 22, 2024",
       "themes": [
-        {
-          "id": 17,
-          "name": "Low/No Code"
-        },
         {
           "id": 6,
           "name": "Machine Learning/AI"
-        },
-        {
-          "id": 25,
-          "name": "Web"
         }
       ],
-      "prize_amount": "$<span data-currency-value>2,050</span>",
+      "prize_amount": "£<span data-currency-value>20,000</span>",
       "registrations_count": 5,
       "featured": false,
-      "organization_name": "Orange Digital Center",
+      "organization_name": "CAMEL-AI",
       "winners_announced": false,
-      "submission_gallery_url": "https://orange-ai-hackathon-2024.devpost.com/project-gallery",
-      "start_a_submission_url": "https://orange-ai-hackathon-2024.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Tunisian IEEE Student Branches",
+      "submission_gallery_url": "https://camel-ai-24h-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://camel-ai-24h-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
     },
     {
@@ -817,6 +885,44 @@
       "managed_by_devpost_badge": false
     },
     {
+      "id": 22686,
+      "title": "UGAHacks X",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Zell B. Miller Learning Center "
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/081/182/datas/medium_square.png",
+      "analytics_identifier": "UGAHacks X (22686)",
+      "url": "https://ugahacks-x.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Feb 07 - 09, 2025",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 15,
+          "name": "Music/Art"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "registrations_count": 4,
+      "featured": false,
+      "organization_name": "UGAHacks",
+      "winners_announced": false,
+      "submission_gallery_url": "https://ugahacks-x.devpost.com/project-gallery",
+      "start_a_submission_url": "https://ugahacks-x.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
       "id": 23173,
       "title": "RocketHacks 2025",
       "displayed_location": {
@@ -850,74 +956,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://rockethacks.devpost.com/project-gallery",
       "start_a_submission_url": "https://rockethacks.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 23353,
-      "title": "CAMEL AI 精通多智能体系统 24h Hackathon ",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "上海前滩中心"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/188/358/datas/medium_square.jpg",
-      "analytics_identifier": "CAMEL AI 精通多智能体系统 24h Hackathon  (23353)",
-      "url": "https://camel-ai-24h-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Dec 22, 2024",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "£<span data-currency-value>20,000</span>",
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "CAMEL-AI",
-      "winners_announced": false,
-      "submission_gallery_url": "https://camel-ai-24h-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://camel-ai-24h-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 22686,
-      "title": "UGAHacks X",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Zell B. Miller Learning Center "
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/081/182/datas/medium_square.png",
-      "analytics_identifier": "UGAHacks X (22686)",
-      "url": "https://ugahacks-x.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Feb 07 - 09, 2025",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 15,
-          "name": "Music/Art"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "UGAHacks",
-      "winners_announced": false,
-      "submission_gallery_url": "https://ugahacks-x.devpost.com/project-gallery",
-      "start_a_submission_url": "https://ugahacks-x.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -992,7 +1030,7 @@
     }
   ],
   "meta": {
-    "total_count": 27,
+    "total_count": 28,
     "per_page": 40,
     "fuzzy": false
   }
