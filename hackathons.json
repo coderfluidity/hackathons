@@ -1,40 +1,6 @@
 {
   "hackathons": [
     {
-      "id": 25269,
-      "title": "Databricks Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "San Francisco, CA, USA"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/467/365/datas/medium_square.png",
-      "analytics_identifier": "Databricks Hackathon (25269)",
-      "url": "https://databricks-hackathon.devpost.com/",
-      "time_left_to_submission": "about 4 hours left",
-      "submission_period_dates": "Jun 09, 2025",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 0,
-        "other": 3
-      },
-      "registrations_count": 237,
-      "featured": false,
-      "organization_name": "Databricks",
-      "winners_announced": false,
-      "submission_gallery_url": "https://databricks-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://databricks-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Attendees Registered through Data + AI Summit",
-      "managed_by_devpost_badge": false
-    },
-    {
       "id": 25009,
       "title": "DevSoc Starlight",
       "displayed_location": {
@@ -45,7 +11,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/388/817/datas/medium_square.png",
       "analytics_identifier": "DevSoc Starlight (25009)",
       "url": "https://devsoc-starlight.devpost.com/",
-      "time_left_to_submission": "28 days left",
+      "time_left_to_submission": "27 days left",
       "submission_period_dates": "Apr 25 - Jul 07, 2025",
       "themes": [
         {
@@ -66,7 +32,7 @@
         "cash": 8,
         "other": 2
       },
-      "registrations_count": 192,
+      "registrations_count": 197,
       "featured": false,
       "organization_name": "UNSW Software Development Society",
       "winners_announced": false,
@@ -74,40 +40,6 @@
       "start_a_submission_url": "https://devsoc-starlight.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 25446,
-      "title": "RH x Snap LiveAR Hack at AWE",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Long Beach Convention Center"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/463/634/datas/medium_square.png",
-      "analytics_identifier": "RH x Snap LiveAR Hack at AWE (25446)",
-      "url": "https://rh-x-snap-livear-hack-at-awe.devpost.com/",
-      "time_left_to_submission": "about 6 hours left",
-      "submission_period_dates": "Jun 06 - 09, 2025",
-      "themes": [
-        {
-          "id": 5,
-          "name": "AR/VR"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>9,000</span>",
-      "prizes_counts": {
-        "cash": 3,
-        "other": 0
-      },
-      "registrations_count": 33,
-      "featured": false,
-      "organization_name": "Reality Hack, Inc. and Snap AR",
-      "winners_announced": false,
-      "submission_gallery_url": "https://rh-x-snap-livear-hack-at-awe.devpost.com/project-gallery",
-      "start_a_submission_url": "https://rh-x-snap-livear-hack-at-awe.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Accepted Participants",
       "managed_by_devpost_badge": false
     },
     {
@@ -163,7 +95,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/364/783/datas/medium_square.png",
       "analytics_identifier": "VelociCode (24310)",
       "url": "https://hacksa-velocicode-2025.devpost.com/",
-      "time_left_to_submission": "18 days left",
+      "time_left_to_submission": "17 days left",
       "submission_period_dates": "Jun 01 - 28, 2025",
       "themes": [
         {
@@ -184,7 +116,7 @@
         "cash": 0,
         "other": 1
       },
-      "registrations_count": 22,
+      "registrations_count": 23,
       "featured": false,
       "organization_name": "ACM San Antonio",
       "winners_announced": false,
@@ -222,7 +154,7 @@
         "cash": 4,
         "other": 0
       },
-      "registrations_count": 263,
+      "registrations_count": 264,
       "featured": false,
       "organization_name": "NUS Computing Club",
       "winners_announced": false,
@@ -261,10 +193,10 @@
       ],
       "prize_amount": "$<span data-currency-value>26,500</span>",
       "prizes_counts": {
-        "cash": 1,
+        "cash": 9,
         "other": 0
       },
-      "registrations_count": 153,
+      "registrations_count": 154,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -306,7 +238,7 @@
         "cash": 1,
         "other": 1
       },
-      "registrations_count": 121,
+      "registrations_count": 123,
       "featured": false,
       "organization_name": "Code4Hope",
       "winners_announced": false,
@@ -340,7 +272,7 @@
         "cash": 3,
         "other": 0
       },
-      "registrations_count": 83,
+      "registrations_count": 87,
       "featured": false,
       "organization_name": "Bridge Labs",
       "winners_announced": false,
@@ -542,7 +474,7 @@
         "cash": 1,
         "other": 1
       },
-      "registrations_count": 22,
+      "registrations_count": 23,
       "featured": false,
       "organization_name": "Assembly",
       "winners_announced": false,
@@ -580,7 +512,7 @@
         "cash": 2,
         "other": 2
       },
-      "registrations_count": 21,
+      "registrations_count": 23,
       "featured": false,
       "organization_name": "HackAI Toronto",
       "winners_announced": false,
@@ -588,6 +520,48 @@
       "start_a_submission_url": "https://hackai-to.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Accepted applicants only. Apply via Typeform link.",
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 25316,
+      "title": "vsHacks 2025",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "University Hill Secondary School"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/438/299/datas/medium_square.png",
+      "analytics_identifier": "vsHacks 2025 (25316)",
+      "url": "https://vshacks-2025.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jul 12 - 13, 2025",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 0,
+        "other": 6
+      },
+      "registrations_count": 16,
+      "featured": false,
+      "organization_name": "vsHacks",
+      "winners_announced": false,
+      "submission_gallery_url": "https://vshacks-2025.devpost.com/project-gallery",
+      "start_a_submission_url": "https://vshacks-2025.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
     },
     {
@@ -619,8 +593,8 @@
       ],
       "prize_amount": "$CAD <span data-currency-value>1,500</span>",
       "prizes_counts": {
-        "cash": 2,
-        "other": 1
+        "cash": 1,
+        "other": 0
       },
       "registrations_count": 14,
       "featured": false,
@@ -670,48 +644,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://cheerpj-the-hackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://cheerpj-the-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 25316,
-      "title": "vsHacks 2025",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "University Hill Secondary School"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/438/299/datas/medium_square.png",
-      "analytics_identifier": "vsHacks 2025 (25316)",
-      "url": "https://vshacks-2025.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 25 - 26, 2025",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 0,
-        "other": 6
-      },
-      "registrations_count": 11,
-      "featured": false,
-      "organization_name": "vsHacks",
-      "winners_announced": false,
-      "submission_gallery_url": "https://vshacks-2025.devpost.com/project-gallery",
-      "start_a_submission_url": "https://vshacks-2025.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -816,12 +748,50 @@
         "cash": 0,
         "other": 1
       },
-      "registrations_count": 7,
+      "registrations_count": 9,
       "featured": false,
       "organization_name": "hackclub",
       "winners_announced": false,
       "submission_gallery_url": "https://silicon-valley-hacks.devpost.com/project-gallery",
       "start_a_submission_url": "https://silicon-valley-hacks.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 25464,
+      "title": "Los Angeles: LeRobot Global Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Yondu HQ"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/466/135/datas/medium_square.jpeg",
+      "analytics_identifier": "Los Angeles: LeRobot Global Hackathon (25464)",
+      "url": "https://la-lerobot-global-hackathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jun 14 - 15, 2025",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 27,
+          "name": "Robotic Process Automation"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 1,
+        "other": 0
+      },
+      "registrations_count": 6,
+      "featured": false,
+      "organization_name": "Yondu Inc.",
+      "winners_announced": false,
+      "submission_gallery_url": "https://la-lerobot-global-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://la-lerobot-global-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -864,6 +834,48 @@
       "winners_announced": false,
       "submission_gallery_url": "https://teenhacks-li-summer-2025.devpost.com/project-gallery",
       "start_a_submission_url": "https://teenhacks-li-summer-2025.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 25411,
+      "title": "Hack4Hope",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "TBD"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/468/714/datas/medium_square.png",
+      "analytics_identifier": "Hack4Hope (25411)",
+      "url": "https://hack4hope.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Aug 09, 2025",
+      "themes": [
+        {
+          "id": 16,
+          "name": "Health"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        },
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>100</span>",
+      "prizes_counts": {
+        "cash": 1,
+        "other": 0
+      },
+      "registrations_count": 5,
+      "featured": false,
+      "organization_name": "ACS CAN",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hack4hope.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hack4hope.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -1029,44 +1041,6 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 25464,
-      "title": "Los Angeles: LeRobot Global Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Yondu HQ"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/466/135/datas/medium_square.jpeg",
-      "analytics_identifier": "Los Angeles: LeRobot Global Hackathon (25464)",
-      "url": "https://la-lerobot-global-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 14 - 15, 2025",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 27,
-          "name": "Robotic Process Automation"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 0,
-        "other": 1
-      },
-      "registrations_count": 4,
-      "featured": false,
-      "organization_name": "Yondu Inc.",
-      "winners_announced": false,
-      "submission_gallery_url": "https://la-lerobot-global-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://la-lerobot-global-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
       "id": 25424,
       "title": "TUM Science Hackathon 2025",
       "displayed_location": {
@@ -1106,6 +1080,44 @@
       "start_a_submission_url": "https://tum-science-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": " any university and any discipline ",
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 25417,
+      "title": "ABIDJAN AI HACKATHON POWERED BY GOOGLE",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Turning AI's to reality for Africa"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/460/609/datas/medium_square.png",
+      "analytics_identifier": "ABIDJAN AI HACKATHON POWERED BY GOOGLE (25417)",
+      "url": "https://abihack.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jul 18 - 20, 2025",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>2,964</span>",
+      "prizes_counts": {
+        "cash": 3,
+        "other": 0
+      },
+      "registrations_count": 4,
+      "featured": false,
+      "organization_name": "AlphaYele -MerakyTech",
+      "winners_announced": false,
+      "submission_gallery_url": "https://abihack.devpost.com/project-gallery",
+      "start_a_submission_url": "https://abihack.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
     },
     {
@@ -1151,90 +1163,6 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 24276,
-      "title": "ChilangoHacks",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "H. Congreso de la Unión Ciudad de México"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/298/004/datas/medium_square.png",
-      "analytics_identifier": "ChilangoHacks (24276)",
-      "url": "https://chilangohacks.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Oct 31 - Nov 01, 2025",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "MEX$<span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 0,
-        "other": 1
-      },
-      "registrations_count": 4,
-      "featured": false,
-      "organization_name": "H. Congreso de la Unión",
-      "winners_announced": false,
-      "submission_gallery_url": "https://chilangohacks.devpost.com/project-gallery",
-      "start_a_submission_url": "https://chilangohacks.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 25411,
-      "title": "Hack4Hope",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "TBD"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/459/391/datas/medium_square.png",
-      "analytics_identifier": "Hack4Hope (25411)",
-      "url": "https://hack4hope.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Aug 09 - 10, 2025",
-      "themes": [
-        {
-          "id": 16,
-          "name": "Health"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        },
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>100</span>",
-      "prizes_counts": {
-        "cash": 1,
-        "other": 0
-      },
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "ACS CAN",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hack4hope.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hack4hope.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
       "id": 25410,
       "title": "No More Cyber Bullying!",
       "displayed_location": {
@@ -1274,6 +1202,48 @@
       "start_a_submission_url": "https://no-more-cyberbullying.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Anyone under 11(Put your parents age)",
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 24276,
+      "title": "ChilangoHacks",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "H. Congreso de la Unión Ciudad de México"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/298/004/datas/medium_square.png",
+      "analytics_identifier": "ChilangoHacks (24276)",
+      "url": "https://chilangohacks.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 31 - Nov 01, 2025",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "MEX$<span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 0,
+        "other": 1
+      },
+      "registrations_count": 3,
+      "featured": false,
+      "organization_name": "H. Congreso de la Unión",
+      "winners_announced": false,
+      "submission_gallery_url": "https://chilangohacks.devpost.com/project-gallery",
+      "start_a_submission_url": "https://chilangohacks.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
     },
     {
@@ -1322,7 +1292,7 @@
       "analytics_identifier": "Summer Hacks 2025 (25066)",
       "url": "https://summer-hacks-2025.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 16 - 17, 2025",
+      "submission_period_dates": "Jun 16, 2025",
       "themes": [
         {
           "id": 23,
@@ -1391,39 +1361,43 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 25417,
-      "title": "ABIDJAN AI HACKATHON POWERED BY GOOGLE",
+      "id": 25405,
+      "title": "MiniMax 2025 AI Hackathon in Hong Kong",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Turning AI's to reality for Africa"
+        "location": "Hồng Kông"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/460/609/datas/medium_square.png",
-      "analytics_identifier": "ABIDJAN AI HACKATHON POWERED BY GOOGLE (25417)",
-      "url": "https://abihack.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/466/682/datas/medium_square.jpeg",
+      "analytics_identifier": "MiniMax 2025 AI Hackathon in Hong Kong (25405)",
+      "url": "https://minimax-hackathon-in-hk.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jul 18 - 20, 2025",
+      "submission_period_dates": "Aug 28 - Sep 12, 2025",
       "themes": [
         {
           "id": 23,
           "name": "Beginner Friendly"
         },
         {
+          "id": 2,
+          "name": "DevOps"
+        },
+        {
           "id": 6,
           "name": "Machine Learning/AI"
         }
       ],
-      "prize_amount": "$<span data-currency-value>2,964</span>",
+      "prize_amount": "$<span data-currency-value>0</span>",
       "prizes_counts": {
-        "cash": 3,
-        "other": 0
+        "cash": 0,
+        "other": 1
       },
       "registrations_count": 2,
       "featured": false,
-      "organization_name": "AlphaYele -MerakyTech",
+      "organization_name": "MiniMax",
       "winners_announced": false,
-      "submission_gallery_url": "https://abihack.devpost.com/project-gallery",
-      "start_a_submission_url": "https://abihack.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://minimax-hackathon-in-hk.devpost.com/project-gallery",
+      "start_a_submission_url": "https://minimax-hackathon-in-hk.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -1537,8 +1511,8 @@
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
       "prizes_counts": {
-        "cash": 1,
-        "other": 0
+        "cash": 0,
+        "other": 1
       },
       "registrations_count": 1,
       "featured": false,
@@ -1551,16 +1525,16 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 25405,
-      "title": "MiniMax 2025 AI Hackathon in Hong Kong",
+      "id": 25416,
+      "title": "MiniMax 2025 AI 黑客松（香港站）",
       "displayed_location": {
         "icon": "map-marker-alt",
         "location": "Hồng Kông"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/466/682/datas/medium_square.jpeg",
-      "analytics_identifier": "MiniMax 2025 AI Hackathon in Hong Kong (25405)",
-      "url": "https://minimax-hackathon-in-hk.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/466/687/datas/medium_square.jpeg",
+      "analytics_identifier": "MiniMax 2025 AI 黑客松（香港站） (25416)",
+      "url": "https://minimax-hk-hackathon.devpost.com/",
       "time_left_to_submission": "Upcoming",
       "submission_period_dates": "Aug 28 - Sep 12, 2025",
       "themes": [
@@ -1586,15 +1560,53 @@
       "featured": false,
       "organization_name": "MiniMax",
       "winners_announced": false,
-      "submission_gallery_url": "https://minimax-hackathon-in-hk.devpost.com/project-gallery",
-      "start_a_submission_url": "https://minimax-hackathon-in-hk.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://minimax-hk-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://minimax-hk-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 25402,
+      "title": "hackPHS",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Princeton High School"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/458/395/datas/medium_square.png",
+      "analytics_identifier": "hackPHS (25402)",
+      "url": "https://hackphs2025.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Nov 01 - 02, 2025",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>500</span>",
+      "prizes_counts": {
+        "cash": 1,
+        "other": 0
+      },
+      "registrations_count": 1,
+      "featured": false,
+      "organization_name": "Princeton High School",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackphs2025.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackphs2025.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
     }
   ],
   "meta": {
-    "total_count": 43,
+    "total_count": 41,
     "per_page": 40,
     "fuzzy": false
   }
