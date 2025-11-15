@@ -11,7 +11,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/106/417/datas/medium_square.jpg",
       "analytics_identifier": "natHACKS 2024 (21730)",
       "url": "https://nathacks-2024.devpost.com/",
-      "time_left_to_submission": "3 days left",
+      "time_left_to_submission": "2 days left",
       "submission_period_dates": "Nov 14, 2024 - Nov 17, 2025",
       "themes": [
         {
@@ -32,7 +32,7 @@
         "cash": 1,
         "other": 0
       },
-      "registrations_count": 583,
+      "registrations_count": 587,
       "featured": false,
       "organization_name": "NeurAlbertaTech",
       "winners_announced": true,
@@ -43,18 +43,60 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 27247,
-      "title": "BoothHacks",
+      "id": 26889,
+      "title": "NeuroHack Fall 2025",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Gleacher Center"
+        "location": "English Building UIUC "
       },
       "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/982/533/datas/medium_square.png",
-      "analytics_identifier": "BoothHacks (27247)",
-      "url": "https://boothhacks.devpost.com/",
-      "time_left_to_submission": "28 minutes left",
-      "submission_period_dates": "Nov 12 - 14, 2025",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/828/038/datas/medium_square.png",
+      "analytics_identifier": "NeuroHack Fall 2025 (26889)",
+      "url": "https://neurohack-fall-2025.devpost.com/",
+      "time_left_to_submission": "about 24 hours left",
+      "submission_period_dates": "Nov 15 - 16, 2025",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 16,
+          "name": "Health"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 1,
+        "other": 0
+      },
+      "registrations_count": 89,
+      "featured": true,
+      "organization_name": "NeuroTech@UIUC",
+      "winners_announced": false,
+      "submission_gallery_url": "https://neurohack-fall-2025.devpost.com/project-gallery",
+      "start_a_submission_url": "https://neurohack-fall-2025.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 27443,
+      "title": "BDAA x Lovable Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Pomerene Hall"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/974/947/datas/medium_square.png",
+      "analytics_identifier": "BDAA x Lovable Hackathon (27443)",
+      "url": "https://bdaa-x-lovable-hackathon.devpost.com/",
+      "time_left_to_submission": "about 2 hours left",
+      "submission_period_dates": "Nov 15, 2025",
       "themes": [
         {
           "id": 23,
@@ -69,19 +111,61 @@
           "name": "Machine Learning/AI"
         }
       ],
-      "prize_amount": "$<span data-currency-value>3,530</span>",
+      "prize_amount": "$<span data-currency-value>6,300</span>",
       "prizes_counts": {
-        "cash": 4,
-        "other": 4
+        "cash": 1,
+        "other": 0
       },
-      "registrations_count": 136,
+      "registrations_count": 158,
       "featured": false,
-      "organization_name": "university of chicago",
+      "organization_name": "BDAA",
       "winners_announced": false,
-      "submission_gallery_url": "https://boothhacks.devpost.com/project-gallery",
-      "start_a_submission_url": "https://boothhacks.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Booth MBA Students (FT, E/W, MiM, MiF) ",
+      "submission_gallery_url": "https://bdaa-x-lovable-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://bdaa-x-lovable-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 27506,
+      "title": "Immerse The Bay 2025",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Huang Building"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/983/747/datas/medium_square.png",
+      "analytics_identifier": "Immerse The Bay 2025 (27506)",
+      "url": "https://immerse-the-bay-xr-2025.devpost.com/",
+      "time_left_to_submission": "1 day left",
+      "submission_period_dates": "Nov 14 - 16, 2025",
+      "themes": [
+        {
+          "id": 5,
+          "name": "AR/VR"
+        },
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 0,
+        "other": 1
+      },
+      "registrations_count": 141,
+      "featured": false,
+      "organization_name": "Stanford XR",
+      "winners_announced": false,
+      "submission_gallery_url": "https://immerse-the-bay-xr-2025.devpost.com/project-gallery",
+      "start_a_submission_url": "https://immerse-the-bay-xr-2025.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
     },
     {
@@ -95,7 +179,7 @@
       "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
       "analytics_identifier": "CheerpJ: The Hackathon (24977)",
       "url": "https://cheerpj-the-hackathon.devpost.com/",
-      "time_left_to_submission": "17 days left",
+      "time_left_to_submission": "16 days left",
       "submission_period_dates": "Sep 01 - Dec 01, 2025",
       "themes": [
         {
@@ -113,8 +197,8 @@
       ],
       "prize_amount": "£<span data-currency-value>0</span>",
       "prizes_counts": {
-        "cash": 0,
-        "other": 1
+        "cash": 1,
+        "other": 0
       },
       "registrations_count": 124,
       "featured": false,
@@ -137,7 +221,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/868/403/datas/medium_square.png",
       "analytics_identifier": "GridDB Cloud IoT Hackathon (26217)",
       "url": "https://griddb-iot-hackathon.devpost.com/",
-      "time_left_to_submission": "30 days left",
+      "time_left_to_submission": "29 days left",
       "submission_period_dates": "Oct 20 - Dec 14, 2025",
       "themes": [
         {
@@ -155,10 +239,10 @@
       ],
       "prize_amount": "$<span data-currency-value>5,000</span>",
       "prizes_counts": {
-        "cash": 5,
+        "cash": 1,
         "other": 0
       },
-      "registrations_count": 105,
+      "registrations_count": 106,
       "featured": false,
       "organization_name": "Toshiba India",
       "winners_announced": false,
@@ -179,7 +263,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/915/636/datas/medium_square.png",
       "analytics_identifier": "Ingeniería sin limites (26827)",
       "url": "https://fit-x-one-card.devpost.com/",
-      "time_left_to_submission": "18 days left",
+      "time_left_to_submission": "17 days left",
       "submission_period_dates": "Nov 13 - Dec 02, 2025",
       "themes": [
         {
@@ -197,8 +281,8 @@
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
       "prizes_counts": {
-        "cash": 1,
-        "other": 0
+        "cash": 0,
+        "other": 1
       },
       "registrations_count": 103,
       "featured": false,
@@ -211,45 +295,45 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 25608,
-      "title": "HACK:XR+AI 2025",
+      "id": 27248,
+      "title": "Emory Hacks 2025 Fall",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "TUM Think Tank"
+        "location": "Emory Univ. - Goizueta Business School"
       },
       "open_state": "open",
-      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
-      "analytics_identifier": "HACK:XR+AI 2025 (25608)",
-      "url": "https://hack-xr-ai-2025.devpost.com/",
-      "time_left_to_submission": "about 14 hours left",
-      "submission_period_dates": "Nov 13 - 15, 2025",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/941/596/datas/medium_square.png",
+      "analytics_identifier": "Emory Hacks 2025 Fall (27248)",
+      "url": "https://emory-hacks-2025-fall.devpost.com/",
+      "time_left_to_submission": "about 20 hours left",
+      "submission_period_dates": "Nov 14 - 16, 2025",
       "themes": [
         {
-          "id": 5,
-          "name": "AR/VR"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
+          "id": 23,
+          "name": "Beginner Friendly"
         },
         {
           "id": 13,
           "name": "Social Good"
+        },
+        {
+          "id": 19,
+          "name": "Education"
         }
       ],
-      "prize_amount": "€<span data-currency-value>2,500</span>",
+      "prize_amount": "$<span data-currency-value>0</span>",
       "prizes_counts": {
-        "cash": 4,
-        "other": 0
+        "cash": 0,
+        "other": 9
       },
-      "registrations_count": 102,
+      "registrations_count": 101,
       "featured": false,
-      "organization_name": "Technical University of Munich",
+      "organization_name": "PROJECT Emory",
       "winners_announced": false,
-      "submission_gallery_url": "https://hack-xr-ai-2025.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hack-xr-ai-2025.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
+      "submission_gallery_url": "https://emory-hacks-2025-fall.devpost.com/project-gallery",
+      "start_a_submission_url": "https://emory-hacks-2025-fall.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Only those that are accepted after registration.",
       "managed_by_devpost_badge": false
     },
     {
@@ -263,7 +347,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/927/631/datas/medium_square.png",
       "analytics_identifier": "Silicon Valley Tech For Good Basecamp 2025 (27272)",
       "url": "https://tech4good-2025.devpost.com/",
-      "time_left_to_submission": "1 day left",
+      "time_left_to_submission": "about 5 hours left",
       "submission_period_dates": "Nov 01 - 15, 2025",
       "themes": [
         {
@@ -280,7 +364,7 @@
         "cash": 0,
         "other": 1
       },
-      "registrations_count": 85,
+      "registrations_count": 86,
       "featured": false,
       "organization_name": "Leaders for Impact",
       "winners_announced": false,
@@ -322,7 +406,7 @@
         "cash": 0,
         "other": 1
       },
-      "registrations_count": 85,
+      "registrations_count": 86,
       "featured": false,
       "organization_name": "university of pennsylvania",
       "winners_announced": false,
@@ -343,7 +427,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/827/866/datas/medium_square.png",
       "analytics_identifier": "Hack The Border 4.0 (26656)",
       "url": "https://hack-the-border-4.devpost.com/",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "1 day left",
       "submission_period_dates": "Nov 10 - 16, 2025",
       "themes": [
         {
@@ -364,12 +448,46 @@
         "cash": 0,
         "other": 3
       },
-      "registrations_count": 71,
+      "registrations_count": 74,
       "featured": false,
       "organization_name": "El Paso Community College",
       "winners_announced": false,
       "submission_gallery_url": "https://hack-the-border-4.devpost.com/project-gallery",
       "start_a_submission_url": "https://hack-the-border-4.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 24576,
+      "title": "HackRPI 2025",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Darrin Communications Center"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/801/226/datas/medium_square.png",
+      "analytics_identifier": "HackRPI 2025 (24576)",
+      "url": "https://hackrpi-2025.devpost.com/",
+      "time_left_to_submission": "about 22 hours left",
+      "submission_period_dates": "Nov 15 - 16, 2025",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>3,200</span>",
+      "prizes_counts": {
+        "cash": 6,
+        "other": 13
+      },
+      "registrations_count": 70,
+      "featured": false,
+      "organization_name": "HackRPI",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackrpi-2025.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackrpi-2025.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -404,6 +522,48 @@
       "winners_announced": false,
       "submission_gallery_url": "https://ese1110f25.devpost.com/project-gallery",
       "start_a_submission_url": "https://ese1110f25.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 26554,
+      "title": "Sierra Hacks",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Sierra High School"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/750/099/datas/medium_square.png",
+      "analytics_identifier": "Sierra Hacks (26554)",
+      "url": "https://sierra-hacks.devpost.com/",
+      "time_left_to_submission": "about 10 hours left",
+      "submission_period_dates": "Nov 15, 2025",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 26,
+          "name": "Mobile"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1,915</span>",
+      "prizes_counts": {
+        "cash": 1,
+        "other": 0
+      },
+      "registrations_count": 64,
+      "featured": false,
+      "organization_name": "CodeCatalyst",
+      "winners_announced": false,
+      "submission_gallery_url": "https://sierra-hacks.devpost.com/project-gallery",
+      "start_a_submission_url": "https://sierra-hacks.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -447,595 +607,17 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 26850,
-      "title": "London Music Technology Hackathon",
+      "id": 27374,
+      "title": "First Year Hack 2025/26",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Centre for Digital Music, QMUL"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/811/454/datas/medium_square.jpg",
-      "analytics_identifier": "London Music Technology Hackathon (26850)",
-      "url": "https://music-techn-hackathon-nov-2025.devpost.com/",
-      "time_left_to_submission": "16 days left",
-      "submission_period_dates": "Oct 03 - Nov 30, 2025",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 15,
-          "name": "Music/Art"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 0,
-        "other": 1
-      },
-      "registrations_count": 26,
-      "featured": false,
-      "organization_name": "Music Hackspace",
-      "winners_announced": false,
-      "submission_gallery_url": "https://music-techn-hackathon-nov-2025.devpost.com/project-gallery",
-      "start_a_submission_url": "https://music-techn-hackathon-nov-2025.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Registered participants",
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 27295,
-      "title": "WQCC x IBM Qiskit Fall Fest Hackathon 2025",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Madison, WI, USA"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/933/570/datas/medium_square.png",
-      "analytics_identifier": "WQCC x IBM Qiskit Fall Fest Hackathon 2025 (27295)",
-      "url": "https://wqcc-qiskit-fall-fest-2025.devpost.com/",
-      "time_left_to_submission": "4 days left",
-      "submission_period_dates": "Nov 09 - 18, 2025",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 24,
-          "name": "Quantum"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 0,
-        "other": 4
-      },
-      "registrations_count": 24,
-      "featured": false,
-      "organization_name": "Wisconsin Quantum Computing Club",
-      "winners_announced": false,
-      "submission_gallery_url": "https://wqcc-qiskit-fall-fest-2025.devpost.com/project-gallery",
-      "start_a_submission_url": "https://wqcc-qiskit-fall-fest-2025.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "UW-Madison Affiliated Only",
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 25775,
-      "title": "STEM Energy Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": ""
+        "location": "Bush House, Strand Campus, KCL"
       },
       "open_state": "open",
       "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
-      "analytics_identifier": "STEM Energy Hackathon (25775)",
-      "url": "https://stem-energy-hackathon.devpost.com/",
-      "time_left_to_submission": "about 6 hours left",
-      "submission_period_dates": "Nov 14, 2025",
-      "themes": [
-        {
-          "id": 19,
-          "name": "Education"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>60,000</span>",
-      "prizes_counts": {
-        "cash": 3,
-        "other": 1
-      },
-      "registrations_count": 23,
-      "featured": false,
-      "organization_name": "Young Scholars Education Limited",
-      "winners_announced": false,
-      "submission_gallery_url": "https://stem-energy-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://stem-energy-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 27203,
-      "title": "Innovation Challenge 2026",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Patiala, Punjab"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/953/790/datas/medium_square.png",
-      "analytics_identifier": "Innovation Challenge 2026 (27203)",
-      "url": "https://innovation-challenge-2026.devpost.com/",
-      "time_left_to_submission": "16 days left",
-      "submission_period_dates": "Nov 09 - 30, 2025",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "₹ <span data-currency-value>175,000</span>",
-      "prizes_counts": {
-        "cash": 3,
-        "other": 0
-      },
-      "registrations_count": 22,
-      "featured": false,
-      "organization_name": "Thapar University",
-      "winners_announced": false,
-      "submission_gallery_url": "https://innovation-challenge-2026.devpost.com/project-gallery",
-      "start_a_submission_url": "https://innovation-challenge-2026.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 26683,
-      "title": "Hackathon Management Durable HEG-Genève 2025",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "HEG-Genève"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/773/681/datas/medium_square.png",
-      "analytics_identifier": "Hackathon Management Durable HEG-Genève 2025 (26683)",
-      "url": "https://heg-hack25.devpost.com/",
-      "time_left_to_submission": "8 days left",
-      "submission_period_dates": "Oct 01 - Nov 22, 2025",
-      "themes": [
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "€<span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 0,
-        "other": 1
-      },
-      "registrations_count": 16,
-      "featured": false,
-      "organization_name": "Haute école de gestion de Genève",
-      "winners_announced": false,
-      "submission_gallery_url": "https://heg-hack25.devpost.com/project-gallery",
-      "start_a_submission_url": "https://heg-hack25.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Registrations opening soon",
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 27420,
-      "title": "Pure Power Now hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "BPT spaces in Tržič"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/968/324/datas/medium_square.png",
-      "analytics_identifier": "Pure Power Now hackathon (27420)",
-      "url": "https://pure-power-now-hackathon.devpost.com/",
-      "time_left_to_submission": "about 3 hours left",
-      "submission_period_dates": "Nov 10 - 14, 2025",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 21,
-          "name": "Enterprise"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
-        }
-      ],
-      "prize_amount": "€<span data-currency-value>3,000</span>",
-      "prizes_counts": {
-        "cash": 1,
-        "other": 0
-      },
-      "registrations_count": 13,
-      "featured": false,
-      "organization_name": "BPT d.o.o.",
-      "winners_announced": false,
-      "submission_gallery_url": "https://pure-power-now-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://pure-power-now-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 27433,
-      "title": "Kodikos 2.0",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Sidi Bel Abbès, Algeria"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/974/106/datas/medium_square.png",
-      "analytics_identifier": "Kodikos 2.0 (27433)",
-      "url": "https://kodikos.devpost.com/",
-      "time_left_to_submission": "about 14 hours left",
-      "submission_period_dates": "Nov 13 - 15, 2025",
-      "themes": [
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 0,
-        "other": 1
-      },
-      "registrations_count": 5,
-      "featured": false,
-      "organization_name": "Ingeniums Club",
-      "winners_announced": false,
-      "submission_gallery_url": "https://kodikos.devpost.com/project-gallery",
-      "start_a_submission_url": "https://kodikos.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Accepted Participants",
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 27246,
-      "title": "HackFox",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Sala Amarillas "
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/943/594/datas/medium_square.png",
-      "analytics_identifier": "HackFox (27246)",
-      "url": "https://mini-hackfox.devpost.com/",
-      "time_left_to_submission": "about 10 hours left",
-      "submission_period_dates": "Nov 14, 2025",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        },
-        {
-          "id": 28,
-          "name": "Databases"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 0,
-        "other": 4
-      },
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "CETYS",
-      "winners_announced": false,
-      "submission_gallery_url": "https://mini-hackfox.devpost.com/project-gallery",
-      "start_a_submission_url": "https://mini-hackfox.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "CETYS Students",
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 27398,
-      "title": "Hack the Habitat – Reimagining Spaces with AR/VR",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Bengaluru, India"
-      },
-      "open_state": "open",
-      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
-      "analytics_identifier": "Hack the Habitat – Reimagining Spaces with AR/VR (27398)",
-      "url": "https://reimagining-spaces-with-ar-vr.devpost.com/",
-      "time_left_to_submission": "2 days left",
-      "submission_period_dates": "Nov 08 - 16, 2025",
-      "themes": [
-        {
-          "id": 5,
-          "name": "AR/VR"
-        }
-      ],
-      "prize_amount": "₹ <span data-currency-value>4,998</span>",
-      "prizes_counts": {
-        "cash": 1,
-        "other": 0
-      },
-      "registrations_count": 3,
-      "featured": false,
-      "organization_name": "Proptelligence",
-      "winners_announced": false,
-      "submission_gallery_url": "https://reimagining-spaces-with-ar-vr.devpost.com/project-gallery",
-      "start_a_submission_url": "https://reimagining-spaces-with-ar-vr.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 26889,
-      "title": "NeuroHack Fall 2025",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "English Building UIUC "
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/828/038/datas/medium_square.png",
-      "analytics_identifier": "NeuroHack Fall 2025 (26889)",
-      "url": "https://neurohack-fall-2025.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 15 - 16, 2025",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 16,
-          "name": "Health"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 1,
-        "other": 0
-      },
-      "registrations_count": 68,
-      "featured": true,
-      "organization_name": "NeuroTech@UIUC",
-      "winners_announced": false,
-      "submission_gallery_url": "https://neurohack-fall-2025.devpost.com/project-gallery",
-      "start_a_submission_url": "https://neurohack-fall-2025.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 26108,
-      "title": "HackCamp 2025",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "University Endowment Lands, Canada"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/825/619/datas/medium_square.png",
-      "analytics_identifier": "HackCamp 2025 (26108)",
-      "url": "https://hackcamp-2025.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 15 - 16, 2025",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>300</span>",
-      "prizes_counts": {
-        "cash": 1,
-        "other": 0
-      },
-      "registrations_count": 118,
-      "featured": false,
-      "organization_name": "nwPlus",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackcamp-2025.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackcamp-2025.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 23743,
-      "title": "Hoya Hacks 2026",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Healey Family Student Center"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/398/924/datas/medium_square.jpeg",
-      "analytics_identifier": "Hoya Hacks 2026 (23743)",
-      "url": "https://hoya-hacks-2026.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jan 23 - 25, 2026",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>4,500</span>",
-      "prizes_counts": {
-        "cash": 1,
-        "other": 0
-      },
-      "registrations_count": 90,
-      "featured": false,
-      "organization_name": "Hoya Hacks",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hoya-hacks-2026.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hoya-hacks-2026.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 23734,
-      "title": "ImpactHack 2025 POSTPONED/CANCELLED",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Glasgow"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/231/469/datas/medium_square.png",
-      "analytics_identifier": "ImpactHack 2025 POSTPONED/CANCELLED (23734)",
-      "url": "https://impacthack-2025.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 22 - 23, 2025",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "£<span data-currency-value>500</span>",
-      "prizes_counts": {
-        "cash": 3,
-        "other": 0
-      },
-      "registrations_count": 82,
-      "featured": false,
-      "organization_name": "university of strathclyde",
-      "winners_announced": false,
-      "submission_gallery_url": "https://impacthack-2025.devpost.com/project-gallery",
-      "start_a_submission_url": "https://impacthack-2025.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 25955,
-      "title": "HackSussex GameJam 2025",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Chichester 1"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/935/424/datas/medium_square.png",
-      "analytics_identifier": "HackSussex GameJam 2025 (25955)",
-      "url": "https://hacksussex-gamejam-2025.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Dec 06 - 07, 2025",
-      "themes": [
-        {
-          "id": 4,
-          "name": "Gaming"
-        }
-      ],
-      "prize_amount": "£<span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 0,
-        "other": 1
-      },
-      "registrations_count": 75,
-      "featured": false,
-      "organization_name": "HackSussex",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hacksussex-gamejam-2025.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hacksussex-gamejam-2025.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 26410,
-      "title": "FitchGroup Codeathon '25 - Drive Sustainability using AI - Chicago (Hybrid)",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "UBS Tower (Floor 23)"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
-      "analytics_identifier": "FitchGroup Codeathon '25 - Drive Sustainability using AI - Chicago (Hybrid) (26410)",
-      "url": "https://drive-sustainability-using-ai.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 21 - 24, 2025",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 0,
-        "other": 2
-      },
-      "registrations_count": 69,
-      "featured": false,
-      "organization_name": "FitchGroup",
-      "winners_announced": false,
-      "submission_gallery_url": "https://drive-sustainability-using-ai.devpost.com/project-gallery",
-      "start_a_submission_url": "https://drive-sustainability-using-ai.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "UIC & UIUC Students only",
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 27443,
-      "title": "BDAA x Lovable Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Pomerene Hall"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/974/947/datas/medium_square.png",
-      "analytics_identifier": "BDAA x Lovable Hackathon (27443)",
-      "url": "https://bdaa-x-lovable-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
+      "analytics_identifier": "First Year Hack 2025/26 (27374)",
+      "url": "https://firstyearhack-2025-2026.devpost.com/",
+      "time_left_to_submission": "32 minutes left",
       "submission_period_dates": "Nov 15, 2025",
       "themes": [
         {
@@ -1043,61 +625,27 @@
           "name": "Beginner Friendly"
         },
         {
-          "id": 17,
-          "name": "Low/No Code"
+          "id": 10,
+          "name": "Communication"
         },
         {
-          "id": 6,
-          "name": "Machine Learning/AI"
+          "id": 2,
+          "name": "DevOps"
         }
       ],
-      "prize_amount": "$<span data-currency-value>6,300</span>",
-      "prizes_counts": {
-        "cash": 2,
-        "other": 0
-      },
-      "registrations_count": 56,
-      "featured": false,
-      "organization_name": "BDAA",
-      "winners_announced": false,
-      "submission_gallery_url": "https://bdaa-x-lovable-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://bdaa-x-lovable-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 26563,
-      "title": "FitchGroup Codeathon '25 - Drive Sustainability using AI - New York (Hybrid)",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Fitch Ratings Inc"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
-      "analytics_identifier": "FitchGroup Codeathon '25 - Drive Sustainability using AI - New York (Hybrid) (26563)",
-      "url": "https://fitchgroup-codeathon-25-ny.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 21 - 23, 2025",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
+      "prize_amount": "£<span data-currency-value>0</span>",
       "prizes_counts": {
         "cash": 0,
-        "other": 2
+        "other": 1
       },
-      "registrations_count": 56,
+      "registrations_count": 51,
       "featured": false,
-      "organization_name": "FitchGroup",
+      "organization_name": "KCL Tech",
       "winners_announced": false,
-      "submission_gallery_url": "https://fitchgroup-codeathon-25-ny.devpost.com/project-gallery",
-      "start_a_submission_url": "https://fitchgroup-codeathon-25-ny.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "See eligibility criteria under Rules",
+      "submission_gallery_url": "https://firstyearhack-2025-2026.devpost.com/project-gallery",
+      "start_a_submission_url": "https://firstyearhack-2025-2026.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
     },
     {
@@ -1107,11 +655,11 @@
         "icon": "map-marker-alt",
         "location": "Neville 001/003"
       },
-      "open_state": "upcoming",
+      "open_state": "open",
       "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
       "analytics_identifier": "Lehigh AI Club Vibecoding Hackathon (27196)",
       "url": "https://lehigh-ai-vibecoding-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
+      "time_left_to_submission": "about 22 hours left",
       "submission_period_dates": "Nov 15 - 16, 2025",
       "themes": [
         {
@@ -1143,379 +691,17 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 26554,
-      "title": "Sierra Hacks",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Sierra High School"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/750/099/datas/medium_square.png",
-      "analytics_identifier": "Sierra Hacks (26554)",
-      "url": "https://sierra-hacks.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 15, 2025",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 26,
-          "name": "Mobile"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>1,915</span>",
-      "prizes_counts": {
-        "cash": 7,
-        "other": 0
-      },
-      "registrations_count": 47,
-      "featured": false,
-      "organization_name": "CodeCatalyst",
-      "winners_announced": false,
-      "submission_gallery_url": "https://sierra-hacks.devpost.com/project-gallery",
-      "start_a_submission_url": "https://sierra-hacks.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 26726,
-      "title": "Good Vibes Hackathon",
-      "displayed_location": {
-        "icon": "globe",
-        "location": "Online"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/892/034/datas/medium_square.png",
-      "analytics_identifier": "Good Vibes Hackathon (26726)",
-      "url": "https://goodvibeshackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 25 - 29, 2025",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 17,
-          "name": "Low/No Code"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>400</span>",
-      "prizes_counts": {
-        "cash": 3,
-        "other": 1
-      },
-      "registrations_count": 39,
-      "featured": false,
-      "organization_name": "GVH Team",
-      "winners_announced": false,
-      "submission_gallery_url": "https://goodvibeshackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://goodvibeshackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 27031,
-      "title": "Swan Hacks 2025",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Coover Hall Iowa State University"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/872/511/datas/medium_square.png",
-      "analytics_identifier": "Swan Hacks 2025 (27031)",
-      "url": "https://swan-hacks-2025.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 15 - 16, 2025",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>6,000</span>",
-      "prizes_counts": {
-        "cash": 3,
-        "other": 0
-      },
-      "registrations_count": 37,
-      "featured": false,
-      "organization_name": "Iowa State Hackathon Club ",
-      "winners_announced": false,
-      "submission_gallery_url": "https://swan-hacks-2025.devpost.com/project-gallery",
-      "start_a_submission_url": "https://swan-hacks-2025.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 26837,
-      "title": "GDE MIT - Minds & Machines Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Gábor Dénes Egyetem"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/811/202/datas/medium_square.png",
-      "analytics_identifier": "GDE MIT - Minds & Machines Hackathon (26837)",
-      "url": "https://gde-mit-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Feb 27 - 28, 2026",
-      "themes": [
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 16,
-          "name": "Health"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "€<span data-currency-value>13,000</span>",
-      "prizes_counts": {
-        "cash": 4,
-        "other": 0
-      },
-      "registrations_count": 30,
-      "featured": false,
-      "organization_name": "CraftHub",
-      "winners_announced": false,
-      "submission_gallery_url": "https://gde-mit-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://gde-mit-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 27016,
-      "title": "East Bay Hackers' Winter Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Samba HQ"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/856/257/datas/medium_square.png",
-      "analytics_identifier": "East Bay Hackers' Winter Hackathon (27016)",
-      "url": "https://east-bay-hacker-winter.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Dec 06, 2025",
-      "themes": [
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>5,438</span>",
-      "prizes_counts": {
-        "cash": 3,
-        "other": 0
-      },
-      "registrations_count": 25,
-      "featured": false,
-      "organization_name": "SambaTV",
-      "winners_announced": false,
-      "submission_gallery_url": "https://east-bay-hacker-winter.devpost.com/project-gallery",
-      "start_a_submission_url": "https://east-bay-hacker-winter.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 27394,
-      "title": "Scoop AI Hackathon Silicon Valley Bowl",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Santa Clara, CA, USA"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/946/049/datas/medium_square.png",
-      "analytics_identifier": "Scoop AI Hackathon Silicon Valley Bowl (27394)",
-      "url": "https://scoop-ai-hackathon-beta.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 22 - 23, 2025",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        },
-        {
-          "id": 3,
-          "name": "Fintech"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>50,000</span>",
-      "prizes_counts": {
-        "cash": 5,
-        "other": 0
-      },
-      "registrations_count": 23,
-      "featured": false,
-      "organization_name": "Berkeley Emerging Technology Association",
-      "winners_announced": false,
-      "submission_gallery_url": "https://scoop-ai-hackathon-beta.devpost.com/project-gallery",
-      "start_a_submission_url": "https://scoop-ai-hackathon-beta.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 27050,
-      "title": "DeveloperWeek 2026 Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "San Jose Convention Center + Online"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/969/217/datas/medium_square.jpg",
-      "analytics_identifier": "DeveloperWeek 2026 Hackathon (27050)",
-      "url": "https://developerweek-2026-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Feb 03 - 20, 2026",
-      "themes": [
-        {
-          "id": 2,
-          "name": "DevOps"
-        },
-        {
-          "id": 21,
-          "name": "Enterprise"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 0,
-        "other": 1
-      },
-      "registrations_count": 23,
-      "featured": false,
-      "organization_name": "DevNetwork",
-      "winners_announced": false,
-      "submission_gallery_url": "https://developerweek-2026-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://developerweek-2026-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 24576,
-      "title": "HackRPI 2025",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Darrin Communications Center"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/801/226/datas/medium_square.png",
-      "analytics_identifier": "HackRPI 2025 (24576)",
-      "url": "https://hackrpi-2025.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 15 - 16, 2025",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>3,200</span>",
-      "prizes_counts": {
-        "cash": 6,
-        "other": 13
-      },
-      "registrations_count": 22,
-      "featured": false,
-      "organization_name": "HackRPI",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackrpi-2025.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackrpi-2025.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 25450,
-      "title": "nwHacks 2026",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "UBC LSI Life Sciences Institute"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
-      "analytics_identifier": "nwHacks 2026 (25450)",
-      "url": "https://nwhacks-2026.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jan 17 - 18, 2026",
-      "themes": [
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$CAD <span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 0,
-        "other": 1
-      },
-      "registrations_count": 22,
-      "featured": false,
-      "organization_name": "nwPlus",
-      "winners_announced": false,
-      "submission_gallery_url": "https://nwhacks-2026.devpost.com/project-gallery",
-      "start_a_submission_url": "https://nwhacks-2026.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
       "id": 26713,
       "title": "AI For Good",
       "displayed_location": {
         "icon": "map-marker-alt",
         "location": "Atlanta, GA, USA"
       },
-      "open_state": "upcoming",
+      "open_state": "open",
       "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
       "analytics_identifier": "AI For Good (26713)",
       "url": "https://ai4good2025.devpost.com/",
-      "time_left_to_submission": "Upcoming",
+      "time_left_to_submission": "about 3 hours left",
       "submission_period_dates": "Nov 14 - 15, 2025",
       "themes": [
         {
@@ -1533,10 +719,10 @@
       ],
       "prize_amount": "$<span data-currency-value>850</span>",
       "prizes_counts": {
-        "cash": 3,
+        "cash": 1,
         "other": 0
       },
-      "registrations_count": 20,
+      "registrations_count": 45,
       "featured": false,
       "organization_name": "Travelers Insurance Company",
       "winners_announced": false,
@@ -1547,50 +733,896 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 26315,
-      "title": "Student Vibecoding Hackathon by ISM University [in-person]",
+      "id": 27364,
+      "title": "Claude Builders Club Hackathon",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "ISM"
+        "location": "eHub Collegetown"
       },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/938/583/datas/medium_square.png",
-      "analytics_identifier": "Student Vibecoding Hackathon by ISM University [in-person] (26315)",
-      "url": "https://vibecodinghack.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 24 - 27, 2025",
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/939/918/datas/medium_square.jpeg",
+      "analytics_identifier": "Claude Builders Club Hackathon (27364)",
+      "url": "https://claude-builders-club-hackathon.devpost.com/",
+      "time_left_to_submission": "about 6 hours left",
+      "submission_period_dates": "Nov 15, 2025",
       "themes": [
         {
           "id": 23,
           "name": "Beginner Friendly"
         },
         {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>300</span>",
+      "prizes_counts": {
+        "cash": 2,
+        "other": 3
+      },
+      "registrations_count": 45,
+      "featured": false,
+      "organization_name": "Claude Builder Club",
+      "winners_announced": false,
+      "submission_gallery_url": "https://claude-builders-club-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://claude-builders-club-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 27484,
+      "title": "Shazam for Drones Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Shazam for Drones"
+      },
+      "open_state": "open",
+      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+      "analytics_identifier": "Shazam for Drones Hackathon (27484)",
+      "url": "https://shazam-drone.devpost.com/",
+      "time_left_to_submission": "about 4 hours left",
+      "submission_period_dates": "Nov 15, 2025",
+      "themes": [
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$CAD <span data-currency-value>20,000</span>",
+      "prizes_counts": {
+        "cash": 4,
+        "other": 0
+      },
+      "registrations_count": 40,
+      "featured": false,
+      "organization_name": "Invest Ottawa",
+      "winners_announced": false,
+      "submission_gallery_url": "https://shazam-drone.devpost.com/project-gallery",
+      "start_a_submission_url": "https://shazam-drone.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Preselected applicants",
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 26241,
+      "title": "Cutie Hack 2025",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": " UC Riverside - Winston Chung Hall"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/901/529/datas/medium_square.png",
+      "analytics_identifier": "Cutie Hack 2025 (26241)",
+      "url": "https://cutie-hack-2025.devpost.com/",
+      "time_left_to_submission": "about 11 hours left",
+      "submission_period_dates": "Nov 15, 2025",
+      "themes": [
+        {
+          "id": 13,
+          "name": "Social Good"
+        },
+        {
           "id": 25,
           "name": "Web"
         },
         {
-          "id": 17,
-          "name": "Low/No Code"
+          "id": 23,
+          "name": "Beginner Friendly"
         }
       ],
-      "prize_amount": "€<span data-currency-value>3,000</span>",
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 0,
+        "other": 8
+      },
+      "registrations_count": 40,
+      "featured": false,
+      "organization_name": "ACM at UCR",
+      "winners_announced": false,
+      "submission_gallery_url": "https://cutie-hack-2025.devpost.com/project-gallery",
+      "start_a_submission_url": "https://cutie-hack-2025.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 27444,
+      "title": "HackNYU Fall 2025",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "New York University - Tandon Gym"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/979/427/datas/medium_square.png",
+      "analytics_identifier": "HackNYU Fall 2025 (27444)",
+      "url": "https://hacknyu-fall-2025.devpost.com/",
+      "time_left_to_submission": "1 day left",
+      "submission_period_dates": "Nov 15 - 16, 2025",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>22,282</span>",
+      "prizes_counts": {
+        "cash": 13,
+        "other": 6
+      },
+      "registrations_count": 37,
+      "featured": false,
+      "organization_name": "HackNYU",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hacknyu-fall-2025.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hacknyu-fall-2025.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 27463,
+      "title": "VizQuest",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "University of Texas at Dallas"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/977/430/datas/medium_square.jpeg",
+      "analytics_identifier": "VizQuest (27463)",
+      "url": "https://vizquest.devpost.com/",
+      "time_left_to_submission": "about 5 hours left",
+      "submission_period_dates": "Nov 15, 2025",
+      "themes": [
+        {
+          "id": 28,
+          "name": "Databases"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 0,
+        "other": 1
+      },
+      "registrations_count": 33,
+      "featured": false,
+      "organization_name": "EnVision UTD",
+      "winners_announced": false,
+      "submission_gallery_url": "https://vizquest.devpost.com/project-gallery",
+      "start_a_submission_url": "https://vizquest.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "University of Texas - Dallas students only",
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 27203,
+      "title": "Innovation Challenge 2026",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Patiala, Punjab"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/953/790/datas/medium_square.png",
+      "analytics_identifier": "Innovation Challenge 2026 (27203)",
+      "url": "https://innovation-challenge-2026.devpost.com/",
+      "time_left_to_submission": "15 days left",
+      "submission_period_dates": "Nov 09 - 30, 2025",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "₹ <span data-currency-value>175,000</span>",
       "prizes_counts": {
         "cash": 1,
-        "other": 2
+        "other": 0
       },
-      "registrations_count": 20,
+      "registrations_count": 31,
       "featured": false,
-      "organization_name": "ISM",
+      "organization_name": "Thapar University",
       "winners_announced": false,
-      "submission_gallery_url": "https://vibecodinghack.devpost.com/project-gallery",
-      "start_a_submission_url": "https://vibecodinghack.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://innovation-challenge-2026.devpost.com/project-gallery",
+      "start_a_submission_url": "https://innovation-challenge-2026.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 27504,
+      "title": "McGill CodeJam 15",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "McGill University Trottier Building"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/983/595/datas/medium_square.png",
+      "analytics_identifier": "McGill CodeJam 15 (27504)",
+      "url": "https://mcgill-codejam-15.devpost.com/",
+      "time_left_to_submission": "about 24 hours left",
+      "submission_period_dates": "Nov 14 - 16, 2025",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>3,996</span>",
+      "prizes_counts": {
+        "cash": 1,
+        "other": 0
+      },
+      "registrations_count": 28,
+      "featured": false,
+      "organization_name": "McGill ECSE",
+      "winners_announced": false,
+      "submission_gallery_url": "https://mcgill-codejam-15.devpost.com/project-gallery",
+      "start_a_submission_url": "https://mcgill-codejam-15.devpost.com/challenges/start_a_submission",
       "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Currently enrolled university or college students",
+      "eligibility_requirement_invite_only_description": "Accepted participants",
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 27295,
+      "title": "WQCC x IBM Qiskit Fall Fest Hackathon 2025",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Madison, WI, USA"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/933/570/datas/medium_square.png",
+      "analytics_identifier": "WQCC x IBM Qiskit Fall Fest Hackathon 2025 (27295)",
+      "url": "https://wqcc-qiskit-fall-fest-2025.devpost.com/",
+      "time_left_to_submission": "3 days left",
+      "submission_period_dates": "Nov 09 - 18, 2025",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 24,
+          "name": "Quantum"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 0,
+        "other": 4
+      },
+      "registrations_count": 26,
+      "featured": false,
+      "organization_name": "Wisconsin Quantum Computing Club",
+      "winners_announced": false,
+      "submission_gallery_url": "https://wqcc-qiskit-fall-fest-2025.devpost.com/project-gallery",
+      "start_a_submission_url": "https://wqcc-qiskit-fall-fest-2025.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "UW-Madison Affiliated Only",
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 26850,
+      "title": "London Music Technology Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Centre for Digital Music, QMUL"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/811/454/datas/medium_square.jpg",
+      "analytics_identifier": "London Music Technology Hackathon (26850)",
+      "url": "https://music-techn-hackathon-nov-2025.devpost.com/",
+      "time_left_to_submission": "15 days left",
+      "submission_period_dates": "Oct 03 - Nov 30, 2025",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 15,
+          "name": "Music/Art"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 0,
+        "other": 1
+      },
+      "registrations_count": 26,
+      "featured": false,
+      "organization_name": "Music Hackspace",
+      "winners_announced": false,
+      "submission_gallery_url": "https://music-techn-hackathon-nov-2025.devpost.com/project-gallery",
+      "start_a_submission_url": "https://music-techn-hackathon-nov-2025.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Registered participants",
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 27466,
+      "title": "HackFest",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Fiserv Innovation Hub"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/980/516/datas/medium_square.png",
+      "analytics_identifier": "HackFest (27466)",
+      "url": "https://hackfest-run.devpost.com/",
+      "time_left_to_submission": "1 day left",
+      "submission_period_dates": "Nov 14 - 16, 2025",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 26,
+          "name": "Mobile"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>3,500</span>",
+      "prizes_counts": {
+        "cash": 1,
+        "other": 0
+      },
+      "registrations_count": 21,
+      "featured": false,
+      "organization_name": "Girls Who Code @Rutgers",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackfest-run.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackfest-run.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 27156,
+      "title": "Hack Day @ GDG Gombe — Build the Future with Gemini",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Computer Science Department"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/973/306/datas/medium_square.png",
+      "analytics_identifier": "Hack Day @ GDG Gombe — Build the Future with Gemini (27156)",
+      "url": "https://hackdaygombe.devpost.com/",
+      "time_left_to_submission": "3 days left",
+      "submission_period_dates": "Nov 15 - 18, 2025",
+      "themes": [
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 0,
+        "other": 1
+      },
+      "registrations_count": 19,
+      "featured": false,
+      "organization_name": "Google Developer Gombe",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackdaygombe.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackdaygombe.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 27138,
+      "title": "WiE Hackathon 2025",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "University of Waterloo E7"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/873/859/datas/medium_square.png",
+      "analytics_identifier": "WiE Hackathon 2025 (27138)",
+      "url": "https://uw-wie-hackathon-2025.devpost.com/",
+      "time_left_to_submission": "about 5 hours left",
+      "submission_period_dates": "Nov 15, 2025",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$CAD <span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 0,
+        "other": 6
+      },
+      "registrations_count": 18,
+      "featured": false,
+      "organization_name": "UWaterloo Women in Engineering ",
+      "winners_announced": false,
+      "submission_gallery_url": "https://uw-wie-hackathon-2025.devpost.com/project-gallery",
+      "start_a_submission_url": "https://uw-wie-hackathon-2025.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "UWaterloo, women in engineering students",
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 26683,
+      "title": "Hackathon Management Durable HEG-Genève 2025",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "HEG-Genève"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/773/681/datas/medium_square.png",
+      "analytics_identifier": "Hackathon Management Durable HEG-Genève 2025 (26683)",
+      "url": "https://heg-hack25.devpost.com/",
+      "time_left_to_submission": "7 days left",
+      "submission_period_dates": "Oct 01 - Nov 22, 2025",
+      "themes": [
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "€<span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 0,
+        "other": 1
+      },
+      "registrations_count": 17,
+      "featured": false,
+      "organization_name": "Haute école de gestion de Genève",
+      "winners_announced": false,
+      "submission_gallery_url": "https://heg-hack25.devpost.com/project-gallery",
+      "start_a_submission_url": "https://heg-hack25.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Registrations opening soon",
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 25713,
+      "title": "Hack RUC",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Rutgers-Camden Campus Center"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/985/128/datas/medium_square.png",
+      "analytics_identifier": "Hack RUC (25713)",
+      "url": "https://hack-ruc.devpost.com/",
+      "time_left_to_submission": "about 7 hours left",
+      "submission_period_dates": "Nov 15, 2025",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>999</span>",
+      "prizes_counts": {
+        "cash": 3,
+        "other": 1
+      },
+      "registrations_count": 16,
+      "featured": false,
+      "organization_name": "ACM at RUC",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hack-ruc.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hack-ruc.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 25439,
+      "title": "Women AI Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "TBD"
+      },
+      "open_state": "open",
+      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+      "analytics_identifier": "Women AI Hackathon (25439)",
+      "url": "https://aihackathon.devpost.com/",
+      "time_left_to_submission": "about 4 hours left",
+      "submission_period_dates": "Nov 15, 2025",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 0,
+        "other": 1
+      },
+      "registrations_count": 13,
+      "featured": false,
+      "organization_name": "B.E.L.L.E Community",
+      "winners_announced": false,
+      "submission_gallery_url": "https://aihackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://aihackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "LUMA RSVPS ONLY",
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 27336,
+      "title": "KTP Hack",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "DDS - 220"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/938/096/datas/medium_square.png",
+      "analytics_identifier": "KTP Hack (27336)",
+      "url": "https://ktp-hack-27336.devpost.com/",
+      "time_left_to_submission": "about 8 hours left",
+      "submission_period_dates": "Nov 14 - 15, 2025",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>150</span>",
+      "prizes_counts": {
+        "cash": 3,
+        "other": 0
+      },
+      "registrations_count": 13,
+      "featured": false,
+      "organization_name": "Kappa Theta Pi",
+      "winners_announced": false,
+      "submission_gallery_url": "https://ktp-hack-27336.devpost.com/project-gallery",
+      "start_a_submission_url": "https://ktp-hack-27336.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 26519,
+      "title": "Hackabyte's 2025 Fall Hackathon ",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "People Tech Group inc"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/738/998/datas/medium_square.png",
+      "analytics_identifier": "Hackabyte's 2025 Fall Hackathon  (26519)",
+      "url": "https://hackabyte-2025-fall-hackathon.devpost.com/",
+      "time_left_to_submission": "1 day left",
+      "submission_period_dates": "Nov 15 - 16, 2025",
+      "themes": [
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1,000</span>",
+      "prizes_counts": {
+        "cash": 5,
+        "other": 0
+      },
+      "registrations_count": 13,
+      "featured": false,
+      "organization_name": "Hackabyte",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackabyte-2025-fall-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackabyte-2025-fall-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 27165,
+      "title": "The DEIJ Hackathon: Build for Inclusion & Justice",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "San Francisco"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/970/961/datas/medium_square.png",
+      "analytics_identifier": "The DEIJ Hackathon: Build for Inclusion & Justice (27165)",
+      "url": "https://deijhackathon.devpost.com/",
+      "time_left_to_submission": "about 6 hours left",
+      "submission_period_dates": "Nov 14 - 15, 2025",
+      "themes": [
+        {
+          "id": 17,
+          "name": "Low/No Code"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1,000</span>",
+      "prizes_counts": {
+        "cash": 1,
+        "other": 0
+      },
+      "registrations_count": 10,
+      "featured": false,
+      "organization_name": "Remotely Good",
+      "winners_announced": false,
+      "submission_gallery_url": "https://deijhackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://deijhackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 27422,
+      "title": "Hack the Herd Fall 2025",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "A131, Science Center"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/969/041/datas/medium_square.png",
+      "analytics_identifier": "Hack the Herd Fall 2025 (27422)",
+      "url": "https://hack-the-herd-fall-2025.devpost.com/",
+      "time_left_to_submission": "about 22 hours left",
+      "submission_period_dates": "Nov 15 - 16, 2025",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>100</span>",
+      "prizes_counts": {
+        "cash": 1,
+        "other": 4
+      },
+      "registrations_count": 8,
+      "featured": false,
+      "organization_name": "AI in the Liberal Arts @ Amherst College",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hack-the-herd-fall-2025.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hack-the-herd-fall-2025.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 27268,
+      "title": "305 Hackathon: Edition Nov 2025 - Session B — In-Person",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Florida International University, Miami"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/974/937/datas/medium_square.jpg",
+      "analytics_identifier": "305 Hackathon: Edition Nov 2025 - Session B — In-Person (27268)",
+      "url": "https://305hacknov2025sb.devpost.com/",
+      "time_left_to_submission": "about 9 hours left",
+      "submission_period_dates": "Nov 15, 2025",
+      "themes": [
+        {
+          "id": 10,
+          "name": "Communication"
+        },
+        {
+          "id": 18,
+          "name": "Design"
+        },
+        {
+          "id": 2,
+          "name": "DevOps"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 1,
+        "other": 0
+      },
+      "registrations_count": 5,
+      "featured": false,
+      "organization_name": "CODE CRUNCH",
+      "winners_announced": false,
+      "submission_gallery_url": "https://305hacknov2025sb.devpost.com/project-gallery",
+      "start_a_submission_url": "https://305hacknov2025sb.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 27502,
+      "title": "CUES x CUABC x CAISH x CUE Hackathon 2025",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Cambridgeshire, United Kingdom"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/983/370/datas/medium_square.jpg",
+      "analytics_identifier": "CUES x CUABC x CAISH x CUE Hackathon 2025 (27502)",
+      "url": "https://cues-hackathon-2025.devpost.com/",
+      "time_left_to_submission": "about 21 hours left",
+      "submission_period_dates": "Nov 15 - 16, 2025",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>200</span>",
+      "prizes_counts": {
+        "cash": 1,
+        "other": 0
+      },
+      "registrations_count": 4,
+      "featured": false,
+      "organization_name": "Cambridge university Engineering Society",
+      "winners_announced": false,
+      "submission_gallery_url": "https://cues-hackathon-2025.devpost.com/project-gallery",
+      "start_a_submission_url": "https://cues-hackathon-2025.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Registered participants",
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 27485,
+      "title": "HackHolyoke 2025",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Great Room Blanchard"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/980/430/datas/medium_square.png",
+      "analytics_identifier": "HackHolyoke 2025 (27485)",
+      "url": "https://hackholyoke-2025.devpost.com/",
+      "time_left_to_submission": "about 22 hours left",
+      "submission_period_dates": "Nov 15 - 16, 2025",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 4,
+          "name": "Gaming"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 0,
+        "other": 3
+      },
+      "registrations_count": 4,
+      "featured": false,
+      "organization_name": "HackHolyoke",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackholyoke-2025.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackholyoke-2025.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "5 College Students",
       "managed_by_devpost_badge": false
     }
   ],
   "meta": {
-    "total_count": 105,
+    "total_count": 114,
     "per_page": 40,
     "fuzzy": false
   }
