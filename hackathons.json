@@ -11,7 +11,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/829/864/datas/medium_square.png",
       "analytics_identifier": "PyTorch Dendritic Optimization Hackathon (26914)",
       "url": "https://pytorch-dendritic-optimization.devpost.com/",
-      "time_left_to_submission": "9 days left",
+      "time_left_to_submission": "8 days left",
       "submission_period_dates": "Oct 24, 2025 - Jan 05, 2026",
       "themes": [
         {
@@ -28,7 +28,7 @@
         "cash": 4,
         "other": 0
       },
-      "registrations_count": 172,
+      "registrations_count": 174,
       "featured": false,
       "organization_name": "perforated ai",
       "winners_announced": false,
@@ -49,7 +49,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/114/409/datas/medium_square.jpeg",
       "analytics_identifier": " Hack the Concrete Jungle: The Dallas Crossover (27933)",
       "url": "https://hacktheconcretejungle-com.devpost.com/",
-      "time_left_to_submission": "15 days left",
+      "time_left_to_submission": "14 days left",
       "submission_period_dates": "Dec 24, 2025 - Jan 11, 2026",
       "themes": [
         {
@@ -67,10 +67,10 @@
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
       "prizes_counts": {
-        "cash": 1,
-        "other": 0
+        "cash": 0,
+        "other": 1
       },
-      "registrations_count": 5,
+      "registrations_count": 7,
       "featured": false,
       "organization_name": "hack the concrete jungle",
       "winners_announced": false,
@@ -112,7 +112,7 @@
         "cash": 16,
         "other": 1
       },
-      "registrations_count": 181,
+      "registrations_count": 185,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -146,7 +146,7 @@
         "cash": 1,
         "other": 0
       },
-      "registrations_count": 164,
+      "registrations_count": 165,
       "featured": false,
       "organization_name": "Hoya Hacks",
       "winners_announced": false,
@@ -230,7 +230,7 @@
         "cash": 1,
         "other": 0
       },
-      "registrations_count": 63,
+      "registrations_count": 67,
       "featured": false,
       "organization_name": "Tech Tree Root",
       "winners_announced": false,
@@ -269,10 +269,10 @@
       ],
       "prize_amount": "₹ <span data-currency-value>104,998</span>",
       "prizes_counts": {
-        "cash": 1,
-        "other": 0
+        "cash": 3,
+        "other": 2
       },
-      "registrations_count": 58,
+      "registrations_count": 60,
       "featured": false,
       "organization_name": "Odoo",
       "winners_announced": false,
@@ -311,7 +311,7 @@
       ],
       "prize_amount": "$<span data-currency-value>10,000</span>",
       "prizes_counts": {
-        "cash": 1,
+        "cash": 3,
         "other": 0
       },
       "registrations_count": 44,
@@ -691,6 +691,48 @@
       "managed_by_devpost_badge": false
     },
     {
+      "id": 27778,
+      "title": "Paris Innov'Hack",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Lycée Passy Saint-Honoré, Paris 16e"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/072/598/datas/medium_square.jpg",
+      "analytics_identifier": "Paris Innov'Hack (27778)",
+      "url": "https://paris-innov-hack.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jan 17, 2026",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 2,
+          "name": "DevOps"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>3,000</span>",
+      "prizes_counts": {
+        "cash": 1,
+        "other": 0
+      },
+      "registrations_count": 17,
+      "featured": false,
+      "organization_name": "Paris Innov'Hack",
+      "winners_announced": false,
+      "submission_gallery_url": "https://paris-innov-hack.devpost.com/project-gallery",
+      "start_a_submission_url": "https://paris-innov-hack.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
       "id": 27455,
       "title": "BevHacks 2026",
       "displayed_location": {
@@ -719,8 +761,8 @@
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
       "prizes_counts": {
-        "cash": 1,
-        "other": 0
+        "cash": 0,
+        "other": 4
       },
       "registrations_count": 16,
       "featured": false,
@@ -848,7 +890,7 @@
         "cash": 0,
         "other": 2
       },
-      "registrations_count": 14,
+      "registrations_count": 15,
       "featured": false,
       "organization_name": "Amazon",
       "winners_announced": false,
@@ -892,48 +934,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://hackuncp-2026.devpost.com/project-gallery",
       "start_a_submission_url": "https://hackuncp-2026.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 27778,
-      "title": "Paris Innov'Hack",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Lycée Passy Saint-Honoré, Paris 16e"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/072/598/datas/medium_square.jpg",
-      "analytics_identifier": "Paris Innov'Hack (27778)",
-      "url": "https://paris-innov-hack.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jan 17, 2026",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 2,
-          "name": "DevOps"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>3,000</span>",
-      "prizes_counts": {
-        "cash": 1,
-        "other": 0
-      },
-      "registrations_count": 13,
-      "featured": false,
-      "organization_name": "Paris Innov'Hack",
-      "winners_announced": false,
-      "submission_gallery_url": "https://paris-innov-hack.devpost.com/project-gallery",
-      "start_a_submission_url": "https://paris-innov-hack.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -1019,6 +1019,48 @@
       "managed_by_devpost_badge": false
     },
     {
+      "id": 27647,
+      "title": "HackSmart",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": " Battery Smart HQ, Sector 62, Gurgaon "
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/048/074/datas/medium_square.png",
+      "analytics_identifier": "HackSmart (27647)",
+      "url": "https://hacksmart-27647.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jan 30 - Feb 01, 2026",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 20,
+          "name": "E-commerce/Retail"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        }
+      ],
+      "prize_amount": "₹ <span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 0,
+        "other": 3
+      },
+      "registrations_count": 12,
+      "featured": false,
+      "organization_name": "Battery Smart",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hacksmart-27647.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hacksmart-27647.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
       "id": 26211,
       "title": "HackFW",
       "displayed_location": {
@@ -1061,43 +1103,81 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 27647,
-      "title": "HackSmart",
+      "id": 27769,
+      "title": "Codorra",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": " Battery Smart HQ, Sector 62, Gurgaon "
+        "location": "Bengaluru, India"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/048/074/datas/medium_square.png",
-      "analytics_identifier": "HackSmart (27647)",
-      "url": "https://hacksmart-27647.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/070/140/datas/medium_square.png",
+      "analytics_identifier": "Codorra (27769)",
+      "url": "https://codorra-27769.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jan 30 - Feb 01, 2026",
+      "submission_period_dates": "Apr 25 - Jun 30, 2026",
+      "themes": [
+        {
+          "id": 9,
+          "name": "Cybersecurity"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "₹ <span data-currency-value>400,000</span>",
+      "prizes_counts": {
+        "cash": 1,
+        "other": 0
+      },
+      "registrations_count": 12,
+      "featured": false,
+      "organization_name": "Purplerain tech",
+      "winners_announced": false,
+      "submission_gallery_url": "https://codorra-27769.devpost.com/project-gallery",
+      "start_a_submission_url": "https://codorra-27769.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 27564,
+      "title": "....",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Gurugram, Haryana"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/018/410/datas/medium_square.jpg",
+      "analytics_identifier": ".... (27564)",
+      "url": "https://hacksmart321.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jan 24 - 25, 2026",
       "themes": [
         {
           "id": 23,
           "name": "Beginner Friendly"
         },
         {
-          "id": 20,
-          "name": "E-commerce/Retail"
-        },
-        {
           "id": 7,
           "name": "IoT"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
         }
       ],
-      "prize_amount": "₹ <span data-currency-value>0</span>",
+      "prize_amount": "₹ <span data-currency-value>80,000</span>",
       "prizes_counts": {
-        "cash": 0,
-        "other": 3
+        "cash": 1,
+        "other": 0
       },
       "registrations_count": 11,
       "featured": false,
       "organization_name": "Battery Smart",
       "winners_announced": false,
-      "submission_gallery_url": "https://hacksmart-27647.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hacksmart-27647.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://hacksmart321.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hacksmart321.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -1179,18 +1259,18 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 27769,
+      "id": 27756,
       "title": "Codorra",
       "displayed_location": {
         "icon": "map-marker-alt",
         "location": "Bengaluru, India"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/070/140/datas/medium_square.png",
-      "analytics_identifier": "Codorra (27769)",
-      "url": "https://codorra-27769.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/065/278/datas/medium_square.png",
+      "analytics_identifier": "Codorra (27756)",
+      "url": "https://codorra1.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 25 - Jun 30, 2026",
+      "submission_period_dates": "Apr 17 - 27, 2026",
       "themes": [
         {
           "id": 9,
@@ -1210,8 +1290,8 @@
       "featured": false,
       "organization_name": "Purplerain tech",
       "winners_announced": false,
-      "submission_gallery_url": "https://codorra-27769.devpost.com/project-gallery",
-      "start_a_submission_url": "https://codorra-27769.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://codorra1.devpost.com/project-gallery",
+      "start_a_submission_url": "https://codorra1.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -1250,44 +1330,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://kent-hack-enough-2026.devpost.com/project-gallery",
       "start_a_submission_url": "https://kent-hack-enough-2026.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 27756,
-      "title": "Codorra",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Bengaluru, India"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/065/278/datas/medium_square.png",
-      "analytics_identifier": "Codorra (27756)",
-      "url": "https://codorra1.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 17 - 27, 2026",
-      "themes": [
-        {
-          "id": 9,
-          "name": "Cybersecurity"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "₹ <span data-currency-value>400,000</span>",
-      "prizes_counts": {
-        "cash": 1,
-        "other": 0
-      },
-      "registrations_count": 8,
-      "featured": false,
-      "organization_name": "Purplerain tech",
-      "winners_announced": false,
-      "submission_gallery_url": "https://codorra1.devpost.com/project-gallery",
-      "start_a_submission_url": "https://codorra1.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -1374,48 +1416,6 @@
       "start_a_submission_url": "https://aws-breaking-barriers-dub-jn26.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Event-Specific Participation List",
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 27564,
-      "title": "....",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Gurugram, Haryana"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/018/410/datas/medium_square.jpg",
-      "analytics_identifier": ".... (27564)",
-      "url": "https://hacksmart321.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jan 24 - 25, 2026",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "₹ <span data-currency-value>80,000</span>",
-      "prizes_counts": {
-        "cash": 1,
-        "other": 0
-      },
-      "registrations_count": 7,
-      "featured": false,
-      "organization_name": "Battery Smart",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hacksmart321.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hacksmart321.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
     },
     {
@@ -1630,7 +1630,7 @@
     }
   ],
   "meta": {
-    "total_count": 67,
+    "total_count": 69,
     "per_page": 40,
     "fuzzy": false
   }
