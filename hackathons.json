@@ -11,7 +11,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/003/829/864/datas/medium_square.png",
       "analytics_identifier": "PyTorch Dendritic Optimization Hackathon (26914)",
       "url": "https://pytorch-dendritic-optimization.devpost.com/",
-      "time_left_to_submission": "7 days left",
+      "time_left_to_submission": "6 days left",
       "submission_period_dates": "Oct 24, 2025 - Jan 05, 2026",
       "themes": [
         {
@@ -28,7 +28,7 @@
         "cash": 4,
         "other": 0
       },
-      "registrations_count": 178,
+      "registrations_count": 182,
       "featured": false,
       "organization_name": "perforated ai",
       "winners_announced": false,
@@ -49,7 +49,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/114/409/datas/medium_square.jpeg",
       "analytics_identifier": " Hack the Concrete Jungle: The Dallas Crossover (27933)",
       "url": "https://hacktheconcretejungle-com.devpost.com/",
-      "time_left_to_submission": "13 days left",
+      "time_left_to_submission": "12 days left",
       "submission_period_dates": "Dec 24, 2025 - Jan 11, 2026",
       "themes": [
         {
@@ -70,7 +70,7 @@
         "cash": 0,
         "other": 1
       },
-      "registrations_count": 8,
+      "registrations_count": 9,
       "featured": false,
       "organization_name": "hack the concrete jungle",
       "winners_announced": false,
@@ -112,7 +112,7 @@
         "cash": 16,
         "other": 1
       },
-      "registrations_count": 196,
+      "registrations_count": 201,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -146,7 +146,7 @@
         "cash": 1,
         "other": 0
       },
-      "registrations_count": 165,
+      "registrations_count": 166,
       "featured": false,
       "organization_name": "Hoya Hacks",
       "winners_announced": false,
@@ -230,7 +230,7 @@
         "cash": 1,
         "other": 0
       },
-      "registrations_count": 71,
+      "registrations_count": 73,
       "featured": false,
       "organization_name": "Tech Tree Root",
       "winners_announced": false,
@@ -269,10 +269,10 @@
       ],
       "prize_amount": "₹ <span data-currency-value>104,998</span>",
       "prizes_counts": {
-        "cash": 3,
-        "other": 2
+        "cash": 1,
+        "other": 0
       },
-      "registrations_count": 61,
+      "registrations_count": 68,
       "featured": false,
       "organization_name": "Odoo",
       "winners_announced": false,
@@ -314,7 +314,7 @@
         "cash": 3,
         "other": 0
       },
-      "registrations_count": 44,
+      "registrations_count": 48,
       "featured": false,
       "organization_name": "HackStorm",
       "winners_announced": false,
@@ -332,7 +332,7 @@
         "location": "UBC LSI Life Sciences Institute"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/083/053/datas/medium_square.png",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/127/805/datas/medium_square.png",
       "analytics_identifier": "nwHacks 2026 (25450)",
       "url": "https://nwhacks-2026.devpost.com/",
       "time_left_to_submission": "Upcoming",
@@ -345,10 +345,10 @@
       ],
       "prize_amount": "$CAD <span data-currency-value>0</span>",
       "prizes_counts": {
-        "cash": 1,
-        "other": 0
+        "cash": 0,
+        "other": 1
       },
-      "registrations_count": 37,
+      "registrations_count": 40,
       "featured": false,
       "organization_name": "nwPlus",
       "winners_announced": false,
@@ -470,12 +470,54 @@
         "cash": 1,
         "other": 0
       },
-      "registrations_count": 28,
+      "registrations_count": 30,
       "featured": false,
       "organization_name": "ACS CAN California",
       "winners_announced": false,
       "submission_gallery_url": "https://hack4hope-la.devpost.com/project-gallery",
       "start_a_submission_url": "https://hack4hope-la.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 26980,
+      "title": "Hack the Coast",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "UBC Life Science Institute "
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/084/885/datas/medium_square.png",
+      "analytics_identifier": "Hack the Coast (26980)",
+      "url": "https://hackthecoast.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Feb 07 - 08, 2026",
+      "themes": [
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 16,
+          "name": "Health"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$CAD <span data-currency-value>900</span>",
+      "prizes_counts": {
+        "cash": 3,
+        "other": 0
+      },
+      "registrations_count": 26,
+      "featured": false,
+      "organization_name": "UBC Science Undergraduate Society",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackthecoast.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackthecoast.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -523,48 +565,6 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 26980,
-      "title": "Hack the Coast",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "UBC Life Science Institute "
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/084/885/datas/medium_square.png",
-      "analytics_identifier": "Hack the Coast (26980)",
-      "url": "https://hackthecoast.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Feb 07 - 08, 2026",
-      "themes": [
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 16,
-          "name": "Health"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$CAD <span data-currency-value>900</span>",
-      "prizes_counts": {
-        "cash": 1,
-        "other": 0
-      },
-      "registrations_count": 23,
-      "featured": false,
-      "organization_name": "UBC Science Undergraduate Society",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackthecoast.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackthecoast.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
       "id": 27541,
       "title": "DevNetwork [AI + ML] Hackathon 2026",
       "displayed_location": {
@@ -602,6 +602,48 @@
       "winners_announced": false,
       "submission_gallery_url": "https://devnetwork-ai-ml-hack-2026.devpost.com/project-gallery",
       "start_a_submission_url": "https://devnetwork-ai-ml-hack-2026.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 27778,
+      "title": "Paris Innov'Hack",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Lycée Passy Saint-Honoré, Paris 16e"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/072/598/datas/medium_square.jpg",
+      "analytics_identifier": "Paris Innov'Hack (27778)",
+      "url": "https://paris-innov-hack.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jan 17, 2026",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 2,
+          "name": "DevOps"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>3,000</span>",
+      "prizes_counts": {
+        "cash": 1,
+        "other": 0
+      },
+      "registrations_count": 21,
+      "featured": false,
+      "organization_name": "Paris Innov'Hack",
+      "winners_announced": false,
+      "submission_gallery_url": "https://paris-innov-hack.devpost.com/project-gallery",
+      "start_a_submission_url": "https://paris-innov-hack.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -680,54 +722,12 @@
         "cash": 5,
         "other": 0
       },
-      "registrations_count": 20,
+      "registrations_count": 21,
       "featured": false,
       "organization_name": "EUREKA!",
       "winners_announced": false,
       "submission_gallery_url": "https://scroll-africa-hackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://scroll-africa-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 27778,
-      "title": "Paris Innov'Hack",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Lycée Passy Saint-Honoré, Paris 16e"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/072/598/datas/medium_square.jpg",
-      "analytics_identifier": "Paris Innov'Hack (27778)",
-      "url": "https://paris-innov-hack.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jan 17, 2026",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 2,
-          "name": "DevOps"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>3,000</span>",
-      "prizes_counts": {
-        "cash": 1,
-        "other": 0
-      },
-      "registrations_count": 19,
-      "featured": false,
-      "organization_name": "Paris Innov'Hack",
-      "winners_announced": false,
-      "submission_gallery_url": "https://paris-innov-hack.devpost.com/project-gallery",
-      "start_a_submission_url": "https://paris-innov-hack.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -761,10 +761,10 @@
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
       "prizes_counts": {
-        "cash": 1,
-        "other": 0
+        "cash": 0,
+        "other": 4
       },
-      "registrations_count": 16,
+      "registrations_count": 17,
       "featured": false,
       "organization_name": "Brearley",
       "winners_announced": false,
@@ -806,7 +806,7 @@
         "cash": 0,
         "other": 2
       },
-      "registrations_count": 16,
+      "registrations_count": 17,
       "featured": false,
       "organization_name": "Amazon",
       "winners_announced": false,
@@ -901,6 +901,48 @@
       "managed_by_devpost_badge": false
     },
     {
+      "id": 27564,
+      "title": "....",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Gurugram, Haryana"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/018/410/datas/medium_square.jpg",
+      "analytics_identifier": ".... (27564)",
+      "url": "https://hacksmart321.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jan 24 - 25, 2026",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 7,
+          "name": "IoT"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "₹ <span data-currency-value>80,000</span>",
+      "prizes_counts": {
+        "cash": 1,
+        "other": 0
+      },
+      "registrations_count": 14,
+      "featured": false,
+      "organization_name": "Battery Smart",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hacksmart321.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hacksmart321.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
       "id": 26020,
       "title": "HackUNCP 2026",
       "displayed_location": {
@@ -970,12 +1012,50 @@
         "cash": 3,
         "other": 0
       },
-      "registrations_count": 12,
+      "registrations_count": 13,
       "featured": false,
       "organization_name": "M01N Startup Camp",
       "winners_announced": false,
       "submission_gallery_url": "https://m01n-x-ost-hackathon-2026.devpost.com/project-gallery",
       "start_a_submission_url": "https://m01n-x-ost-hackathon-2026.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 27769,
+      "title": "Codorra",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Bengaluru, India"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/070/140/datas/medium_square.png",
+      "analytics_identifier": "Codorra (27769)",
+      "url": "https://codorra-27769.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Apr 25 - Jun 30, 2026",
+      "themes": [
+        {
+          "id": 9,
+          "name": "Cybersecurity"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "₹ <span data-currency-value>400,000</span>",
+      "prizes_counts": {
+        "cash": 1,
+        "other": 0
+      },
+      "registrations_count": 13,
+      "featured": false,
+      "organization_name": "Purplerain tech",
+      "winners_announced": false,
+      "submission_gallery_url": "https://codorra-27769.devpost.com/project-gallery",
+      "start_a_submission_url": "https://codorra-27769.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -1014,48 +1094,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://stang-hacks-26.devpost.com/project-gallery",
       "start_a_submission_url": "https://stang-hacks-26.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 27564,
-      "title": "....",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Gurugram, Haryana"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/018/410/datas/medium_square.jpg",
-      "analytics_identifier": ".... (27564)",
-      "url": "https://hacksmart321.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jan 24 - 25, 2026",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "₹ <span data-currency-value>80,000</span>",
-      "prizes_counts": {
-        "cash": 1,
-        "other": 0
-      },
-      "registrations_count": 12,
-      "featured": false,
-      "organization_name": "Battery Smart",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hacksmart321.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hacksmart321.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -1145,39 +1183,43 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 27769,
-      "title": "Codorra",
+      "id": 27920,
+      "title": "DevFest 2026",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Bengaluru, India"
+        "location": "Columbia University"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/070/140/datas/medium_square.png",
-      "analytics_identifier": "Codorra (27769)",
-      "url": "https://codorra-27769.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/120/806/datas/medium_square.png",
+      "analytics_identifier": "DevFest 2026 (27920)",
+      "url": "https://devfest-2026.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Apr 25 - Jun 30, 2026",
+      "submission_period_dates": "Feb 07 - 08, 2026",
       "themes": [
         {
-          "id": 9,
-          "name": "Cybersecurity"
+          "id": 23,
+          "name": "Beginner Friendly"
         },
         {
           "id": 6,
           "name": "Machine Learning/AI"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
         }
       ],
-      "prize_amount": "₹ <span data-currency-value>400,000</span>",
+      "prize_amount": "$<span data-currency-value>8,000</span>",
       "prizes_counts": {
         "cash": 1,
-        "other": 0
+        "other": 8
       },
-      "registrations_count": 12,
+      "registrations_count": 10,
       "featured": false,
-      "organization_name": "Purplerain tech",
+      "organization_name": "Columbia ADI",
       "winners_announced": false,
-      "submission_gallery_url": "https://codorra-27769.devpost.com/project-gallery",
-      "start_a_submission_url": "https://codorra-27769.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://devfest-2026.devpost.com/project-gallery",
+      "start_a_submission_url": "https://devfest-2026.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -1335,6 +1377,44 @@
       "managed_by_devpost_badge": false
     },
     {
+      "id": 27781,
+      "title": "BUIDL AI Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Nest"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/073/208/datas/medium_square.png",
+      "analytics_identifier": "BUIDL AI Hackathon (27781)",
+      "url": "https://buidl-ai.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jan 09 - 11, 2026",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>9,000</span>",
+      "prizes_counts": {
+        "cash": 3,
+        "other": 0
+      },
+      "registrations_count": 7,
+      "featured": false,
+      "organization_name": "kryptoplanet",
+      "winners_announced": false,
+      "submission_gallery_url": "https://buidl-ai.devpost.com/project-gallery",
+      "start_a_submission_url": "https://buidl-ai.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
       "id": 27718,
       "title": "AWS Breaking Barriers Challenge 2026 - Manchester ",
       "displayed_location": {
@@ -1416,48 +1496,6 @@
       "start_a_submission_url": "https://aws-breaking-barriers-dub-jn26.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Event-Specific Participation List",
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 27920,
-      "title": "DevFest 2026",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Columbia University"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/120/806/datas/medium_square.png",
-      "analytics_identifier": "DevFest 2026 (27920)",
-      "url": "https://devfest-2026.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Feb 07 - 08, 2026",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 11,
-          "name": "Productivity"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>8,000</span>",
-      "prizes_counts": {
-        "cash": 1,
-        "other": 8
-      },
-      "registrations_count": 7,
-      "featured": false,
-      "organization_name": "Columbia ADI",
-      "winners_announced": false,
-      "submission_gallery_url": "https://devfest-2026.devpost.com/project-gallery",
-      "start_a_submission_url": "https://devfest-2026.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
     },
     {
@@ -1585,52 +1623,10 @@
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
-    },
-    {
-      "id": 26335,
-      "title": "Mercile J. Lee Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Madison, WI, USA"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/056/033/datas/medium_square.png",
-      "analytics_identifier": "Mercile J. Lee Hackathon (26335)",
-      "url": "https://mercile-j-lee-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Feb 07 - 08, 2026",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 11,
-          "name": "Productivity"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 0,
-        "other": 1
-      },
-      "registrations_count": 6,
-      "featured": false,
-      "organization_name": "Mercile J. Lee Scholars Program",
-      "winners_announced": false,
-      "submission_gallery_url": "https://mercile-j-lee-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://mercile-j-lee-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
     }
   ],
   "meta": {
-    "total_count": 69,
+    "total_count": 71,
     "per_page": 40,
     "fuzzy": false
   }
