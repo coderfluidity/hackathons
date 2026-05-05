@@ -1,39 +1,43 @@
 {
   "hackathons": [
     {
-      "id": 29965,
-      "title": "Neurocore Overnight Hackathon",
+      "id": 29954,
+      "title": "VALSEA Edtech Sprint (HCM)",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Bangalore"
+        "location": "AWS Office Ho Chi Minh"
       },
       "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/643/814/datas/medium_square.png",
-      "analytics_identifier": "Neurocore Overnight Hackathon (29965)",
-      "url": "https://neurcore-overnight-hackathon.devpost.com/",
-      "time_left_to_submission": "about 9 hours left",
-      "submission_period_dates": "May 04, 2026",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/641/144/datas/medium_square.jpg",
+      "analytics_identifier": "VALSEA Edtech Sprint (HCM) (29954)",
+      "url": "https://valsea-edtech-sprint-hcm.devpost.com/",
+      "time_left_to_submission": "about 15 hours left",
+      "submission_period_dates": "May 03 - 06, 2026",
       "themes": [
         {
-          "id": 16,
-          "name": "Health"
+          "id": 19,
+          "name": "Education"
         },
         {
           "id": 6,
           "name": "Machine Learning/AI"
+        },
+        {
+          "id": 8,
+          "name": "Voice skills"
         }
       ],
-      "prize_amount": "₹ <span data-currency-value>20,000</span>",
+      "prize_amount": "$<span data-currency-value>0</span>",
       "prizes_counts": {
-        "cash": 3,
-        "other": 0
+        "cash": 0,
+        "other": 1
       },
-      "registrations_count": 120,
+      "registrations_count": 309,
       "featured": false,
-      "organization_name": "Team Dhi",
+      "organization_name": "valsea",
       "winners_announced": false,
-      "submission_gallery_url": "https://neurcore-overnight-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://neurcore-overnight-hackathon.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://valsea-edtech-sprint-hcm.devpost.com/project-gallery",
+      "start_a_submission_url": "https://valsea-edtech-sprint-hcm.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -49,7 +53,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/600/146/datas/medium_square.png",
       "analytics_identifier": "The Silicon Valley Hackathon: Perfect Corp x Startup World Cup (29699)",
       "url": "https://perfectcorphackathon.devpost.com/",
-      "time_left_to_submission": "3 days left",
+      "time_left_to_submission": "2 days left",
       "submission_period_dates": "Apr 23 - May 07, 2026",
       "themes": [
         {
@@ -70,7 +74,7 @@
         "cash": 2,
         "other": 0
       },
-      "registrations_count": 101,
+      "registrations_count": 131,
       "featured": false,
       "organization_name": "Perfect Corp",
       "winners_announced": false,
@@ -154,130 +158,12 @@
         "cash": 6,
         "other": 3
       },
-      "registrations_count": 19,
+      "registrations_count": 24,
       "featured": false,
       "organization_name": "DevSoc",
       "winners_announced": false,
       "submission_gallery_url": "https://devsoc-starlight-2026.devpost.com/project-gallery",
       "start_a_submission_url": "https://devsoc-starlight-2026.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 28480,
-      "title": "Open Sourcery S26 Showcase",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "University of Maryland – Knight Hall"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/242/500/datas/medium_square.png",
-      "analytics_identifier": "Open Sourcery S26 Showcase (28480)",
-      "url": "https://open-sourcery-s26-28480.devpost.com/",
-      "time_left_to_submission": "about 3 hours left",
-      "submission_period_dates": "Feb 09 - May 04, 2026",
-      "themes": [
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 0,
-        "other": 3
-      },
-      "registrations_count": 14,
-      "featured": false,
-      "organization_name": "Open Sourcery",
-      "winners_announced": false,
-      "submission_gallery_url": "https://open-sourcery-s26-28480.devpost.com/project-gallery",
-      "start_a_submission_url": "https://open-sourcery-s26-28480.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "UMD students only",
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 29962,
-      "title": "VALSEA EdTech System Sprint (HCM)",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Bitexco Financial Tower "
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/643/517/datas/medium_square.jpeg",
-      "analytics_identifier": "VALSEA EdTech System Sprint (HCM) (29962)",
-      "url": "https://valsea-edtech-system-sprint.devpost.com/",
-      "time_left_to_submission": "about 22 hours left",
-      "submission_period_dates": "May 04 - 05, 2026",
-      "themes": [
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 8,
-          "name": "Voice skills"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 0,
-        "other": 1
-      },
-      "registrations_count": 10,
-      "featured": false,
-      "organization_name": "valsea",
-      "winners_announced": false,
-      "submission_gallery_url": "https://valsea-edtech-system-sprint.devpost.com/project-gallery",
-      "start_a_submission_url": "https://valsea-edtech-system-sprint.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 29954,
-      "title": "VALSEA Edtech Sprint (HCM)",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "AWS Office Ho Chi Minh"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/641/144/datas/medium_square.jpg",
-      "analytics_identifier": "VALSEA Edtech Sprint (HCM) (29954)",
-      "url": "https://valsea-edtech-sprint-hcm.devpost.com/",
-      "time_left_to_submission": "1 day left",
-      "submission_period_dates": "May 03 - 06, 2026",
-      "themes": [
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 8,
-          "name": "Voice skills"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 0,
-        "other": 1
-      },
-      "registrations_count": 5,
-      "featured": false,
-      "organization_name": "valsea",
-      "winners_announced": false,
-      "submission_gallery_url": "https://valsea-edtech-sprint-hcm.devpost.com/project-gallery",
-      "start_a_submission_url": "https://valsea-edtech-sprint-hcm.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -312,9 +198,9 @@
       "prize_amount": "$<span data-currency-value>6,400</span>",
       "prizes_counts": {
         "cash": 2,
-        "other": 3
+        "other": 2
       },
-      "registrations_count": 538,
+      "registrations_count": 551,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -356,7 +242,7 @@
         "cash": 1,
         "other": 0
       },
-      "registrations_count": 165,
+      "registrations_count": 167,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -398,7 +284,7 @@
         "cash": 1,
         "other": 0
       },
-      "registrations_count": 83,
+      "registrations_count": 89,
       "featured": false,
       "organization_name": "Asian Leadership Initiative",
       "winners_announced": false,
@@ -432,7 +318,7 @@
         "cash": 0,
         "other": 1
       },
-      "registrations_count": 53,
+      "registrations_count": 58,
       "featured": false,
       "organization_name": "Caltech",
       "winners_announced": false,
@@ -516,7 +402,7 @@
         "cash": 3,
         "other": 5
       },
-      "registrations_count": 45,
+      "registrations_count": 46,
       "featured": false,
       "organization_name": "bin to better",
       "winners_announced": false,
@@ -558,7 +444,7 @@
         "cash": 1,
         "other": 0
       },
-      "registrations_count": 28,
+      "registrations_count": 33,
       "featured": false,
       "organization_name": "Quantum Veda AI Solution",
       "winners_announced": false,
@@ -600,7 +486,7 @@
         "cash": 0,
         "other": 1
       },
-      "registrations_count": 27,
+      "registrations_count": 28,
       "featured": false,
       "organization_name": "MunichTecg EXPO",
       "winners_announced": false,
@@ -642,7 +528,7 @@
         "cash": 0,
         "other": 10
       },
-      "registrations_count": 23,
+      "registrations_count": 24,
       "featured": false,
       "organization_name": "MLH",
       "winners_announced": false,
@@ -726,7 +612,7 @@
         "cash": 3,
         "other": 2
       },
-      "registrations_count": 20,
+      "registrations_count": 21,
       "featured": false,
       "organization_name": "XdHacks Mini",
       "winners_announced": false,
@@ -768,7 +654,7 @@
         "cash": 0,
         "other": 3
       },
-      "registrations_count": 17,
+      "registrations_count": 20,
       "featured": false,
       "organization_name": "Codecon",
       "winners_announced": false,
@@ -776,6 +662,120 @@
       "start_a_submission_url": "https://codecon-universe-26.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Inscritos na Codecon Universe",
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 29795,
+      "title": "HackDavis 2026",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "University Credit Union Center"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/595/015/datas/medium_square.png",
+      "analytics_identifier": "HackDavis 2026 (29795)",
+      "url": "https://hackdavis-2026.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "May 09 - 10, 2026",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 0,
+        "other": 15
+      },
+      "registrations_count": 17,
+      "featured": false,
+      "organization_name": "HackDavis",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackdavis-2026.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackdavis-2026.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Registered HackDavis Hackers only.",
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 29895,
+      "title": "HackDays Delhi",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "India"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/622/891/datas/medium_square.png",
+      "analytics_identifier": "HackDays Delhi (29895)",
+      "url": "https://hackdays-delhi.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jun 30, 2026",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 17,
+          "name": "Low/No Code"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 0,
+        "other": 10
+      },
+      "registrations_count": 16,
+      "featured": false,
+      "organization_name": "MLH",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackdays-delhi.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackdays-delhi.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 29779,
+      "title": "Cursor Hackathon Toronto Tech Week",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "BrainStation"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/580/137/datas/medium_square.jpeg",
+      "analytics_identifier": "Cursor Hackathon Toronto Tech Week (29779)",
+      "url": "https://cursor-hackathon-ttw.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "May 27, 2026",
+      "themes": [
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 0,
+        "other": 5
+      },
+      "registrations_count": 15,
+      "featured": false,
+      "organization_name": "Cursor",
+      "winners_announced": false,
+      "submission_gallery_url": "https://cursor-hackathon-ttw.devpost.com/project-gallery",
+      "start_a_submission_url": "https://cursor-hackathon-ttw.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
     },
     {
@@ -821,79 +821,45 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 29779,
-      "title": "Cursor Hackathon Toronto Tech Week",
+      "id": 29707,
+      "title": "Build with AI 2026 x MLH Hackathon in Ahlen",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "BrainStation"
+        "location": "Initiative Bürgerzentrum Schuhfabrik e.V"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/580/137/datas/medium_square.jpeg",
-      "analytics_identifier": "Cursor Hackathon Toronto Tech Week (29779)",
-      "url": "https://cursor-hackathon-ttw.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/568/876/datas/medium_square.jpg",
+      "analytics_identifier": "Build with AI 2026 x MLH Hackathon in Ahlen (29707)",
+      "url": "https://build-with-ai-mlh-ahlen.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 27, 2026",
+      "submission_period_dates": "May 23, 2026",
       "themes": [
         {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 0,
-        "other": 5
-      },
-      "registrations_count": 14,
-      "featured": false,
-      "organization_name": "Cursor",
-      "winners_announced": false,
-      "submission_gallery_url": "https://cursor-hackathon-ttw.devpost.com/project-gallery",
-      "start_a_submission_url": "https://cursor-hackathon-ttw.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 29895,
-      "title": "HackDays Delhi",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "India"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/622/891/datas/medium_square.png",
-      "analytics_identifier": "HackDays Delhi (29895)",
-      "url": "https://hackdays-delhi.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 30, 2026",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
+          "id": 10,
+          "name": "Communication"
         },
         {
           "id": 17,
           "name": "Low/No Code"
         },
         {
-          "id": 25,
-          "name": "Web"
+          "id": 6,
+          "name": "Machine Learning/AI"
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
       "prizes_counts": {
         "cash": 0,
-        "other": 10
+        "other": 3
       },
-      "registrations_count": 13,
+      "registrations_count": 12,
       "featured": false,
-      "organization_name": "MLH",
+      "organization_name": "GDG Ahlen",
       "winners_announced": false,
-      "submission_gallery_url": "https://hackdays-delhi.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackdays-delhi.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
+      "submission_gallery_url": "https://build-with-ai-mlh-ahlen.devpost.com/project-gallery",
+      "start_a_submission_url": "https://build-with-ai-mlh-ahlen.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "MLH (Major League Hacking)",
       "managed_by_devpost_badge": false
     },
     {
@@ -939,48 +905,6 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 29707,
-      "title": "Build with AI 2026 x MLH Hackathon in Ahlen",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Initiative Bürgerzentrum Schuhfabrik e.V"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/568/876/datas/medium_square.jpg",
-      "analytics_identifier": "Build with AI 2026 x MLH Hackathon in Ahlen (29707)",
-      "url": "https://build-with-ai-mlh-ahlen.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 23, 2026",
-      "themes": [
-        {
-          "id": 10,
-          "name": "Communication"
-        },
-        {
-          "id": 17,
-          "name": "Low/No Code"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 0,
-        "other": 3
-      },
-      "registrations_count": 11,
-      "featured": false,
-      "organization_name": "GDG Ahlen",
-      "winners_announced": false,
-      "submission_gallery_url": "https://build-with-ai-mlh-ahlen.devpost.com/project-gallery",
-      "start_a_submission_url": "https://build-with-ai-mlh-ahlen.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "MLH (Major League Hacking)",
-      "managed_by_devpost_badge": false
-    },
-    {
       "id": 29790,
       "title": "HACKSTORM 2.0: Vibe Coding to Physical AI",
       "displayed_location": {
@@ -1012,12 +936,50 @@
         "cash": 1,
         "other": 0
       },
-      "registrations_count": 10,
+      "registrations_count": 11,
       "featured": false,
       "organization_name": "HackStorm",
       "winners_announced": false,
       "submission_gallery_url": "https://hackstorm2.devpost.com/project-gallery",
       "start_a_submission_url": "https://hackstorm2.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 29208,
+      "title": "JecHacks",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Mississauga (Location to be decided)"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/465/219/datas/medium_square.png",
+      "analytics_identifier": "JecHacks (29208)",
+      "url": "https://jechacks.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jul 11, 2026",
+      "themes": [
+        {
+          "id": 29,
+          "name": "Serverless"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$CAD <span data-currency-value>5,740</span>",
+      "prizes_counts": {
+        "cash": 4,
+        "other": 2
+      },
+      "registrations_count": 11,
+      "featured": false,
+      "organization_name": "Independent Student Organizer",
+      "winners_announced": false,
+      "submission_gallery_url": "https://jechacks.devpost.com/project-gallery",
+      "start_a_submission_url": "https://jechacks.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -1052,44 +1014,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://cove.devpost.com/project-gallery",
       "start_a_submission_url": "https://cove.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 29208,
-      "title": "JecHacks",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Mississauga (Location to be decided)"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/465/219/datas/medium_square.png",
-      "analytics_identifier": "JecHacks (29208)",
-      "url": "https://jechacks.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jul 11, 2026",
-      "themes": [
-        {
-          "id": 29,
-          "name": "Serverless"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$CAD <span data-currency-value>5,740</span>",
-      "prizes_counts": {
-        "cash": 4,
-        "other": 2
-      },
-      "registrations_count": 10,
-      "featured": false,
-      "organization_name": "Independent Student Organizer",
-      "winners_announced": false,
-      "submission_gallery_url": "https://jechacks.devpost.com/project-gallery",
-      "start_a_submission_url": "https://jechacks.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -1236,7 +1160,7 @@
         "cash": 0,
         "other": 1
       },
-      "registrations_count": 8,
+      "registrations_count": 9,
       "featured": false,
       "organization_name": "Google",
       "winners_announced": false,
@@ -1247,35 +1171,35 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 29704,
-      "title": "Give It a Face - Design × Dev Hackathon",
+      "id": 29837,
+      "title": "Far Away ",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Sanders Studios"
+        "location": "Online&gt;Delhi India&gt;Japan"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/576/823/datas/medium_square.png",
-      "analytics_identifier": "Give It a Face - Design × Dev Hackathon (29704)",
-      "url": "https://future-of-nyc-design-hackathon.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/600/071/datas/medium_square.jpeg",
+      "analytics_identifier": "Far Away  (29837)",
+      "url": "https://faraway.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 16, 2026",
+      "submission_period_dates": "Jun 01 - 25, 2026",
       "themes": [
         {
-          "id": 22,
-          "name": "Open Ended"
+          "id": 23,
+          "name": "Beginner Friendly"
         }
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
       "prizes_counts": {
-        "cash": 1,
-        "other": 0
+        "cash": 0,
+        "other": 1
       },
-      "registrations_count": 7,
+      "registrations_count": 9,
       "featured": false,
-      "organization_name": "localhost-nyc",
+      "organization_name": "zuup",
       "winners_announced": false,
-      "submission_gallery_url": "https://future-of-nyc-design-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://future-of-nyc-design-hackathon.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://faraway.devpost.com/project-gallery",
+      "start_a_submission_url": "https://faraway.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -1312,12 +1236,130 @@
         "cash": 0,
         "other": 3
       },
-      "registrations_count": 7,
+      "registrations_count": 8,
       "featured": false,
       "organization_name": "Mathworks",
       "winners_announced": false,
       "submission_gallery_url": "https://matlab-hack-the-drone.devpost.com/project-gallery",
       "start_a_submission_url": "https://matlab-hack-the-drone.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 29761,
+      "title": "MasseyHacks XII",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Vincent Massey Secondary School"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/643/253/datas/medium_square.png",
+      "analytics_identifier": "MasseyHacks XII (29761)",
+      "url": "https://masseyhacks12.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "May 09 - 10, 2026",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$CAD <span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 0,
+        "other": 14
+      },
+      "registrations_count": 7,
+      "featured": false,
+      "organization_name": "MasseyHacks",
+      "winners_announced": false,
+      "submission_gallery_url": "https://masseyhacks12.devpost.com/project-gallery",
+      "start_a_submission_url": "https://masseyhacks12.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 29496,
+      "title": "Innovate for Impact - NGM Group",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "NEX, Newcastle"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/521/333/datas/medium_square.jpg",
+      "analytics_identifier": "Innovate for Impact - NGM Group (29496)",
+      "url": "https://innovate-for-impact-ngm-group.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "May 11 - 13, 2026",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 0,
+        "other": 1
+      },
+      "registrations_count": 7,
+      "featured": false,
+      "organization_name": "NGM Group",
+      "winners_announced": false,
+      "submission_gallery_url": "https://innovate-for-impact-ngm-group.devpost.com/project-gallery",
+      "start_a_submission_url": "https://innovate-for-impact-ngm-group.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "University of Newcastle Students",
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 29704,
+      "title": "Give It a Face - Design × Dev Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Sanders Studios"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/576/823/datas/medium_square.png",
+      "analytics_identifier": "Give It a Face - Design × Dev Hackathon (29704)",
+      "url": "https://future-of-nyc-design-hackathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "May 16, 2026",
+      "themes": [
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 1,
+        "other": 0
+      },
+      "registrations_count": 7,
+      "featured": false,
+      "organization_name": "localhost-nyc",
+      "winners_announced": false,
+      "submission_gallery_url": "https://future-of-nyc-design-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://future-of-nyc-design-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -1365,18 +1407,18 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 29837,
-      "title": "Far Away ",
+      "id": 29253,
+      "title": "Hackabury 2026",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Online&gt;Delhi India&gt;Japan"
+        "location": "Verena Holmes Building"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/600/071/datas/medium_square.jpeg",
-      "analytics_identifier": "Far Away  (29837)",
-      "url": "https://faraway.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/471/693/datas/medium_square.png",
+      "analytics_identifier": "Hackabury 2026 (29253)",
+      "url": "https://hackabury-2026.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 01 - 25, 2026",
+      "submission_period_dates": "Jun 01 - 02, 2026",
       "themes": [
         {
           "id": 23,
@@ -1386,178 +1428,56 @@
       "prize_amount": "$<span data-currency-value>0</span>",
       "prizes_counts": {
         "cash": 0,
-        "other": 1
+        "other": 10
       },
       "registrations_count": 7,
       "featured": false,
-      "organization_name": "zuup",
+      "organization_name": "Canterbury Christ Church University",
       "winners_announced": false,
-      "submission_gallery_url": "https://faraway.devpost.com/project-gallery",
-      "start_a_submission_url": "https://faraway.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 29496,
-      "title": "Innovate for Impact - NGM Group",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "NEX, Newcastle"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/521/333/datas/medium_square.jpg",
-      "analytics_identifier": "Innovate for Impact - NGM Group (29496)",
-      "url": "https://innovate-for-impact-ngm-group.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 11 - 13, 2026",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 0,
-        "other": 1
-      },
-      "registrations_count": 6,
-      "featured": false,
-      "organization_name": "NGM Group",
-      "winners_announced": false,
-      "submission_gallery_url": "https://innovate-for-impact-ngm-group.devpost.com/project-gallery",
-      "start_a_submission_url": "https://innovate-for-impact-ngm-group.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://hackabury-2026.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackabury-2026.devpost.com/challenges/start_a_submission",
       "invite_only": true,
-      "eligibility_requirement_invite_only_description": "University of Newcastle Students",
+      "eligibility_requirement_invite_only_description": "CCCU / UKC / EKC Students",
       "managed_by_devpost_badge": false
     },
     {
-      "id": 29795,
-      "title": "HackDavis 2026",
+      "id": 28962,
+      "title": "Easygo Mini Hackathon - Powered by KICK",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "University Credit Union Center"
+        "location": "Fortress Melbourne"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/595/015/datas/medium_square.png",
-      "analytics_identifier": "HackDavis 2026 (29795)",
-      "url": "https://hackdavis-2026.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/571/830/datas/medium_square.jpg",
+      "analytics_identifier": "Easygo Mini Hackathon - Powered by KICK (28962)",
+      "url": "https://easygo-mini-hackathon.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 09 - 10, 2026",
+      "submission_period_dates": "Jul 31 - Aug 01, 2026",
       "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 0,
-        "other": 15
-      },
-      "registrations_count": 5,
-      "featured": false,
-      "organization_name": "HackDavis",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackdavis-2026.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackdavis-2026.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Registered HackDavis Hackers only.",
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 29748,
-      "title": "The Final of Chapter of GDG",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": " Koni ,Bilaspur ,Chhattisgarh"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
-      "analytics_identifier": "The Final of Chapter of GDG (29748)",
-      "url": "https://the-final-of-chapter-of-gdg.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 25, 2026",
-      "themes": [
-        {
-          "id": 9,
-          "name": "Cybersecurity"
-        },
-        {
-          "id": 18,
-          "name": "Design"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        }
-      ],
-      "prize_amount": "₹ <span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 0,
-        "other": 1
-      },
-      "registrations_count": 5,
-      "featured": false,
-      "organization_name": "Google Developer Group Club-GGV",
-      "winners_announced": false,
-      "submission_gallery_url": "https://the-final-of-chapter-of-gdg.devpost.com/project-gallery",
-      "start_a_submission_url": "https://the-final-of-chapter-of-gdg.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "GDGC GGV member only",
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 29923,
-      "title": "Clash of Prompts: Worlds 1st Real-Time Prompt Battle Royale",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "AWS Builder Loft,"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/630/548/datas/medium_square.png",
-      "analytics_identifier": "Clash of Prompts: Worlds 1st Real-Time Prompt Battle Royale (29923)",
-      "url": "https://clash-of-prompts.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 07, 2026",
-      "themes": [
-        {
-          "id": 9,
-          "name": "Cybersecurity"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
         {
           "id": 4,
           "name": "Gaming"
+        },
+        {
+          "id": 2,
+          "name": "DevOps"
+        },
+        {
+          "id": 21,
+          "name": "Enterprise"
         }
       ],
-      "prize_amount": "$<span data-currency-value>0</span>",
+      "prize_amount": "$<span data-currency-value>100,000</span>",
       "prizes_counts": {
-        "cash": 0,
-        "other": 1
+        "cash": 2,
+        "other": 0
       },
-      "registrations_count": 4,
+      "registrations_count": 6,
       "featured": false,
-      "organization_name": "Symbiotic Security ",
+      "organization_name": "easygo",
       "winners_announced": false,
-      "submission_gallery_url": "https://clash-of-prompts.devpost.com/project-gallery",
-      "start_a_submission_url": "https://clash-of-prompts.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://easygo-mini-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://easygo-mini-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -1594,7 +1514,7 @@
         "cash": 1,
         "other": 0
       },
-      "registrations_count": 4,
+      "registrations_count": 5,
       "featured": false,
       "organization_name": "Code Rangers",
       "winners_announced": false,
@@ -1602,6 +1522,90 @@
       "start_a_submission_url": "https://code-jam-29953.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "TIIPS Student Only",
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 29770,
+      "title": "GDG Hacks 3",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "University of Guelph"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+      "analytics_identifier": "GDG Hacks 3 (29770)",
+      "url": "https://gdg-hacks-3.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "May 09 - 10, 2026",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$CAD <span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 0,
+        "other": 6
+      },
+      "registrations_count": 5,
+      "featured": false,
+      "organization_name": "university of guelph",
+      "winners_announced": false,
+      "submission_gallery_url": "https://gdg-hacks-3.devpost.com/project-gallery",
+      "start_a_submission_url": "https://gdg-hacks-3.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 29748,
+      "title": "The Final of Chapter of GDG",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": " Koni ,Bilaspur ,Chhattisgarh"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+      "analytics_identifier": "The Final of Chapter of GDG (29748)",
+      "url": "https://the-final-of-chapter-of-gdg.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "May 25, 2026",
+      "themes": [
+        {
+          "id": 9,
+          "name": "Cybersecurity"
+        },
+        {
+          "id": 18,
+          "name": "Design"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        }
+      ],
+      "prize_amount": "₹ <span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 1,
+        "other": 0
+      },
+      "registrations_count": 5,
+      "featured": false,
+      "organization_name": "Google Developer Group Club-GGV",
+      "winners_announced": false,
+      "submission_gallery_url": "https://the-final-of-chapter-of-gdg.devpost.com/project-gallery",
+      "start_a_submission_url": "https://the-final-of-chapter-of-gdg.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "GDGC GGV member only",
       "managed_by_devpost_badge": false
     }
   ],
