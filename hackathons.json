@@ -11,7 +11,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/474/092/datas/medium_square.jpg",
       "analytics_identifier": "DevNetwork [AI + ML] Hackathon 2026 (27541)",
       "url": "https://devnetwork-ai-ml-hack-2026.devpost.com/",
-      "time_left_to_submission": "4 days left",
+      "time_left_to_submission": "3 days left",
       "submission_period_dates": "May 11 - 28, 2026",
       "themes": [
         {
@@ -30,14 +30,56 @@
       "prize_amount": "$<span data-currency-value>8,000</span>",
       "prizes_counts": {
         "cash": 2,
-        "other": 2
+        "other": 3
       },
-      "registrations_count": 1007,
+      "registrations_count": 1043,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
       "submission_gallery_url": "https://devnetwork-ai-ml-hack-2026.devpost.com/project-gallery",
       "start_a_submission_url": "https://devnetwork-ai-ml-hack-2026.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 29029,
+      "title": "DeveloperWeek New York 2026 Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "TWA Hotel + Online"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/546/944/datas/medium_square.jpg",
+      "analytics_identifier": "DeveloperWeek New York 2026 Hackathon (29029)",
+      "url": "https://dwny-2026-hackathon.devpost.com/",
+      "time_left_to_submission": "16 days left",
+      "submission_period_dates": "May 25 - Jun 10, 2026",
+      "themes": [
+        {
+          "id": 2,
+          "name": "DevOps"
+        },
+        {
+          "id": 21,
+          "name": "Enterprise"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 0,
+        "other": 4
+      },
+      "registrations_count": 271,
+      "featured": false,
+      "organization_name": "DevNetwork",
+      "winners_announced": false,
+      "submission_gallery_url": "https://dwny-2026-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://dwny-2026-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -53,7 +95,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/645/464/datas/medium_square.png",
       "analytics_identifier": "GreenHack By Grevoro (29961)",
       "url": "https://greenhack-29961.devpost.com/",
-      "time_left_to_submission": "4 days left",
+      "time_left_to_submission": "3 days left",
       "submission_period_dates": "May 07 - 28, 2026",
       "themes": [
         {
@@ -74,7 +116,7 @@
         "cash": 1,
         "other": 0
       },
-      "registrations_count": 104,
+      "registrations_count": 111,
       "featured": false,
       "organization_name": "grevoro",
       "winners_announced": false,
@@ -116,7 +158,7 @@
         "cash": 1,
         "other": 4
       },
-      "registrations_count": 79,
+      "registrations_count": 80,
       "featured": false,
       "organization_name": "Kids for Kids Toronto Coding Club",
       "winners_announced": false,
@@ -124,6 +166,40 @@
       "start_a_submission_url": "https://genz-can-hack-2026.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 30030,
+      "title": "CyberHack",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Kampus ITS"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/653/039/datas/medium_square.png",
+      "analytics_identifier": "CyberHack (30030)",
+      "url": "https://cyberhack-30030.devpost.com/",
+      "time_left_to_submission": "6 days left",
+      "submission_period_dates": "May 25 - 31, 2026",
+      "themes": [
+        {
+          "id": 21,
+          "name": "Enterprise"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>12,000,000</span>",
+      "prizes_counts": {
+        "cash": 4,
+        "other": 0
+      },
+      "registrations_count": 62,
+      "featured": false,
+      "organization_name": "xtremax",
+      "winners_announced": false,
+      "submission_gallery_url": "https://cyberhack-30030.devpost.com/project-gallery",
+      "start_a_submission_url": "https://cyberhack-30030.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Active ITS Students ",
       "managed_by_devpost_badge": false
     },
     {
@@ -158,176 +234,12 @@
         "cash": 6,
         "other": 3
       },
-      "registrations_count": 59,
+      "registrations_count": 61,
       "featured": false,
       "organization_name": "DevSoc",
       "winners_announced": false,
       "submission_gallery_url": "https://devsoc-starlight-2026.devpost.com/project-gallery",
       "start_a_submission_url": "https://devsoc-starlight-2026.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 30154,
-      "title": "SmogNet Datathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "UET Mardan"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/693/366/datas/medium_square.png",
-      "analytics_identifier": "SmogNet Datathon (30154)",
-      "url": "https://smognet-datathon.devpost.com/",
-      "time_left_to_submission": "1 day left",
-      "submission_period_dates": "May 21 - 25, 2026",
-      "themes": [
-        {
-          "id": 28,
-          "name": "Databases"
-        },
-        {
-          "id": 16,
-          "name": "Health"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>200</span>",
-      "prizes_counts": {
-        "cash": 3,
-        "other": 2
-      },
-      "registrations_count": 55,
-      "featured": false,
-      "organization_name": "UET Mardan",
-      "winners_announced": false,
-      "submission_gallery_url": "https://smognet-datathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://smognet-datathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 29790,
-      "title": "HACKSTORM 2.0: Vibe Coding to Physical AI",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Silicon Valley"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/591/531/datas/medium_square.jpg",
-      "analytics_identifier": "HACKSTORM 2.0: Vibe Coding to Physical AI (29790)",
-      "url": "https://hackstorm2.devpost.com/",
-      "time_left_to_submission": "about 7 hours left",
-      "submission_period_dates": "May 22 - 24, 2026",
-      "themes": [
-        {
-          "id": 2,
-          "name": "DevOps"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
-        },
-        {
-          "id": 27,
-          "name": "Robotic Process Automation"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>6,000</span>",
-      "prizes_counts": {
-        "cash": 1,
-        "other": 0
-      },
-      "registrations_count": 52,
-      "featured": false,
-      "organization_name": "HackStorm",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackstorm2.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackstorm2.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 29102,
-      "title": "Hackdays Lucknow",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Virtual"
-      },
-      "open_state": "open",
-      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
-      "analytics_identifier": "Hackdays Lucknow (29102)",
-      "url": "https://hackdays-lucknow.devpost.com/",
-      "time_left_to_submission": "about 2 hours left",
-      "submission_period_dates": "May 24, 2026",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 0,
-        "other": 1
-      },
-      "registrations_count": 42,
-      "featured": false,
-      "organization_name": "MLH",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackdays-lucknow.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackdays-lucknow.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 30069,
-      "title": "Build & Pitch w/ Raylu",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "TBD"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/666/658/datas/medium_square.png",
-      "analytics_identifier": "Build & Pitch w/ Raylu (30069)",
-      "url": "https://build-pitch-w-raylu.devpost.com/",
-      "time_left_to_submission": "5 days left",
-      "submission_period_dates": "May 13 - 29, 2026",
-      "themes": [
-        {
-          "id": 3,
-          "name": "Fintech"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 0,
-        "other": 4
-      },
-      "registrations_count": 26,
-      "featured": false,
-      "organization_name": "Raylu",
-      "winners_announced": false,
-      "submission_gallery_url": "https://build-pitch-w-raylu.devpost.com/project-gallery",
-      "start_a_submission_url": "https://build-pitch-w-raylu.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -340,11 +252,11 @@
         "location": "Kenya-Burundi, ALU Campus"
       },
       "open_state": "open",
-      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/704/062/datas/medium_square.png",
       "analytics_identifier": "Claude Builders Club Hackathon (30127)",
       "url": "https://cbc-alu-spring-hackathon.devpost.com/",
-      "time_left_to_submission": "4 days left",
-      "submission_period_dates": "May 23 - 29, 2026",
+      "time_left_to_submission": "3 days left",
+      "submission_period_dates": "May 23 - 28, 2026",
       "themes": [
         {
           "id": 23,
@@ -364,12 +276,176 @@
         "cash": 0,
         "other": 3
       },
-      "registrations_count": 20,
+      "registrations_count": 52,
       "featured": false,
       "organization_name": "Claude Builders Club @ ALU",
       "winners_announced": false,
       "submission_gallery_url": "https://cbc-alu-spring-hackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://cbc-alu-spring-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 30069,
+      "title": "Build & Pitch w/ Raylu",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "New York, NY, USA"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/666/658/datas/medium_square.png",
+      "analytics_identifier": "Build & Pitch w/ Raylu (30069)",
+      "url": "https://build-pitch-w-raylu.devpost.com/",
+      "time_left_to_submission": "4 days left",
+      "submission_period_dates": "May 13 - 29, 2026",
+      "themes": [
+        {
+          "id": 3,
+          "name": "Fintech"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 0,
+        "other": 4
+      },
+      "registrations_count": 27,
+      "featured": false,
+      "organization_name": "Raylu",
+      "winners_announced": false,
+      "submission_gallery_url": "https://build-pitch-w-raylu.devpost.com/project-gallery",
+      "start_a_submission_url": "https://build-pitch-w-raylu.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 30075,
+      "title": "Optimization Grand Challenge 2026",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "LG CNS"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/667/302/datas/medium_square.jpg",
+      "analytics_identifier": "Optimization Grand Challenge 2026 (30075)",
+      "url": "https://ogc2026.devpost.com/",
+      "time_left_to_submission": "13 days left",
+      "submission_period_dates": "May 24 - Jun 07, 2026",
+      "themes": [
+        {
+          "id": 21,
+          "name": "Enterprise"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>103,000</span>",
+      "prizes_counts": {
+        "cash": 3,
+        "other": 1
+      },
+      "registrations_count": 27,
+      "featured": false,
+      "organization_name": "LG CNS",
+      "winners_announced": false,
+      "submission_gallery_url": "https://ogc2026.devpost.com/project-gallery",
+      "start_a_submission_url": "https://ogc2026.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 30050,
+      "title": "Urdu AI Hackathon - Kick-off Session",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "superior College Adyala Road"
+      },
+      "open_state": "open",
+      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+      "analytics_identifier": "Urdu AI Hackathon - Kick-off Session (30050)",
+      "url": "https://urdu-ai-hackathon.devpost.com/",
+      "time_left_to_submission": "about 9 hours left",
+      "submission_period_dates": "May 21 - 26, 2026",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 0,
+        "other": 1
+      },
+      "registrations_count": 24,
+      "featured": false,
+      "organization_name": "Urdu Ai Dost",
+      "winners_announced": false,
+      "submission_gallery_url": "https://urdu-ai-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://urdu-ai-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 30093,
+      "title": "Hack Days Unnao ",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": " Kanpur-Lucknow Highway, Nawabganj "
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/672/865/datas/medium_square.png",
+      "analytics_identifier": "Hack Days Unnao  (30093)",
+      "url": "https://hack-days-unnao.devpost.com/",
+      "time_left_to_submission": "26 days left",
+      "submission_period_dates": "May 25 - Jun 20, 2026",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 17,
+          "name": "Low/No Code"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 0,
+        "other": 1
+      },
+      "registrations_count": 20,
+      "featured": false,
+      "organization_name": "AITD EVENTS",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hack-days-unnao.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hack-days-unnao.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -385,7 +461,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/646/721/datas/medium_square.png",
       "analytics_identifier": "HACK THE DRONE (29989)",
       "url": "https://hackthedroneunibo.devpost.com/",
-      "time_left_to_submission": "5 days left",
+      "time_left_to_submission": "4 days left",
       "submission_period_dates": "May 06 - 29, 2026",
       "themes": [
         {
@@ -419,7 +495,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/638/205/datas/medium_square.png",
       "analytics_identifier": "Virtual Dreams 2026 (29947)",
       "url": "https://virtual-dreams-2026.devpost.com/",
-      "time_left_to_submission": "6 days left",
+      "time_left_to_submission": "5 days left",
       "submission_period_dates": "May 16 - 30, 2026",
       "themes": [
         {
@@ -451,45 +527,37 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 30182,
-      "title": "U-Hacks 2026",
+      "id": 30188,
+      "title": "IEEE Quarterly Projects Spring 2026",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "IPN-UPIITA"
+        "location": "University of California San Diego"
       },
       "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/700/152/datas/medium_square.png",
-      "analytics_identifier": "U-Hacks 2026 (30182)",
-      "url": "https://u-hacks-2026.devpost.com/",
-      "time_left_to_submission": "about 3 hours left",
-      "submission_period_dates": "May 24, 2026",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/702/044/datas/medium_square.png",
+      "analytics_identifier": "IEEE Quarterly Projects Spring 2026 (30188)",
+      "url": "https://ieeeqp-sp26.devpost.com/",
+      "time_left_to_submission": "5 days left",
+      "submission_period_dates": "May 24 - 31, 2026",
       "themes": [
         {
-          "id": 10,
-          "name": "Communication"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
+          "id": 23,
+          "name": "Beginner Friendly"
         }
       ],
-      "prize_amount": "MEX$<span data-currency-value>6,200</span>",
+      "prize_amount": "$<span data-currency-value>0</span>",
       "prizes_counts": {
-        "cash": 3,
+        "cash": 1,
         "other": 0
       },
-      "registrations_count": 6,
+      "registrations_count": 3,
       "featured": false,
-      "organization_name": "Microsoft",
+      "organization_name": "UCSD IEEE",
       "winners_announced": false,
-      "submission_gallery_url": "https://u-hacks-2026.devpost.com/project-gallery",
-      "start_a_submission_url": "https://u-hacks-2026.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
+      "submission_gallery_url": "https://ieeeqp-sp26.devpost.com/project-gallery",
+      "start_a_submission_url": "https://ieeeqp-sp26.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "UCSD students",
       "managed_by_devpost_badge": false
     },
     {
@@ -503,7 +571,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/660/374/datas/medium_square.png",
       "analytics_identifier": "SMU .Hack Enrichment Application Programme 2026 (30047)",
       "url": "https://dothack-heap-2026.devpost.com/",
-      "time_left_to_submission": "2 months left",
+      "time_left_to_submission": "about 2 months left",
       "submission_period_dates": "May 15 - Jul 24, 2026",
       "themes": [
         {
@@ -535,79 +603,37 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 30188,
-      "title": "IEEE Quarterly Projects Spring 2026",
+      "id": 30151,
+      "title": "SummerBuild 2026",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "University of California San Diego"
+        "location": "NTU North Spine"
       },
       "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/702/044/datas/medium_square.png",
-      "analytics_identifier": "IEEE Quarterly Projects Spring 2026 (30188)",
-      "url": "https://ieeeqp-sp26.devpost.com/",
-      "time_left_to_submission": "7 days left",
-      "submission_period_dates": "May 24 - 31, 2026",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/692/777/datas/medium_square.png",
+      "analytics_identifier": "SummerBuild 2026 (30151)",
+      "url": "https://summerbuild-2026.devpost.com/",
+      "time_left_to_submission": "23 days left",
+      "submission_period_dates": "May 25 - Jun 18, 2026",
       "themes": [
         {
           "id": 23,
           "name": "Beginner Friendly"
         }
       ],
-      "prize_amount": "$<span data-currency-value>0</span>",
+      "prize_amount": "$<span data-currency-value>500</span>",
       "prizes_counts": {
-        "cash": 1,
-        "other": 0
+        "cash": 5,
+        "other": 5
       },
-      "registrations_count": 2,
+      "registrations_count": 1,
       "featured": false,
-      "organization_name": "UCSD IEEE",
+      "organization_name": "DevHub@iLab, Innovation Lab @ NTU CCDS",
       "winners_announced": false,
-      "submission_gallery_url": "https://ieeeqp-sp26.devpost.com/project-gallery",
-      "start_a_submission_url": "https://ieeeqp-sp26.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://summerbuild-2026.devpost.com/project-gallery",
+      "start_a_submission_url": "https://summerbuild-2026.devpost.com/challenges/start_a_submission",
       "invite_only": true,
-      "eligibility_requirement_invite_only_description": "UCSD students",
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 29029,
-      "title": "DeveloperWeek New York 2026 Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "TWA Hotel + Online"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/546/944/datas/medium_square.jpg",
-      "analytics_identifier": "DeveloperWeek New York 2026 Hackathon (29029)",
-      "url": "https://dwny-2026-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 25 - Jun 10, 2026",
-      "themes": [
-        {
-          "id": 2,
-          "name": "DevOps"
-        },
-        {
-          "id": 21,
-          "name": "Enterprise"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 0,
-        "other": 4
-      },
-      "registrations_count": 262,
-      "featured": false,
-      "organization_name": "DevNetwork",
-      "winners_announced": false,
-      "submission_gallery_url": "https://dwny-2026-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://dwny-2026-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
+      "eligibility_requirement_invite_only_description": "NTU students",
       "managed_by_devpost_badge": false
     },
     {
@@ -642,7 +668,7 @@
         "cash": 0,
         "other": 1
       },
-      "registrations_count": 80,
+      "registrations_count": 83,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -684,12 +710,46 @@
         "cash": 0,
         "other": 10
       },
-      "registrations_count": 62,
+      "registrations_count": 66,
       "featured": false,
       "organization_name": "MLH",
       "winners_announced": false,
       "submission_gallery_url": "https://hackdays-delhi.devpost.com/project-gallery",
       "start_a_submission_url": "https://hackdays-delhi.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 29779,
+      "title": "Cursor Hackathon Toronto Tech Week",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "BrainStation"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/580/137/datas/medium_square.jpeg",
+      "analytics_identifier": "Cursor Hackathon Toronto Tech Week (29779)",
+      "url": "https://cursor-hackathon-ttw.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "May 27, 2026",
+      "themes": [
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>1,000</span>",
+      "prizes_counts": {
+        "cash": 1,
+        "other": 4
+      },
+      "registrations_count": 53,
+      "featured": false,
+      "organization_name": "Cursor",
+      "winners_announced": false,
+      "submission_gallery_url": "https://cursor-hackathon-ttw.devpost.com/project-gallery",
+      "start_a_submission_url": "https://cursor-hackathon-ttw.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -723,8 +783,8 @@
       ],
       "prize_amount": "$<span data-currency-value>450</span>",
       "prizes_counts": {
-        "cash": 1,
-        "other": 0
+        "cash": 3,
+        "other": 5
       },
       "registrations_count": 51,
       "featured": false,
@@ -732,74 +792,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://techtotreasure.devpost.com/project-gallery",
       "start_a_submission_url": "https://techtotreasure.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 30030,
-      "title": "CyberHack",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Kampus ITS"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/653/039/datas/medium_square.png",
-      "analytics_identifier": "CyberHack (30030)",
-      "url": "https://cyberhack-30030.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 25 - 31, 2026",
-      "themes": [
-        {
-          "id": 21,
-          "name": "Enterprise"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>12,000,000</span>",
-      "prizes_counts": {
-        "cash": 4,
-        "other": 0
-      },
-      "registrations_count": 48,
-      "featured": false,
-      "organization_name": "xtremax",
-      "winners_announced": false,
-      "submission_gallery_url": "https://cyberhack-30030.devpost.com/project-gallery",
-      "start_a_submission_url": "https://cyberhack-30030.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Active ITS Students ",
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 29779,
-      "title": "Cursor Hackathon Toronto Tech Week",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "BrainStation"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/580/137/datas/medium_square.jpeg",
-      "analytics_identifier": "Cursor Hackathon Toronto Tech Week (29779)",
-      "url": "https://cursor-hackathon-ttw.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 27, 2026",
-      "themes": [
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>1,000</span>",
-      "prizes_counts": {
-        "cash": 1,
-        "other": 4
-      },
-      "registrations_count": 40,
-      "featured": false,
-      "organization_name": "Cursor",
-      "winners_announced": false,
-      "submission_gallery_url": "https://cursor-hackathon-ttw.devpost.com/project-gallery",
-      "start_a_submission_url": "https://cursor-hackathon-ttw.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -825,8 +817,8 @@
       ],
       "prize_amount": "$<span data-currency-value>0</span>",
       "prizes_counts": {
-        "cash": 1,
-        "other": 0
+        "cash": 0,
+        "other": 1
       },
       "registrations_count": 35,
       "featured": false,
@@ -965,6 +957,48 @@
       "managed_by_devpost_badge": false
     },
     {
+      "id": 29592,
+      "title": "Codecon Universe 26",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Discord"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/543/631/datas/medium_square.png",
+      "analytics_identifier": "Codecon Universe 26 (29592)",
+      "url": "https://codecon-universe-26.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "May 29 - 31, 2026",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 12,
+          "name": "Lifehacks"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 0,
+        "other": 3
+      },
+      "registrations_count": 31,
+      "featured": false,
+      "organization_name": "Codecon",
+      "winners_announced": false,
+      "submission_gallery_url": "https://codecon-universe-26.devpost.com/project-gallery",
+      "start_a_submission_url": "https://codecon-universe-26.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Inscritos na Codecon Universe",
+      "managed_by_devpost_badge": false
+    },
+    {
       "id": 28268,
       "title": "MunichTech EXPO",
       "displayed_location": {
@@ -1007,48 +1041,6 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 29592,
-      "title": "Codecon Universe 26",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Discord"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/543/631/datas/medium_square.png",
-      "analytics_identifier": "Codecon Universe 26 (29592)",
-      "url": "https://codecon-universe-26.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 29 - 31, 2026",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 12,
-          "name": "Lifehacks"
-        },
-        {
-          "id": 11,
-          "name": "Productivity"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 0,
-        "other": 3
-      },
-      "registrations_count": 27,
-      "featured": false,
-      "organization_name": "Codecon",
-      "winners_announced": false,
-      "submission_gallery_url": "https://codecon-universe-26.devpost.com/project-gallery",
-      "start_a_submission_url": "https://codecon-universe-26.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Inscritos na Codecon Universe",
-      "managed_by_devpost_badge": false
-    },
-    {
       "id": 29516,
       "title": "Hack the Drone - MATLAB Hackathon",
       "displayed_location": {
@@ -1080,7 +1072,7 @@
         "cash": 0,
         "other": 3
       },
-      "registrations_count": 24,
+      "registrations_count": 25,
       "featured": false,
       "organization_name": "Mathworks",
       "winners_announced": false,
@@ -1166,48 +1158,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://njx-hackathon-summer-2026.devpost.com/project-gallery",
       "start_a_submission_url": "https://njx-hackathon-summer-2026.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 30093,
-      "title": "Hack Days Unnao ",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": " Kanpur-Lucknow Highway, Nawabganj "
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/672/865/datas/medium_square.png",
-      "analytics_identifier": "Hack Days Unnao  (30093)",
-      "url": "https://hack-days-unnao.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jun 12 - 13, 2026",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 17,
-          "name": "Low/No Code"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 0,
-        "other": 1
-      },
-      "registrations_count": 19,
-      "featured": false,
-      "organization_name": "AITD EVENTS",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hack-days-unnao.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hack-days-unnao.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -1407,48 +1357,6 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 30075,
-      "title": "Optimization Grand Challenge 2026",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "LG CNS"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/667/302/datas/medium_square.jpg",
-      "analytics_identifier": "Optimization Grand Challenge 2026 (30075)",
-      "url": "https://ogc2026.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 24 - Jun 07, 2026",
-      "themes": [
-        {
-          "id": 21,
-          "name": "Enterprise"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>103,000</span>",
-      "prizes_counts": {
-        "cash": 3,
-        "other": 1
-      },
-      "registrations_count": 14,
-      "featured": false,
-      "organization_name": "LG CNS",
-      "winners_announced": false,
-      "submission_gallery_url": "https://ogc2026.devpost.com/project-gallery",
-      "start_a_submission_url": "https://ogc2026.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
       "id": 30076,
       "title": "Kane CLI Hack Day",
       "displayed_location": {
@@ -1469,10 +1377,10 @@
       ],
       "prize_amount": "$<span data-currency-value>5,000</span>",
       "prizes_counts": {
-        "cash": 1,
+        "cash": 3,
         "other": 0
       },
-      "registrations_count": 12,
+      "registrations_count": 14,
       "featured": false,
       "organization_name": "TestMu AI",
       "winners_announced": false,
@@ -1506,7 +1414,7 @@
         "cash": 1,
         "other": 0
       },
-      "registrations_count": 11,
+      "registrations_count": 12,
       "featured": false,
       "organization_name": "Team Cove",
       "winners_announced": false,
@@ -1544,7 +1452,7 @@
         "cash": 4,
         "other": 2
       },
-      "registrations_count": 11,
+      "registrations_count": 12,
       "featured": false,
       "organization_name": "Independent Student Organizer",
       "winners_announced": false,
@@ -1587,10 +1495,86 @@
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
+    },
+    {
+      "id": 29738,
+      "title": "AI for Learning & Development Build Challenge — AI Collective HR + Regent",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Regent University"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/642/886/datas/medium_square.png",
+      "analytics_identifier": "AI for Learning & Development Build Challenge — AI Collective HR + Regent (29738)",
+      "url": "https://ai-challenge-regent-aichr.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Jun 04 - 18, 2026",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 0,
+        "other": 1
+      },
+      "registrations_count": 9,
+      "featured": false,
+      "organization_name": "AI Collective",
+      "winners_announced": false,
+      "submission_gallery_url": "https://ai-challenge-regent-aichr.devpost.com/project-gallery",
+      "start_a_submission_url": "https://ai-challenge-regent-aichr.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 29579,
+      "title": "WWU Social Justice Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "WWU - Kaiser Borsari Building"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://d2dmyh35ffsxbl.cloudfront.net/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+      "analytics_identifier": "WWU Social Justice Hackathon (29579)",
+      "url": "https://wwu-sj-hack.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Oct 16 - 18, 2026",
+      "themes": [
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 0,
+        "other": 1
+      },
+      "registrations_count": 7,
+      "featured": false,
+      "organization_name": "Western Washington University",
+      "winners_announced": false,
+      "submission_gallery_url": "https://wwu-sj-hack.devpost.com/project-gallery",
+      "start_a_submission_url": "https://wwu-sj-hack.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "College students and recent alumni",
+      "managed_by_devpost_badge": false
     }
   ],
   "meta": {
-    "total_count": 65,
+    "total_count": 62,
     "per_page": 40,
     "fuzzy": false
   }
