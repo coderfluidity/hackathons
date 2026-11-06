@@ -32,7 +32,7 @@
         "cash": 0,
         "other": 1
       },
-      "registrations_count": 111,
+      "registrations_count": 112,
       "featured": false,
       "organization_name": "university of pennsylvania",
       "winners_announced": false,
@@ -53,7 +53,7 @@
       "thumbnail_url": "https://assets.devpost.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
       "analytics_identifier": "Redhawk Builds 2026 (31435)",
       "url": "https://redhawk-builds-2026.devpost.com/",
-      "time_left_to_submission": "3 days left",
+      "time_left_to_submission": "1 day left",
       "submission_period_dates": "Nov 01 - 08, 2026",
       "themes": [
         {
@@ -70,7 +70,7 @@
         "cash": 3,
         "other": 0
       },
-      "registrations_count": 27,
+      "registrations_count": 31,
       "featured": false,
       "organization_name": "Miami",
       "winners_announced": false,
@@ -91,7 +91,7 @@
       "thumbnail_url": "https://assets.devpost.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
       "analytics_identifier": "Health Hackathon 3.0 (32002)",
       "url": "https://health-hack-3.devpost.com/",
-      "time_left_to_submission": "6 days left",
+      "time_left_to_submission": "5 days left",
       "submission_period_dates": "Nov 04 - 11, 2026",
       "themes": [
         {
@@ -112,7 +112,7 @@
         "cash": 1,
         "other": 0
       },
-      "registrations_count": 13,
+      "registrations_count": 23,
       "featured": false,
       "organization_name": "VIT Bhopal University",
       "winners_announced": false,
@@ -123,43 +123,161 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 31633,
-      "title": "Asymmetric Reframed Reality Hackathon & Co-Creation Workshop",
+      "id": 31519,
+      "title": "PowerHack",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Caroline Graveson Building"
+        "location": "Faculty Dining Room/MU-109 "
       },
       "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/529/266/datas/medium_square.jpg",
-      "analytics_identifier": "Asymmetric Reframed Reality Hackathon & Co-Creation Workshop (31633)",
-      "url": "https://arr-hackathon-co-creation.devpost.com/",
-      "time_left_to_submission": "about 23 hours left",
-      "submission_period_dates": "Nov 04 - 06, 2026",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/383/999/datas/medium_square.jpg",
+      "analytics_identifier": "PowerHack (31519)",
+      "url": "https://powerhack.devpost.com/",
+      "time_left_to_submission": "about 1 hour left",
+      "submission_period_dates": "Nov 06, 2026",
       "themes": [
         {
-          "id": 5,
-          "name": "AR/VR"
+          "id": 23,
+          "name": "Beginner Friendly"
         },
         {
-          "id": 16,
-          "name": "Health"
+          "id": 28,
+          "name": "Databases"
+        },
+        {
+          "id": 18,
+          "name": "Design"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 1,
+        "other": 0
+      },
+      "registrations_count": 22,
+      "featured": false,
+      "organization_name": "ColorStack @ Lehman College",
+      "winners_announced": false,
+      "submission_gallery_url": "https://powerhack.devpost.com/project-gallery",
+      "start_a_submission_url": "https://powerhack.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Lehman College, Hostos College, Bronx College",
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 31948,
+      "title": "Build, Demo, and Take Home a Working AI Support Bot",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "eGain Corp."
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/758/654/datas/medium_square.jpeg",
+      "analytics_identifier": "Build, Demo, and Take Home a Working AI Support Bot (31948)",
+      "url": "https://build-a-working-ai-support-bot.devpost.com/",
+      "time_left_to_submission": "6 days left",
+      "submission_period_dates": "Nov 06 - 12, 2026",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>750</span>",
+      "prizes_counts": {
+        "cash": 4,
+        "other": 1
+      },
+      "registrations_count": 15,
+      "featured": false,
+      "organization_name": "egain",
+      "winners_announced": false,
+      "submission_gallery_url": "https://build-a-working-ai-support-bot.devpost.com/project-gallery",
+      "start_a_submission_url": "https://build-a-working-ai-support-bot.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 32035,
+      "title": "Novembre Numérique 2026 - IFRDC",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Institut français de Kinshasa"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/794/661/datas/medium_square.png",
+      "analytics_identifier": "Novembre Numérique 2026 - IFRDC (32035)",
+      "url": "https://nn2026-ifrdc.devpost.com/",
+      "time_left_to_submission": "about 12 hours left",
+      "submission_period_dates": "Nov 06 - 07, 2026",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
         },
         {
           "id": 15,
           "name": "Music/Art"
+        },
+        {
+          "id": 25,
+          "name": "Web"
         }
       ],
-      "prize_amount": "£<span data-currency-value>0</span>",
+      "prize_amount": "$<span data-currency-value>0</span>",
       "prizes_counts": {
         "cash": 0,
         "other": 3
       },
-      "registrations_count": 7,
+      "registrations_count": 12,
       "featured": false,
-      "organization_name": "Goldsmiths, University of London",
+      "organization_name": "Institut français de RDC",
       "winners_announced": false,
-      "submission_gallery_url": "https://arr-hackathon-co-creation.devpost.com/project-gallery",
-      "start_a_submission_url": "https://arr-hackathon-co-creation.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://nn2026-ifrdc.devpost.com/project-gallery",
+      "start_a_submission_url": "https://nn2026-ifrdc.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Registered and invited candidates",
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 31975,
+      "title": "Triangle AI Hackathon 2026",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Wilkinson Building, Duke University"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/781/178/datas/medium_square.png",
+      "analytics_identifier": "Triangle AI Hackathon 2026 (31975)",
+      "url": "https://triangle-ai-hackathon-2026.devpost.com/",
+      "time_left_to_submission": "2 days left",
+      "submission_period_dates": "Nov 06 - 08, 2026",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 0,
+        "other": 9
+      },
+      "registrations_count": 5,
+      "featured": false,
+      "organization_name": "Duke University",
+      "winners_announced": false,
+      "submission_gallery_url": "https://triangle-ai-hackathon-2026.devpost.com/project-gallery",
+      "start_a_submission_url": "https://triangle-ai-hackathon-2026.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -175,7 +293,7 @@
       "thumbnail_url": "https://assets.devpost.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
       "analytics_identifier": "WWC Hackathon (31912)",
       "url": "https://wwc-hackathon.devpost.com/",
-      "time_left_to_submission": "4 days left",
+      "time_left_to_submission": "2 days left",
       "submission_period_dates": "Nov 03 - 09, 2026",
       "themes": [
         {
@@ -188,7 +306,7 @@
         "cash": 0,
         "other": 1
       },
-      "registrations_count": 4,
+      "registrations_count": 5,
       "featured": false,
       "organization_name": "School",
       "winners_announced": false,
@@ -196,6 +314,112 @@
       "start_a_submission_url": "https://wwc-hackathon.devpost.com/challenges/start_a_submission",
       "invite_only": true,
       "eligibility_requirement_invite_only_description": "Waubonsie valley students only",
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 31771,
+      "title": "NUSH Hack 2026",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "NUS High School of Math and Science"
+      },
+      "open_state": "open",
+      "thumbnail_url": "https://assets.devpost.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+      "analytics_identifier": "NUSH Hack 2026 (31771)",
+      "url": "https://nh26.devpost.com/",
+      "time_left_to_submission": "about 10 hours left",
+      "submission_period_dates": "Nov 06 - 07, 2026",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 0,
+        "other": 3
+      },
+      "registrations_count": 4,
+      "featured": false,
+      "organization_name": "NUS High School",
+      "winners_announced": false,
+      "submission_gallery_url": "https://nh26.devpost.com/project-gallery",
+      "start_a_submission_url": "https://nh26.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "NUS High students only",
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 31890,
+      "title": "Blockchain Innovation Challenge powered by Stellar",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Velocity, Innovation Arena"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/795/760/datas/medium_square.png",
+      "analytics_identifier": "Blockchain Innovation Challenge powered by Stellar (31890)",
+      "url": "https://blockchain-stellar-ic.devpost.com/",
+      "time_left_to_submission": "7 days left",
+      "submission_period_dates": "Nov 06 - 13, 2026",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 3,
+          "name": "Fintech"
+        }
+      ],
+      "prize_amount": "$CAD <span data-currency-value>15,000</span>",
+      "prizes_counts": {
+        "cash": 1,
+        "other": 0
+      },
+      "registrations_count": 4,
+      "featured": false,
+      "organization_name": "University of Waterloo",
+      "winners_announced": false,
+      "submission_gallery_url": "https://blockchain-stellar-ic.devpost.com/project-gallery",
+      "start_a_submission_url": "https://blockchain-stellar-ic.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "University of Waterloo students",
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 32038,
+      "title": "Neo Hackathon 2026",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "San Francisco, California, USA"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/796/377/datas/medium_square.jpeg",
+      "analytics_identifier": "Neo Hackathon 2026 (32038)",
+      "url": "https://neo-hackathon-2026.devpost.com/",
+      "time_left_to_submission": "1 day left",
+      "submission_period_dates": "Nov 06 - 08, 2026",
+      "themes": [
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 0,
+        "other": 5
+      },
+      "registrations_count": 0,
+      "featured": false,
+      "organization_name": "Neo",
+      "winners_announced": false,
+      "submission_gallery_url": "https://neo-hackathon-2026.devpost.com/project-gallery",
+      "start_a_submission_url": "https://neo-hackathon-2026.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Neo-invited participants",
       "managed_by_devpost_badge": false
     },
     {
@@ -230,54 +454,12 @@
         "cash": 4,
         "other": 1
       },
-      "registrations_count": 293,
+      "registrations_count": 300,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
       "submission_gallery_url": "https://developerweek-2027-hackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://developerweek-2027-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 30516,
-      "title": "Since AI 2026",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Kupittaa Campus, Turku"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/815/575/datas/medium_square.png",
-      "analytics_identifier": "Since AI 2026 (30516)",
-      "url": "https://sinceai2026.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 06 - 08, 2026",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 21,
-          "name": "Enterprise"
-        }
-      ],
-      "prize_amount": "€<span data-currency-value>50,000</span>",
-      "prizes_counts": {
-        "cash": 5,
-        "other": 0
-      },
-      "registrations_count": 111,
-      "featured": false,
-      "organization_name": "Since AI ry",
-      "winners_announced": false,
-      "submission_gallery_url": "https://sinceai2026.devpost.com/project-gallery",
-      "start_a_submission_url": "https://sinceai2026.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -314,7 +496,7 @@
         "cash": 4,
         "other": 0
       },
-      "registrations_count": 109,
+      "registrations_count": 118,
       "featured": false,
       "organization_name": "Santa Clara University ACM",
       "winners_announced": false,
@@ -322,6 +504,48 @@
       "start_a_submission_url": "https://a10-x-aws-hack-26.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 31200,
+      "title": "Hack the Harvest",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Aggie Square"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/367/399/datas/medium_square.png",
+      "analytics_identifier": "Hack the Harvest (31200)",
+      "url": "https://hack-the-harvest.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Nov 14 - 15, 2026",
+      "themes": [
+        {
+          "id": 19,
+          "name": "Education"
+        },
+        {
+          "id": 21,
+          "name": "Enterprise"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>5,000</span>",
+      "prizes_counts": {
+        "cash": 1,
+        "other": 2
+      },
+      "registrations_count": 101,
+      "featured": false,
+      "organization_name": "HMCI",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hack-the-harvest.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hack-the-harvest.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Sacramento area college students",
       "managed_by_devpost_badge": false
     },
     {
@@ -367,48 +591,6 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 31200,
-      "title": "Hack the Harvest",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Aggie Square"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/367/399/datas/medium_square.png",
-      "analytics_identifier": "Hack the Harvest (31200)",
-      "url": "https://hack-the-harvest.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 14 - 15, 2026",
-      "themes": [
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 21,
-          "name": "Enterprise"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>5,000</span>",
-      "prizes_counts": {
-        "cash": 1,
-        "other": 2
-      },
-      "registrations_count": 94,
-      "featured": false,
-      "organization_name": "HMCI",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hack-the-harvest.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hack-the-harvest.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Sacramento area college students",
-      "managed_by_devpost_badge": false
-    },
-    {
       "id": 31146,
       "title": "Sheridan Datathon 2026",
       "displayed_location": {
@@ -440,7 +622,7 @@
         "cash": 1,
         "other": 17
       },
-      "registrations_count": 83,
+      "registrations_count": 94,
       "featured": false,
       "organization_name": "GDG on Campus Sheridan College",
       "winners_announced": false,
@@ -482,7 +664,7 @@
         "cash": 3,
         "other": 5
       },
-      "registrations_count": 82,
+      "registrations_count": 83,
       "featured": false,
       "organization_name": "bin to better",
       "winners_announced": false,
@@ -497,7 +679,7 @@
       "title": "BioHacks",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "McMaster University - PGCLL"
+        "location": "McMaster University - MCCD"
       },
       "open_state": "upcoming",
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/727/866/datas/medium_square.png",
@@ -522,9 +704,9 @@
       "prize_amount": "$CAD <span data-currency-value>0</span>",
       "prizes_counts": {
         "cash": 0,
-        "other": 3
+        "other": 10
       },
-      "registrations_count": 64,
+      "registrations_count": 65,
       "featured": false,
       "organization_name": "BioEng4Youth",
       "winners_announced": false,
@@ -532,6 +714,48 @@
       "start_a_submission_url": "https://biohacksmcmaster.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 31746,
+      "title": "University Blockchain Conference Hackathon 2026",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "University of Texas at Austin"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/585/747/datas/medium_square.png",
+      "analytics_identifier": "University Blockchain Conference Hackathon 2026 (31746)",
+      "url": "https://ubc-hackathon-2026.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Nov 13 - 20, 2026",
+      "themes": [
+        {
+          "id": 1,
+          "name": "Blockchain"
+        },
+        {
+          "id": 3,
+          "name": "Fintech"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>22,000</span>",
+      "prizes_counts": {
+        "cash": 16,
+        "other": 3
+      },
+      "registrations_count": 59,
+      "featured": false,
+      "organization_name": "college.xyz",
+      "winners_announced": false,
+      "submission_gallery_url": "https://ubc-hackathon-2026.devpost.com/project-gallery",
+      "start_a_submission_url": "https://ubc-hackathon-2026.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Only UBC particpants can attend this hackathon",
       "managed_by_devpost_badge": false
     },
     {
@@ -558,12 +782,54 @@
         "cash": 0,
         "other": 2
       },
-      "registrations_count": 56,
+      "registrations_count": 59,
       "featured": false,
       "organization_name": "HackSussex",
       "winners_announced": false,
       "submission_gallery_url": "https://hacksussex-gamejam-2026.devpost.com/project-gallery",
       "start_a_submission_url": "https://hacksussex-gamejam-2026.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 30657,
+      "title": "Teens Hack Houston Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Online"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/082/370/datas/medium_square.jpg",
+      "analytics_identifier": "Teens Hack Houston Hackathon (30657)",
+      "url": "https://tripleh.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Nov 14 - 21, 2026",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 17,
+          "name": "Low/No Code"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>300</span>",
+      "prizes_counts": {
+        "cash": 5,
+        "other": 1
+      },
+      "registrations_count": 58,
+      "featured": false,
+      "organization_name": "HackClub  ✓⃝",
+      "winners_announced": false,
+      "submission_gallery_url": "https://tripleh.devpost.com/project-gallery",
+      "start_a_submission_url": "https://tripleh.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -611,43 +877,81 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 30657,
-      "title": "Teens Hack Houston Hackathon",
+      "id": 30357,
+      "title": "HackCamp 2026",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Online"
+        "location": "Vancouver, Canada"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/082/370/datas/medium_square.jpg",
-      "analytics_identifier": "Teens Hack Houston Hackathon (30657)",
-      "url": "https://tripleh.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/741/557/datas/medium_square.jpg",
+      "analytics_identifier": "HackCamp 2026 (30357)",
+      "url": "https://hackcamp-2026.devpost.com/",
       "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 14 - 21, 2026",
+      "submission_period_dates": "Nov 07 - 08, 2026",
       "themes": [
         {
           "id": 23,
           "name": "Beginner Friendly"
         },
         {
-          "id": 17,
-          "name": "Low/No Code"
+          "id": 6,
+          "name": "Machine Learning/AI"
         },
         {
-          "id": 11,
-          "name": "Productivity"
+          "id": 13,
+          "name": "Social Good"
         }
       ],
-      "prize_amount": "$<span data-currency-value>300</span>",
+      "prize_amount": "$<span data-currency-value>0</span>",
       "prizes_counts": {
-        "cash": 5,
-        "other": 1
+        "cash": 0,
+        "other": 21
       },
-      "registrations_count": 51,
+      "registrations_count": 48,
       "featured": false,
-      "organization_name": "HackClub  ✓⃝",
+      "organization_name": "nwPlus",
       "winners_announced": false,
-      "submission_gallery_url": "https://tripleh.devpost.com/project-gallery",
-      "start_a_submission_url": "https://tripleh.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://hackcamp-2026.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackcamp-2026.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 31951,
+      "title": "HackTrent 2026",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Trent University Student Centre"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/760/612/datas/medium_square.png",
+      "analytics_identifier": "HackTrent 2026 (31951)",
+      "url": "https://hacktrent-2026-31951.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Nov 06 - 08, 2026",
+      "themes": [
+        {
+          "id": 13,
+          "name": "Social Good"
+        },
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        }
+      ],
+      "prize_amount": "$CAD <span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 0,
+        "other": 14
+      },
+      "registrations_count": 47,
+      "featured": false,
+      "organization_name": "HackTrent",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hacktrent-2026-31951.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hacktrent-2026-31951.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -682,9 +986,9 @@
       "prize_amount": "$CAD <span data-currency-value>6,000</span>",
       "prizes_counts": {
         "cash": 1,
-        "other": 11
+        "other": 12
       },
-      "registrations_count": 46,
+      "registrations_count": 47,
       "featured": false,
       "organization_name": "CommuniHacks",
       "winners_announced": false,
@@ -722,7 +1026,7 @@
         "cash": 0,
         "other": 1
       },
-      "registrations_count": 43,
+      "registrations_count": 44,
       "featured": false,
       "organization_name": "Hack Western",
       "winners_announced": false,
@@ -733,125 +1037,75 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 30357,
-      "title": "HackCamp 2026",
+      "id": 31952,
+      "title": "Corkathon",
       "displayed_location": {
         "icon": "map-marker-alt",
-        "location": "Vancouver, Canada"
+        "location": "The Orb, UCC, Cork"
       },
       "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/741/557/datas/medium_square.jpg",
-      "analytics_identifier": "HackCamp 2026 (30357)",
-      "url": "https://hackcamp-2026.devpost.com/",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/781/545/datas/medium_square.jpeg",
+      "analytics_identifier": "Corkathon (31952)",
+      "url": "https://corkathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Nov 07, 2026",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        }
+      ],
+      "prize_amount": "€<span data-currency-value>2,050</span>",
+      "prizes_counts": {
+        "cash": 4,
+        "other": 0
+      },
+      "registrations_count": 43,
+      "featured": false,
+      "organization_name": "computer science society @ ucc",
+      "winners_announced": false,
+      "submission_gallery_url": "https://corkathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://corkathon.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "UCC, MTU, Griffith College and others",
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 28217,
+      "title": "HackRPI 2026",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Darrin Communications Center"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/186/807/datas/medium_square.png",
+      "analytics_identifier": "HackRPI 2026 (28217)",
+      "url": "https://hackrpi-2026.devpost.com/",
       "time_left_to_submission": "Upcoming",
       "submission_period_dates": "Nov 07 - 08, 2026",
       "themes": [
         {
           "id": 23,
           "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
         }
       ],
-      "prize_amount": "$<span data-currency-value>0</span>",
+      "prize_amount": "$<span data-currency-value>3,850</span>",
       "prizes_counts": {
-        "cash": 0,
-        "other": 21
+        "cash": 6,
+        "other": 17
       },
-      "registrations_count": 42,
+      "registrations_count": 41,
       "featured": false,
-      "organization_name": "nwPlus",
+      "organization_name": "HackRPI",
       "winners_announced": false,
-      "submission_gallery_url": "https://hackcamp-2026.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackcamp-2026.devpost.com/challenges/start_a_submission",
+      "submission_gallery_url": "https://hackrpi-2026.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackrpi-2026.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 31951,
-      "title": "HackTrent 2026",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Trent University Student Centre"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/760/612/datas/medium_square.png",
-      "analytics_identifier": "HackTrent 2026 (31951)",
-      "url": "https://hacktrent-2026-31951.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 06 - 08, 2026",
-      "themes": [
-        {
-          "id": 13,
-          "name": "Social Good"
-        },
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        }
-      ],
-      "prize_amount": "$CAD <span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 0,
-        "other": 7
-      },
-      "registrations_count": 40,
-      "featured": false,
-      "organization_name": "HackTrent",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hacktrent-2026-31951.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hacktrent-2026-31951.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 31746,
-      "title": "University Blockchain Conference Hackathon 2026",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "University of Texas at Austin"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/585/747/datas/medium_square.png",
-      "analytics_identifier": "University Blockchain Conference Hackathon 2026 (31746)",
-      "url": "https://ubc-hackathon-2026.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 13 - 20, 2026",
-      "themes": [
-        {
-          "id": 1,
-          "name": "Blockchain"
-        },
-        {
-          "id": 3,
-          "name": "Fintech"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>22,000</span>",
-      "prizes_counts": {
-        "cash": 16,
-        "other": 3
-      },
-      "registrations_count": 40,
-      "featured": false,
-      "organization_name": "college.xyz",
-      "winners_announced": false,
-      "submission_gallery_url": "https://ubc-hackathon-2026.devpost.com/project-gallery",
-      "start_a_submission_url": "https://ubc-hackathon-2026.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Only UBC particpants can attend this hackathon",
       "managed_by_devpost_badge": false
     },
     {
@@ -892,40 +1146,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://hackstorm3.devpost.com/project-gallery",
       "start_a_submission_url": "https://hackstorm3.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 28217,
-      "title": "HackRPI 2026",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Darrin Communications Center"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/186/807/datas/medium_square.png",
-      "analytics_identifier": "HackRPI 2026 (28217)",
-      "url": "https://hackrpi-2026.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 07 - 08, 2026",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>3,850</span>",
-      "prizes_counts": {
-        "cash": 6,
-        "other": 17
-      },
-      "registrations_count": 38,
-      "featured": false,
-      "organization_name": "HackRPI",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackrpi-2026.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackrpi-2026.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -973,6 +1193,40 @@
       "managed_by_devpost_badge": false
     },
     {
+      "id": 31936,
+      "title": "IBM Qiskit Hackathon - Bangladesh",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "BRAC University"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/781/869/datas/medium_square.png",
+      "analytics_identifier": "IBM Qiskit Hackathon - Bangladesh (31936)",
+      "url": "https://ibm-qiskit-hackathon.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Nov 13 - 14, 2026",
+      "themes": [
+        {
+          "id": 24,
+          "name": "Quantum"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 0,
+        "other": 1
+      },
+      "registrations_count": 34,
+      "featured": false,
+      "organization_name": "DevChangeMakers Community",
+      "winners_announced": false,
+      "submission_gallery_url": "https://ibm-qiskit-hackathon.devpost.com/project-gallery",
+      "start_a_submission_url": "https://ibm-qiskit-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
       "id": 28304,
       "title": "Hoya Hacks 2027",
       "displayed_location": {
@@ -1010,6 +1264,48 @@
       "winners_announced": false,
       "submission_gallery_url": "https://hoya-hacks-2027.devpost.com/project-gallery",
       "start_a_submission_url": "https://hoya-hacks-2027.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 31252,
+      "title": "HackUTD 2026: ZeroDay",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "University of Texas at Dallas - ECSW"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/637/567/datas/medium_square.png",
+      "analytics_identifier": "HackUTD 2026: ZeroDay (31252)",
+      "url": "https://hackutd-zeroday.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Nov 07 - 08, 2026",
+      "themes": [
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>60,000</span>",
+      "prizes_counts": {
+        "cash": 1,
+        "other": 7
+      },
+      "registrations_count": 29,
+      "featured": false,
+      "organization_name": "hackutd",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackutd-zeroday.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackutd-zeroday.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -1057,48 +1353,6 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 31164,
-      "title": "CrownHacks",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "UNC Charlotte - McEniry Hall Room 124"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/185/401/datas/medium_square.png",
-      "analytics_identifier": "CrownHacks (31164)",
-      "url": "https://crownhacks.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 06 - 08, 2026",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 9,
-          "name": "Cybersecurity"
-        },
-        {
-          "id": 18,
-          "name": "Design"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 0,
-        "other": 3
-      },
-      "registrations_count": 25,
-      "featured": false,
-      "organization_name": "Club for AI Research - Charlotte",
-      "winners_announced": false,
-      "submission_gallery_url": "https://crownhacks.devpost.com/project-gallery",
-      "start_a_submission_url": "https://crownhacks.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
       "id": 30880,
       "title": "DevFest Münster 2026: Agentic AI Hackathon",
       "displayed_location": {
@@ -1130,12 +1384,54 @@
         "cash": 0,
         "other": 3
       },
-      "registrations_count": 25,
+      "registrations_count": 27,
       "featured": false,
       "organization_name": "GDG Münster",
       "winners_announced": false,
       "submission_gallery_url": "https://devfest-ai-hackathon.devpost.com/project-gallery",
       "start_a_submission_url": "https://devfest-ai-hackathon.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 31164,
+      "title": "CrownHacks",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "UNC Charlotte - McEniry Hall Room 124"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/185/401/datas/medium_square.png",
+      "analytics_identifier": "CrownHacks (31164)",
+      "url": "https://crownhacks.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Nov 06 - 08, 2026",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 9,
+          "name": "Cybersecurity"
+        },
+        {
+          "id": 18,
+          "name": "Design"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 0,
+        "other": 3
+      },
+      "registrations_count": 26,
+      "featured": false,
+      "organization_name": "Club for AI Research - Charlotte",
+      "winners_announced": false,
+      "submission_gallery_url": "https://crownhacks.devpost.com/project-gallery",
+      "start_a_submission_url": "https://crownhacks.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -1180,6 +1476,40 @@
       "start_a_submission_url": "https://h-a-r-d-hack-2027.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 29579,
+      "title": "WWU Social Justice Hackathon",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "WWU - Kaiser Borsari Building"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/543/830/datas/medium_square.png",
+      "analytics_identifier": "WWU Social Justice Hackathon (29579)",
+      "url": "https://wwu-sj-hack.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Nov 07, 2026",
+      "themes": [
+        {
+          "id": 13,
+          "name": "Social Good"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 0,
+        "other": 1
+      },
+      "registrations_count": 22,
+      "featured": false,
+      "organization_name": "Western Washington University",
+      "winners_announced": false,
+      "submission_gallery_url": "https://wwu-sj-hack.devpost.com/project-gallery",
+      "start_a_submission_url": "https://wwu-sj-hack.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "College students and recent alumni",
       "managed_by_devpost_badge": false
     },
     {
@@ -1265,372 +1595,10 @@
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
-    },
-    {
-      "id": 29579,
-      "title": "WWU Social Justice Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "WWU - Kaiser Borsari Building"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/543/830/datas/medium_square.png",
-      "analytics_identifier": "WWU Social Justice Hackathon (29579)",
-      "url": "https://wwu-sj-hack.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 07, 2026",
-      "themes": [
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 0,
-        "other": 1
-      },
-      "registrations_count": 20,
-      "featured": false,
-      "organization_name": "Western Washington University",
-      "winners_announced": false,
-      "submission_gallery_url": "https://wwu-sj-hack.devpost.com/project-gallery",
-      "start_a_submission_url": "https://wwu-sj-hack.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "College students and recent alumni",
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 31952,
-      "title": "Corkathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "The Orb, UCC, Cork"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/781/545/datas/medium_square.jpeg",
-      "analytics_identifier": "Corkathon (31952)",
-      "url": "https://corkathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 07, 2026",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "€<span data-currency-value>2,050</span>",
-      "prizes_counts": {
-        "cash": 4,
-        "other": 0
-      },
-      "registrations_count": 17,
-      "featured": false,
-      "organization_name": "computer science society @ ucc",
-      "winners_announced": false,
-      "submission_gallery_url": "https://corkathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://corkathon.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "UCC, MTU, Griffith College and others",
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 31252,
-      "title": "HackUTD 2026: ZeroDay",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "University of Texas at Dallas - ECSW"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/637/567/datas/medium_square.png",
-      "analytics_identifier": "HackUTD 2026: ZeroDay (31252)",
-      "url": "https://hackutd-zeroday.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 07 - 08, 2026",
-      "themes": [
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>60,000</span>",
-      "prizes_counts": {
-        "cash": 1,
-        "other": 0
-      },
-      "registrations_count": 17,
-      "featured": false,
-      "organization_name": "hackutd",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackutd-zeroday.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackutd-zeroday.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 30633,
-      "title": "Hack-a-ton with Friends",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "DOW Theatre"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/191/931/datas/medium_square.png",
-      "analytics_identifier": "Hack-a-ton with Friends (30633)",
-      "url": "https://hack-a-ton-with-friends.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 14 - 15, 2026",
-      "themes": [
-        {
-          "id": 19,
-          "name": "Education"
-        },
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 0,
-        "other": 1
-      },
-      "registrations_count": 17,
-      "featured": false,
-      "organization_name": "naitsa",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hack-a-ton-with-friends.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hack-a-ton-with-friends.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 31722,
-      "title": "DeveloperWeek New York 2027 Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Meadowlands Exposition Center + Online"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://assets.devpost.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
-      "analytics_identifier": "DeveloperWeek New York 2027 Hackathon (31722)",
-      "url": "https://developerweek-new-york-2027.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "May 31 - Jun 17, 2027",
-      "themes": [
-        {
-          "id": 2,
-          "name": "DevOps"
-        },
-        {
-          "id": 21,
-          "name": "Enterprise"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>12,500</span>",
-      "prizes_counts": {
-        "cash": 1,
-        "other": 0
-      },
-      "registrations_count": 17,
-      "featured": false,
-      "organization_name": "DevNetwork",
-      "winners_announced": false,
-      "submission_gallery_url": "https://developerweek-new-york-2027.devpost.com/project-gallery",
-      "start_a_submission_url": "https://developerweek-new-york-2027.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 29927,
-      "title": "GoatHacks 2027",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "WPI - Campus Center"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/634/565/datas/medium_square.png",
-      "analytics_identifier": "GoatHacks 2027 (29927)",
-      "url": "https://goathacks-2027.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Mar 26 - 28, 2027",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 17,
-          "name": "Low/No Code"
-        },
-        {
-          "id": 7,
-          "name": "IoT"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 0,
-        "other": 1
-      },
-      "registrations_count": 15,
-      "featured": false,
-      "organization_name": "WPI ACM",
-      "winners_announced": false,
-      "submission_gallery_url": "https://goathacks-2027.devpost.com/project-gallery",
-      "start_a_submission_url": "https://goathacks-2027.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 31681,
-      "title": "GSD Hackathon",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Pennovation Works"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://assets.devpost.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
-      "analytics_identifier": "GSD Hackathon (31681)",
-      "url": "https://tbd-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Jan 23, 2027",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 26,
-          "name": "Mobile"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>100</span>",
-      "prizes_counts": {
-        "cash": 1,
-        "other": 0
-      },
-      "registrations_count": 14,
-      "featured": false,
-      "organization_name": "Pennovation Works",
-      "winners_announced": false,
-      "submission_gallery_url": "https://tbd-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://tbd-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 30885,
-      "title": "hacks test",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Vancouver, Canada"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://assets.devpost.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
-      "analytics_identifier": "hacks test (30885)",
-      "url": "https://youtube-automation-hackathon.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Sep 09 - Dec 10, 2027",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>1</span>",
-      "prizes_counts": {
-        "cash": 1,
-        "other": 0
-      },
-      "registrations_count": 14,
-      "featured": false,
-      "organization_name": "n/a",
-      "winners_announced": false,
-      "submission_gallery_url": "https://youtube-automation-hackathon.devpost.com/project-gallery",
-      "start_a_submission_url": "https://youtube-automation-hackathon.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 29847,
-      "title": "Cutie Hack 2026",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "UC Riverside - Winston Chung Hall"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/004/915/817/datas/medium_square.png",
-      "analytics_identifier": "Cutie Hack 2026 (29847)",
-      "url": "https://cutie-hack-2026.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 21, 2026",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 13,
-          "name": "Social Good"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 0,
-        "other": 1
-      },
-      "registrations_count": 13,
-      "featured": false,
-      "organization_name": "ACM at UCR",
-      "winners_announced": false,
-      "submission_gallery_url": "https://cutie-hack-2026.devpost.com/project-gallery",
-      "start_a_submission_url": "https://cutie-hack-2026.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
     }
   ],
   "meta": {
-    "total_count": 104,
+    "total_count": 109,
     "per_page": 40,
     "fuzzy": false
   }
