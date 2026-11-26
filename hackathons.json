@@ -11,7 +11,7 @@
       "thumbnail_url": "https://assets.devpost.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
       "analytics_identifier": "2026-2027 Fall ESE Senior Design (31484)",
       "url": "https://ese4500f26.devpost.com/",
-      "time_left_to_submission": "13 days left",
+      "time_left_to_submission": "12 days left",
       "submission_period_dates": "Sep 22 - Dec 07, 2026",
       "themes": [
         {
@@ -32,7 +32,7 @@
         "cash": 0,
         "other": 1
       },
-      "registrations_count": 125,
+      "registrations_count": 126,
       "featured": false,
       "organization_name": "university of pennsylvania",
       "winners_announced": false,
@@ -53,7 +53,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/966/855/datas/medium_square.png",
       "analytics_identifier": "Free AWS Courses & Certifications for Students – NASSCOM Initiative (32179)",
       "url": "https://free-aws-courses.devpost.com/",
-      "time_left_to_submission": "2 days left",
+      "time_left_to_submission": "about 19 hours left",
       "submission_period_dates": "Nov 19 - 26, 2026",
       "themes": [
         {
@@ -74,12 +74,54 @@
         "cash": 0,
         "other": 1
       },
-      "registrations_count": 54,
+      "registrations_count": 61,
       "featured": false,
       "organization_name": "shekunj",
       "winners_announced": false,
       "submission_gallery_url": "https://free-aws-courses.devpost.com/project-gallery",
       "start_a_submission_url": "https://free-aws-courses.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 31956,
+      "title": "Build Day 2",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Durham University, Entrepreneurs Durham"
+      },
+      "open_state": "open",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/973/711/datas/medium_square.png",
+      "analytics_identifier": "Build Day 2 (31956)",
+      "url": "https://build-day.devpost.com/",
+      "time_left_to_submission": "3 days left",
+      "submission_period_dates": "Nov 24 - 28, 2026",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 8,
+          "name": "Voice skills"
+        }
+      ],
+      "prize_amount": "£<span data-currency-value>1,000</span>",
+      "prizes_counts": {
+        "cash": 1,
+        "other": 2
+      },
+      "registrations_count": 17,
+      "featured": false,
+      "organization_name": "Durham College",
+      "winners_announced": false,
+      "submission_gallery_url": "https://build-day.devpost.com/project-gallery",
+      "start_a_submission_url": "https://build-day.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
@@ -95,7 +137,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/975/801/datas/medium_square.jpg",
       "analytics_identifier": "AlgoConnect Quantathon - 2026 (32182)",
       "url": "https://algoconnect-quantathon-2026.devpost.com/",
-      "time_left_to_submission": "4 days left",
+      "time_left_to_submission": "3 days left",
       "submission_period_dates": "Nov 22 - 28, 2026",
       "themes": [
         {
@@ -123,48 +165,6 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 31956,
-      "title": "Build Day 2",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Durham University, Entrepreneurs Durham"
-      },
-      "open_state": "open",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/973/711/datas/medium_square.png",
-      "analytics_identifier": "Build Day 2 (31956)",
-      "url": "https://build-day.devpost.com/",
-      "time_left_to_submission": "4 days left",
-      "submission_period_dates": "Nov 24 - 28, 2026",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 8,
-          "name": "Voice skills"
-        }
-      ],
-      "prize_amount": "£<span data-currency-value>1,000</span>",
-      "prizes_counts": {
-        "cash": 1,
-        "other": 2
-      },
-      "registrations_count": 11,
-      "featured": false,
-      "organization_name": "Durham College",
-      "winners_announced": false,
-      "submission_gallery_url": "https://build-day.devpost.com/project-gallery",
-      "start_a_submission_url": "https://build-day.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
       "id": 32078,
       "title": "Westside High School Build Challenge",
       "displayed_location": {
@@ -175,7 +175,7 @@
       "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/836/498/datas/medium_square.png",
       "analytics_identifier": "Westside High School Build Challenge (32078)",
       "url": "https://whs-build.devpost.com/",
-      "time_left_to_submission": "7 days left",
+      "time_left_to_submission": "6 days left",
       "submission_period_dates": "Nov 24 - Dec 01, 2026",
       "themes": [
         {
@@ -238,7 +238,7 @@
         "cash": 4,
         "other": 1
       },
-      "registrations_count": 432,
+      "registrations_count": 442,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -280,7 +280,7 @@
         "cash": 2,
         "other": 0
       },
-      "registrations_count": 296,
+      "registrations_count": 320,
       "featured": false,
       "organization_name": "Kaya AI",
       "winners_announced": false,
@@ -314,7 +314,7 @@
         "cash": 0,
         "other": 2
       },
-      "registrations_count": 135,
+      "registrations_count": 136,
       "featured": false,
       "organization_name": "HackSussex",
       "winners_announced": false,
@@ -367,44 +367,6 @@
       "managed_by_devpost_badge": false
     },
     {
-      "id": 32019,
-      "title": "Hack AI x Stan",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Stan HQ - Toronto"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/792/650/datas/medium_square.png",
-      "analytics_identifier": "Hack AI x Stan (32019)",
-      "url": "https://hackai-toronto.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Dec 05 - 06, 2026",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 11,
-          "name": "Productivity"
-        }
-      ],
-      "prize_amount": "$CAD <span data-currency-value>23,000</span>",
-      "prizes_counts": {
-        "cash": 5,
-        "other": 0
-      },
-      "registrations_count": 54,
-      "featured": false,
-      "organization_name": "Stan",
-      "winners_announced": false,
-      "submission_gallery_url": "https://hackai-toronto.devpost.com/project-gallery",
-      "start_a_submission_url": "https://hackai-toronto.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Accepted HackAI Toronto applicants only",
-      "managed_by_devpost_badge": false
-    },
-    {
       "id": 31141,
       "title": "HackStorm 3.0: Sense, Think and Act",
       "displayed_location": {
@@ -436,7 +398,7 @@
         "cash": 3,
         "other": 0
       },
-      "registrations_count": 54,
+      "registrations_count": 58,
       "featured": false,
       "organization_name": "HackStorm",
       "winners_announced": false,
@@ -471,10 +433,10 @@
       ],
       "prize_amount": "$CAD <span data-currency-value>403,400</span>",
       "prizes_counts": {
-        "cash": 2,
+        "cash": 1,
         "other": 0
       },
-      "registrations_count": 50,
+      "registrations_count": 57,
       "featured": false,
       "organization_name": "AWS Student Builders Group - Laurier",
       "winners_announced": false,
@@ -482,6 +444,44 @@
       "start_a_submission_url": "https://k-dub-hacks.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
+      "id": 32019,
+      "title": "Hack AI x Stan",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Stan HQ - Toronto"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/792/650/datas/medium_square.png",
+      "analytics_identifier": "Hack AI x Stan (32019)",
+      "url": "https://hackai-toronto.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Dec 05 - 06, 2026",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        },
+        {
+          "id": 11,
+          "name": "Productivity"
+        }
+      ],
+      "prize_amount": "$CAD <span data-currency-value>23,000</span>",
+      "prizes_counts": {
+        "cash": 5,
+        "other": 0
+      },
+      "registrations_count": 56,
+      "featured": false,
+      "organization_name": "Stan",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hackai-toronto.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hackai-toronto.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Accepted HackAI Toronto applicants only",
       "managed_by_devpost_badge": false
     },
     {
@@ -600,7 +600,7 @@
         "cash": 0,
         "other": 1
       },
-      "registrations_count": 34,
+      "registrations_count": 35,
       "featured": false,
       "organization_name": "Mappi Studio",
       "winners_announced": false,
@@ -642,7 +642,7 @@
         "cash": 1,
         "other": 0
       },
-      "registrations_count": 34,
+      "registrations_count": 35,
       "featured": false,
       "organization_name": "DevNetwork",
       "winners_announced": false,
@@ -684,7 +684,7 @@
         "cash": 1,
         "other": 0
       },
-      "registrations_count": 26,
+      "registrations_count": 28,
       "featured": false,
       "organization_name": "HKN (Eta Kappa Nu)",
       "winners_announced": false,
@@ -726,7 +726,7 @@
         "cash": 1,
         "other": 0
       },
-      "registrations_count": 25,
+      "registrations_count": 26,
       "featured": false,
       "organization_name": "buildicy",
       "winners_announced": false,
@@ -764,7 +764,7 @@
         "cash": 1,
         "other": 0
       },
-      "registrations_count": 24,
+      "registrations_count": 25,
       "featured": false,
       "organization_name": "NTU Women In Tech",
       "winners_announced": false,
@@ -1145,6 +1145,48 @@
       "managed_by_devpost_badge": false
     },
     {
+      "id": 31918,
+      "title": "HackTCNJ 2027",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "The College of New Jersey "
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/729/239/datas/medium_square.png",
+      "analytics_identifier": "HackTCNJ 2027 (31918)",
+      "url": "https://hacktcnj-2027.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Feb 27 - 28, 2027",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 9,
+          "name": "Cybersecurity"
+        },
+        {
+          "id": 18,
+          "name": "Design"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>0</span>",
+      "prizes_counts": {
+        "cash": 0,
+        "other": 1
+      },
+      "registrations_count": 9,
+      "featured": false,
+      "organization_name": "HackTCNJ",
+      "winners_announced": false,
+      "submission_gallery_url": "https://hacktcnj-2027.devpost.com/project-gallery",
+      "start_a_submission_url": "https://hacktcnj-2027.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
       "id": 31602,
       "title": "Hackathon 2026",
       "displayed_location": {
@@ -1427,6 +1469,40 @@
       "managed_by_devpost_badge": false
     },
     {
+      "id": 32102,
+      "title": "VisionHacks",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "Oakville, Canada"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/854/988/datas/medium_square.png",
+      "analytics_identifier": "VisionHacks (32102)",
+      "url": "https://visionhacks.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Dec 05, 2026",
+      "themes": [
+        {
+          "id": 6,
+          "name": "Machine Learning/AI"
+        }
+      ],
+      "prize_amount": "$CAD <span data-currency-value>3,000</span>",
+      "prizes_counts": {
+        "cash": 1,
+        "other": 0
+      },
+      "registrations_count": 5,
+      "featured": false,
+      "organization_name": "Inference Labs",
+      "winners_announced": false,
+      "submission_gallery_url": "https://visionhacks.devpost.com/project-gallery",
+      "start_a_submission_url": "https://visionhacks.devpost.com/challenges/start_a_submission",
+      "invite_only": true,
+      "eligibility_requirement_invite_only_description": "Accepted hackers on visionhacks.com/apply!",
+      "managed_by_devpost_badge": false
+    },
+    {
       "id": 31290,
       "title": "NSH @RPI 2027",
       "displayed_location": {
@@ -1469,6 +1545,48 @@
       "managed_by_devpost_badge": false
     },
     {
+      "id": 30418,
+      "title": "RebelHacks 2027",
+      "displayed_location": {
+        "icon": "map-marker-alt",
+        "location": "University of Nevada Las Vegas, SEB 1311"
+      },
+      "open_state": "upcoming",
+      "thumbnail_url": "https://assets.devpost.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
+      "analytics_identifier": "RebelHacks 2027 (30418)",
+      "url": "https://rebelhacks-2027.devpost.com/",
+      "time_left_to_submission": "Upcoming",
+      "submission_period_dates": "Feb 20 - 21, 2027",
+      "themes": [
+        {
+          "id": 23,
+          "name": "Beginner Friendly"
+        },
+        {
+          "id": 22,
+          "name": "Open Ended"
+        },
+        {
+          "id": 25,
+          "name": "Web"
+        }
+      ],
+      "prize_amount": "$<span data-currency-value>2,500</span>",
+      "prizes_counts": {
+        "cash": 1,
+        "other": 0
+      },
+      "registrations_count": 5,
+      "featured": false,
+      "organization_name": "Software Engineering Club",
+      "winners_announced": false,
+      "submission_gallery_url": "https://rebelhacks-2027.devpost.com/project-gallery",
+      "start_a_submission_url": "https://rebelhacks-2027.devpost.com/challenges/start_a_submission",
+      "invite_only": false,
+      "eligibility_requirement_invite_only_description": null,
+      "managed_by_devpost_badge": false
+    },
+    {
       "id": 31543,
       "title": "SC Quantathon v4",
       "displayed_location": {
@@ -1506,124 +1624,6 @@
       "winners_announced": false,
       "submission_gallery_url": "https://sc-quantathon-v4.devpost.com/project-gallery",
       "start_a_submission_url": "https://sc-quantathon-v4.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 31581,
-      "title": "Project-ZH Hack Day",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Innoland Incubation Center, Baku"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/734/920/datas/medium_square.png",
-      "analytics_identifier": "Project-ZH Hack Day (31581)",
-      "url": "https://project-zh.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Nov 28, 2026",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>0</span>",
-      "prizes_counts": {
-        "cash": 0,
-        "other": 3
-      },
-      "registrations_count": 4,
-      "featured": false,
-      "organization_name": "Project-ZH",
-      "winners_announced": false,
-      "submission_gallery_url": "https://project-zh.devpost.com/project-gallery",
-      "start_a_submission_url": "https://project-zh.devpost.com/challenges/start_a_submission",
-      "invite_only": false,
-      "eligibility_requirement_invite_only_description": null,
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 32102,
-      "title": "VisionHacks",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "Oakville, Canada"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "//d112y698adiu2z.cloudfront.net/photos/production/challenge_thumbnails/005/854/988/datas/medium_square.png",
-      "analytics_identifier": "VisionHacks (32102)",
-      "url": "https://visionhacks.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Dec 05, 2026",
-      "themes": [
-        {
-          "id": 6,
-          "name": "Machine Learning/AI"
-        }
-      ],
-      "prize_amount": "$CAD <span data-currency-value>3,000</span>",
-      "prizes_counts": {
-        "cash": 1,
-        "other": 0
-      },
-      "registrations_count": 4,
-      "featured": false,
-      "organization_name": "Inference Labs",
-      "winners_announced": false,
-      "submission_gallery_url": "https://visionhacks.devpost.com/project-gallery",
-      "start_a_submission_url": "https://visionhacks.devpost.com/challenges/start_a_submission",
-      "invite_only": true,
-      "eligibility_requirement_invite_only_description": "Accepted hackers on visionhacks.com/apply!",
-      "managed_by_devpost_badge": false
-    },
-    {
-      "id": 30418,
-      "title": "RebelHacks 2027",
-      "displayed_location": {
-        "icon": "map-marker-alt",
-        "location": "University of Nevada Las Vegas, SEB 1311"
-      },
-      "open_state": "upcoming",
-      "thumbnail_url": "https://assets.devpost.com/assets/defaults/thumbnail-placeholder-8c916ef4da99a222ce6ece077c71c7e282f071f830747b2abb5718018cbfa699.gif",
-      "analytics_identifier": "RebelHacks 2027 (30418)",
-      "url": "https://rebelhacks-2027.devpost.com/",
-      "time_left_to_submission": "Upcoming",
-      "submission_period_dates": "Feb 20 - 21, 2027",
-      "themes": [
-        {
-          "id": 23,
-          "name": "Beginner Friendly"
-        },
-        {
-          "id": 22,
-          "name": "Open Ended"
-        },
-        {
-          "id": 25,
-          "name": "Web"
-        }
-      ],
-      "prize_amount": "$<span data-currency-value>2,500</span>",
-      "prizes_counts": {
-        "cash": 1,
-        "other": 0
-      },
-      "registrations_count": 4,
-      "featured": false,
-      "organization_name": "Software Engineering Club",
-      "winners_announced": false,
-      "submission_gallery_url": "https://rebelhacks-2027.devpost.com/project-gallery",
-      "start_a_submission_url": "https://rebelhacks-2027.devpost.com/challenges/start_a_submission",
       "invite_only": false,
       "eligibility_requirement_invite_only_description": null,
       "managed_by_devpost_badge": false
